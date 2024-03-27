@@ -477,23 +477,23 @@ var _story_ = {
     "1107": [
         {
             "_id": 1,
-            "Story": "A young girl raised by a robot. Her perceptiveness and tenacity are far beyond her years.<br>For Clara, Svarog's logical calculations are the laws of the world and are infallible.<br>That is, until she realizes that the results from the calculations don't always necessarily bring joy to everyone.<br>The once shy little girl then decides to cast aside her timidness."
+            "Story": "ロボットに育てられた少女。年齢にそぐわない鋭さや頑固さがある。<br>クラーラにとって、スヴァローグの計算は決して間違うことのない世界の法則だった。<br>その「計算」によって得られた結果が、必ずしもすべての人に幸福をもたらすわけではないとわかるまでは。<br>臆病な少女は、勇気を出して立ち上がることを決意した。"
         },
         {
             "_id": 2,
-            "Story": "<i>\"— Log ██/██/████ AF.\"<br><br>\"A female child discovered in a landfill to the southeast of Boulder Town.\"<br><br>\"Scans show the child has no structural damage or functional issues, but her mental state was relatively unstable. She is resistant to questions about her condition and clearly wanted to avoid the subject.\"<br>\"I have continued attempting to communicate with her, and successfully obtained some information.\"<br>\"The child begins to cry, lasting three hours and seven minutes.\"<br><br>\"The child's name is Clara. Her background is unknown.\"<br>\"Conclusion: Take her back to base for observations, and collect further information to generate a follow-up plan to take care of her.\"</i>"
+            "Story": "<i>「——記録 建創紀元████年██月██日」<br><br>「ボルダータウン南東部のゴミ埋立地で人類の少女を発見」<br><br>「スキャンによれば、この少女には如何なる機体組織構造の破壊や機能障害もない。しかし精神状態は非常に不安定で、自分の状況を伝えることを拒否。回避する傾向が著しい」<br>「コミュニケーションを継続したところ、一部の情報の入手に成功」<br>「少女は泣き出した。その時間、およそ3時間7分」<br><br>「少女の名前はクラーラ。出自は不明」<br>「結論：基地に連れ帰り、さらなる観察と情報収集を行い、後続の処置案を考える」</i>"
         },
         {
             "_id": 3,
-            "Story": "<i>\"— Log ██/██/████ AF.\"<br><br>\"Clara has grown proficient in the Belobog common tongue, and displays great talent in the field of mechanical engineering — but she still resists communication with other humans. Assessment: this tendency is detrimental to Clara's long-term development in Belobog.\"<br><br>\"There is currently an urgent need to develop a suitable socialization and communication program for Clara. Priority: High.\"<br><br>\"— Log ████/██/██ AF.\"<br><br>\"Clara has successfully made contact with an individual of similar age in Boulder Town. The individual is named Hook, and claims to be the head manager of the local security organization The Moles. No information about this organization has been found in my database.\"<br><br>\"Clara's contact with Hook didn't go well at first. She displayed considerable shyness. However, Hook managed to keep the conversation going with extreme enthusiasm and empathy, calling Clara an 'honorary member of The Moles.' After contact, Clara described Hook as 'her first friend.'\"<br><br>\"This matter is of tremendous significance to Clara, and this log has been tagged Important.\"</i>"
+            "Story": "<i>「——記録 建創紀元████年██月██日」<br><br>「クラーラはベロブルグの共通言語を使いこなしており、機械工学の分野で優れた才能を発揮しているが、他の人類との交流を拒絶している。この人格傾向は、クラーラがベロブルグで長期発展していくうえで不利になる」<br><br>「現在の急務は、クラーラのために適切なコミュニケーション教育案を作成することである。優先度：高」<br><br>「——記録 建創紀元████年██月██日」<br><br>「クラーラがボルダータウンで同年齢の個体と接触することに成功。今回の接触対象の名前はフック。ボルダータウンの治安組織『モグラ党』の総責任者を自称している——この社会組織に関連する情報はデータベースにはない」<br><br>「クラーラとフックの接触は最初あまり順調ではなく、クラーラはかなりの羞恥心を露わにしていた。しかし、相手は極端な情熱と共感をもって状況を打開することに成功。クラーラを『モグラ党の名誉隊員』と呼んだ。コミュニケーション終了後、クラーラはフックのことを『初めての友達』と表現した」<br><br>「この出来事はクラーラにとって極めて重要である。今日の記録を『重要』フォルダーに保存」</i>"
         },
         {
             "_id": 4,
-            "Story": "<i>\"— Log ██/██/████ AF.\"<br><br>\"Under Clara's guidance, many vagrants have established settlements around the periphery of the base, and rely on Clara to survive. This behavior does not contravene the orders of Preservation. However, many of them are trying to enter the Overworld via this base's transport passage. The gates of the base must be sealed tightly to avoid accelerating the demise of Belobog.\"<br><br>\"Clara has discussed this with me before. She believes locking the gates is an 'incomprehensible' act. I responded with my predicted calculations: By over-committing her resources to the war against the Fragmentum , the Supreme Guardian is accelerating the destruction of the Overworld. Isolation would be the best option for the people of the Underworld — this would buy them more time to try and survive. In the end, Clara finally agreed.\"<br><br>\"Most humans behave illogically, but Clara doesn't — she is raised by me and grew up among automatons, and her behavior is more based on pure rationality. Her presence may impact predicted calculations of Belobog's demise, but more observations are required.\"</i>"
+            "Story": "<i>「——記録 建創紀元████年██月██日」<br><br>「クラーラの指導のもと、多くの流浪者が基地周辺に集落を作り、彼女の援助を頼りに生存している。この行為は『存護』の指令と相反するものではないが、この基地の輸送通路を通って上層部に行こうとする者も少なくない。ベロブルグの滅亡を加速させないために、基地の門を閉鎖することを決定」<br><br>「この件は以前クラーラとも議論した。彼女は門を封鎖する行為を『理解できない』としている。それに対して私は以下の演算結果を伝えた。大守護者が裂界との戦いに過度な資源を投入したことにより、かえって上層部の壊滅が早まったこと。下層部にとっては上層部から隔絶することが最善の選択であること。そうすれば、人々はより多くの生存時間を確保できること——最終的に、クラーラは同意を示した」<br><br>「大多数の人類は非論理的に行動するが、クラーラは違う——私に育てられ、自動機兵に囲まれて成長した彼女の行動は、真の理性に基づいている。彼女の存在はベロブルグの終焉の過程に関する演算結果に影響を与えるかもしれない。さらに観察する必要がある」</i>"
         },
         {
             "_id": 5,
-            "Story": "<i>\"— Log ██/██/████ AF.\"<br><br>\"Ever since I was created, I've been given the command to preserve the Underworld — Even if I can only preserve it for a millisecond longer than the Overworld, I will still carry out these orders. To borrow a phrase from traditional Belobog culture, perhaps it could be put like this: 'I am faithful without hesitation to the mission I've been given.' Therefore, I see my calculations as immutable laws — nobody and nothing can ever shake me, including any Outsiders.\"<br><br>\"However, I found this possible permutation among the calculation results.\"<br><br>\"In this calculation, Clara completely changed Belobog. I once said of her, 'her behavior is more based on pure rationality.' If we take this probable result as a base and revisit my conclusion, I cannot view it as an error — but I admit that it is biased.\"<br><br>\"With the results of this calculation, Clara has also proved one thing: having true rationality is not the key to changing the status quo, but rather that her sincere and passionate emotion overturned all calculations and completely reversed Belobog's doomed fate. However, unless new external forces intervene, the probability of this is less than 0.25272%, which places it in the low probability category. Further research on these calculations are paused.\"<br><br>\"Today, the probability of survival in the Underworld has not seen a significant upward trend over the last five cycles. This means that implementation of this may be suspended, but I will still monitor all relevant risk factors.\"<br><br>\"During this cycle, I will focus on finding Clara's family. Despite Clara insisting that she has already found her real family, I will keep collecting any and all information to track down Clara's real family as soon as I can.\"</i>"
+            "Story": "<i>「——記録 建創紀元████年██月██日」<br><br>「私は誕生した時から下層部を『存護』する指令を受けている——たとえ上層部より1秒しか長く存続させることができないとしても、私は指令を厳守する。ベロブルグの伝統文化にある概念を借りれば、『何の疑問もなく、私は自分に課せられた使命に忠実である』と言えるだろう。そのため、私は自分の計算結果を鉄則であると考え——何者にも何事にも揺らぐことはない——これには『外から来た者』も含まれている」<br><br>「しかし、私は膨大な演算結果の中で、ある可能性に気が付いた」<br><br>「この演算結果では、クラーラはベロブルグのすべてを変える。かつて、私は彼女のことを『その行為は真の理性に基づいている』と評価した。この演算結果をもとに新たに結論を見直すと、間違いではないが、偏りがあったことが判明した」<br><br>「この演算結果の中で、クラーラは『真の理性』を持つことが現状を変える鍵ではなく、むしろ彼女の真摯かつ情熱的な『感情』がすべての計算結果を覆すこと、そしてベロブルグの滅亡の運命を逆転させることを証明した。しかし、新たな外因が介入しない限り、この演算結果の達成確率が 0.25272% を超えることはない。小確率イベントグループに分類し、この演算結果に対する研究を一時停止しなければならない」<br><br>「現在、下層部の存続確率は過去5サイクルの間で明らかな上昇傾向は見られない。評価としては保留も認められるが、関連するリスクの要因を監視下に置くことに変わりはない」<br><br>「本サイクルではクラーラの家族を探すことに専念する。彼女は『もう本当の家族を見つけた』と言っているが、一刻も早くクラーラの本当の家族の居場所を突き止めるため、今後も情報収集を続けていく」</i>"
         }
     ]
 }
@@ -501,196 +501,196 @@ var _story_ = {
 var _voice_ = {
     "1107": [
         {
-            "Title": "First Meeting",
-            "Voice": "Clara: Hello... I'm Clara. Wanna be in my family? ...Like Mr. Svarog?<br>Svarog: As long as I'm here, Trailblazer is your family."
+            "Title": "初対面",
+            "Voice": "-こんにちは…クラーラです。スヴァローグのように…家族になってくれますか？<br>-私がいるのだから、{NICKNAME}もクラーラの家族だ。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Let's keep up the good work today!"
+            "Title": "挨拶",
+            "Voice": "今日もクラーラと一緒に頑張りましょう。"
         },
         {
-            "Title": "Parting",
-            "Voice": "I'm getting sleepy — time for a nap on Mr. Svarog's arm. Are you coming?"
+            "Title": "お別れ",
+            "Voice": "クラーラも眠いから、スヴァローグにもたれかかって寝るつもりです。あなたも一緒にどうですか？"
         },
         {
-            "Title": "About Self: Memories",
-            "Voice": "Memories are important. Even Mr. Svarog's calculations need to take them into account... I won't forget about you."
+            "Title": "自分について・記憶",
+            "Voice": "スヴァローグの「計算」でも、人の「記憶」を切り離すことはできません…だから、クラーラはみなさんを絶対に忘れません。"
         },
         {
-            "Title": "Chat: Playing House",
-            "Voice": "One time when I was playing house, I asked Perkins to get the door, and someone actually came to visit!"
+            "Title": "世間話・おままごと",
+            "Voice": "前におままごとをしていた時、パーキンスにお客さんのお出迎えを頼んだら、本当に人を連れてきたんです。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "There are lots of interesting things stored in Mr. Svarog's memory bank, like... movies! It's like watching lots of people playing house together!"
+            "Title": "趣味",
+            "Voice": "スヴァローグの記録には面白いものがたくさんあります。例えば「映画」は…たくさんの人がおままごとをしてるみたいです。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "It's hard to get Mr. Svarog to act out a movie with me — he only wants to play trees or rocks... I wanted him to be the dad..."
+            "Title": "悩み事",
+            "Voice": "なんとか説得して「映画」ごっこをしたのに、スヴァローグったら、木とか石の役しかしてくれないんです…「お父さん」みたいな役は、やっぱりダメみたい…"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "My robot friends can be rude sometimes, but deep down, they're kind and honest."
+            "Title": "シェア",
+            "Voice": "クラーラのロボットのお友達は、言葉遣いはちょっと怖いけど、嘘をつかないいい子たちなんですよ。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "When Mr. Svarog's sleeping, his body makes a noise. It sounds like... snoring~"
+            "Title": "見聞",
+            "Voice": "スヴァローグが休んでいる時、音がするんです。その音は…いびきにそっくりなんですよ～"
         },
         {
-            "Title": "About Natasha",
-            "Voice": "Natasha said I'm also a doctor — for my robot friends."
+            "Title": "ナターシャについて",
+            "Voice": "ナターシャさんはクラーラもお医者さんだって言うんです。しかも、ロボットのお医者さんだそうです。"
         },
         {
-            "Title": "About Seele",
-            "Voice": "I remember one time Miss Seele saw me trying to pull a component out of a crack in the rocks. She smashed the rocks with one hand and walked away before I had time to say thank you..."
+            "Title": "ゼーレについて",
+            "Voice": "以前、クラーラが…探しているパーツが岩の間に挟まって、とれなかった時があったんです。その際に通りかかったゼーレお姉さんが、一撃で岩を砕いてくれたんですが…クラーラがありがとって言う前に立ち去ってしまいました…"
         },
         {
-            "Title": "About Svarog",
-            "Voice": "Did you know Mr. Svarog's hands can turn into machines that dry my hair? Also, they can cut big stones and turn them into little tables and chairs..."
+            "Title": "スヴァローグについて",
+            "Voice": "実は…スヴァローグの手は、クラーラの髪を乾かす機械にもなるし、大きな石の塊から小さな机と椅子を作り出すこともできるんです……"
         },
         {
-            "Title": "About Hook",
-            "Voice": "Hook invited me to join The Moles. I want to, but I think Mr. Svarog's too big to play hide and seek with us..."
+            "Title": "フックについて",
+            "Voice": "フックからモグラ党に誘われたけど…かくれんぼの時、スヴァローグはどうすればいいんだろう……"
         },
         {
-            "Title": "About Luka",
-            "Voice": "Luka...? He's nice to people. I know he seems kinda impatient, but he's actually very caring."
+            "Title": "ルカについて",
+            "Voice": "ルカお兄さんは…とても優しい人です。最初はおっちょこちょいに見えるかもしれませんが、実はとても優しいんですよ。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Things will get better... won't they?"
+            "Title": "星魂覚醒",
+            "Voice": "未来は…きっとよくなりますよね？"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "One day I'll grow up and protect everyone! Mm!"
+            "Title": "キャラクター昇格",
+            "Voice": "クラーラも強くならないと…！うん！"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "My journey with Mr. Svarog has just begun..."
+            "Title": "レベルMax",
+            "Voice": "クラーラとスヴァローグの旅は、まだ始まったばかりです……"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Mr. Svarog has everything in his database."
+            "Title": "軌跡覚醒",
+            "Voice": "わあっ！スヴァローグのデータベース、何でもある……"
         },
         {
-            "Title": "Added to Team With Natasha",
-            "Voice": "Miss Natasha... Let's make the Underworld a better place!"
+            "Title": "パーティ編成・ナターシャ",
+            "Voice": "ナターシャさん…下層部のために、一緒に頑張りましょう！"
         },
         {
-            "Title": "Added to Team With Hook",
-            "Voice": "H—Hook, you're here too? I won't let you down!"
+            "Title": "パーティ編成・フック",
+            "Voice": "ふ、フックまで…クラーラも頑張らなくちゃ！"
         },
         {
-            "Title": "Added to Team With Seele",
-            "Voice": "Miss Seele! With Wildfire here... nothing can stop us!"
+            "Title": "パーティ編成・ゼーレ",
+            "Voice": "ゼーレお姉さん！「地炎」が来てくれるなんて…助かります！"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Svarog: Target threat index lowered."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "スヴァローグ：ターゲット危険指数低下。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Svarog: Target threat index raised."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "スヴァローグ：ターゲット危険指数上昇。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Clara: I need to be brave..."
+            "Title": "ターン・1",
+            "Voice": "クラーラ：クラーラ、勇気を出さなきゃ…"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Clara: I—I'm not afraid of you!"
+            "Title": "ターン・2",
+            "Voice": "クラーラ：こ、怖くないんだから！"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Clara: Time to do something..."
+            "Title": "戦闘中待機",
+            "Voice": "クラーラ：これ以上迷っちゃダメ…"
         },
         {
-            "Title": "Basic Attack 1",
-            "Voice": "Clara: Be careful, Mr. Svarog!"
+            "Title": "通常攻撃・1",
+            "Voice": "クラーラ：気を付けて、スヴァローグ！"
         },
         {
-            "Title": "Basic Attack 2",
-            "Voice": "Svarog: Eliminating threat."
+            "Title": "通常攻撃・2",
+            "Voice": "スヴァローグ：排除する。"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Svarog: Hide."
+            "Title": "戦闘スキル・1",
+            "Voice": "スヴァローグ：隠れろ。"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Svarog: Commencing annihilation."
+            "Title": "戦闘スキル・2",
+            "Voice": "スヴァローグ：殲滅開始。"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Svarog: Are you alright?<br>Clara: I'm okay!"
+            "Title": "攻撃を受ける",
+            "Voice": "スヴァローグ：平気か？<br>クラーラ：大丈夫。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Clara: ...Ouch."
+            "Title": "重撃を受ける",
+            "Voice": "クラーラ：…痛い。"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Clara: I want to protect everyone, too..."
+            "Title": "必殺技・アクティブ",
+            "Voice": "クラーラ：クラーラも…みんなを守りたい！"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Clara: Help me, Mr. Svarog!"
+            "Title": "必殺技・発動",
+            "Voice": "クラーラ：助けて、スヴァローグ！"
         },
         {
-            "Title": "Talent 1",
-            "Voice": "Svarog: Stay back, Clara."
+            "Title": "天賦・1",
+            "Voice": "スヴァローグ：クラーラから離れろ。"
         },
         {
-            "Title": "Talent 2",
-            "Voice": "Svarog: As you command."
+            "Title": "天賦・2",
+            "Voice": "スヴァローグ：命令執行。"
         },
         {
-            "Title": "Downed",
-            "Voice": "Clara: Is everyone... okay..."
+            "Title": "戦闘不能",
+            "Voice": "クラーラ：みんな…どうか…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Clara: I'm back."
+            "Title": "戦闘に戻る",
+            "Voice": "クラーラ：戻りました。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Clara: Thanks. I'll never forget you."
+            "Title": "HP回復",
+            "Voice": "クラーラ：ありがとう…クラーラ、忘れません。"
         },
         {
-            "Title": "Technique",
-            "Voice": "Clara: Gah!"
+            "Title": "秘技",
+            "Voice": "クラーラ：やっ。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Clara: I hope I helped..."
+            "Title": "戦闘勝利",
+            "Voice": "クラーラ：みなさんのお役に立てたかな…"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Clara: If you find any components... Can I have them?"
+            "Title": "戦利品を開ける・1",
+            "Voice": "クラーラ：クラーラは修理用の部品さえあれば大丈夫です。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Clara: ...C—Can I have some?"
+            "Title": "戦利品を開ける・2",
+            "Voice": "…も、貰ってもいいんですか？"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Clara: Th—This is too precious!"
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "だ、ダメですよ、こんなに貴重なもの！"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Clara: W—We did it!"
+            "Title": "謎解きに成功・1",
+            "Voice": "クラーラ：せ、成功！"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Clara: I hope I did okay..."
+            "Title": "謎解きに成功・2",
+            "Voice": "クラーラ…ちゃんとできてましたか？"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Svarog: High threat target ahead."
+            "Title": "敵ターゲット発見",
+            "Voice": "スヴァローグ：危険指数上昇。前方にターゲット出現。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Clara: Don't worry, Mr. Svarog. We'll be safe here."
+            "Title": "町に戻る",
+            "Voice": "クラーラ：大丈夫。ここは安全だよ、スヴァローグ。"
         }
     ]
 }

@@ -464,23 +464,23 @@ var _story_ = {
     "1105": [
         {
             "_id": 1,
-            "Story": "A fastidious doctor who always wears an enigmatic smile.<br>In the Underworld where medical resources are scarce, Natasha is one of the very few doctors whom the people can turn to.<br>Even the rambunctious Hook would politely greet her... \"Hi, big sis Natasha.\""
+            "Story": "일에 빈틈이 없고 신중한 의사. 늘 종잡을 수 없는 웃음을 띠고 있다.<br>의료 물자가 부족한 하층 구역에서 나타샤는 몇 안 되는 의사로서 하층의 사람들을 돌본다.<br>장난꾸러기 후크도 나타샤에겐 얌전히 「나타샤 언니」라고 부른다"
         },
         {
             "_id": 2,
-            "Story": "<i>\"Quick, press down here! Press down hard to staunch the bleeding!\"</i><br><br>Natasha shoots a panicked look at her brother. Before her lay a man covered in bandages from head to toe, his torso twitching and twisting with severe pain as he muttered nonsense.<br><br><i>\"What are you waiting for!? Quick, hold it down!\"</i><br><br>There is anger in her brother's order and — she is sharp enough to tell — a hint of disappointment. Natasha hurries to hold onto the man's right arm, and musters all her strength to press down the cotton gauze onto his shoulder.<br><br>The man lets out a heart-wrenching moan, but she can't stop until her brother orders her to.<br><br>After who knows how long, the patient before her stops breathing, and she stares blankly at the lifeless body.<br><br><i>\"You did your best,\"</i> her brother says. His voice returning to its usual impassive tone. <i>\"Get some rest real quick. Some of them are still waiting to be patched up.\"</i><br><br>She turns over the man's red palm. His fingers are already stiff as the stench of blood fills the air. Natasha allows the smell to rile up her emotions — she know she must get used to this if she were to continue down this road."
+            "Story": "<i>「어서 여기를 눌러! 더 세게! 출혈을 막아야 해!」</i><br><br>나타샤는 오빠를 향해 당혹스러운 눈빛을 던졌다. 그녀의 앞에는 온몸이 붕대로 칭칭 감긴 남자가 누워있었다. 극심한 고통으로 인해 그의 몸은 끊임없이 꿈틀거리고 있었고 그의 입에서는 그 뜻을 알 수 없는 말들이 쏟아져내렸다<br><br><i>「뭘 꾸물거려? 어서 누르라고!」</i><br><br>오빠의 명령에는 분노와——예민한 소녀는 그 미세한 감정을 정확하게 포착했다——조금의 실망이 담겨있었다. 나타샤는 남자의 오른쪽 팔을 잡아 온몸의 힘을 다해 어깨에 놓인 지혈대를 눌렀다<br><br>부상을 입은 남자의 입에서 괴물 같은 신음소리가 흘러나왔지만 오빠의 명령이 떨어진 이상 절대 힘을 풀 수 없었다<br><br>시간이 얼마나 흘렀을까. 눈앞의 부상자는 결국 호흡을 멈추었다. 나타샤는 멍한 얼굴로 생명이 떠나간 빈 몸뚱아리를 바라보았다<br><br><i>「넌 최선을 다했어」</i>오빠는 평소와 같은 담담한 말투로 말했다.<i>「잠깐 쉬고 다시 일어서. 아직 부상자들이 많아」</i><br><br>나타샤는 붉게 물든 손바닥을 바라보았다. 손가락은 이미 뻣뻣하게 굳어버린 상태였고 피비린내가 코를 찔렀다. 나타샤는 그 냄새에 익숙해지기 위해 노력했다. 이 길을 걷기로 한 이상 그녀가 할 수 있는 건 익숙해지는 것뿐이라는 걸 알고 있었기 때문이었다"
         },
         {
             "_id": 3,
-            "Story": "<i>\"Excellent... excellent as always,\" </i>the professor says to herself as she flips through the notes, <i>\"With your grades and clinical performance... You'll be an outstanding candidate whether you're in the hospital or in the armed forces.\"</i><br><br>Natasha's pulse races, and her fingers subconsciously clench up. The professor notices her body language.<br><br><i>\"What's the matter, child? Have you got something to say?\"</i><br><br>Natasha composes herself — she wants to convey her decision with confidence and conviction.<br><br><i>\"I want to go back to the Underworld, Professor. I know I can help more people down there.\"</i><br><br>The old woman is stunned for a brief moment, before slowly pushing her glasses upwards. Then, she lowers her head and continues on reading the file she is holding.<br><br><i>\"I see. That's exactly what your mother said... I wish you all the best then, Natasha.\"</i><br><br>Natasha stands up and solemnly bows. As she walks through that white corridor at Belobog Medical Academy for the last time, her heart is filled with determination."
+            "Story": "<i>「훌륭해… 역시 훌륭하단 말이야」</i>교수는 종이장을 펼쳐보며 중얼거렸다.<i>「자네의 성적과 실습 평점이라면 병원으로 가든 부대로 가든 훌륭하게 임무를 완성할 수 있을 걸세」</i><br><br>교수의 말을 들은 나타샤는 저도 모르게 주먹에 힘이 들어갔다. 그녀의 이상함을 느꼈는지 교수가 물었다<br><br><i>「왜 그러나? 뭐 하고 싶은 말이라도 있나?」</i><br><br>나타샤는 표정을 정리했다——자신감 넘치는 표정을 지으면 자신의 결단을 더 정확하게 표현할 수 있을 거란 생각에서였다<br><br><i>「저는 하층 구역으로 가고 싶습니다, 교수님. 그곳에 제 도움이 더 필요한 사람들이 있어요」</i><br><br>그녀의 말에 여교수는 흠칫하더니 천천히 안경을 올렸다. 그리고 고개를 숙이고 나타샤의 자료를 다시 훑어보기 시작했다<br><br><i>「그래. 자네 어머니와 똑같은 말을 하는군… 성공을 비네, 나타샤」</i><br><br>자리에서 일어선 나타샤는 교수를 향해 정중하게 인사를 올렸다. 벨로보그의 의대, 그 새하얀 복도를 지나는 그녀의 마음은 그 어느 때보다 결연했다"
         },
         {
             "_id": 4,
-            "Story": "Dearest mother and father,<br><br>How have you been?<br><br>Please forgive me for replying so late. There's been lots of trouble in the Underworld, and the orphanage is overcrowded with the injured, so I haven't had time to do anything apart from treating the wounded. I even had to send some of the younger children to foster families in town, because I didn't want them to see the carnage inside the orphanage.<br><br>As for your previous question — yes, I've heard rumors about the Supreme Guardian about to order a blockade between the Over- and Underworlds. I understand your concerns, but from my point of view, there is no way I can abandon the people down here right now. During this extraordinary state of panic, I can only hope to use my modest skills to bring a modicum of comfort to the needy.<br><br>Fortunately, I know you'll respect my decision. I still remember when I was fresh out of college and Dad told me, \"Anyone going into medicine to just get a decent job will come to regret their decision sooner or later.\" I think I understand more than ever what you meant back then.<br><br>I don't know when we'll ever be able to see each other again, but I hope you can be healthy and happy. Your daughter is a big girl now, and can take care of herself, so you don't have to worry about me.<br><br><align=\"right\">Your daughter, with love, </align><br><align=\"right\">Natasha</align>"
+            "Story": "사랑하는 아버지, 어머니께:<br><br>요즘은 어떻게 지내세요?<br><br>답장이 늦어서 죄송해요. 하층 구역에 요즘 사건 사고들이 많아서요. 보육원의 부상자들도 점점 늘어나고 있어요. 환자를 치료하는 것 말고 다른 일에 시간을 내기가 힘들답니다. 요즘은 나이가 어린 아이들은 마을의 다른 집에 입양을 보내려 하고 있어요. 어린 아이들이 보육원의 참상을 바라보는 건 원치 않으니까요<br><br>전에 하신 질문에 대해서는 저도 간간히 소문을 들었어요. 수호자님께서 상, 하층 구역의 연결을 완전히 봉쇄한다고 하시네요. 두 분이 걱정하시는 마음 이해해요. 하지만 전 지금 하층 구역의 주민들을 포기할 수 없어요. 다들 불안에 떨고 있는 상황이에요. 그들에게 위로를 건네는데 제 작은 힘을 보태고 싶어요<br><br>물론 두 분께서는 이번에도 제 선택을 존중해 주시겠죠. 의대를 졸업했을 때 아버지가 해주신 말씀이 기억이 나요. 「그럴 듯한 직업을 얻기 위해 의사가 된 거라면 언젠가 후회하게 될 거란다」 아버지께서 하신 그 말씀에 담긴 의미를 이제는 알 것 같아요<br><br>이제 두 분을 언제 다시 만날 수 있을지 모르겠네요. 지금처럼 건강하고 무사하셨으면 좋겠어요. 저도 이제 다 컸으니 제 몸 하나는 보살필 수 있답니다. 그러니 걱정하지 마세요<br><br><align=\"right\">두 분을 사랑하는 딸</align><br><align=\"right\">나타샤</align>"
         },
         {
             "_id": 5,
-            "Story": "The man lying on the hospital bed is tanned and about fifty years old. His muscles are chiseled like a sculpture, but are now covered in layers of scars and bloody stains. He is breathing heavily, his chest heaving violently — he is right at death's door.<br><br>Natasha's eyes move quickly over to the patient, searching for anything fatal that could rob him of his life. She soon locates a wound on his lower left abdomen. Although it isn't large, the bleeding is constant and it's likely that his internal organs had been injured by some kind of sharp weapon.<br><br>She put on a new pair of gloves and tears a large piece of bandage off the roll. She skillfully and tightly wraps it tightly around the patient's waist, pressing down on the area that is bleeding. A dark red spreads through the surface of the bandage, but Natasha maintains her pressure without betraying the slightest hint of panic.<br><br>After a short while, the man's breathing is no longer rapid and the tense expression on his face eases. Natasha knows he is out of danger and has safely fallen asleep.<br><br>She slowly takes off her gloves and leans against the clinic's window sill in a brief repose.<br><br><i>\"Please don't die, Oleg...\"</i><br><br>She whispers to herself as she gazes at the bed.<br><br><i>\"...There're still a lot of duties we need to complete.\"</i>"
+            "Story": "병상에 누워있는 까만 피부의 남자는 50살쯤 되어 보였다. 그의 몸은 조각상처럼 탄탄한 근육으로 뒤덮여있었지만 그 뒤에는 크고 작은 흉터와 핏자국이 가득했다. 남자가 거친 숨을 내쉴 때마다 가슴은 격렬하게 움직였다——그렇다, 남자는 지금 생사의 갈림길에 서 있다<br><br>남자의 마지막 숨결을 빼앗가려는 치명상을 찾기 위해 나타샤의 시선은 빠르게 움직였다. 그리고 얼마 지나지 않아 왼쪽 복부의 상처에 시선을 고정했다. 작은 상처였지만 피가 끊임없이 흐르는 걸로 바서는 날카로운 예기가 내장을 찌른 게 분명해 보였다<br><br>그녀는 새 수술 장갑으로 갈이낀 뒤 큰 붕대를 꺼내 익숙한 손놀림으로 부상자의 허리를 감싼 뒤 매듭을 꽉 묶었다. 그리고 피가 끊임없이 흐르는 상처를 꾹 눌렀다. 붉은색 액체가 붕대를 물들였지만 나타샤는 여전히 침착한 표정으로, 일정한 빈도로 상처를 꾹꾹 눌렀다<br><br>한참 동안 시간이 흐르고 남자의 호흡이 고르게 변하고 잔뜩 찌푸린 미간도 자연스레 풀렸다. 환자가 생명의 위험에서 벗어나 긴 꿈에 잠겼다<br><br>나타샤는 천천히 수술용 장갑을 벗은 뒤 진료소의 창틀에 기대 숨을 골랐다<br><br><i>「죽지 마. 올레그……」</i><br><br>그녀는 병상을 바라보며 낮은 목소리로 중얼거렸다<br><br><i>「아직 우리가 완성해야 할 사명이 많잖아」</i>"
         }
     ]
 }
@@ -488,208 +488,208 @@ var _story_ = {
 var _voice_ = {
     "1105": [
         {
-            "Title": "First Meeting",
-            "Voice": "Nice to meet you, I'm Natasha — an Underworld doctor. Feeling sick? Take a seat, let me take a look."
+            "Title": "첫 만남",
+            "Voice": "안녕, 난 나타샤, 벨로보그 하층 구역의 의사야. 어디가 아픈 거야? 이리 와, 내가 한번 봐 줄게"
         },
         {
-            "Title": "Greeting",
-            "Voice": "I'm in today. But that is not an excuse for misbehavior."
+            "Title": "인사",
+            "Voice": "오늘은 여기 있을 거야…. 근데 내가 있다고 다치고 오진 마"
         },
         {
-            "Title": "Parting",
-            "Voice": "Today feels fighting fit."
+            "Title": "작별",
+            "Voice": "오늘도 건강한 하루네"
         },
         {
-            "Title": "About Self",
-            "Voice": "I see all kinds of patients. Some require a gentle touch, others need a stern talking to before they take things seriously... Haha, a doctor should always use the right cure for the right person."
+            "Title": "자신에 대해",
+            "Voice": "진료소에는 다양한 환자가 오니까 나도 다양한 얼굴로 그들을 상대해야 해. 어떤 환자는 부드럽게 타일러야 하고, 아예 몸을 챙기지 않아서 마음 단단히 먹고 쓴소리 해줘야하는 환자도 있거든…. 증상에 따라 약을 처방하는 것도 의사의 직책이고 말이야"
         },
         {
-            "Title": "Chat: Medicine",
-            "Voice": "A patient's medicine doesn't just reveal their illness. It also offers a window into their desires and needs."
+            "Title": "잡담•약물",
+            "Voice": "약물은 환자의 질병뿐만이 아니라, 그들의 욕망과 수요를 보여주기도 해"
         },
         {
-            "Title": "Chat: Wildfire",
-            "Voice": "People join Wildfire for themselves, for the newborn next door without a mother, for the elderly with no home to return to."
+            "Title": "잡담•와일드 파이어",
+            "Voice": "모두가 「와일드 파이어」에 가입한 이유는 본인을 위해, 엄마 잃은 옆집의 젖먹이 아기를 위해, 거리에서 방랑하는 노인을 위해서일 뿐이지"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I still occasionally practice suturing on my old teddy bear, just like in the old days."
+            "Title": "취미",
+            "Voice": "아직도 가끔 예전처럼 곰 인형으로 상처 봉합을 연습하곤 해"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "People in the Underworld have gotten used to making the best of a bad situation. That's why I have to keep reminding myself that we're nowhere near where we need to be."
+            "Title": "고민",
+            "Voice": "지하의 사람들은 고생 속에서 즐거움을 찾는 일에 익숙해졌어. 그래서 늘 스스로에게 물어보지. 우린 우리가 원하는 삶을 살고 있을까?"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "Humans long for freedom. If they go for too long without seeing the sky, they get ill... Both in body and mind."
+            "Title": "공유",
+            "Voice": "인간은 자유를 갈망하는 동물이야. 오랫동안 하늘을 보지 못하면 병이 생기는 법이지. 마음의 병… 말이야"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "When the childrens' parents are away in the mines, the clinic becomes a kind of nursery... Haha, to be fair, it's me who invites them. Perhaps I need them more than they need me."
+            "Title": "견문",
+            "Voice": "광부들이 작업을 할 땐 진료소가 어린이집이 되는 셈이지…. 내가 일부러 부른 거야, 어쩌면 내가 아이들한테 더 의지하고 있을지도 모르겠네"
         },
         {
-            "Title": "About Seele",
-            "Voice": "Seele's already become a capable adult — I can't treat her like a child anymore."
+            "Title": "제레에 대해",
+            "Voice": "제레도 이제 어엿한 어른이니까 더 이상 꼬맹이 취급하면 안 되겠지"
         },
         {
-            "Title": "About Clara",
-            "Voice": "I heard she's been looking after the wounded vagrants. What a girl... When I first met Clara, she was replacing parts for her robots like a mechanic, but leaving her own wounds unattended. It was heartbreaking to watch."
+            "Title": "클라라에 대해",
+            "Voice": "최근 부상을 입은 방랑자를 보살피고 있다고 들었어, 정말 대단한 아이야…. 클라라를 처음 봤을 때, 그 애는 능숙하게 로봇의 부품을 교체했지만 자기 몸에 난 상처는 곪아가고 있었어. 정말 속상하더라"
         },
         {
-            "Title": "About Svarog",
-            "Voice": "Svarog wants to preserve humanity, but he's not concerned about what humans truly think."
+            "Title": "스바로그에 대해",
+            "Voice": "스바로그가 보존하는 건 「인류」야, 하지만 그는 「인류」가 어떻게 생각하는지에 대해서는 관심이 없지"
         },
         {
-            "Title": "About Sampo",
-            "Voice": "If I know Sampo, the last thing he wants is to owe you a favor — he'll think of any way possible to pay you back... The longer you leave a favor, the harder it is to calculate its value."
+            "Title": "삼포에 대해",
+            "Voice": "내가 알기로 삼포는 신세 지는 걸 제일 싫어해서 어떤 방법을 쓰건 꼭 신세는 갚아——신세라는 건 시간이 지날수록 값을 매기기 어려워지거든"
         },
         {
-            "Title": "About Hook",
-            "Voice": "Sometimes I stand at the door of the clinic and watch her running and jumping around... and my tiredness simply goes away."
+            "Title": "후크에 대해",
+            "Voice": "가끔 진료소 입구에 서서 후크가 밖을 뛰어다니는 걸 보면, 피곤이 다 풀리는 느낌이야"
         },
         {
-            "Title": "About Oleg",
-            "Voice": "We both came from the Overworld. Maybe that's why we're so eager to turn back the clock — to return to when life below ground was no harder than life on the surface."
+            "Title": "올레그에 대해",
+            "Voice": "우린 둘 다 상층 구역에서 왔어. 그래서 절박하게 「과거」로 돌아가고 싶어 하는 거지——벨로보그에 「상하」의 구분이 없던 때로"
         },
         {
-            "Title": "About Luka",
-            "Voice": "That kid puts up a strong front, but under the surface he's afraid of becoming a burden — that's why he trains and fights so hard... I hope one day he's able to slow down and listen to his heart."
+            "Title": "루카에 대해",
+            "Voice": "그 아이… 겉으로는 강해 보이지만, 자신이 짐이 될까 봐 두려워하고 있어. 그래서 그렇게 열심히 훈련하고 싸우는 거지…. 언젠가 마음을 내려놓고 마음의 소리에 귀를 기울이길 바라"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "With this strength, I can save more lives."
+            "Title": "성혼 활성화",
+            "Voice": "이 힘으로 더 많은 사람들을 살릴 수 있어"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "A doctor never stops learning."
+            "Title": "캐릭터 승급",
+            "Voice": "의술이 또 늘었네"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "I'll put this strength to good use."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "네 기대를 저버리지 않을게"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Wise choice."
+            "Title": "행적 활성화",
+            "Voice": "현명한 선택이야"
         },
         {
-            "Title": "Added to Team With Seele",
-            "Voice": "Has that wound fully healed, Seele?"
+            "Title": "파티 편성•제레",
+            "Voice": "저번에 다쳤던 건 다 나았어, 제레?"
         },
         {
-            "Title": "Added to Team With Hook",
-            "Voice": "Room for an \"old witch,\" Hook?"
+            "Title": "파티 편성•후크",
+            "Voice": "「마귀할멈」의 맛을 보여줄게, 후크"
         },
         {
-            "Title": "Added to Team With Sampo",
-            "Voice": "I've got my eye on you."
+            "Title": "파티 편성•삼포",
+            "Voice": "잊지 마, 누군가는 네 일거수일투족을 감시하고 있어"
         },
         {
-            "Title": "Added to Team With Luka",
-            "Voice": "Take care of yourself, Luka."
+            "Title": "파티 편성•루카",
+            "Voice": "네 몸을 조금 더 아껴봐, 루카"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "That'll take more than medicine."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "구제불능이네"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Don't get careless."
+            "Title": "전투 시작•위험 경보",
+            "Voice": "방심하면 안 돼"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Naughty children don't listen."
+            "Title": "턴 시작•1",
+            "Voice": "말을 듣지 않으면 나쁜 어린이야"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Time for a shot."
+            "Title": "턴 시작•2",
+            "Voice": "주사 맞을 시간~"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Seems I've been waiting a while..."
+            "Title": "턴 대기",
+            "Voice": "오래 기다린 것 같네…"
         },
         {
-            "Title": "Basic Attack 1",
-            "Voice": "You're in bad shape."
+            "Title": "일반 공격•1",
+            "Voice": "병세가 심각하네"
         },
         {
-            "Title": "Basic Attack 2",
-            "Voice": "Savor the vigor of life."
+            "Title": "일반 공격•2",
+            "Voice": "생명의 충격을 느껴봐"
         },
         {
-            "Title": "Basic Attack 3",
-            "Voice": "Naptime."
+            "Title": "일반 공격•3",
+            "Voice": "한잠 푹 자"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Here comes the medicine."
+            "Title": "전투 스킬•1",
+            "Voice": "약 먹을 시간이야"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "All better now?"
+            "Title": "전투 스킬•2",
+            "Voice": "이제 안 아프지?"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "I'm okay."
+            "Title": "약공격 피격",
+            "Voice": "괜찮아"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "That hurt..."
+            "Title": "강공격 피격",
+            "Voice": "아파……"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Just in time."
+            "Title": "필살기•활성화",
+            "Voice": "때맞춰 온 것 같네"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Just a little something. Think nothing of it."
+            "Title": "필살기•발동",
+            "Voice": "조그만 성의일 뿐이야, 신경 쓰지 마"
         },
         {
-            "Title": "Downed",
-            "Voice": "But I'm a... doctor..."
+            "Title": "전투 불능",
+            "Voice": "난…… 의사인데……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "I have plenty of medicine at the ready."
+            "Title": "전투 복귀",
+            "Voice": "약은 아직 많이 남았다고"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "I'll be more careful."
+            "Title": "HP 회복",
+            "Voice": "조심할게"
         },
         {
-            "Title": "Technique",
-            "Voice": "Found you."
+            "Title": "비술",
+            "Voice": "찾았다~"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "A delicate operation."
+            "Title": "전투 승리",
+            "Voice": "정말 정교하고 아름다운 수술이군"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "If there's medicine, it'll come in handy."
+            "Title": "전리품 오픈•1",
+            "Voice": "약품은 다 어느 정도 쓸모가 있어"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "This is enough for me — take the rest."
+            "Title": "전리품 오픈•2",
+            "Voice": "난 이것만 있으면 돼"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "These will last us a long time."
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "이 정도면 보급품은 충분해"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Hm, that's a healthy brain."
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "음, 뇌는 엄청 건강해"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Cute little game~"
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "재밌는 미니 게임이네~"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Victory means preparation."
+            "Title": "적 발견",
+            "Voice": "저들을 무찌르려면 준비 단단히 해야 할 거야"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Hard work needs hard rest."
+            "Title": "도시로 복귀",
+            "Voice": "쉴 때는 푹 쉬어"
         }
     ]
 }

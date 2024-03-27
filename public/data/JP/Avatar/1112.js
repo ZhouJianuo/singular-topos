@@ -462,23 +462,23 @@ var _story_ = {
     "1112": [
         {
             "_id": 1,
-            "Story": "Topaz, Senior Manager of the Strategic Investment Department in the Interastral Peace Corporation, and leader of the Special Debts Picket Team.<br>Already a member of the \"Ten Stonehearts\" at a young age, Topaz's core stone is the \"topaz of debt retrieval.\"<br>Her partner, the Warp Trotter \"Numby,\" is also capable of acutely perceiving where riches are located. It can even perform jobs involving security, debt collection, and actuarial sciences.<br>Presently they are traversing the cosmos together, chasing down various debts and liabilities that negatively influence the IPC's commercial ventures."
+            "Story": "スターピースカンパニー「戦略投資部」の高級幹部であるトパーズは、特殊債務ピケ部隊を率いている。<br>若くして「十の石心」の一員となった彼女は、「徴収の黄玉」という基石を所持している。<br>相棒の次元プーマン「カブ」は富の在処を鋭く感知できるだけでなく、警備、債権回収、保険数理などの仕事も容易にこなせる。<br>現在、彼女たちは銀河を巡りながら、カンパニーの事業拡大に影響を及ぼす様々な債権トラブルを調査している。"
         },
         {
             "_id": 2,
-            "Story": "<i>\"Destor, have you seen this resume?\"<br><br>\"Which one do you... Oh, it's her — She just finished her internship at the marketing research team, and made quite a stir there — Ah, in a good way.\"<br><br>\"She's already finished the internship? Ah...\"<br><br>\"Is there something wrong, Mr. Dvorski?\"<br><br>\"Nothing. Just curious. After all, the age at which she started her career is the youngest recorded in this department... Besides, her resume is so stunning. Let me see... Oh! She even signed a \"lifelong contract\"? I didn't expect us to pick up a talent like this from such a despondent planet...\"<br><br>\"I've already checked with our colleagues. Everything in her resume is true. She didn't even write her employment exam results in — Apparently she got a high mark in actuarial sciences, micro- and macroeconomics, intergalactic finances, and management sciences. Even her physical exam was nearly perfect. The only topic she failed was...\"<br><br>\"Hmm? What was it?\"<br><br>\"... It's business etiquette. She didn't even turn up for that test. 'I absolutely hate formalism' — apparently that's what she said.\"</i>"
+            "Story": "<i>「ダイスター、この履歴書を見たか？」<br><br>「どの履歴書でしょう…あっ、彼女のですか――市場調査チームで研修を終えたばかりですが、かなり話題になったみたいですね――あっ、もちろんいい意味で、ですけど」<br><br>「もう研修が終わったのか？ふむ……」<br><br>「何か問題でも？ドビスキーさん」<br><br>「いや、ただ少し気になっただけだ。彼女の入社年齢は部署の最低年齢を下回っているからな…それに、この娘のキャリアには目を見張るものがある。どれどれ…ほぉ、彼女が結んだのは『終身契約』なのか？まさか、こんな落ちぶれた星でこれほどの逸材を拾えるとは……」<br><br>「業務担当者に確認しましたが、履歴書に書かれている情報はすべて事実です。しかも、彼女は当時の入社試験の結果すら記入していません。聞くところによると——保険数理、ミクロ経済、マクロ経済、星間金融、経営学など、すべての学科試験で高得点を叩き出して、体力テストも満点に近かったとか。彼女が唯一合格しなかった科目は……」<br><br>「む、それはなんだ？」<br><br>「…ビジネスマナーです。なんでもテストをサボったらしくて…その時、彼女は『私が最も嫌いなものは形式主義』と言ったそうですよ」</i>"
         },
         {
             "_id": 3,
-            "Story": "<i>\"Say... You —\"<br><br>\"Hmm? What's wrong, Uncle Dvorski?\"<br><br>\"...You know pets are forbidden at the office, right?\"<br><br>\"Of course! Row 144 from paragraph 86 of the employee pamphlet — It is strictly forbidden to bring any form of organic pets on-site to any of the Interastral Peace Corporation's offices.\"<br><br>\"...So you remember it very well. Then, can you explain yourself—\"<br><br>\"— But I think this rule is useless and doesn't need to be obeyed at all. To be honest with you, sir — with these cute little critters around, my work efficiency went up by twenty-seven percent!\"<br><br>\"...I won't question the numbers coming out of your mouth, but...\"<br><br>\"See? This little one — up you get — it's called Numby! Don't treat it just as a normal Warp Trotter. It's really sensitive to the scent of money! Now I bring it with me wherever I go abroad for business. It's basically become my lucky star~\"<br><br>\"I never thought I'd see such creatures at the office. Seriously... *cough* Anyways, I'll pretend I didn't see it. Just remember, the next time the director comes for a visit — Ah! Ahhh! What's going on!? D—Don't bite me! Q—Quickly! Get it away —\" </i>"
+            "Story": "<i>「おい、少しいいか……」<br><br>「はい？どうかしました？ドビスキーさん」<br><br>「…オフィスへのペットの持ち込みが禁止されていることは知っているな？」<br><br>「当然じゃないですか！従業員マニュアル第 86 小節第 144 条——いかなる形式の有機体ペットであろうとスターピースカンパニーのオフィスに持ち込むことを固く禁じる」<br><br>「…本当によく覚えているじゃないか。それなら説明してくれないか——」<br><br>「——でも、この規則は根拠に欠けるので、守る必要はないかと。正直に言いますが——この可愛い子たちがここにいてくれると、私の作業効率が 27% もアップするんです！」<br><br>「…君の口から出た数字を疑うつもりはない。だが……」<br><br>「見てください！この子——おいで——カブっていうんですけど…あ、普通の次元プーマンと一緒にしないでくださいね。この子は『お金の匂い』にすごく敏感なんです！今ではどこへ出張に行くにしても、絶対この子を連れていくんですよ。まさに私の幸運の星～」<br><br>「オフィスでこんな生き物を目にすることになるとは、まったく…コホン。まあいい、見なかったことにしておこう。ただ今度総監が視察に来る時は——う、うわっ！！なんだ！？や、やめろ、噛むんじゃない！は、早くそいつを連れていけ——」</i>"
         },
         {
             "_id": 4,
-            "Story": "Reporter: Francisco Dvorski<br>Reportee: Jade<br>Report Content: Team Lead Work Report<br><br>Madam Jade:<br><br>This should be the last time I send you a work report through the system. Time flies. In the blink of an eye, I've already worked for half an Amber Era at the Strategic Investment Department, and only managed to climb to my current position through many trials and hardship. I may not be able to call myself distinguished, but I have at least gathered enough wealth for the next few generations of my family. I desire nothing else. Here, I would like to specifically thank the phenomenal support you've constantly given to Marketing Team 166, Madam Jade.<br><br>Anyway, I will not waste any time presenting the recent deliverables and outcomes achieved by Marketing Team 166 in this work report. Those results can be seen from the monthly job report filed by the team. The only purpose of this report is to recommend a particular member of my team to you: ███ ████.<br><br>I trust that you have heard of ███ ████'s experiences and achievements in some fashion or another. I have included in the system her work reports and the comprehensive feedback given by multiple personnel in the team, for your perusal. Though she is still young, ███ has demonstrated exceptional business acumen, managerial thinking, strength of character and ability to perform under pressure. I have no doubt that, if she were to assume the leadership responsibilities of Marketing Team 166, this team's profits and project success rate will be significantly elevated. I also believe that ███'s career will most certainly not stop here, not with the potential she has shown so far. She will definitely rise to bigger and better things in the future. Therefore, once I retire to the backlines, I hope you would be able to look out for ███ ████ — We here at the Strategic Investment Department have always believed that talent is the best investment, and I trust that you already have had your eyes on her.<br><br>Marketing Team 166, Strategic Investment Department<br>Francisco Dvorski"
+            "Story": "報告者：フランシスコ・ドビスキー<br>報告先：「ジェイド」<br>報告内容：チームリーダーによる業務報告<br><br>「ジェイド」様<br><br>これは私がシステムを通じてあなたに送る最後の業務報告になるでしょう。時が経つのは早いもので、気がつけば戦略投資部で半琥珀紀を過ごし、多くの難しい仕事を経て、現在の地位に就きました。大きな成功を収めたわけではありませんが、少なくとも私の家族が数世代にわたって裕福に暮らせるだけの財産を築くことができました。もう望むものは何もありません。この場を借りて、これまでの第 166 市場チームに対する「ジェイド」様の多大なるご支援にお礼を申し上げます。<br><br>本題に戻りますが、今回の業務報告では、第 166 市場チームの直近の業務内容や実績について詳しく述べることはいたしません。この内容につきましては、当チームの月報にすべて記載しておりますので、そちらをご覧ください。今回の報告書の唯一の目的は、私のチームにいる社員████・███████を推薦することにあります。<br><br>████・███████の業績や勤務実績については、ある程度お聞きになったことがあるかと思います。システムに彼女の業務報告ファイル、彼女に対するチーム内の複数の社員の総合評価ファイルを添付いたしますので、どうぞご参照ください。████はまだ若いですが、すでに並々ならぬ業務遂行能力、経営者的思考、そして強い意志力を見せています。彼女が第 166 市場チームのチームリーダーの職務を引き継げば、当チームの営業収益およびプロジェクト成功率は一段と高まるに違いありません。そう信じるに足る理由があります。████が見せている潜在能力から考えるに、彼女のキャリアがこの程度で終わることは絶対にありえません。彼女は将来、より大きな舞台で大いに活躍することでしょう。最後に、私が第一線から引退した後、どうか████・███████のことをよろしくお願い申し上げます——戦略投資部が一貫して主張しているように、人材は最も重要な投資です。私は彼女がすでにあなたの視野に入っていると信じております。<br><br>戦略投資部第 166 市場チーム<br>フランシスコ・ドビスキー"
         },
         {
             "_id": 5,
-            "Story": "<i>\"Destor...\"<br><br>\"What's wrong, Mr. Dvorski?\"<br><br>\"Maybe... you can start with the food? I don't think anyone is coming.\"<br><br>\"It's okay. I'm not hungry yet. This is your farewell party, after all. Let's wait for a bit longer.\"<br><br>\"Haha... I know what these brats are like. All of them only think about working and earning money... They've probably forgotten about their old leader ages ago.\"<br><br>\"...I'm very sorry, Mr. Dvorski. I originally thought that at least Jelena would...\"<br><br>\"...Hey, don't use that name. Now you need to call her 'Topaz.' Honestly, I never imagined that she would become one of them...\"<br><br>\"You've gotta acknowledge her achievements, Destor. Stubborn old bones like me won't get anywhere near that position even if I worked here for a few more lifetimes. She's already a part of a different world. How would she possibly have the time to come to this small party?\"<br><br>\"You're being too humble. I feel that... Ah, there's a knock on the door! Stay where you are. I'll get it.\"<br><br>\"...Who is it, Destor? My eyesight is getting worse in my old age. I can't even tell who they are even if they're standing right in front of me...\"<br><br>\"I'm so sorry, sir. No one came... It was just a letter being delivered.\"<br><br>\"Oh... I see. Who's the letter from? Such formality. They could have just sent an electronic message...\"<br><br>\"There's no name written on the envelope. Hold on. I'll read the letter to you —\"<br><br>\"Dear Mr. Dvorski, Thank you for your constant support and help over the years! I would definitely not be where I am today without your care and mentorship. I offer my deepest apologies for being unable to attend your retirement farewell party — I am currently working abroad at Taikiyan. Once this project is over, I will definitely take a whole day off and go visit you. Also, I seem to recall that you are into Roboball — So I'm going to bring back some souvenirs for you from Taikiyan. Yours Faithfully Forever, Jelena.\"<br><br>\"...\"<br><br>\"Mr... Dvorski? Are you... crying?\"</i>"
+            "Story": "<i>「ダイスター……」<br><br>「どうしました？ドビスキーさん」<br><br>「もしよければ…先に食べたらどうだ？恐らく誰も来ないだろう」<br><br>「大丈夫です、まだお腹は空いていませんから。それに、これはあなたの歓送会じゃないですか。もう少し待ちましょう」<br><br>「ふふ…あの連中の性格を一番よく知っているのは私だ。どいつもこいつも、毎日仕事と金儲けのことしか考えていない…私のような老いぼれ上司のことなど、とっくに忘れているだろう」<br><br>「…残念です、ドビスキーさん。少なくとも、エレーナだけはと思っていたのに……」<br><br>「——おっと、その名前で呼ぶのはやめるんだ。今は『トパーズ』だ。彼女が本当に彼らの一員になるとはな……」<br><br>「感服するほかないだろう、ダイスター。私のような頑固者は、何度生まれ変わろうとあの地位に就くことはできない。もはや彼女は別世界の人間なのだ。こんな小さな集まりに参加する暇などあるわけがない……」<br><br>「謙遜しすぎですって…私が思うに…あ、誰かがドアをノックしたようですね——待っていてください、私が見てきますから」<br><br>「…誰だった？ダイスター。この老眼では目の前に立たれてもよく見えなくてな……」<br><br>「すみません、参加者ではなくて…ただ手紙を届けに来た人がいました」<br><br>「ほう…そうか。メッセージを送れば済むことだというのに…そんなに格式張るとは、一体誰からの手紙だ？」<br><br>「封筒には差出人が書かれていませんね。待ってください、今読み上げます——」<br><br>「親愛なるドビスキーさんへ。これまでのご恩とご指導に感謝いたします。あなたに指導していただかなければ、きっと今の私はいなかったでしょう。大変申し訳ないのですが、私は今タイキヤンに出張に来ているため、退職歓送会には出席できません。ただ、このプロジェクトが終わった暁には、必ず時間を作って伺います。それと、たしかドビスキーさんはモーターボールが趣味の1つでしたよね？タイキヤンからお土産として持って帰りますね！いつまでもあなたに忠実なエレーナより」<br><br>「……」<br><br>「ドビスキー…さん？泣いて…いるんですか？」</i>"
         }
     ]
 }
@@ -486,204 +486,208 @@ var _story_ = {
 var _voice_ = {
     "1112": [
         {
-            "Title": "First Meeting",
-            "Voice": "Hello! Allow me to introduce myself. My name's Topaz — I work in the IPC's Strategic Investment Department. I've heard about the many great feats of the Nameless and the Astral Express — it's truly a pleasure to meet you. Oh, hehe, and this is my little second-in-command — Numby! Say hi to everyone, Numby!"
+            "Title": "初対面",
+            "Voice": "はじめまして、まずは簡単な自己紹介をさせて。私の名前はトパーズ、スターピースカンパニーの戦略投資部に所属してる。星穹列車とナナシビト、君たちのことは話に聞いてるよ。よろしく！ああ、隣にいるのは私のパートナー。さあカブ、みんなに挨拶して！"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Long time no see! How have you been? Clocking in a lot of overtime?"
+            "Title": "挨拶",
+            "Voice": "おっ、久しぶりだね。最近はどう？仕事は忙しい？残業が増えてたりしない？"
         },
         {
-            "Title": "Parting",
-            "Voice": "Ugh, why do they have to call me for such a trivial matter... Sorry, something just came up at work, I've got to get going!"
+            "Title": "お別れ",
+            "Voice": "こんな些細なことで私を探すなんて…あ、ごめん。仕事の電話が入ったから、もう行くね！"
         },
         {
-            "Title": "About Self: Hometown",
-            "Voice": "How does that song go again? \"The place you can't go back to is called home.\" Well, that might sound dramatic, but I really haven't been back home for a long time... and frankly, I don't want to."
+            "Title": "自分について・故郷",
+            "Voice": "あの歌ってどんな感じだったっけ？「帰れぬ名は故郷」——ふむ。大袈裟な歌詞だけど、確かに私も長いこと家に帰ってないな…実を言うと、帰りたくもないんだよね。"
         },
         {
-            "Title": "About Self: Occupation",
-            "Voice": "Protecting the interests of the vast majority of people is the reason I chose this career path. The IPC has given me an excellent platform to pursue my goals... and for that, I have nothing to complain about."
+            "Title": "自分について・ジョブ",
+            "Voice": "多くの人の利益を保障する、これが今の職業を選んだ理由。その目標を実現できるように、カンパニーは私に素晴らしい環境を与えてくれた…だから何も文句はないかな。"
         },
         {
-            "Title": "Chat: Workplace",
-            "Voice": "There are so many tricks for dealing with people in the workplace that I can't even list them all. But I always believe that the most important part is to remain sincere — whether it's with coworkers or with customers. That's my bottom line."
+            "Title": "世間話・職場",
+            "Voice": "職場での人付き合いのコツは、多すぎて何から言えばいいかわからない。でも、一番大切なのは誠実であることだと思ってる——相手が同僚だろうと顧客だろうと同じ、それが私の最低ライン。"
         },
         {
-            "Title": "Hobbies: Work",
-            "Voice": "Do you know what year it is? Who works for money these days? Money is a means, not an end. Work should make you happy... That's the most fundamental principle."
+            "Title": "趣味・仕事",
+            "Voice": "今の時代に、まだお金のために働く人がいるんだ？お金は手段であって、目的にしないほうが仕事も楽しいのに…これは最も基本的な道理だよ。"
         },
         {
-            "Title": "Hobbies: Small Animals",
-            "Voice": "The vast starry sky, the billions of cute, magical critters... Even if only for them, I've gotta work hard."
+            "Title": "趣味・小動物",
+            "Voice": "広い星空、数億種類もの可愛くて不思議な小動物たち…あの子たちのためにも、私はがんばらなくっちゃ！"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "The trouble with being too good at math is that everyone treats you like a human calculator. So yeah, that's why I rarely talk about my expertise in that area."
+            "Title": "悩み事",
+            "Voice": "数学が得意だからこその悩み…みんなが私を人型計算機だと思ってることかな。だから今の役職についてからは、自分から数学が得意だとは言わないようにしてるんだ。"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "I used to think creatures from different ecosystems would be incapable of living together, so I divided my home into different ecological zones, but now... Look! Look how well these two are getting along! They're obviously from different planets, but they're best friends now! Isn't that amazing!?"
+            "Title": "シェア",
+            "Voice": "もともと異なる生態系の小動物は一緒に生活できないと思ってたから、住処をいくつかの生態エリアに分けたんだよね。でも、見て——この子たち、凄く仲良くなってる！まったく違う2つの星から来たのに、こんなに仲良くなるなんて…本当に不思議！"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Every family has its problems, this I understand. But if everyone were to stop repaying their debts, the whole system would collapse... If that time comes, what was once thought of as a trivial matter would become a hardship for the world."
+            "Title": "見聞",
+            "Voice": "どの家庭にもそれぞれの事情があることはわかってる。でも、みんなが自分のわがままで借金を返さなくなったら、システム全体が崩壊する——そうなったら、家庭の事情が世界の問題にまで発展しちゃう。"
         },
         {
-            "Title": "About Numby",
-            "Voice": "They've always liked shiny things — gold coins, gems, you name it. They're like a big fat investment account accruing interest... Guess I should've just named them \"Piggy.\""
+            "Title": "カブについて",
+            "Voice": "カブは昔からコインとか宝石とか、キラキラしたものが好物で…よくお腹がパンパンになるまで食べるんだ。まるで期待値が膨らんでいく株みたいにね。だから、カブは「株」なの！"
         },
         {
-            "Title": "About Aventurine",
-            "Voice": "In the IPC — no — even just the Strategic Investment Department — there are plenty of unsavory characters I don't care for. They may be my colleagues, but we're not the same. Take Aventurine, for instance... I sincerely hope you never have to deal with him."
+            "Title": "アベンチュリンについて",
+            "Voice": "カンパニーどころか、私が所属してる部門だけでも苦手な人がいるんだよね。同僚なのに馬が合わない人、例えばアベンチュリンとか…君は彼と関わらずにいられるよう願ってる。"
         },
         {
-            "Title": "About Bronya",
-            "Voice": "The supreme guardian of Belobog... Well, she's an impressive little girl well beyond her years in maturity... Huh? You're saying I'm about her age? No, no, no, totally different circumstances, no comparison at all..."
+            "Title": "ブローニャについて",
+            "Voice": "ベロブルグの大守護者…へえ、凄い子じゃない。性格が実年齢よりも大人びて——え？私も大して変わらない年齢だって？いやいやいや、状況が違うんだから、そうやって直接的に比べられても……"
         },
         {
-            "Title": "About Himeko",
-            "Voice": "I've heard about Himeko of the Astral Express — my colleagues were gossiping about how beautiful and knowledgeable she is. If I ever get the chance, I'd love to meet her."
+            "Title": "姫子について",
+            "Voice": "星穹列車の姫子さん…聞いたことがある。私の同僚が、彼女は美人で広い見識のある女性だって言ってた。機会があれば会ってみたいな。"
         },
         {
-            "Title": "About Pom-Pom",
-            "Voice": "The most mysterious character on the Astral Express is that conductor — the one who looks like a little creature... Their reputation precedes them. If they're as interesting as the rumors suggest, I'll definitely have to meet them sooner or later! And hopefully, I'll get to pet them too!"
+            "Title": "パムについて",
+            "Voice": "星穹列車にいる謎の存在、外見は小動物みたいな車掌…そういう噂なら聞いたことがある。所詮は噂だけど、本当に噂通りの存在なら会いに行かないと！それでモフモフできれば最高……"
         },
         {
-            "Title": "About Asta",
-            "Voice": "Lady Asta! Now that's a real lady if I ever saw one. You'll never guess just how wealthy she really is!"
+            "Title": "アスターについて",
+            "Voice": "アスターさん！ああ、彼女は正真正銘のお嬢様だよ…彼女の実家は想像できないくらい凄いんだから、本当に！"
         },
         {
-            "Title": "About the Stellaron Hunters",
-            "Voice": "Stellaron Hunters? We aren't acquainted. Never worked with them on any projects. Supposedly those guys are hard to get in touch with, but they have an unexpectedly good credit record — which I value far more than any groundless conspiracy theories."
+            "Title": "星核ハンターについて",
+            "Voice": "星核ハンター？よく知らないなあ…だって一緒にビジネスをやったことがないからね。彼らは接触するのが難しいって言われてるけど、意外に信用記録はいいから——不確かな陰謀論よりも、私はその点を重視するかな。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Looking bullish! Which is why we should keep a cool head."
+            "Title": "星魂覚醒",
+            "Voice": "いい上がりっぷり！いやいや、こんな時こそ冷静にならないと。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Awesome! Let's ride the wave!"
+            "Title": "キャラクター昇格",
+            "Voice": "よし！止まらないで、そのまま上がって！"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Don't be complacent — good investors always think long-term."
+            "Title": "レベルMax",
+            "Voice": "これで終わり？ダメダメ。人生は持久戦なんだから、まだまだ向上しないと。ね？"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Nice to have in the portfolio."
+            "Title": "軌跡覚醒",
+            "Voice": "悪くはないけど、まだ足りないかな。"
         },
         {
-            "Title": "Added to Team With Himeko",
-            "Voice": "Himeko! I'm sure I can learn a lot from you."
+            "Title": "パーティ編成・姫子",
+            "Voice": "姫子さん！姫子さんと組んだら色々と勉強になりそう。"
         },
         {
-            "Title": "Added to Team With Bronya",
-            "Voice": "What's the latest, Bronya? Remember to rest — don't go taking after me."
+            "Title": "パーティ編成・ブローニャ",
+            "Voice": "ブローニャさん、どんなに忙しくても休憩は取ってね。私みたいにならないように。"
         },
         {
-            "Title": "Added to Team With Asta",
-            "Voice": "Lady Asta! How's your mother been? We should hang out more!"
+            "Title": "パーティ編成・アスター",
+            "Voice": "アスターさん！お母様は元気？また今度食事にでも行こう！"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "It's a bull market."
+            "Title": "パーティ編成・アベンチュリン",
+            "Voice": "あれ？今回は君も一緒なの？"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Gotta know the risks..."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "これは、上がるね。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Let the asset valuation begin."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "リスク感度を高めないと…"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Easy, Numby! Easy~"
+            "Title": "ターン・1",
+            "Voice": "資産評価、始めるね。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "The market always fluctuates. Whenever you're ready~"
+            "Title": "ターン・2",
+            "Voice": "カブ！焦らない、焦らない～"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Still no repayments?"
+            "Title": "戦闘中待機",
+            "Voice": "市場変動はとても正常よ、時期を見て手放しちゃいましょ！"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Smash them up, Numby!"
+            "Title": "通常攻撃",
+            "Voice": "まだ返済しないんだ？"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Liquidation!"
+            "Title": "戦闘スキル・1",
+            "Voice": "さあカブ、思いっきりやりなさい！"
         },
         {
-            "Title": "Enhanced Skill 1",
-            "Voice": "Don't forget the interest!"
+            "Title": "戦闘スキル・2",
+            "Voice": "精算の時間だよ！"
         },
         {
-            "Title": "Enhanced Skill 2",
-            "Voice": "Assets confiscated!"
+            "Title": "強化戦闘スキル・1",
+            "Voice": "元利ともども、返してっ！"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Steady..."
+            "Title": "強化戦闘スキル・2",
+            "Voice": "全財産を、没収するね！"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Better cut our losses..."
+            "Title": "攻撃を受ける",
+            "Voice": "動じないで…"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "The market is unpredictable..."
+            "Title": "重撃を受ける",
+            "Voice": "ストップロスに注意…"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Huh? Right! Investing in victory... means playing the long game!"
+            "Title": "必殺技・アクティブ",
+            "Voice": "市場が錯綜してる…"
         },
         {
-            "Title": "Downed",
-            "Voice": "Didn't file... leave application..."
+            "Title": "必殺技・発動",
+            "Voice": "ん？ああ！先を見据え、長期的に見るのが…投資成功の秘訣！"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "*yawn* ...Time for overtime."
+            "Title": "戦闘不能",
+            "Voice": "休暇の…申請が、まだ……"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Pretty good perks~"
+            "Title": "戦闘に戻る",
+            "Voice": "ひゅ～…残業といこっか。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Project wrapped!"
+            "Title": "HP回復",
+            "Voice": "ふ～ん、いい福利厚生だね。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Hard work pays off~"
+            "Title": "戦闘勝利",
+            "Voice": "これで、このプロジェクトは完了だね！"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Ooh, free stuff!"
+            "Title": "戦利品を開ける・1",
+            "Voice": "真面目に働けば報いはあるものだね～"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "A little extra for the quarterly bonus⁓"
+            "Title": "戦利品を開ける・2",
+            "Voice": "思わぬ収穫～"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Just a little test."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "ボーナスの一部～"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Another project over the finish line!"
+            "Title": "謎解きに成功・1",
+            "Voice": "小テストにすぎない、ね。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Hey, you! Time to check your books."
+            "Title": "謎解きに成功・2",
+            "Voice": "これも仕事の能力のうち！"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Time for a break. Silent mode activated!"
+            "Title": "敵ターゲット発見",
+            "Voice": "前の方も、債務関連でお問い合わせ？"
+        },
+        {
+            "Title": "町に戻る",
+            "Voice": "一休みしよっか…スマホのバイブもオフにしよ！"
         }
     ]
 }

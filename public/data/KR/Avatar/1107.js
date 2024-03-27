@@ -477,23 +477,23 @@ var _story_ = {
     "1107": [
         {
             "_id": 1,
-            "Story": "A young girl raised by a robot. Her perceptiveness and tenacity are far beyond her years.<br>For Clara, Svarog's logical calculations are the laws of the world and are infallible.<br>That is, until she realizes that the results from the calculations don't always necessarily bring joy to everyone.<br>The once shy little girl then decides to cast aside her timidness."
+            "Story": "로봇에게 키워진 소녀. 나이를 초월한 냉철함과 끈기를 갖고 있다.<br>클라라에게 스바로그의 이성적인 계산이란 결코 틀릴 리 없는 세계의 법칙이다.<br>「계산」 결과가 무조건 모두에게 행복을 가져다주지 않는다는 걸 알기 전까지는 말이다.<br>소심했던 소녀는 용감해지기로 결심한다"
         },
         {
             "_id": 2,
-            "Story": "<i>\"— Log ██/██/████ AF.\"<br><br>\"A female child discovered in a landfill to the southeast of Boulder Town.\"<br><br>\"Scans show the child has no structural damage or functional issues, but her mental state was relatively unstable. She is resistant to questions about her condition and clearly wanted to avoid the subject.\"<br>\"I have continued attempting to communicate with her, and successfully obtained some information.\"<br>\"The child begins to cry, lasting three hours and seven minutes.\"<br><br>\"The child's name is Clara. Her background is unknown.\"<br>\"Conclusion: Take her back to base for observations, and collect further information to generate a follow-up plan to take care of her.\"</i>"
+            "Story": "<i>「——일지 축성 기원 ████년 ██월 ██일」<br><br>「볼더 타운의 동남쪽 쓰레기 매립장에서 어린 인간 여자아이를 한 명 발견했다」<br><br>「스캔 결과 아이에게서 조직 구조 파괴나 기능 장애는 발견되지 않았다. 하지만 아이의 기본 정보에 대해 물었을 때 의도적으로 회피하는 것으로 볼 때 정신상태는 상당히 불안정한 것으로 보인다」<br>「인내심 있게 소통을 이어나간 결과 일부 정보를 얻는 데 성공했다」<br>「그리고 아이는 정확히 3시간 7분 동안 울음을 멈추지 않았다」<br><br>「어린아이의 이름은 클라라, 신분은 알 수 없다」<br>「결론: 기지로 데리고 간 뒤 정보를 더 수집하고 나서 처리 방안을 생성해야 할 것 같다」</i>"
         },
         {
             "_id": 3,
-            "Story": "<i>\"— Log ██/██/████ AF.\"<br><br>\"Clara has grown proficient in the Belobog common tongue, and displays great talent in the field of mechanical engineering — but she still resists communication with other humans. Assessment: this tendency is detrimental to Clara's long-term development in Belobog.\"<br><br>\"There is currently an urgent need to develop a suitable socialization and communication program for Clara. Priority: High.\"<br><br>\"— Log ████/██/██ AF.\"<br><br>\"Clara has successfully made contact with an individual of similar age in Boulder Town. The individual is named Hook, and claims to be the head manager of the local security organization The Moles. No information about this organization has been found in my database.\"<br><br>\"Clara's contact with Hook didn't go well at first. She displayed considerable shyness. However, Hook managed to keep the conversation going with extreme enthusiasm and empathy, calling Clara an 'honorary member of The Moles.' After contact, Clara described Hook as 'her first friend.'\"<br><br>\"This matter is of tremendous significance to Clara, and this log has been tagged Important.\"</i>"
+            "Story": "<i>「——일지 축성 기원 ████년 ██월 ██일」<br><br>「클라라는 벨로보그의 범용 언어를 숙련되게 사용할 수 있었고 기계공학 분야에서 탁월한 재능을 보여주었다. 하지만 여전히 기타 인간과의 소통은 거부하고 있다. 분석 결과 멀리 보았을 때 이러한 인격 성향은 클라라가 벨로보그에서 지내기에 적합하지 않다는 결론을 얻게 되었다」<br><br>「지금 필요한 건 클라라에게 제대로 된 사회성 교육 솔루션을 제정해 주는 것이다. 우선 처리 순위: 높음」<br><br>「——일지 축성 기원 ████년 ██월 ██일」<br><br>「클라라는 드디어 볼더 타운의 또래 아이와 첫 소통을 이루어냈다. 이번에 접촉한 상대의 이름은 후크, 볼더 타운 현지의 치안 조직 『두더지파』의 총책임자라고 자신을 소개했다. 하지만 내가 가지고 있는 데이터베이스에서 해당 사회 조직과 관련된 정보의 검색 결과는 찾을 수 없었다」<br><br>「클라라는 후크와 소통함에 있어 부끄러운 모습을 보였지만 상대의 극단적인 열정과 공감 능력으로 상황은 점차 바뀌기 시작했다. 후크는 클라라를 『두더지파 명예 대원』으로 임명했고 클라라는 후크를 『첫 친구』라고 인정했다」<br><br>「이건 클라라에게 아주 큰 의미를 가지는 사건이다. 해당 일지는 『중요』 레벨로 설정한다」</i>"
         },
         {
             "_id": 4,
-            "Story": "<i>\"— Log ██/██/████ AF.\"<br><br>\"Under Clara's guidance, many vagrants have established settlements around the periphery of the base, and rely on Clara to survive. This behavior does not contravene the orders of Preservation. However, many of them are trying to enter the Overworld via this base's transport passage. The gates of the base must be sealed tightly to avoid accelerating the demise of Belobog.\"<br><br>\"Clara has discussed this with me before. She believes locking the gates is an 'incomprehensible' act. I responded with my predicted calculations: By over-committing her resources to the war against the Fragmentum , the Supreme Guardian is accelerating the destruction of the Overworld. Isolation would be the best option for the people of the Underworld — this would buy them more time to try and survive. In the end, Clara finally agreed.\"<br><br>\"Most humans behave illogically, but Clara doesn't — she is raised by me and grew up among automatons, and her behavior is more based on pure rationality. Her presence may impact predicted calculations of Belobog's demise, but more observations are required.\"</i>"
+            "Story": "<i>「——일지 축성 기원 ████년 ██월 ██일」<br><br>「클라라의 가르침 덕분에 꽤 많은 방랑자들이 본 기지의 주위에 부락을 이루었고 클라라의 도움을 받아 생계를 이어나가기 시작했다. 이러한 행동은 『보존』 지령에 위배되지는 않으나 그들 중 본 기지의 운수 통로를 통해 상층 구역으로 이동하려는 자들이 점점 늘어나고 있는 것에 미루어 기지의 문을 봉쇄하기로 결정한다. 저자들이 상층 구역으로 올라간다면 벨로보그는 더 빨리 종말을 맞이할 것이다」<br><br>「클라라와 나는 이 일로 인해 격렬한 토론을 벌였었다: 그녀는 대문을 봉쇄한 내 행동을 『이해할 수 없다』고 말했다. 이에 나는 내 계산 결과를 알려주었다. 수호자님은 열계와의 전투에 과도한 물자를 투입한 상황, 그로 인해 상층 구역의 종말은 더 가속화될 것이다. 하층 구역 시민들이 조금이라도 더 오래 생존하려면 오히려 상층 구역과 단절되는 것이 더 유리하다는 것이 내 결론이었고 클라라도 결국 내 의견에 동의했다」<br><br>「대다수의 인간들은 아무런 논리도 찾아볼 수 없는 행동을 일삼지만 클라라는 다르다——그녀는 내가 직접 길렀고 자동 기갑병 사이에서 성장한 덕분에 진정한 이성이 무엇인지 깨닫게 되었다. 그녀의 존재가 벨로보그의 종말을 막을 수 있을지도 모른다. 뭐, 아직은 좀 더 지켜봐야 하지만 말이다」</i>"
         },
         {
             "_id": 5,
-            "Story": "<i>\"— Log ██/██/████ AF.\"<br><br>\"Ever since I was created, I've been given the command to preserve the Underworld — Even if I can only preserve it for a millisecond longer than the Overworld, I will still carry out these orders. To borrow a phrase from traditional Belobog culture, perhaps it could be put like this: 'I am faithful without hesitation to the mission I've been given.' Therefore, I see my calculations as immutable laws — nobody and nothing can ever shake me, including any Outsiders.\"<br><br>\"However, I found this possible permutation among the calculation results.\"<br><br>\"In this calculation, Clara completely changed Belobog. I once said of her, 'her behavior is more based on pure rationality.' If we take this probable result as a base and revisit my conclusion, I cannot view it as an error — but I admit that it is biased.\"<br><br>\"With the results of this calculation, Clara has also proved one thing: having true rationality is not the key to changing the status quo, but rather that her sincere and passionate emotion overturned all calculations and completely reversed Belobog's doomed fate. However, unless new external forces intervene, the probability of this is less than 0.25272%, which places it in the low probability category. Further research on these calculations are paused.\"<br><br>\"Today, the probability of survival in the Underworld has not seen a significant upward trend over the last five cycles. This means that implementation of this may be suspended, but I will still monitor all relevant risk factors.\"<br><br>\"During this cycle, I will focus on finding Clara's family. Despite Clara insisting that she has already found her real family, I will keep collecting any and all information to track down Clara's real family as soon as I can.\"</i>"
+            "Story": "<i>「——일지 축성 기원 ████년 ██월 ██일」<br><br>「난 만들어진 순간부터 하층 구역을 『보존』하라는 지령을 입수했다. 하층 구역이 상층 구역보다 단 1초 더 생존할 수 있다고 해도 상관 없다. 나에게 중요한 건 지령을 엄격하게 수행하는 것이다. 벨로보그의 옛말을 빌리면 『나에게 부여된 사명을 망설임없이 수행하리라』. 난 내 계산 결과만을 믿는다. 그 어떤 인간도 사물도 내 결정에 영향을 미칠 수 없다. 물론 『외부인』이라고 해도 예외는 아니다」<br><br>「하지만 수많은 계산 결과들 사이에서 난 새로운 가능성 하나를 발견했다」<br><br>「그 가능성 안에서 클라라는 벨로보그의 모든 것을 바꿀 수 있는 존재였다. 난 그녀에게 이렇게 말했다: 『너의 모든 행동은 진정한 이성을 기반으로 진행되고 있다.』 이 계산 결과를 기반으로 내가 얻은 결론을 다시 점검해 보았다. 완전히 틀렸다고 볼 수는 없었지만 조금의 편차가 존재했다」<br><br>「해당 계산 결과 중에서 클라라는 『진정한 이성』은 결코 현재 상황을 바꾸는 키포인트가 아님을 증명했다. 오히려 클라라의 진실되고 뜨거운 『감정』이 벨로보그의 종말의 운명을 완전히 바꿀 수 있는 것으로 추정된다. 하지만 새로운 요소가 개입하지 않는 한 해당 계산 결과가 현실로 실현될 확률은 0.25272% 이하, 개연성이 없는 사건으로 분류되어 해당 결과에 대한 연구는 일시정지한다」<br><br>「현재 하층 구역의 존속 확률은 지난 5주보다 확연히 높아진 상태다. 분석 결과 해당 사건의 집행을 잠시 미룰 수는 있으나 리스크 요소의 감시를 중단해서는 안 될 것이다」<br><br>「이번 주에는 클라라의 가족을 찾는 데 집중하기로 했다. 비록 클라라는 『난 이미 진짜 가족을 찾았어』라고 말했지만 그에 관한 정보를 수집하는 건 멈추지 않을 것이다. 최대한 빨리 클라라의 진짜 가족이 있는 곳을 찾아야 한다」</i>"
         }
     ]
 }
@@ -501,196 +501,196 @@ var _story_ = {
 var _voice_ = {
     "1107": [
         {
-            "Title": "First Meeting",
-            "Voice": "Clara: Hello... I'm Clara. Wanna be in my family? ...Like Mr. Svarog?<br>Svarog: As long as I'm here, Trailblazer is your family."
+            "Title": "첫 만남",
+            "Voice": "안녕하세요, 클라라예요. 제 가족이 되어 주실 수 있으신가요…. 스바로그 씨처럼요.<br>스바로그: 내가 있는 한 {NICKNAME}이(가) 네 가족이야"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Let's keep up the good work today!"
+            "Title": "인사",
+            "Voice": "오늘도 클라라랑 같이 화이팅해요!"
         },
         {
-            "Title": "Parting",
-            "Voice": "I'm getting sleepy — time for a nap on Mr. Svarog's arm. Are you coming?"
+            "Title": "작별",
+            "Voice": "클라라도 졸려요, 스바로그 씨의 팔에 기대서 좀 자고 싶어요. 한번 해볼래요?"
         },
         {
-            "Title": "About Self: Memories",
-            "Voice": "Memories are important. Even Mr. Svarog's calculations need to take them into account... I won't forget about you."
+            "Title": "자신에 대해•기억",
+            "Voice": "스바로그 씨의 「계산」도 모두의 「기억」에서는 자유롭지 않더라고요…. 그러니까 전 절대 여러분을 잊지 않을 거예요"
         },
         {
-            "Title": "Chat: Playing House",
-            "Voice": "One time when I was playing house, I asked Perkins to get the door, and someone actually came to visit!"
+            "Title": "잡담•소꿉놀이",
+            "Voice": "예전에 소꿉놀이하면서 퍼킨스랑 친구들한테 고객 홍보를 맡겼는데, 진짜 따라오는 사람이 있더라고요~"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "There are lots of interesting things stored in Mr. Svarog's memory bank, like... movies! It's like watching lots of people playing house together!"
+            "Title": "취미",
+            "Voice": "스바로그 씨의 메모리엔 흥미로운 것들이 잔뜩 있어요, 「영화」라는 그건…. 사람들이 모여서 소꿉놀이를 하는 거 같아요!"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "It's hard to get Mr. Svarog to act out a movie with me — he only wants to play trees or rocks... I wanted him to be the dad..."
+            "Title": "고민",
+            "Voice": "간신히 스바로그 씨를 설득해서 「영화」를 따라해보자고 했더니 나무나 돌멩이 같은 역할만 하겠대요…. 「아버지」 같은 건 역시 무리겠죠…?"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "My robot friends can be rude sometimes, but deep down, they're kind and honest."
+            "Title": "공유",
+            "Voice": "제 기계 친구들이 가끔 말은 거칠게 해도, 거짓말은 안 하는 착한 애들이에요"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "When Mr. Svarog's sleeping, his body makes a noise. It sounds like... snoring~"
+            "Title": "견문",
+            "Voice": "스바로그 씨가 휴면 상태일 땐 몸에서도 소리가 나요. 마치… 코를 골고 있는 것처럼요"
         },
         {
-            "Title": "About Natasha",
-            "Voice": "Natasha said I'm also a doctor — for my robot friends."
+            "Title": "나타샤에 대해",
+            "Voice": "나타샤 언니는 저도 의사 선생님이라고 해주셨어요, 기계 친구들의 의사 선생님이요"
         },
         {
-            "Title": "About Seele",
-            "Voice": "I remember one time Miss Seele saw me trying to pull a component out of a crack in the rocks. She smashed the rocks with one hand and walked away before I had time to say thank you..."
+            "Title": "제레에 대해",
+            "Voice": "한 번은 클라라가 찾고 있던 부품이 암벽에 단단히 끼어있었는데 그걸 본 제레 언니가 한 손으로 암벽을 부수고는… 고맙다는 인사를 하기도 전에 가버렸어요……"
         },
         {
-            "Title": "About Svarog",
-            "Voice": "Did you know Mr. Svarog's hands can turn into machines that dry my hair? Also, they can cut big stones and turn them into little tables and chairs..."
+            "Title": "스바로그에 대해",
+            "Voice": "사실… 스바로그 씨의 손은 제 머리를 말려주는 기계로도 변할 수 있고, 큰 바위를 작은 탁자와 의자로 만들 수도 있어요……"
         },
         {
-            "Title": "About Hook",
-            "Voice": "Hook invited me to join The Moles. I want to, but I think Mr. Svarog's too big to play hide and seek with us..."
+            "Title": "후크에 대해",
+            "Voice": "후크가 두더지파에 가입하래요. 근데… 숨바꼭질을 하면 스바로그 씨는 어떻게 숨죠……?"
         },
         {
-            "Title": "About Luka",
-            "Voice": "Luka...? He's nice to people. I know he seems kinda impatient, but he's actually very caring."
+            "Title": "루카에 대해",
+            "Voice": "루카 오빠는… 정말 따듯한 사람이에요. 거칠어 보일지 몰라도 아주 섬세하답니다"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Things will get better... won't they?"
+            "Title": "성혼 활성화",
+            "Voice": "미래는… 지금보다 더 좋아지겠죠?"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "One day I'll grow up and protect everyone! Mm!"
+            "Title": "캐릭터 승급",
+            "Voice": "클라라도 더 강해질 거예요…! 응!"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "My journey with Mr. Svarog has just begun..."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "클라라와 스바로그 씨의 여정은 이제부터가 시작이에요……"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Mr. Svarog has everything in his database."
+            "Title": "행적 활성화",
+            "Voice": "스바로그 씨의 데이터베이스에는 정말 없는 게 없어요……"
         },
         {
-            "Title": "Added to Team With Natasha",
-            "Voice": "Miss Natasha... Let's make the Underworld a better place!"
+            "Title": "파티 편성•나타샤",
+            "Voice": "나타샤 언니… 하층 구역을 위해 같이 화이팅해요!"
         },
         {
-            "Title": "Added to Team With Hook",
-            "Voice": "H—Hook, you're here too? I won't let you down!"
+            "Title": "파티 편성•후크",
+            "Voice": "후, 후크도 있네…. 클라라, 후크의 짐이 되지 않도록 노력할게!"
         },
         {
-            "Title": "Added to Team With Seele",
-            "Voice": "Miss Seele! With Wildfire here... nothing can stop us!"
+            "Title": "파티 편성•제레",
+            "Voice": "제레 언니! 「와일드 파이어」가 와준다면… 정말 큰 힘이 될 거예요!"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Svarog: Target threat index lowered."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "스바로그: 목표 위협 지수 하락"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Svarog: Target threat index raised."
+            "Title": "전투 시작•위험 경보",
+            "Voice": "스바로그: 목표 위협 지수 상승"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Clara: I need to be brave..."
+            "Title": "턴 시작•1",
+            "Voice": "클라라: 클라라 용감해질게요…"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Clara: I—I'm not afraid of you!"
+            "Title": "턴 시작•2",
+            "Voice": "클라라: 두, 두렵지 않아요!"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Clara: Time to do something..."
+            "Title": "턴 대기",
+            "Voice": "클라라: 더는 주저할 수 없어요…"
         },
         {
-            "Title": "Basic Attack 1",
-            "Voice": "Clara: Be careful, Mr. Svarog!"
+            "Title": "일반 공격•1",
+            "Voice": "클라라: 조심해요, 스바로그 씨!"
         },
         {
-            "Title": "Basic Attack 2",
-            "Voice": "Svarog: Eliminating threat."
+            "Title": "일반 공격•2",
+            "Voice": "스바로그: 위협 제거"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Svarog: Hide."
+            "Title": "전투 스킬•1",
+            "Voice": "스바로그: 피해"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Svarog: Commencing annihilation."
+            "Title": "전투 스킬•2",
+            "Voice": "스바로그: 섬멸 시작"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Svarog: Are you alright?<br>Clara: I'm okay!"
+            "Title": "약공격 피격",
+            "Voice": "스바로그: 괜찮아?<br>클라라: 전 괜찮아요"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Clara: ...Ouch."
+            "Title": "강공격 피격",
+            "Voice": "클라라: …아파"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Clara: I want to protect everyone, too..."
+            "Title": "필살기•활성화",
+            "Voice": "클라라: 저도 모두를 보호하고 싶어요…"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Clara: Help me, Mr. Svarog!"
+            "Title": "필살기•발동",
+            "Voice": "클라라: 도와줘요, 스바로그 씨!"
         },
         {
-            "Title": "Talent 1",
-            "Voice": "Svarog: Stay back, Clara."
+            "Title": "특성•1",
+            "Voice": "스바로그: 떨어져, 클라라"
         },
         {
-            "Title": "Talent 2",
-            "Voice": "Svarog: As you command."
+            "Title": "특성•2",
+            "Voice": "스바로그: 명령 집행"
         },
         {
-            "Title": "Downed",
-            "Voice": "Clara: Is everyone... okay..."
+            "Title": "전투 불능",
+            "Voice": "클라라: 다들… 괜찮으세요……?"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Clara: I'm back."
+            "Title": "전투 복귀",
+            "Voice": "클라라: 돌아왔어요"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Clara: Thanks. I'll never forget you."
+            "Title": "HP 회복",
+            "Voice": "클라라: 감사해요, 클라라가 항상 기억할게요"
         },
         {
-            "Title": "Technique",
-            "Voice": "Clara: Gah!"
+            "Title": "비술",
+            "Voice": "클라라: 아"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Clara: I hope I helped..."
+            "Title": "전투 승리",
+            "Voice": "클라라: 도움이 됐을지 모르겠어요……"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Clara: If you find any components... Can I have them?"
+            "Title": "전리품 오픈•1",
+            "Voice": "클라라: 클라라는 수리된 부품만 있으면 돼요"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Clara: ...C—Can I have some?"
+            "Title": "전리품 오픈•2",
+            "Voice": "클라라: 제… 제가 받아도 될까요?"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Clara: Th—This is too precious!"
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "클라라: 이, 이건 너무 귀한 거라…!"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Clara: W—We did it!"
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "클라라: 성, 성공이에요!"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Clara: I hope I did okay..."
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "클라라: 클라라… 잘하고 있는 거 맞죠?"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Svarog: High threat target ahead."
+            "Title": "적 발견",
+            "Voice": "스바로그: 전방에 고위험 목표 출현"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Clara: Don't worry, Mr. Svarog. We'll be safe here."
+            "Title": "도시로 복귀",
+            "Voice": "클라라: 스바로그 씨, 이곳은 안전하니 괜찮아요"
         }
     ]
 }

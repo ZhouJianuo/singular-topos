@@ -563,15 +563,15 @@ var _story_ = {
     "8002": [
         {
             "_id": 11,
-            "Story": "A {F#girl}{M#boy}, Trailblazer, decides to travel with the Astral Express to eliminate the threat of the Stellaron."
+            "Story": "스텔라론이 가져온 위기를 해결하기 위해, {F#소녀}{M#소년} {NICKNAME}은(는) 은하열차와의 동행을 선택한다"
         },
         {
             "_id": 12,
-            "Story": "You don't remember much.<br>You're not from around here, nor did you come from elsewhere. You're not really going anywhere—<br>Just then, that indistinct voice whispers into your ear. That sorrowful and tender persuasion, that deceptive goading...<br>The seeds take root. You open your eyes, and the speaker is no longer there.<br><br>But there are more and more voices, and they are getting clearer and clearer.<br>Some give easygoing care, some calmly provide advice, some speak firm support, and some gift gentle direction...<br>You see the silken thread being woven to form tomorrow.<br><br>A huge beast descends from infinity,<br>golden pupils stare down from the darkness,<br>and you are no longer abandoned by the past.<br>You will also set upon a long journey,<br>and the thorns you have stepped on have become your path.<br><br>The train whistles, wishing you a successful journey to the coming future<br>...by your own will."
+            "Story": "기억나는 게 많지 않다.<br>당신은 이곳에서도 온 것도, 다른 곳에서 온 것도 아니다. 당신은 아무데도 가고 싶지 않다——<br>그때 흐릿한 목소리가 귓가에 들려온다. 그 가련하면서도 사랑스러운 설득, 긴가민가한 재촉……<br>씨가 뿌리내린다. 눈을 떠보니 목소리의 주인은 이미 사리지고 없다<br><br>하지만 목소리는 점점 뚜렷해진다.<br>느긋한 보살핌, 차분한 충고, 의연한 끈기, 친절한 안내……<br>당신은 비단실이 내일을 엮는 것을 본다<br><br>거대한 야수가 한없이 추락한다.<br>금빛 눈동자가 어둠속에서 반짝이고, 당신도 더이상 과거에 버려지지 않는다.<br>당신도 기나긴 여정을 개척할 것이고, 당신이 지나온 가시덤불은 길이 되었다<br><br>열차의 출발 경적은 당신이 다가올 미래로 향하길 원한다<br>——당신 자신의 의지로"
         },
         {
             "_id": 13,
-            "Story": "You have arrived at the \"City of Preservation.\"<br>Behind the snow curtain, the wind lashes like steel blades, but the kindling burns on.<br>Distant lands won't hear them, and the earth trembles in kind, with only the wailing crowds braving the wind.<br><br>After facing foreign enemies, the Eternal Freeze, and reality's fissures, a rot begins to fester within the fort.<br>You try lending a helping hand, but are forsaken.<br>Some once looked down on you and misunderstood you, but still you stood by their side and helped them find their way.<br>More care about you and worry about you. They face their suffering, and find the cure for the distressed.<br>Eventually, they come to your side.<br><br>In the ice and snow, you are like a fire, protecting the soul of this world<br>...Even though you must scorch yourself day and night."
+            "Story": "당신은 「보존의 도시」에 당도한다.<br>눈보라 뒤 바람은 칼날 같지만 불씨는 살아있다.<br>먼 곳에서는 듣지 않을 것이다. 대지는 똑같이 흔들리고, 울부짖는 사람들만 바람을 맞으며 올라간다<br><br>외적과 한파, 균혈 후 보루가 썩어 문드러지기 시작한다.<br>당신은 도움의 손길을 내밀지만 버려진다.<br>예전에 당신을 무시하고 오해하는 사람들이 있었지만, 당신은 그들 곁에서 길을 찾아주었다.<br>더 많은 사람이 당신을 염려하고 걱정한다. 그들은 고통에 직면해 고뇌하는 사람을 위해 치료법을 찾는다.<br>결국 그들은 당신 곁으로 온다<br><br>한파 속에서 당신은 화염 덩어리처럼 이 세계의 영혼을 보존한다<br>——밤낮으로 자신을 불태울지라도"
         }
     ]
 }
@@ -579,244 +579,244 @@ var _story_ = {
 var _voice_ = {
     "8002": [
         {
-            "Title": "Memory: About Self",
-            "Voice": "When there is the chance to make a choice, make one that you know you won't regret..."
+            "Title": "회상•자신에 대해",
+            "Voice": "선택의 기회가 주어지면 후회할 짓은 하지 말렴……"
         },
         {
-            "Title": "Memory: The Express",
-            "Voice": "What kind of a life would I have lived if I didn't choose to board the Express... No, there is no such possibility."
+            "Title": "회상•열차",
+            "Voice": "열차에 오르지 않았으면, 난 어떤 삶을 살았을까…. 아니, 만약은 없어"
         },
         {
-            "Title": "Memory: Pom-Pom",
-            "Voice": "They may sound annoyed, but their body language is more honest. I should visit Pom-Pom more often."
+            "Title": "회상•폼폼",
+            "Voice": "말로는 안 기쁘다고 하지만 몸에서 드러나는걸. 폼폼에게 자주 찾아가자!"
         },
         {
-            "Title": "Memory: Herta Space Station",
-            "Voice": "My weapon is also one of the Curios of the space station. I don't know where it came from, but it must be important if it appeals to Madam Herta."
+            "Title": "회상•우주정거장 「헤르타」",
+            "Voice": "내 무기도 우주정거장의 기물 중 하나야. 유래는 모르지만——헤르타 씨의 눈에 든 물건이니 중요한 구석이 있겠지"
         },
         {
-            "Title": "Memory: Destruction",
-            "Voice": "Just where did the will of Destruction come from? Was it really because of the Stellaron within me...?"
+            "Title": "회상•「파멸」",
+            "Voice": "「파멸」의 의지는 대체 어디서 왔을까. 정말로 체내의 스텔라론 때문인 걸까……"
         },
         {
-            "Title": "Memory: Belobog",
-            "Voice": "Just like me, the people of Belobog are also seeing the native sky of this planet for the first time."
+            "Title": "회상•벨로보그",
+            "Voice": "벨로보그 사람도 나처럼 이 행성의 원래 하늘을 처음 본 거야"
         },
         {
-            "Title": "Memory: Preservation",
-            "Voice": "The seed of Preservation has always been within Belobog, and I simply re-ignited this city's will to live... That will may be weak, but this was not the time for it to go out."
+            "Title": "회상•「보존」",
+            "Voice": "「보존」의 씨앗은 처음부터 벨로보그에 있었어. 난 이 도시의 생존 의지를 다시 불러일으켰을 뿐이지…. 아무리 미약해도 아직 꺼질 때는 아니야"
         },
         {
-            "Title": "Destruction Eidolon Activation",
-            "Voice": "Choice isn't as elusive as it may appear."
+            "Title": "「파멸」 성혼 활성화",
+            "Voice": "선택은 보이는 것처럼 그렇게 멀리 있지 않아"
         },
         {
-            "Title": "Preservation Eidolon Activation",
-            "Voice": "The value of choice lies in unwavering resolve."
+            "Title": "「보존」 성혼 활성화",
+            "Voice": "선택의 가치는 확고한 의지로 높아지지"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "I'm not done yet."
+            "Title": "캐릭터 승급",
+            "Voice": "아직 멈출 때가 아니야"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Journeys never end."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "여정은… 끝나지 않을 거야"
         },
         {
-            "Title": "Destruction Trace Activation",
-            "Voice": "This is... my will."
+            "Title": "「파멸」 행적 활성화",
+            "Voice": "이게 바로… 내 의지야"
         },
         {
-            "Title": "Preservation Trace Activation",
-            "Voice": "Preservation is determined by our actions."
+            "Title": "「보존」 행적 활성화",
+            "Voice": "「보존」은… 행동으로 결정되지"
         },
         {
-            "Title": "Added to Team With March 7th",
-            "Voice": "March, lead the counterattack. I believe in you."
+            "Title": "파티 편성•Mar. 7th",
+            "Voice": "반격은 네가 맡아, Mar. 7th. 난 널 믿어"
         },
         {
-            "Title": "Added to Team With Dan Heng",
-            "Voice": "Dan Heng, let's make this quick."
+            "Title": "파티 편성•단항",
+            "Voice": "단항, 속전속결로 처리하자"
         },
         {
-            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
-            "Voice": "Like always, Dan Heng, let's make this quick!"
+            "Title": "파티 편성•단항•음월",
+            "Voice": "평소처럼, 단항, 속전속결로 처리하자"
         },
         {
-            "Title": "Added to Team With Himeko",
-            "Voice": "I'm counting on you to wrap this up, Himeko."
+            "Title": "파티 편성•히메코",
+            "Voice": "이번에도 마무리를 부탁해요, 히메코 씨"
         },
         {
-            "Title": "Added to Team With Welt",
-            "Voice": "I'm on it, Wel—... Ahem, Mr. Yang."
+            "Title": "파티 편성•웰트",
+            "Voice": "걱정 말고 제게 맡기세요. 웰트 아저씨… 크음, 웰트 씨"
         },
         {
-            "Title": "Battle Begins: Weakness Break (Destruction)",
-            "Voice": "This is our chance."
+            "Title": "「파멸」 전투 시작•약점 격파",
+            "Voice": "절호의 기회"
         },
         {
-            "Title": "Battle Begins: Danger Alert (Destruction)",
-            "Voice": "Stay alert."
+            "Title": "「파멸」 전투 시작•위험 경보",
+            "Voice": "경계태세"
         },
         {
-            "Title": "Turn Begins 1 (Destruction)",
-            "Voice": "Let's go."
+            "Title": "「파멸」 턴 시작•1",
+            "Voice": "시작하지"
         },
         {
-            "Title": "Turn Begins 2 (Destruction)",
-            "Voice": "Let's make it quick."
+            "Title": "「파멸」 턴 시작•2",
+            "Voice": "속전속결로 끝내자고"
         },
         {
-            "Title": "Turn Idling (Destruction)",
-            "Voice": "Who's next?"
+            "Title": "「파멸」 턴 대기",
+            "Voice": "다음은 누구지?"
         },
         {
-            "Title": "Basic ATK (Destruction)",
-            "Voice": "Batter up."
+            "Title": "「파멸」 일반 공격",
+            "Voice": "네 차례야"
         },
         {
-            "Title": "Skill (Destruction)",
-            "Voice": "Take this!"
+            "Title": "「파멸」 전투 스킬",
+            "Voice": "맛 좀 봐라!"
         },
         {
-            "Title": "Hit by Light Attack (Destruction)",
-            "Voice": "Just a scratch."
+            "Title": "「파멸」 약공격 피격",
+            "Voice": "간지럽지도 않군"
         },
         {
-            "Title": "Hit by Heavy Attack (Destruction)",
-            "Voice": "It'll take more than that."
+            "Title": "「파멸」 강공격 피격",
+            "Voice": "아직 멀었어"
         },
         {
-            "Title": "Ultimate: Activate (Destruction)",
-            "Voice": "Rules are made to be broken!"
+            "Title": "「파멸」 필살기•활성화",
+            "Voice": "규칙은 깨라고 있는 거야"
         },
         {
-            "Title": "Ultimate: Unleash 1 (Destruction)",
-            "Voice": "You're out!"
+            "Title": "「파멸」 필살기•발동•1",
+            "Voice": "넌 아웃이야!"
         },
         {
-            "Title": "Ultimate: Unleash 2 (Destruction)",
-            "Voice": "You've outstayed your welcome!"
+            "Title": "「파멸」 필살기•발동•2",
+            "Voice": "저 세상으로 보내주마"
         },
         {
-            "Title": "Ultimate: Unleash 3 (Destruction)",
-            "Voice": "Decisive strike!"
+            "Title": "「파멸」 필살기•발동•3",
+            "Voice": "필승의 일격!"
         },
         {
-            "Title": "Downed (Destruction)",
-            "Voice": "So this is... defeat..."
+            "Title": "「파멸」 전투 불능",
+            "Voice": "내가… 졌어……"
         },
         {
-            "Title": "Return to Battle (Destruction)",
-            "Voice": "One more at bat."
+            "Title": "「파멸」 전투 복귀",
+            "Voice": "2라운드를 시작하지"
         },
         {
-            "Title": "Health Recovery (Destruction)",
-            "Voice": "Much better."
+            "Title": "「파멸」 HP 회복",
+            "Voice": "많이 나아졌어"
         },
         {
-            "Title": "Technique (Destruction)",
-            "Voice": "Keep at it."
+            "Title": "「파멸」 비술",
+            "Voice": "조금만 더 버텨"
         },
         {
-            "Title": "Weakness Break (Preservation)",
-            "Voice": "Time to go on the offensive."
+            "Title": "「보존」 전투 시작•약점 격파",
+            "Voice": "공격할 때가 왔군"
         },
         {
-            "Title": "Battle Begins: Danger Alert (Preservation)",
-            "Voice": "Stay alert."
+            "Title": "「보존」 전투 시작•위험 경보",
+            "Voice": "경계태세"
         },
         {
-            "Title": "Turn Begins 1 (Preservation)",
-            "Voice": "Lance at the ready."
+            "Title": "「보존」 턴 시작•1",
+            "Voice": "랜스, 전투 준비"
         },
         {
-            "Title": "Turn Begins 2 (Preservation)",
-            "Voice": "I'm on guard."
+            "Title": "「보존」 턴 시작•2",
+            "Voice": "내가 수호하지"
         },
         {
-            "Title": "Turn Idling (Preservation)",
-            "Voice": "Don't lose momentum."
+            "Title": "「보존」 턴 대기",
+            "Voice": "전세를 너무 오래 끌었어"
         },
         {
-            "Title": "Basic ATK (Preservation)",
-            "Voice": "To the finish!"
+            "Title": "「보존」 일반 공격",
+            "Voice": "관통!"
         },
         {
-            "Title": "Enhanced Basic ATK (Preservation)",
-            "Voice": "Fracture!"
+            "Title": "「보존」 일반 공격 강화",
+            "Voice": "지면 균열!"
         },
         {
-            "Title": "Skill 1 (Preservation)",
-            "Voice": "Indestructible."
+            "Title": "「보존」 전투 스킬•1",
+            "Voice": "난공불락"
         },
         {
-            "Title": "Skill 2 (Preservation)",
-            "Voice": "Defend the weak."
+            "Title": "「보존」 전투 스킬•2",
+            "Voice": "약자를 돕는 강자"
         },
         {
-            "Title": "Hit by Light Attack (Preservation)",
-            "Voice": "Not a scratch."
+            "Title": "「보존」 약공격 피격",
+            "Voice": "지장 없어"
         },
         {
-            "Title": "Hit by Heavy Attack (Preservation)",
-            "Voice": "I'm... okay."
+            "Title": "「보존」 강공격 피격",
+            "Voice": "난… 괜찮아"
         },
         {
-            "Title": "Ultimate: Activate (Preservation)",
-            "Voice": "Lance ablaze."
+            "Title": "「보존」 필살기•활성화",
+            "Voice": "랜스가 불타고 있어"
         },
         {
-            "Title": "Ultimate: Unleash (Preservation)",
-            "Voice": "Flaming lance! Forward!"
+            "Title": "「보존」 필살기•발동",
+            "Voice": "화염의 랜스! 돌격!"
         },
         {
-            "Title": "Downed (Preservation)",
-            "Voice": "I have to keep... going..."
+            "Title": "「보존」 전투 불능",
+            "Voice": "버… 버텨야 해…"
         },
         {
-            "Title": "Return to Battle (Preservation)",
-            "Voice": "I won't fall back."
+            "Title": "「보존」 전투 복귀",
+            "Voice": "후퇴는 없어"
         },
         {
-            "Title": "Health Recovery (Preservation)",
-            "Voice": "Nice teamwork."
+            "Title": "「보존」 HP 회복",
+            "Voice": "괜찮은 호흡인걸"
         },
         {
-            "Title": "Technique (Preservation)",
-            "Voice": "Will of Preservation!"
+            "Title": "「보존」 비술",
+            "Voice": "보존의 의지!"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Reach the end of the story in your own way."
+            "Title": "전투 승리",
+            "Voice": "네 의지로 결말에 도달해 봐"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Looks good."
+            "Title": "전리품 오픈•1",
+            "Voice": "꽤 괜찮아 보이네"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Is that all?"
+            "Title": "전리품 오픈•2",
+            "Voice": "이게 끝인가?"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Great, the more the better."
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "좋아, 다다익선이지"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "So that's how it works..."
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "그런 거였구나……"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "No match for me!"
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "이 정도는 거뜬해"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "We need a strategy."
+            "Title": "적 발견",
+            "Voice": "어떻게 대적해야 할지 생각해 봐야겠어"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "It's getting late. Where to now?"
+            "Title": "도시로 복귀",
+            "Voice": "아직 이른데 이제 어디 가지?"
         }
     ]
 }

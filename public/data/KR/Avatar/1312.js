@@ -915,23 +915,23 @@ var _story_ = {
     "1312": [
         {
             "_id": 1,
-            "Story": "A lovable and thoughtful bellboy at The Reverie Hotel. He wishes to become an intergalactic adventurer like his grandfather.<br>He is extremely hardworking and is skilled at fixing a variety of machines. He also has a fondness for listening to the interstellar rumors the guests share with him.<br>He hopes he can grow up faster and looks forward to embarking on his star-treading journey."
+            "Story": "착하고 얌전한 「레버리 호텔」의 벨보이. 할아버지처럼 은하 모험가가 되는 것이 꿈이다.<br>일을 열심히 하고 각종 기계를 수리하는 데 특히 능숙하며, 호텔 투숙객이 들려주는 우주 이야기를 아주 좋아한다.<br>빨리 어른이 돼서 언젠가 뭇별을 탐사하는 여정에 오르기를 바라고 있다"
         },
         {
             "_id": 2,
-            "Story": "As the pocket watch struck six o'clock in the morning, the familiar aroma of milk and toast wafted into his narrow bedroom from the kitchen.<br><br>With the impending arrival of guests, he hurriedly rose from bed and positioned himself at the doorway. The scent of motor oil, leather, and tobacco greeted him as several tall figures entered the threshold.<br><br><i>\"W—Welcome...\"</i><br><br>The adventurers, who had journeyed from distant planets, paid little attention to the small figure welcoming them at the door, engrossed in their animated tales of peculiar encounters. These stories never failed to stir Misha's emotions, attracting his attention.<br><br><i>\"Have you seen a massive beam coming down from the sky and burn through a lush planet?... I was actually right there, and our ship got blasted away by the insane gust of wind... I risked my life to snap some photos...\"<br>\"Hah, let me tell you, that's nothing compared to the crazy stuff I've experienced. Once, I ventured into this abyss in the Memory Zone. It was like a total nightmare, with all these unimaginable monsters and even ghosts lurking around...\"<br>\"You think that's scary? Try witnessing the Swarm that completely blots out the entire sky! I barely made it out alive from that hellish encounter. And guess what? The whole dang planet got wiped out...\"</i><br><br>Enviously listening to these tales, whether genuine or fabricated, Misha mustered the courage to speak up.<br><i>\"Um... Excuse me, but if I want to venture into the galaxy, what should I learn?\"</i><br>The conversation came to a halt, and several explorers turned their gaze towards him.<br><i>\"What did you say, kiddo? You want to explore the galaxy?\"<br>\"Yeah... I wish I could become an adventurer... Just like my grandpa.\"<br>\"That's quite an ambition! Hahaha!\"<br>\"Hey, kiddo, this line of work is no joke. You'll need to learn how to handle weapons, fix things on the fly, and navigate through all sorts of obstacles. It requires a wealth of knowledge!\"<br>\"I understand... Grandpa's always complaining about getting lost and machines breaking down. Maybe I can start by addressing those issues...\"<br>\"Hey, just stop scaring that little one.\"</i><br>The elderly man at the forefront cleared his throat and turned his attention to Misha.<br><i>\"You can learn everything you need, but you really need to think if this is truly what you desire. Are you truly eager to achieve it? And how long are you willing to stick with it? Those are the most crucial questions, little one.\"</i>"
+            "Story": "회중시계가 아침 6시를 가리키자, 주방에서 우유 데우는 냄새와 빵 굽는 냄새가 평소처럼 그의 좁은 침실까지 풍겨왔다.<br><br>곧 손님들이 도착할 것이다. 그는 침대에서 허둥지둥 일어나 문 앞에 섰다. 그러자 기름, 가죽, 담배 냄새가 풍겨왔고, 그가 미처 입을 열기도 전에 우람한 사람 몇 명이 문턱을 넘어 안으로 들어왔다.<br><br><i>「어… 어서 오세요……」</i><br><br>멀리서 온 모험가들은 큰 소리로 얼마 전에 겪은 모험담을 자랑하느라 입구에서 맞아주는 꼬맹이는 신경도 쓰지 않았다. 그 이야기들은 어째서인지 늘 그의 마음을 사로잡았고, 자꾸 고개 돌려 듣게 만들었다.<br><br><i>「하늘에서 거대한 빛이 내려와서 울창한 행성 하나를 뚫고 지나갔어…. 그때 내가 근처에 있었는데, 우주선이 충격파에 맞아 날아갔지. 죽음을 무릅쓰고 겨우 사진 몇 장을 찍었다니까……」<br>「그건 아무것도 아니야. 내가 겪은 게 진짜 무시무시하거든. 우주 여행 중에 바닥이 안 보일 정도로 깊은 기억의 영역에 빠진 적이 있는데, 안에 평생 처음 보는 괴물들로 바글바글하더라니까. 심지어 유령 같은 사람도 있었다고……」<br>「그런 건——약과지! 너희 하늘을 뒤덮은 곤충 떼 본 적 있어? 난 거기서 살아서 돌아온 사람이야. 그땐 행성 하나가 통째로 멸망했다고……」</i><br><br>부러워하며 진짜인지 가짜인지 모를 허풍을 듣던 그는 드디어 용기 내 입을 열었다——<br><i>「저… 실례지만, 은하에서 모험하기 위해 배워야 할 것들이 있나요?」</i><br>그러자 대화 소리가 멈추더니 사람들이 약속이나 한 듯 그를 바라보았다.<br><i>「이봐, 꼬맹이, 너도 은하 모험을 하고 싶나?」<br>「네… 저는 은하를 돌아다니는 모험가가 되고 싶어요. 저희… 할아버지처럼요」<br>「사기가 대단하네, 하하하!」<br>「꼬맹아, 이 일은 절대 쉽지 않아. 무기도 다뤄야 하고, 스스로 물건도 고치고 방향도 식별할 수 있어야 하지. 배워야 할 게 아주 수두룩하다고!」<br>「알아요…. 할아버지도 항상 경로를 이탈하거나 이동 수단이 고장 난다며 불평하셨거든요. 어쩌면 제가 해결법을 배울 수 있을지도 모르죠……」<br>「하여간, 항상 애들한테 겁을 준다니까」</i><br>우두머리로 보이는 노인이 목을 가다듬고는 미샤를 바라보았다.<br><i>「뭐든지 천천히 배우면 된단다. 다만 그게 정말 너의 꿈인지, 그 꿈이 얼마나 갈 수 있는지를 잘 생각해 보거라. 그게 가장 중요한 문제니까」</i>"
         },
         {
             "_id": 3,
-            "Story": "As the pocket watch struck two o'clock in the afternoon, signaling the end of his duties, he changed his overalls and started the task of overhauling the machinery.<br><br>Walder led the way, occasionally pausing to tap on intricate mechanisms. Misha followed closely behind, attuned to the noises emanating from the machinery and adeptly locating the issues.<br><br>Today's assignment involved repairing a multitude of broken clocks, rusty, discarded, missing gears, or shattered. To Misha, they appeared as lost sailors desperately in need of guidance.<br><br><i>\"Please head west, Mr. Wall Clock... And hey, Mrs. Pocket Watch! Please don't stop there!\"<br>\"Mr. Alarm Clock, please have a meal before resuming, and you three ladies over there, please follow Mr. Pocket Watch!\"</i><br>At that moment, all the malfunctioning clocks sprang to life. Misha turned the wheels and adjusted the hands, as if he were a captain navigating the sea of time.<br><i>\"Captain Misha, we're back on track!\"<br>\"The fog has lifted! We're about to reach our destination.\"<br>\"Let's keep sailing! The sea won't hinder us!\"</i><br>In Misha's eyes, the clocks seemed to possess lives of their own, expressing their delight in moving forward.<br><br>Walder smiled and patted his head.<br><i>\"Looks like I won't have to worry about time here. After all, you are the captain of these clocks.\"</i>"
+            "Story": "회중시계가 오후 2시를 가리키자, 그는 청소와 손님맞이 업무를 동료에게 맡긴 후, 작업복으로 갈아입고 기계를 점검하기 시작했다.<br><br>앞에서 걷던 월더 아저씨가 이따금 멈춰서 복잡한 기계들을 두드리면, 그는 종종걸음으로 그 뒤에 따라붙어 작동 중인 기계의 잡음을 들으며 정확하게 문제를 짚어냈다.<br><br>오늘의 임무는 고장 난 시계들을 수리하는 것이었다. 녹이 슨 것, 폐기된 것, 톱니바퀴가 빠진 것, 부서진 것 모두 미샤의 눈에는 올바른 길로 인도해 줄 사람이 필요한 방향을 잃은 선원처럼 보였다.<br><br><i>「벽시계 씨, 서쪽으로 가세요. 앗, 회중시계 부인은 멈추지 마세요!」<br>「자명종 씨, 배부터 채우고 움직이세요. 거기 손목시계 아가씨 세 분은 회중시계 씨랑 같이 가세요!」</i><br>그러자 갑자기 망가진 시계들이 전부 움직이기 시작했다. 그는 다이얼을 움직여 시곗바늘을 조정했고, 그 모습은 마치 시간의 바다를 여행하는 선장 같았다.<br><i>「미샤 선장님, 이제 방향이 맞습니다!」<br>「드디어 안개에서 벗어났어요. 바다를 지나면 바로 종착지입니다!」<br>「계속 갑시다! 바다도 우리의 걸음을 멈출 수 없어요!」</i><br>미샤의 눈에 시계들은 마치 생명과 의지를 가진 듯, 앞을 향해 나아가는 기쁨을 표현하고 있었다.<br><br>월더가 미소 지으며 그의 머리를 쓰다듬었다.<br><i>「이곳의 시간이 흐트러질 걱정은 안 해도 될 것 같구나. 그야 너라는 항해사가 있으니까」</i>"
         },
         {
             "_id": 4,
-            "Story": "As the pocket watch struck seven o'clock in the evening, Misha finished his supper and settled onto the cot that had been modified from a cupboard.<br>Gazing into the darkness surrounding him, he listened to the ceaseless ticking of the pocket watch — the most blissful hours of his day. No work, no reality, only unrestricted flights of fantasy.<br><br>After traveling through the fog, his fantasy story reached the most exciting part of the sea battle. He extended his hands, pulling back his companions who had been knocked over by the waves, and he drew another line across the canvas as if vanquishing a sea monster...<br><br><i>\"Captain, Captain, wake up, it's clearing up!\"</i><br>He rubbed his eyes and looked incredulously at the sight before him.<br>A golden pocket watch, which had transformed into a figure with arms and legs, dressed in a uniform and a red bow tie, beckoned him over.<br>A silver mirror lady reflected him, adjusting her gown and peering through binoculars at the distant scene.<br>The storm from the previous night had disappeared without a trace. A refreshing sea breeze fluttered Misha's uniform, and in the distance, they could see the outline of the New World.<br><br><i>\"Look, Captain, the coast is not far off!\"</i><br>Taking Misha's hand, Mr. Pocket Watch and Miss Mirror gracefully leaped onto the clouds. Before he could react, the three of them were airborne, gazing at the boundless sea and the crescent-shaped continent below them. Mr. Pocket Watch and Miss Mirror cheered, pulling Misha into a joyful tap dance. He held his companions' hands tightly, his heart filled with amazement and joy.<br><br><i>\"Are... Are you my companions?\"<br>\"Yeah, we've faced countless challenges and gotten lost many times along the way, but we've finally found the New World!\"</i><br>...<br><br>At dawn, Misha woke up from his dream, a tear rolled down from the corner of his eye.<br>Looking around his bedroom, he noticed the pocket watch pressed against his chest, and the mirror had fallen off the wall.<br>Wiping away the tears, Misha felt as if he had lost nothing, yet he had lost everything."
+            "Story": "회중시계가 저녁 7시를 가리키자, 그는 일찌감치 저녁을 먹고 찬장을 개조해 만든 조그만 침대에 누웠다.<br>그는 눈앞의 어둠을 바라보며 영원히 변하지 않는 회중시계의 째깍거리는 소리에 귀를 기울였다. 이 시간이 바로 일도 현실도 없고, 가장 자유로운 환상만 있는——그의 가장 행복한 시간이었다.<br><br>안개를 뚫고 나온 후, 그의 환상 속 이야기는 가장 흥미진진한 해전 파트에 이르렀다. 그는 두 손을 뻗어 파도에 전복된 동료를 끌어당겼고, 화면에 가로선을 찍 그었다. 마치 그렇게 하면 바닷속 괴물을 쓰러뜨릴 수 있는 것처럼 말이다……<br><br><i>「선장님, 선장님. 일어나세요. 날이 갰습니다!」</i><br>그는 눈을 비비며 믿을 수 없다는 듯이 눈앞의 광경을 바라보았다.<br>손발이 생긴 한 금색 회중시계가 제복을 입고 빨간 리본을 맨 채 그를 부르고 있었다.<br>미샤의 모습을 비추고 있는 은색 거울은 자신의 긴 치마를 매만지며 망원경으로 먼 곳을 관찰하고 있었다.<br>어젯밤의 폭풍은 사라졌고, 시원한 바닷바람이 그의 제복에 스쳤다. 그리고 저 멀리 신대륙의 윤곽이 보였다.<br><br><i>「선장님, 보세요. 이제 육지가 코앞이에요!」</i><br>시계 보이와 거울 아가씨가 그의 손을 잡고 가볍게 뛰어올랐다. 그가 미처 반응하기도 전에 세 사람은 함께 구름 위로 뛰어올랐다. 시계 보이와 거울 아가씨는 발아래에 끝없이 펼쳐진 바다와 초승달 같은 대륙을 보며 환호했고, 그의 손을 잡고 함께 탭댄스를 추기 시작했다. 그는 놀랍고도 기쁜 마음으로 동료들의 손을 꼭 잡았다.<br><br><i>「다… 당신들은 제 동료인가요?」<br>「그럼요, 그동안 같이 수많은 어려움을 겪고 방향도 여러 차례 잃었지만, 드디어 신대륙에 도착했네요!」</i><br>……<br><br>날이 밝자 꿈에서 깨어난 그의 눈꼬리에서 눈물 한 방울이 흘러내렸다.<br>침실을 둘러보니, 회중시계가 가슴을 누르고 있었고 거울이 벽에서 떨어져 있었던 것이다.<br>그는 눈물을 닦았다. 아무것도 잃지 않은 것 같으면서, 또 모든 것을 잃은 것 같기도 했다"
         },
         {
             "_id": 5,
-            "Story": "As the pocket watch struck six o'clock again in the morning, the familiar aroma of milk and toast wafted into his narrow bedroom from the kitchen as usual.<br><br>He had settled into this life, burying his dreams deep within his heart. He was no longer easily captivated by the stories of the guests, nor did he hold onto the hope of his grandfather's immediate return.<br><br><i>\"Maybe that's how adults are. They don't keep their promises, and they don't really want to listen to children.\"</i><br>He took the guests' suitcases and bags. The guests walked away without a second glance, leaving him alone and muttering to himself.<br><br>He went back to his room of clocks and checked the various clocks displaying different times from different time zones as usual. He stared blankly at the wall full of clocks, imagining the stories and worlds that existed within them. Lost in thoughts of these fantastical realms, he unfolded a drawing paper and began sketching the adventures he experienced with his imaginary companions.<br><br>That was the end of the story.<br><br><i>\"Farewell, my companions! I'll stay in the New World, and once it's fully built, I'll continue traveling with you to other new worlds!\"<br>\"Farewell, Captain Misha! May our paths cross again!\"</i><br>All his companions left except his ever-excited first mate, Mr. Pocket Watch, and the gentle Miss Mirror. They had navigated through the mists and across the sea together. In crucial moments, Misha had steered their ship in the right direction. Now, the child named Misha would embark to build a new kingdom on a new continent until the opportunity arose for another journey.<br><br><i>\"If I'm to draw something else, my next creation will be about the adventures in the new world.\"</i><br>As he finished the last stroke, he sensed some kind of familiar sound paired with vibrations, as if a colossal being had emerged from the depths of the universe and landed outside the hotel gate.<br><br>He dropped his brushes, opened the door, and ran out...<br><br><i>\"Welcome to...\"</i><br><br>The Astral Express, glistening in the morning light, tiredly, proudly waited there, parked and quiet.<br>...Just like in the dream."
+            "Story": "회중시계가 다시금 아침 6시를 가리키자, 주방에서 우유 데우는 냄새와 빵 굽는 냄새가 평소와 같이 그의 좁은 침실까지 풍겨왔다.<br><br>그는 이곳의 생활에 완전히 녹아들어 자신의 꿈을 마음 깊이 묻어 두었다. 그리고 더는 손님들의 이야기에 쉽게 흥분하지 않았고, 할아버지가 금방 돌아오실 것이라는 기대도 하지 않았다.<br><br><i>「어른들은 다 그런 걸지도 몰라. 약속도 안 지키고, 아이들의 말을 진지하게 듣지도 않아」</i><br>그는 손님들의 짐을 받아들었다. 손님들은 그를 쳐다보지도 않고 가버렸고, 그는 그곳에 홀로 남아 중얼거렸다.<br><br>그는 시계가 있는 방으로 돌아가 평소처럼 시계들을 검사했다. 시각대별로 시간이 달랐는데, 그는 멍하니 벽을 가득 채운 시계들을 바라보며 그 세계들에서 일어나고 있을 일들을 상상했다. 그렇게 상상의 나래를 펼치던 그는 종이를 펴 자신이 상상 속 동료들과 겪은 이야기를 그려나갔다.<br><br>그건 이미 이야기의 끝이었다.<br><br><i>「안녕, 친구들! 전 신대륙에 남을 거예요. 이곳의 건설이 끝나면 또 함께 새로운 세계로 가요!」<br>「안녕히 계세요, 미샤 선장님! 인연이 되면 또 만나요!」</i><br>다른 동료들은 떠났지만, 펄쩍펄쩍 뛰는 시계 보이와 상냥한 거울 아가씨는 남았다. 그는 이 동료들을 이끌어 안개를 헤치며 바다를 가로질렀고, 위험한 순간마다 나침반을 조정해 올바른 방향으로 이끌었다. 이제 미샤라는 아이는 다시 여정에 오를 기회가 올 때까지 새로운 대륙에서 새로운 나라를 건설할 것이다.<br><br><i>「계속 그리려면 2편은 일단 신대륙 모험기로 해야겠다」</i><br>그가 마지막 한 획을 그렸을 때 어떤 익숙한 소리와 떨림이 들려왔다. 마치 우주 깊은 곳에서 온 거대한 무언가가 호텔 문밖에 멈춘 것 같았다.<br><br>그는 붓을 던지고는 문을 열고 달려 나갔다——<br><br><i>「안녕하세요. 환영합……」</i><br><br>아침 햇살 아래, 반짝이는 은하열차는 지친 듯, 자랑스럽게, 조용하게 그곳에 멈춰 있었다.<br>——마치 「꿈」속에서처럼"
         }
     ]
 }
@@ -939,184 +939,188 @@ var _story_ = {
 var _voice_ = {
     "1312": [
         {
-            "Title": "First Meeting",
-            "Voice": "Hi there, I'm Misha, a bellboy at The Reverie Hotel. Welcome to Penacony. This way. Oh, here, let me grab those bags for you!"
+            "Title": "첫 만남",
+            "Voice": "전 「레버리 호텔」의 벨보이 미샤예요. 페나코니에 오신 것을 환영합니다. 이쪽으로 오세요, 짐가방은 제가 옮겨드리겠습니다!"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Trailblazer, did you rest well? If there's anywhere you want to go, please, don't hesitate to come find me!"
+            "Title": "인사",
+            "Voice": "{NICKNAME} 님, 안녕하세요. 잘 쉬고 계신가요? 가고 싶은 곳이 있으면 언제든 절 찾아주세요!"
         },
         {
-            "Title": "Parting",
-            "Voice": "I should get back to work. We... we'll have another chance to meet, won't we?"
+            "Title": "작별",
+            "Voice": "미샤는 마저 일하러 갈게요. 저희… 다시 만날 수 있는 거죠?"
         },
         {
-            "Title": "About Self: Work",
-            "Voice": "Working at The Reverie is awesome! I get to meet a bunch of people from really far away, and hearing about their adventures is fascinating!"
+            "Title": "자신에 대해•업무",
+            "Voice": "전 「레버리 호텔」에서 일하는 게 좋아요! 여긴 멀리서 온 손님들도 많이 만날 수 있고, 모험 이야기도 들을 수 있어서 정말 좋아요……"
         },
         {
-            "Title": "About Self: Future",
-            "Voice": "I'm going to work really hard, so I can save up and explore the stars just like grown-ups do!"
+            "Title": "자신에 대해•미래",
+            "Voice": "미샤는 열심히 일할 거예요. 저축을 많이 해서 나중에 어른들처럼 뭇별 사이를 여행하며 탐험하고 싶어요!"
         },
         {
-            "Title": "Chat: Repairs",
-            "Voice": "After a while, the machinery tucked away in the corners of the hotel tends to break down... But if I can fix them, I will. I don't like to swap out old parts for new..."
+            "Title": "잡담•수리",
+            "Voice": "시간이 지나면 호텔 구석구석에 있는 기계들도 고장 나죠…. 고칠 수 있다면 새 부품으로 바꾸고 싶지 않아요……"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I make sure to read every issue of Stellar Cartography Magazine... in the most recent one there's a huge whale that can actually eat entire planets, it's incredible! I'm not sure when I'll get to read the next issue..."
+            "Title": "취미",
+            "Voice": "은하 지리 잡지는 항상 챙겨봐요…. 특히 가장 최신 호에 나온 큰 고래는 행성도 삼킨다고 하더라고요. 정말 대단해요! 다음 호는 언제 볼 수 있을까요……"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "He's already late... I wonder where Grandpa has gotten to..."
+            "Title": "고민",
+            "Voice": "약속 시간이 지났는데, 할아버지는 언제 집에 돌아오시는 거죠……"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "When I was little, I used to sneak sips of SoulGlad, and by the time Grandpa found out, I already had cavities... So, we definitely shouldn't drink too much... Wait, actually it's okay for adults, but little kids shouldn't drink it!"
+            "Title": "공유",
+            "Voice": "어렸을 때 몰래 솔글래드를 마시곤 했어요. 할아버지께 들켰을 땐 충치가 생긴 뒤였죠…. 그러니까 솔글래드는 너무 많이 마시면 안 돼요…. 아니, 어린이는 안 되지만, 어른들은 괜찮아요!"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "I often hear people talking about \"Trailblazing,\" like it's finding new places no one's been before. Penacony's had its share of finding new cool stuff too, like how tasty SoulGlad is, and the awesome shows by the Sweet Dreams Troupe! All of that was figured out by some serious \"Trailblazing.\" It sure wasn't a walk in the park..."
+            "Title": "견문",
+            "Voice": "「개척」은 새로운 영역을 열어 나가는 거라고 들었어요. 페나코니도 비슷한 역사를 겪었죠——솔글래드의 맛, 좋은꿈 극단의 공연, 모두 하나하나 「개척」해 이룬 거예요…. 쉬운 게 하나도 없네요……"
         },
         {
-            "Title": "About Trailblazer",
-            "Voice": "The job at The Reverie can get pretty hectic, but it's also how I get to meet interesting new friends like you, Trailblazer!"
+            "Title": "{NICKNAME}에 대해",
+            "Voice": "「레버리 호텔」의 일은 바쁘지만, 그래도 덕분에 {NICKNAME} 님 같은 친구를 만날 수 있죠!"
         },
         {
-            "Title": "About Robin",
-            "Voice": "The songs of Miss Robin have the power to carry people to faraway places, beyond even the most beautiful dreams. I... I'll always be a fan of Miss Robin!"
+            "Title": "로빈에 대해",
+            "Voice": "로빈 씨의 노랫소리는 사람을 좋은꿈에서도 닿을 수 없는 곳으로 데려가줘요. 저… 전 언제나 로빈 씨를 응원해요!"
         },
         {
-            "Title": "About Sunday",
-            "Voice": "Well, despite his young age, Mr. Sunday is already big deal in Penacony. Just watching him from afar can make you feel overwhelmed..."
+            "Title": "선데이에 대해",
+            "Voice": "선데이 씨는 젊은 나이임에도, 벌써 페나코니의 거물이시죠…. 옆에서 보기만 해도 스트레스가 배로 느껴져요……"
         },
         {
-            "Title": "About Gallagher",
-            "Voice": "It's typical to see Gallagher immersed in his work on the streets of Penacony. He's always been so responsible and committed."
+            "Title": "갤러거에 대해",
+            "Voice": "페나코니의 거리에선 갤러거 씨가 일하는 모습을 자주 볼 수 있죠. 항상 열심히 책임을 다하는 분이세요"
         },
         {
-            "Title": "About the Nameless",
-            "Voice": "Grandpa told me, it's never too late to have a dream, he said what matters is how much you aspire to make it come true. I'll never forget this — there will come a day when I'll make both my and Grandpa's dreams a reality!"
+            "Title": "무명객에 대해",
+            "Voice": "할아버지가 꿈은 언제 시작해도 늦지 않다고 하셨어요. 중요한 건 꿈을 실현하고자 하는 소망의 깊이래요. 미샤, 꼭 기억했다가 언젠가 저와 할아버지의 꿈을 이룰 거예요!"
         },
         {
-            "Title": "About Clockie",
-            "Voice": "Let me tell you a secret, Clockie is actually real, he isn't just an imaginary friend I made up!"
+            "Title": "시계 소년에 대해",
+            "Voice": "살짝 알려드리는 건데, 시계 소년은 실재해요. 제 상상 속의 친구가 아니랍니다!"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "The one thing I look forward to? Growing up, of course!"
+            "Title": "성혼 활성화",
+            "Voice": "미샤는 빨리 컸으면 좋겠어요"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Yes! I feel like I'm getting closer to my dreams!"
+            "Title": "캐릭터 승급",
+            "Voice": "꿈에 점점 가까워지고 있어요"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Wait, am I really that impressive? This has to be a dream!"
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "저도 이렇게 대단해질 수 있다니! 이거 꿈은 아니죠…?"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Yes! Another chance to learn something new!"
+            "Title": "행적 활성화",
+            "Voice": "좋아요, 또 새로운 걸 배울 수 있네요!"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "Is that Trailblazer? Yes! Finally, we get to fight side by side!"
+            "Title": "파티 편성•{NICKNAME}",
+            "Voice": "{NICKNAME} 님? 드디어 함께 싸우게 됐네요!"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Come on, I can do this...!"
+            "Title": "파티 편성•갤러거",
+            "Voice": "갤러거 씨도 있네요? 보세요, 이제 저도 당신처럼 모두를 지킬 수 있어요!"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "S—Sorry! Please don't be angry..."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "단숨에 해결…!"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Let's dive into today's duties!"
+            "Title": "전투 시작•위험 경보",
+            "Voice": "손님, 화내지 마세요…"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "I hope I don't mess this up..."
+            "Title": "턴 시작•1",
+            "Voice": "오늘의 일을 시작해보자…!"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "I'll never get the job done at this rate..."
+            "Title": "턴 시작•2",
+            "Voice": "이번엔 망치지 않길…"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "E—Excuse me, please...!"
+            "Title": "턴 대기",
+            "Voice": "이러다가 일이 안 끝나겠어요…"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Uh, I'm on it — cleaning up now!"
+            "Title": "일반 공격",
+            "Voice": "지… 지나갈게요!"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Gotta keep things neat and tidy!"
+            "Title": "전투 스킬•1",
+            "Voice": "지금 당장 치울게요!"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "P—Please be polite..."
+            "Title": "전투 스킬•2",
+            "Voice": "항상 깔끔해야 해요!"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Hey! That wasn't very nice..."
+            "Title": "약공격 피격",
+            "Voice": "예, 예의를 지켜주세요……"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "How much time do I have...?"
+            "Title": "강공격 피격",
+            "Voice": "손대지 마세요……"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Not again! I'm running late, ahhh...! Sorry..."
+            "Title": "필살기•활성화",
+            "Voice": "시간이 얼마나 남았을까요…"
         },
         {
-            "Title": "Downed",
-            "Voice": "I tried my best..."
+            "Title": "필살기•발동",
+            "Voice": "또, 또 늦었어요, 으아아아——! 죄송해요…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "You won't be disappointed this time!"
+            "Title": "전투 불능",
+            "Voice": "대접이… 미흡했어요"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Oh, sorry for bothering you..."
+            "Title": "전투 복귀",
+            "Voice": "이번엔 실망스럽지 않을 거예요…!"
         },
         {
-            "Title": "Technique",
-            "Voice": "Please, wait a sec!"
+            "Title": "HP 회복",
+            "Voice": "번거롭게 해 드렸네요…"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Another job in the bag."
+            "Title": "비술",
+            "Voice": "잠깐만요…!"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Did a guest leave this behind...?"
+            "Title": "전투 승리",
+            "Voice": "이번 일도 무사히 끝냈네…"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "They left such a generous tip...!"
+            "Title": "전리품 오픈•1",
+            "Voice": "어떤 손님의 분실물일까요…?"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "I can't possibly take something this valuable..."
+            "Title": "전리품 오픈•2",
+            "Voice": "팁이 이렇게나 많다니…!"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "All done!"
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "이, 이렇게 귀한 걸! 받을 수 없어요…"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "I might have cracked the code."
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "다 됐어요!"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Looks like a troublesome guest..."
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "요령이 생긴 것 같아요"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Time for a well-deserved break."
+            "Title": "적 발견",
+            "Voice": "상대하기 힘든 손님이 있는 것 같네요…"
+        },
+        {
+            "Title": "도시로 복귀",
+            "Voice": "일도 다 끝났으니 이제 푹 쉬세요"
         }
     ]
 }

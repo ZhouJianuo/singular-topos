@@ -417,23 +417,23 @@ var _story_ = {
     "1013": [
         {
             "_id": 1,
-            "Story": "Herta space station's true master.<br>As the human with the highest IQ on the Blue, she only does what she's interested in, dropping projects the moment she loses interest — the best example being the space station.<br>She typically appears in the form of a remote-controlled puppet.<br>\"It's about seventy percent similar to how I looked as a child.\" — Herta"
+            "Story": "宇宙ステーション「ヘルタ」の真の主。<br>「ブルー」で最もIQが高い人間で、自分が興味を持ったことにしか手を付けず、一旦興味を失えばすぐに離れてしまう——宇宙ステーションがその最たる例である。<br>普段は遠隔で操作できる人形の姿で登場する。「私の幼少期と比べると、7割くらいは似てるかな」——とは、ヘルタ本人談。"
         },
         {
             "_id": 2,
-            "Story": "Madam Herta's manuscripts are extremely valuable assets.<br><br>Its core rarity is not in how Madam Herta rarely pens to paper, but because to a genius like her, nothing is ever worth recording.<br><br>Scientific research that would take normal researchers ten years — or even a lifetime — to achieve may be able to shed light on an entirely new domain of research, but they are to Herta as ordinary as turning on a LED light. Who would waste time trying to systematically record such trivial matters?<br><br>It's not just Madam Herta — any documentation written by a Genius Society member is a priceless treasure. However, Herta is more generous and more understanding toward normal people like us. She leaves her handwritten drafts behind in random places around the space station with as much generosity as she allows researchers to study the Curios she collected.<br><br>Of course, we all firmly understand that Madam Herta isn't being lazy and just discarding incomplete drafts around the place. It's so she can claim to investors with plausible deniability that <i>\"I've finished writing that paper, but can't find it anywhere.\"</i>"
+            "Story": "ミス・ヘルタの手稿は極めて貴重な資産である。<br><br>その根底にあるのは、ミス・ヘルタが紙に記録するために滅多に時間を割かないということではなく、彼女のような天才にとって、世の中には記録に値する物事がほとんどないということだ。<br><br>普通のスタッフたちが 10 年、もしくは一生を費やしてようやく得られる研究成果は、いずれ未知の科学領域を照らす光になるかもしれない。しかし、それは彼女にとって適当に省エネランプを灯したようなもの。一体どこの誰が時間を無駄にしてまで、そんな些細なことを体系的に記録するのだろうか？<br><br>ミス・ヘルタだけでなく、「天才クラブ」のメンバーの文献のほとんどは何より貴重なものである。しかし、ミス・ヘルタはさらに寛大で、より凡人のことを理解している。彼女は自分の手稿を宇宙ステーションのあちこちに置き、集めた奇物や珍品を全スタッフに開放するくらい「気前がいい」のだ。<br><br>もちろん、それは決してミス・ヘルタが著書を完成させるのが面倒だからと、適当に書いた原稿を適当な場所に放置して、投資側に説明する時に<i>「書き終わったけど、失くした」</i>と言い訳できるようにするためではないと、私たちは信じている。"
         },
         {
             "_id": 3,
-            "Story": "Everybody knows that qualifying as a researcher on the Herta space station is a cherished goal of the wider scientific community. Today, we're interviewing its owner, Madam Herta. First of all, can you please tell us what was your motivation for setting up a scientific research oasis like this?<br><br><i>\"I have so much stuff, and nowhere to put it.\"</i><br><br>Ah, truly an unforeseen outcome! Even unintentional acts from the brilliant Madam Herta can benefit millions of ordinary people. However, evil will always strive in vain to destroy such a wondrous place. Madam Herta, what are your thoughts about the Antimatter Legion's last invasion?<br><br><i>\"Don't come back.\"</i><br><br>Oh... such a severe warning. This must form an indispensable part of Madam Herta's illustrious achievements. The mere Antimatter Legion dares to invade this space station — but you don't even deserve Madam Herta's attention! Let's move on to the next question, then!"
+            "Story": "皆さんご存知のように、宇宙ステーション「ヘルタ」の研究資格を得ることは多くの研究者の目標です。本日は宇宙ステーションの主、ミス・ヘルタにお話を伺いましょう。ミス・ヘルタ、このような研究のオアシスを設立したきっかけは何ですか？<br><br><i>「物が多くて、置く場所がなかったから」</i><br><br>ああ、つまり適当に植えた柳が大木になった、と！聡明なミス・ヘルタの何気ない行動ですら、多くの凡人に幸福をもたらすのですね。しかし、そういった素晴らしい楽園を破壊しようと企む悪者は、いつの時代にもいるもの…ミス・ヘルタ、前回の反物質レギオンの侵入についてどう思われますか？<br><br><i>「もう来ないで」</i><br><br>これは…このような厳しい警告は、ミス・ヘルタを形成する要素に違いありません。たかが反物質レギオンがミス・ヘルタの宇宙ステーションに侵入するなんて、烏滸がましいにもほどがある！では、次の質問に参りましょう！"
         },
         {
             "_id": 4,
-            "Story": "Recent research progress on the space station has been hampered by the impact of the accident. Several researchers have been blaming themselves for betraying Madam Herta's trust and preference. May I ask: Do you have anything you'd like to say to everyone?<br><br><i>\"Nope. Keep up the great work.\"</i><br><br>Everyone wishes to contribute to your scientific research, Madam Herta...<br><br><i>\"No thanks.\"</i><br><br>Indeed, no researcher could ever hope to match Madam Herta's scientific ability, which is why we're deeply impressed by your wisdom and insights. Could you please tell us, Madam Herta, whether you have any research recommendations for everyone? We'd love to learn from you!<br><br><i>\"No.\"</i><br><br>Madam Herta, your intellect and talents are obvious to all, but normal people like us could never hope to be like you... Could you please give us any pointers, such as in what domain we might devote our limited cognitive resources to?<br><br><i>\"You should go home and sleep.\"</i>"
+            "Story": "最近の宇宙ステーションの研究の進捗は、アクシデントに見舞われたせいで少し遅れてしまっています。多くのスタッフがミス・ヘルタの期待を裏切ったと自分を責めていますが…ミス・ヘルタ、それに関して皆さんに何か言いたいことはありますか？<br><br><i>「特にないかな。まあ、頑張って」</i><br><br>私たちはミス・ヘルタの研究に少しでも貢献しようと……<br><br><i>「必要ないから」</i><br><br>確かに私たちの研究はミス・ヘルタのそれに遠く及びません。だからこそ、私たちはあなたの知恵と卓見に感服しているのです。ミス・ヘルタ、研究に関するアドバイスはありますか？私たちはあなたから学びたいのです！<br><br><i>「ない」</i><br><br>ミス・ヘルタの知能の高さと卓越した才能は誰もが知っていますが、私たち凡人からすれば、あなたのようになることは不可能と言っても過言ではありません…ミス・ヘルタ、私たちに教えていただけませんか？例えば…私たちの知能に限界があるとしたら、どの分野に集中するべきでしょうか？<br><br><i>「家に帰って寝たら？」</i>"
         },
         {
             "_id": 5,
-            "Story": "Madam Herta, you are so considerate. Indeed, the research that Genius Society members conduct are so complex that ordinary people may not even be able to understand the papers' titles. So, let's talk about something else: The space station is filled with your loyal supporters. Everyone is curious about your personal situation. For example, the manuscript that you're writing — when are you planning on publishing the latest chapter?<br><br><i>\"I don't think it really matters, but more importantly — Elias Salas once said that the most challenging thing of all is self-improvement. So, let's examine this question more carefully: When writing a paper, the key question is how to write that paper —\"</i><br><br>Um... err... I see. But Madam Herta, we all love your book <i>How I Joined the Genius Society</i>...<br><br><i>\"I don't think it really matters, but more importantly — Zandar once said that even those who have made it to the top still need to practice self-improvement. So, let's examine this question more carefully: When considering joining the Genius Society, the question is how does one go about joining the Genius Society —\"</i><br><br>Are you in... auto-answering mode?<br><br><i>\"I don't think it really matters, but more importantly — Yu Qingtu once said that being an academic is a matter of ambition. So, let's examine this question more carefully: When considering what is called auto-answering mode, the question is how to automate the answers —\"</i>"
+            "Story": "やっぱりミス・ヘルタは親切ですね。確かに「天才クラブ」のメンバーが研究していることなんて、凡人には見出しすら理解できないでしょう。では、次の話題に移らせていただきます。宇宙ステーションにいる人々はミス・ヘルタの忠実な支持者であり、誰もがあなたのことについて知りたいと思っています。そこでミス・ヘルタにお聞きしたいのですが、最新章はいつ発表される予定ですか？<br><br><i>「それは大して重要なことじゃない。もっと重要なのは、イリアスサラスが言っていたように、自分を高めることほど大きな挑戦はないということ。だから私たちは原稿を書く時、どうやって書くのか、慎重に検討する必要がある——」</i><br><br>は、はあ…なるほど。しかしミス・ヘルタ、私たちはあなたの『私は如何にして天才クラブに入り、全てを認識するのか』という書籍に非常に関心を寄せていまして……<br><br><i>「それは大して重要なことじゃない。もっと重要なのは、ザンダーが言っていたように、たとえ頂点に上り詰めても、己を磨くことを怠ってはならないということ。だから私たちは天才クラブに入る時、どうやって加入するのか、慎重に検討する必要がある——」</i><br><br>これってもしかして…オート返答モードですか？<i><br><br>「それは大して重要なことじゃない。もっと重要なのは、余清塗が言っていたように、学ぶことは目標を達成することであるということ。だから私たちはオート返答をする時、どうやってオートにするのか、慎重に検討する必要がある——」</i>"
         }
     ]
 }
@@ -441,200 +441,200 @@ var _story_ = {
 var _voice_ = {
     "1013": [
         {
-            "Title": "First Meeting",
-            "Voice": "This is Herta. I'm busy right now. This is my ranged puppet's automated-response mode: Hello everyone. Hope you have a wonderful day. Goodbye."
+            "Title": "初対面",
+            "Voice": "私はヘルタ。今は忙しいから、リモート人形のオート返答機能に任せる。こんにちは、こんにちは、ごきげんよう、良い日になりますように。それじゃ。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Why not come around today and help me with my research? You'll be the subject, by the way."
+            "Title": "挨拶",
+            "Voice": "今日は一緒に研究しよう——私があなたを研究するの。"
         },
         {
-            "Title": "Parting",
-            "Voice": "*sigh* I've lost interest in your research potential for today. See you tomorrow."
+            "Title": "お別れ",
+            "Voice": "今日はもう、あなたに飽きたの。また明日にして。"
         },
         {
-            "Title": "About Self: Puppet",
-            "Voice": "What do you make of it? It's about seventy percent similar to how I looked as a child."
+            "Title": "自分について・人形",
+            "Voice": "可愛い？私の幼少期と比べると、7割くらいは似てるかな。"
         },
         {
-            "Title": "About Self: True Form",
-            "Voice": "Best not to ponder, you'll be scratching your chin all day."
+            "Title": "自分について・本体",
+            "Voice": "考えるだけ無駄よ。夜寝れなくなるだけ。"
         },
         {
-            "Title": "Chat: Genius Society",
-            "Voice": "The good thing about this club is that it doesn't ask me for anything. In fact, it doesn't even care if I'm a member."
+            "Title": "世間話・天才クラブ",
+            "Voice": "クラブの長所は、私に何も聞かないところ。それどころか、私を少しも気にしてないみたい。"
         },
         {
-            "Title": "Chat: Visiting an Aeon",
-            "Voice": "Why do I get to visit an Aeon? I'm Herta, that's why."
+            "Title": "世間話・星神への謁見",
+            "Voice": "星神に会えた理由？それは、私が「ヘルタ」だから。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "If you're not solving problems or writing up contributions, then don't blame me if your life is boring."
+            "Title": "趣味",
+            "Voice": "謎を解明しない上に原稿も書かないなら、無趣味な自分を恨むなって言いたいの？"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "I'm perfect enough already. What else do I need to prove? Of course, I could write a few more books... but what would I get out of that? Why should I bother?"
+            "Title": "悩み事",
+            "Voice": "私はもう完璧なのに、これ以上何をしろと言うの？書籍をもう何冊か出してもいいけど……私にとってはなんの役にも立たない。なんで無駄なエネルギーを使わなければいけないの？"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "The Intelligentsia Guild is always able to find a way to support their case, writing enough \"scholarship\" in one night to fill a library... This is a problem."
+            "Title": "シェア",
+            "Voice": "博識学会の人間はそれぞれが独り善がりな方法論を持ち、一晩で書き上げた1ページだけで図書館を築き上げてる。それが問題なの。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "The Lord of Silence erased the eyes from the portrait, but drew everyone's attention in the process."
+            "Title": "見聞",
+            "Voice": "「静寂の主」は肖像画の目を消したけど、それはかえって人々の注目を集めたのよ。"
         },
         {
-            "Title": "About Arlan",
-            "Voice": "Asta provided financial assistance to a few exceptional children — I assume Arlan was one of them."
+            "Title": "アーランについて",
+            "Voice": "アスターは特殊な事情がある子供たちを支援してた。アーランもそのうちの1人なんじゃない？"
         },
         {
-            "Title": "About Asta",
-            "Voice": "If my other collections had people like Asta watching over them, I could take a hands-off approach."
+            "Title": "アスターについて",
+            "Voice": "他の貯蔵室にもアスターみたいに管理してくれる人が現れたらいいのに。そうすれば私は何も気にしなくてよくなるし。"
         },
         {
-            "Title": "About Himeko",
-            "Voice": "I give her the most boring things, and then she gives them back to me and they're suddenly interesting."
+            "Title": "姫子について",
+            "Voice": "どんなにつまらないものを送っても、私の手元に帰ってくる頃には興味深いものになってるの。"
         },
         {
-            "Title": "About Ruan Mei",
-            "Voice": "Ruan Mei is a genius among geniuses — I won't deny that. I don't always get along with her, but I do admire her... Maybe the admiration is mutual."
+            "Title": "ルアン・メェイについて",
+            "Voice": "ルアン・メェイが天才の中の天才だってことは否定しない。馬は合わないけど、彼女のことは高く評価してるの…もしかしたら私たち、少しはお互いを認め合ってるのかもね。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Define inspiration? Tsk, it's only the several thousand ideas racing through my mind every minute."
+            "Title": "星魂覚醒",
+            "Voice": "インスピレーションとは何かって？そんなの、1分に数千回発生してる脳波のことでしょ。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "You call that a build update?"
+            "Title": "キャラクター昇格",
+            "Voice": "バージョンアップグレード？なんかイマイチ。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Finally. Clocking off. Bye."
+            "Title": "レベルMax",
+            "Voice": "はいはい、もうこの体を酷使するのはやめて。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Happy? Word of advice: Don't expect too much from a puppet."
+            "Title": "軌跡覚醒",
+            "Voice": "そのくらいにしたら？ただの人形なんだから、あんまり期待しないで。"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "You better be good. My time is precious."
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "あなたの実力を見せて。私の時間は貴重なんだから。"
         },
         {
-            "Title": "Added to Team With Arlan",
-            "Voice": "Why the long face? I'm not going to eat you."
+            "Title": "パーティ編成・アーラン",
+            "Voice": "なんでいつもそんな顔で私を見るの？取って食べたりしないのに。"
         },
         {
-            "Title": "Added to Team With Asta",
-            "Voice": "Asta! Here's the key. Gotta go now — bye."
+            "Title": "パーティ編成・アスター",
+            "Voice": "アスターもいるんだ…じゃあ、あとはよろしく。バイバイ。"
         },
         {
-            "Title": "Added to Team With Himeko",
-            "Voice": "You know the drill — send me all your new toys, and I'll return them later."
+            "Title": "パーティ編成・姫子",
+            "Voice": "いつも通り、新しいおもちゃは私が先に遊ぶ。いいよね？"
         },
         {
-            "Title": "Added to Team With Ruan Mei",
-            "Voice": "I don't usually get to see you outside the Simulated Universe. Who do you want to experiment on this time?"
+            "Title": "パーティ編成・ルアン・メェイ",
+            "Voice": "模擬宇宙の外で会うなんて…今度は誰で実験するつもり？"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Oh, poor you..."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "あなた…それじゃあダメだよ。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "And you're supposed to be stronger?"
+            "Title": "戦闘開始・危険予知",
+            "Voice": "ほんの少し強いだけでしょ。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "What are you looking at?"
+            "Title": "ターン・1",
+            "Voice": "何見てるの？"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "You must be honored to meet me?"
+            "Title": "ターン・2",
+            "Voice": "私に出会ったことを感謝してね。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Idle mode... *yawn* How boring."
+            "Title": "戦闘中待機",
+            "Voice": "待機中…つまんないの。"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "This is gonna hurt."
+            "Title": "通常攻撃",
+            "Voice": "痛くしてあげる。"
         },
         {
-            "Title": "Skill",
-            "Voice": "Maybe you can keep it down!?"
+            "Title": "戦闘スキル",
+            "Voice": "ちょっとは静かになさい！"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "I won't break."
+            "Title": "攻撃を受ける",
+            "Voice": "壊れないよ。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "I'm breaking!"
+            "Title": "重撃を受ける",
+            "Voice": "壊れちゃう！"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Do you know who I am?"
+            "Title": "必殺技・アクティブ",
+            "Voice": "私が誰だか知ってるの？"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Ever see a diamond this big? It's all yours~"
+            "Title": "必殺技・発動",
+            "Voice": "こんな大きなダイアモンド見たことないでしょ？あげるね～"
         },
         {
-            "Title": "Talent 1",
-            "Voice": "Time to twirl~"
+            "Title": "天賦・1",
+            "Voice": "くるくる～――っと。"
         },
         {
-            "Title": "Talent 2",
-            "Voice": "Time to twirl!"
+            "Title": "天賦・2",
+            "Voice": "くるりん～っと。"
         },
         {
-            "Title": "Downed",
-            "Voice": "Connection... lost..."
+            "Title": "戦闘不能",
+            "Voice": "接続…切断…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Rebooting..."
+            "Title": "戦闘に戻る",
+            "Voice": "再…起動…"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "How appropriate."
+            "Title": "HP回復",
+            "Voice": "察しがいいのね。"
         },
         {
-            "Title": "Technique",
-            "Voice": "Upgrade configured."
+            "Title": "秘技",
+            "Voice": "パーツアップグレード。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "How am I gonna get that time back!"
+            "Title": "戦闘勝利",
+            "Voice": "私の時間がパーになっちゃった！"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "That's it?"
+            "Title": "戦利品を開ける・1",
+            "Voice": "これだけ？"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Meh, acceptable quality."
+            "Title": "戦利品を開ける・2",
+            "Voice": "ふうん、いいんじゃない？"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Awesome. Cool. Can we go now?"
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "あーーはいはい。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "It took you that long?"
+            "Title": "謎解きに成功・1",
+            "Voice": "結構考えてたのね。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "I can do this in my sleep."
+            "Title": "謎解きに成功・2",
+            "Voice": "目をつむっていてもできるけど。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Now, how should I dispose of you?"
+            "Title": "敵ターゲット発見",
+            "Voice": "どう始末するかは、私の気分次第よ。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Is there anything interesting here? I doubt it."
+            "Title": "町に戻る",
+            "Voice": "どう？私が興味を持てそうなものはある？"
         }
     ]
 }

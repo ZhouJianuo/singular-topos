@@ -586,6 +586,10 @@ var _voice_ = {
             "Voice": "Lady Asta! How's your mother been? We should hang out more!"
         },
         {
+            "Title": "Added to Team With Aventurine",
+            "Voice": "Looks like we're working together on this one... I suppose an extra pair of eyes won't hurt."
+        },
+        {
             "Title": "Battle Begins: Weakness Break",
             "Voice": "It's a bull market."
         },

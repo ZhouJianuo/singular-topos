@@ -523,23 +523,23 @@ var _story_ = {
     "1210": [
         {
             "_id": 1,
-            "Story": "An outworlder who ended up residing on the Xianzhou by accident. She is now a passionate and vivacious street performer.<br>With her real name being Guinevere, Guinaifen is the Xianzhou name given to her by her good friend Sushang.<br>Faced with a whole new life on the Luofu and relying on her adoration of Xianzhou culture, Guinaifen quickly learned skills that would keep her clothed and fed — such as slurping noodles in a handstand, smashing slabs without harming the people it was placed upon, catching bullets with bare hands, and so on."
+            "Story": "縁あって仙舟に留まっている殊俗の民。今は情熱的な大道芸人である。<br>本名は「グィネヴィア」。「桂乃芬」は友人の素裳がつけた仙舟の名前だ。<br>「羅浮」での新しい人生を前に、桂乃芬は仙舟文化に対する情熱によって、瞬く間に生計を立てるための得意技——逆立ち麺食い、胸元で岩砕き、素手で銃弾つかみなどを身に付けた。"
         },
         {
             "_id": 2,
-            "Story": "Hello~ Hello~ Can you hear me? Good evening fam! And welcome to Little Gui's stream~<br><br>Thank you BigFlowa_49886 for the super chat! \"Little Gui, you haven't streamed for more than half a month again. Are you not taking this seriously anymore?\" No way! I just have a lot going on IRL these days and yeah, I haven't streamed for quite a bit. I'm sowwy~ The stuff I ran into IRL is actually pretty fun. But that's a topic for another day.<br><br>As for today, just like what I wrote in the title of the stream, it's \"Music night! Little Gui singing Xianzhou folk songs!\"<br><br>Anyways, I feel stuff like acrobatics is better for offline stuff, so I'm gonna try streaming some folk music. Just testing the waters today~ If you like the stream, remember to LIKE, SUBSCRIBE, and SHARE! If you wanna send a gift or a super chat, you'll get to take part in the prize-draw for this stream!<br><br>Thank you MilkyPowderdurdar for the super chat! \"I love to watch everything you stream, Little Gui.\" Powderdurdar, you are the best! Don't you leave the stream until I'm done tonight! Mwah~!<br><br>*cough*... Lemme adjust the audio... One two three one two three pray on a tree... Alright! Now for some vocal exercises! I wrote all the lyrics for the doggerel tonight!<br><br>...<br><br><i>Long time no see, Aurum Alley glee. Changed so neat, what a feat!</i><br><i>Streets got fame, beauty is the same.</i><br><i>My neighbors be healthy, my friends be wealthy.</i><br><i>Here I am, my kuaiban clang, please check out my new song slam.</i><br><i>Gimme a cheer, and the coast gets clear. Toss me strales, and life never fails.</i><br><i>No time for gods and monsters, no talk of Reignbow Arbiters.</i><br><i>Only story here is the Little Gui, coming and going which way.</i><br><br>..."
+            "Story": "はいは～い、聞こえる？リスナーのみんな、こんばんは！けいちゃんの配信へようこそ～<br><br>「ビッグフラワー_ 49886 」さん、コメントありがとう！「けいちゃん、どうして半月も配信しなかったの？もしかしてサボってる？」まさか！実は最近リアルで色々なことがあってさ～…でも確かに配信は久しぶりだよね。ごめんね～リアルで面白いことにあってさ、また今度シェアするね。<br><br>さて！今日はタイトルにもある通り——「演芸の夜！けいちゃんが仙舟の演芸を披露！」<br><br>最近、雑技はオフラインのほうが向いてる気がして、演芸のライブ配信をやってみようと思ったんだ。今日はそのテスト配信って感じかな。もし気に入ってくれたらフォローとリポストよろしくね。投げ銭やプレゼントをくれた人は、配信中の抽選に参加できるよ！<br><br>「ミルミルク」さん、コメントありがとう！ミルミル久しぶり～なになに、「大丈夫、けいちゃんの配信なら何でも見るから」？ミルミル最高！今日は最後まで配信を見ていってね！チュッチュ～<br><br>コホン…声の調子を整えて…なまむぎなまごめなまたまご…よし、それじゃあ歌っていこうかな！今回の数来宝は、けいちゃんが自分で書いたんだよ～<br><br>……<br><br><i>金人巷に来るのは久しぶり、ここは復興ですっかり様変わり。</i><br><i>あるものは姿が変わり、でも景色は昔と変わらない。</i><br><i>近所の人は皆元気、お年寄りも皆生き生き。</i><br><i>今日は珍しく板の音が鳴り、観客たちにも楽しんでもらいたい。</i><br><i>拍手と歓声で盛り上げて、観客が巡鏑を投げたら開演させて。</i><br><i>神君が賊や災いを追い払った話、帝弓の神矢が穹桑を折った話、今日はどれも語らない。</i><br><i>じゃあ語るのは何の話？金人巷の素敵な少女、けいちゃんがどこから来てどこへ行くのかという話。</i><br><br>……"
         },
         {
             "_id": 3,
-            "Story": "As a child, Guinevere's entire world was the Lord Protector's mansion and the bustling streets before its doors.<br><br>Her teachers said that her family has a long and distinguished history, and even this mansion has stood for a few Amber Eras. However, time did not seem to leave any traces on its stones. As if it stood apart from the rules of time and space, it forever protected this family in eternal peace and joy.<br><br>Her father trained Guinevere's eldest brother, second-eldest brother, and eldest sister in politics. He wished to hand the future of this planet to one of the three. As for Guinevere and her younger siblings... He only wished they would have a quiet and happy life in this tranquil paradise.<br><br>Guinevere loved her father. He was as terrifying as a ridge-tailed python when facing his political enemies. Yet in her presence, he softened and became warm and cozy, like a big fuzzy mountain hare.<br><br>She remembered that her father would do anything for her. He would even willingly play the role of an earth spirit to be struck down by Guinevere, the heroine, at her birthday party. The birthday parties of upper-class children would often have the family's enemies turn up as well — However, her father didn't care at all about being a laughingstock for all the attendees. He was happy as long as she could be happy.<br><br>Then, Guinevere grew up a bit. She started to hear rumors — How her father made the king a puppet, persecuted the honest courtiers, and gluttonously gained riches... She was willing to believe that all these were lies spread by his enemies. However, she knew not all of them were lies.<br><br>Soon, however, these concerns ceased to matter.<br><br>Everything changed when the Antimatter Legion attacked. Her father led the army to protect the royal capital, refusing to back down. Guinevere fainted when she heard the news of his death. She was already sitting inside a space shuttle when she woke up again. Her younger siblings were sobbing next to her, while her eldest brother and eldest sister were bound tightly in ropes. Her second-eldest brother said to her in a despondent tone, \"Don't untie them just yet. They are still trying to go back.\"<br><br>Guinevere looked outside the window. Her mother was dressed in armor and had her back turned to the space shuttle slowly lifting off, taking command of servants who were still willing to fight. Further away, the Voidrangers were tearing apart the Lord Protector's mansion. Even further, entire streets were on fire, with charred corpses scattered everywhere like heaps of soil.<br><br>For little Guinevere, it was like her entire world had been erased from the cosmos.<br><br>...<br><br><i>My home world, Court Camelot. My siblings, a dozen lot.</i><br><i>Our days, peace and joy to boot. Until Ruin Author led woes afoot.</i><br><i>Nation breached, arms they took. Legion marched, defiant we stood.</i><br><i>We siblings escaped without a root, into an IPC mine all covered in soot.</i><br><i>Meager scraps are what we fetch, homeless and foodless at a stretch.</i><br><i>Eldest brother, timid once was. Back-breaking work, to piracy he was forced.</i><br><i>Mercantile he waylaid, genteel he relayed. Hero among bandits, loots for people's benefits.</i><br><i>Hundreds of poor he led, us siblings he fed.</i><br><br>..."
+            "Story": "幼いグィネヴィアにとって、護国公の邸宅と、その前に広がる栄えた街が世界のすべてだった。<br><br>先生たちが言うには、彼女の家系の歴史は古く、その邸宅も数琥珀紀の歴史があるという。しかし、邸宅には歳月の痕跡などまったく残っていないように見える。その邸宅は時間の法則から独立して、この家族を永遠の平穏と美の中で守っているかのようだった。<br><br>父親は長兄、次兄、長姉に政治教育を受けさせた。この星の未来を彼らの中の誰かに託したいと考えていたからだ。一方、グィネヴィアと他の弟妹たちに対しては…この平和な楽園の中で、穏やかで幸せな人生を送ってほしいとしか望んでいなかった。<br><br>グィネヴィアは父親を愛していた。政敵を前にした父は、尾に針を持つヘビのように恐ろしい。それでも、娘の前では大きくて暖かい山ウサギのようだった。<br><br>彼女の記憶の中にいる父親は、彼女のためにどんなことでもしてくれた。彼女の盛大な誕生日パーティーでは、ヒロインのグィネヴィアに斬られる地霊を演じたことさえある。このような権臣の子供の誕生日パーティーには政敵も参加するものだが——父親は彼女を喜ばせるためなら、他人の評判など一切気にしていなかった。<br><br>その後、グィネヴィアは成長した。そして彼女の耳に風の噂が届くようになった——父親が王権を有名無実化している、忠臣を陥れている、欲深くて満足することを知らない…彼女はそれが政敵の流した嘘であると信じたかったが、すべてが嘘ではないことを知っていた。<br><br>しかし、その程度のことはすぐにどうでもよくなった。<br><br>反物質レギオンが大挙して押し寄せてきたのだ。父親は王都を守るため、軍を率いて一歩も譲らなかった。父親の訃報が届いた時、グィネヴィアは気を失ってしまった。そして再び目を覚ました時、彼女は飛行艇の中に押し込められていた。弟妹たちは横で咽び泣き、長兄と長姉は縄できつく縛られている。次兄は仕方なさそうに、「まだ縄をほどいてはダメだ。2人とも意地でも逃げようとしないから」と言った。<br><br>グィネヴィアが舷窓の外を見ると、母親が甲冑を身に着け、上昇していく飛行艇に背を向けながら、座して死を待つことを拒んだ家臣たちを指揮していた。少し離れたところでは、ヴォイドレンジャーたちが護国公の邸宅を破壊している。さらに遠くでは、街全体が燃え、黒く焼け焦げた死体が泥のように散らばっていた。<br><br>幼いグィネヴィアにとっての世界、そのすべてが銀河から抹消されたのだった。<br><br>……<br><br><i>あたしは遠くの朝廷キャメロットの出身、兄弟姉妹は 12 人。</i><br><i>日々の暮らしは楽しく平安、なのに燼滅禍祖が開いた戦端。</i><br><i>父さん母さん武器を持って戦った、でもレギオン強くて家も国も失った。</i><br><i>長兄、弟妹連れて各地を漂泊、やがてカンパニーの鉱星に漂着。</i><br><i>生き残るために屈辱に耐え、厳しい環境で病に倒れ。</i><br><i>苦労人の長兄、見た目は怖いが心は綺麗。最後は盗賊になるしかない、銀河の中で暴れ回る兄。</i><br><i>彼は商人だけを剥ぎ、民家を襲うことはない。人々は称える、彼は貧者や弱者を救う在野の英雄。</i><br><i>彼は数百人の貧者を率い、山を占領して王を名乗り、あたしたち弟妹を養った。</i><br><br>……"
         },
         {
             "_id": 4,
-            "Story": "When Guinevere was young, her father always told her that humans should live with dignity. However, who could manage that on Hombert-σ?<br><br>It was a barren planet. Primitive algae, fungi, and lichen maintained an atmosphere barely able to support animal life. Among the endemic species that stubbornly proliferated in that world, almost all of them existed as genuine threats to humanity.<br><br>Had the Interastral Peace Corporation not discovered the mineral ores hidden in the heart of this planet, no humans would have wanted to move here anyways.<br><br>Guinevere passed all of her teenage years on this poverty-stricken planet.<br><br>She was good at making friends and was on good terms with the other kids. The son of the poor man, the daughter of the refugee, the brother of the gambler, or the sister of the murderer... Guinevere did not care about people's background. No matter what kind of families people are from, they were equally at risk of perishing before the arrival of tomorrow on this planet.<br><br>The IPC didn't keep a tight eye on this place. Except for those with debts or criminal charges, the IPC didn't limit the workers' freedom as long as they paid their taxes. However, if they did pay their taxes, they might not have enough money left to even buy a drink at the town's bar.<br><br>Her father was the most reliable backbone of the family back home. Now that both father and home were lost, the duty of looking after the family fell on the shoulders of the only senior in the group — the Stone-Wall Knight. Back when they had to flee their home, the mother sternly demanded that this loyal old knight escape with the children, while she stayed behind in their homeland to watch over the last speck of dust on their barren planet.<br><br>The old knight was once her father's closest playmate, then her father's most courageous comrade in battle, then her father's most loyal servant. And now... he became another \"father\" for the children. Guinevere didn't manage to remember his real name even till the end. She was more familiar with the knight's other name — Uncle Stone-Wall.<br><br>A dozen starving children made their dwindling finances even worse. After a night of arguments, Stone-Wall reluctantly agreed to have the three eldest children go to work in the mines with him. However, no matter how much Guinevere begged, he refused to let her go with them.<br><br>Night after night passed. Stone-Well grew old and withered. His lungs became full of incurable scars, and his spine no longer stood as tall as in years past. His hands, once able to swing a kinetic hammer majestically on the battlefield, have been deformed till he could no longer hold a spoon.<br><br>Soon, he died.<br><br>The stone wall fell. It fell before the dawn arrived, and it didn't make a single sound. It was like a sand castle receding as the tides swelled and fell, like the soft descent of winter's withered boughs in a breeze, like an ending doomed to arrive.<br><br>Only a world of hoarfrost exists beyond the stone wall.<br><br>Her elder brothers soon became interstellar pirates. Guinevere can fill her stomach again. However, she was also faintly aware that she had further strayed from her father's creed and embarked on a life even less respectable.<br><br>Therefore, when the IPC's soldiers put cuffs on Guinevere and handed her over to the Cloud Knights together with her younger siblings, she breathed a long sigh of relief.<br><br>People all claim the folks of the Xianzhou are very kind. She thought that the Cloud Knights would definitely allow her entire family to die together in dignity.<br><br>...<br><br><i>Folly befell my brother's mind. A Xianzhou ship, his raid entwined</i><br><i>Those of Xianzhou, just and upright. Thunder and storm, willed in their might.</i><br><i>To Xianzhou, my brother offered compliance. For us siblings, he pleaded forbearance.</i><br><i>Xianzhou knights, blessed with grace. Xianzhou fleet, we get to embrace.</i><br><i>Our brother pardoned, our burdens lessened.</i><br><i>To the school, our young'uns go. Teaching skills was my dear Ms. Yo.</i><br><i>A future elsewhere, brother urged me to prepare. Gratitude to pay, I chose here to stay.</i><br><i>In Aurum Alley I shine. Fame and fortune, I'm fine.</i><br><br>..."
+            "Story": "子供の頃、父親はよくグィネヴィアに「人は名誉を守りながら生きるべきだ」と言っていた。しかし、「ホンボルト-σ」で名誉を守りながら生きられる者などいるのだろうか？<br><br>それは荒れ果てた惑星。原始的な藻類、菌類、地衣類によって、かろうじて動物が生存できる大気環境が維持されているが、その劣悪な環境を生き延びてきた原始生命体の中で、人間の脅威とならないものはほとんどなかった。<br><br>スターピースカンパニーがこの惑星の隠された鉱物資源を発見していなければ、誰もここに移住しようとはしなかっただろう。<br><br>グィネヴィアはこの不毛の星で少女時代を過ごした。<br><br>彼女は友達付き合いが上手く、他の子供たちとの関係も良好だった。貧しい家の息子、亡命者の娘、博徒の弟、殺人犯の妹…グィネヴィアは出自を気にしない。どんな家庭の出身であろうと、この星では誰もが明日まで生き延びられる保証がないからだ。<br><br>この地に対するカンパニーの管理は厳しいものではなかった。負債や罪を抱えた者でない限り、税金さえ払っていれば、カンパニーも労働者の自由を制限することはない。ただし税金を払った後の彼らは、街の酒場で1杯の酒を買う余裕すらないこともあった。<br><br>故郷にいた頃、父親は家族の中で最も頼りになる存在だった。しかし、父親も故郷も存在しない今、家族の面倒を見る役目は唯一の年配者である「石壁騎士」に回ってきていた。故郷から逃げる時、母親はこの忠実な老騎士を子供たちと一緒に脱出させ、自分は故郷に残って荒野の最後の塵埃と運命を共にしたのだ。<br><br>老騎士は父親の最も親しい遊び仲間であり、最も勇敢な戦友であり、最も忠実な家臣でもあった。そして今は…子供たちにとって、もう1人の「父親」となったのである。グィネヴィアは最後まで彼の本名を覚えられなかった。彼女は「石壁おじさん」という、老騎士のもう1つの名前のほうに馴染みがあったからだ。<br><br>十数人の飢えた子供たちによって、ただでさえ困窮していた懐事情はさらに悪化した。ある晩、口論の末、石壁は3人の兄と姉が自分と一緒に鉱山へ行くことを渋々承諾した。しかし、グィネヴィアがいくら懇願しても、彼女が同行することは認めなかった。<br><br>夜が明けるたびに、彼は老い、やつれ、憔悴していった。肺は治らない傷で埋め尽くされ、かつてのように背筋を伸ばすこともできなくなった。力強くハンマーを振り回していた両手は、今やスプーンを持つこともできないほど曲がっている。<br><br>ほどなくして、彼は死んだ。<br><br>石壁が崩れた。夜明けが来る前に、音もなく崩れてしまった。砂浜の砂の城が打ち寄せる波によって消えていくように、冬の枯れ枝が風で静かに落ちるように、それが定められた結末であったかのように。<br><br>そして——石壁の外に広がっていたのは、雨と風と氷だけの世界だった。<br><br>兄たちが星間海賊になったのは、それからまもなくのことだ。グィネヴィアは満腹になるまで食べられるようになったが、薄々感付いていた。今の自分が父親の教えに背き、さらに不名誉な人生に向かっていることを。<br><br>そのため、カンパニーの兵士たちがグィネヴィアに手錠をかけ、弟妹たちと一緒に雲騎軍に引き渡した時、彼女は安堵の息をついたのだった。<br><br>仙舟人はとても優しいと言われている。彼女は、雲騎軍なら自分たち家族の体面を守りながら死なせてくれるだろうと思った。<br><br>……<br><br><i>頭に血が上った長兄が仙舟の商船を襲う、誰が予想できただろう？</i><br><i>仙舟人は剛直に悪を嫌い、それは時に嵐のように激しい。</i><br><i>長兄は賊として討たれ降参、あたしたち弟妹だけは許してほしいと将軍に懇願。</i><br><i>討伐軍の将軍心優しく、一家を仙舟へ連れ帰る。</i><br><i>長兄の命を救い、あたしたち弟妹の生計まで慮り。</i><br><i>弟妹たちは学宮で文字の読み書き学ぶ、ここの悠ねえはあたしに技を仕込む。</i><br><i>技を学んだら高飛びするよう長兄勧める、でも恩を仇で返せば「恥知らず」の誹りは免れず。</i><br><i>この金人巷であたしが才能を開花させ、貧しかった少女が名声と利益を手に入れることになるなんて、誰が想像できただろう？</i><br><br>……"
         },
         {
             "_id": 5,
-            "Story": "<i>\"Sorry, sorry! I ran into someone who was injured, so I got here later than I thought — Ah. Little Gui, you're still singing? Then I'll shut up.\"<br><br>\"Yo! Shangshang is here! Fam, lemme introduce her to y'all. She's our surprise guest tonight! The Cloud Knights' genius newcomer — Ms. Sushang! C'mon fam, post in the chat 'welcome Ms. Sushang'~\"<br><br>\"H—Hello everyone. I'm Sushang... Stop with the 'genius newcomer' thing! Don't make me seem more than what I am. My boss is gonna give me an earful if they hear about it.\"<br><br>\"Just gimme a sec here, Shangshang. My doggerel is just missing its last bit. You're here right on time since it's all about you~\"<br><br>...<br><br><i>Then a thug crossed my path, a timely heroine dealt with his wrath.</i><br><i>You may ask, which heroine could it be? And I answer, Li Sushang, you see.</i><br><i>Ever since then, I'm no longer alone. With a heroine like her, I have a much livelier tone.</i><br><i>And I have fans in a throng, enjoying my awesome song.</i><br><i>My fans whom I adore, always ask for more.</i><br><i>But my story runs too long, I can't go on and on.</i><br><i>Let's wrap it up for now, if you allow, I'll save it for another wow.</i><br><br>...<br><br>\"Nice! Nice! Let's all give it up for Little Gui, everyone! But... I don't quite remember this heroic feat?\"<br><br>\"Mr. Xiyan told me that stories featuring damsel-in-distress scenarios are popular, hence my decision to write it this way. If it's not to your liking.... Thank you CatEmanator8190 for the Diting Storm gift! Thanks so much!\"<br><br>\"Thank you so much! ...It doesn't matter how you write it! The stuff you do are all fun anyways.\"<br><br>\"Alrighty. Now that Shang-Shang is here, let's do the Show-Show! We can now finally present the duo skit we've been practicing for a long time~ Here, Shangshang, gimme the chordophone. I, Little Gui, is now gonna sing <i>Teng Xiao Slaying the Serpent</i>!\"<br><br>\"This section isn't easy to perform.\"<br><br>\"True. Any expert here would know that <i>Teng Xiao Slaying the Serpent</i> has singing, music, and fight scenes. One person can't do it all.\"<br><br>\"And that is why I'm here! So how do you want to do this?\"<br><br>\"Simple~ Today I'm gonna play the role of Teng Xiao, the previous Luofu general. I'll bring peace to the nation and all shall bow before my majesty.\"<br><br>\"And me?\"<br><br>\"You'll play the serpent getting slain! Where are you going, puny snake? Take~ My~ Sword~\"<br><br>\"Ahh! It hurts... Guinaifen! I've had enough of you!\"</i>"
+            "Story": "<i>「ごめんごめん。途中で怪我をした人がいて、ちょっと遅れちゃった…あ、けいちゃん、まだ歌ってたんだ。じゃあ静かにしてるね」<br><br>「あ、すーちゃん！みんなに紹介するね。今日のサプライズゲスト、雲騎軍の天才新人——素裳さんだよ！さあみんな、『ようこそ素裳さん』って弾幕流して～」<br><br>「こ…こんにちは、アタシは素裳…じゃなくて、『天才新人』って何！勝手に変なこと言わないで。上の人に知られたらイジられちゃうじゃない」<br><br>「すーちゃん、ちょっと待って。まだ数来宝の最後のところが残ってるの。ふふ、ちょうどいいところに来てくれたね～まさにすーちゃんに関する内容なんだ！」</i><br><br>……<br><br><i>その後あたしに忍び寄る悪党登場、幸い女傑が現れ相手を掃討。</i><br><i>さて、この度胸ある女傑は誰でしょう？それは後のあたしの親友、李素裳、その人である。</i><br><i>それ以来、羅浮で一匹狼だったあたしに女傑の仲間ができた。</i><br><i>しかも満員の観客たちがいて、あたしの公演を楽しみにしてくれている。</i><br><i>短い公演では帰ろうとせず、熱烈なアンコールが押し寄せる。</i><br><i>でもけいちゃんの話はあまりに退屈で長い、年単位で話さないと終わらない。</i><br><i>今日の話はこれでおしまい。続きを知りたきゃまた今度！</i><br><br>……<br><br><i>「すごいすごい、みんな、早くけいちゃんに拍手して！それと、そんなことあったっけ？」<br><br>「シエン先生から、英雄が美女を救うような出会いが好まれるって聞いて、こういうふうに書いてみたの。もし気に入らないなら…あっ！『ネコもふ使令 8190 』がたくさん諦聴をくれた！太っ腹～！」<br><br>「太っ腹！…どんなふうに書いても大丈夫だよ！けいちゃんが書くものは何でも面白いから」<br><br>「わかった。さて、すーちゃんもようやく来たわけだし、前から準備してた2人の共演をリスナーたちに見せてあげよう。ほらすーちゃん、墜子琴こっちに。あたしが『騰驍、大蛇を斬る』の一節を歌うよ！」<br><br>「その部分は難しいと思うけど……」<br><br>「うん、業界に詳しい人なら知ってるかもね。この『騰驍、大蛇を斬る』には演奏と歌と殺陣があるから、1人では演じられないって」<br><br>「だからアタシを呼んだんでしょ！それで、どうやって演じるの？」<br><br>「それなら簡単～今日あたしが演じるのは、国を守り、武勇無双の先代羅浮将軍――騰驍！」<br><br>「じゃあアタシは？」<br><br>「すーちゃんは斬られる大蛇を演じて——蛇の妖怪め、どこへ逃げた？この剣を～受けてみるがいい～」<br><br>「うわっ、痛い…桂乃芬！よくもやったね！」</i>"
         }
     ]
 }
@@ -547,200 +547,200 @@ var _story_ = {
 var _voice_ = {
     "1210": [
         {
-            "Title": "First Meeting",
-            "Voice": "My name is Guinaifen! \"Gui\" means wood, \"Nai\" means to exist, and \"Fen\" means fragrant — rolls right off the tongue, doesn't it? I usually do juggling performances on this side of Exalting Sanctum. Remember to come see the show when you have the chance~"
+            "Title": "初対面",
+            "Voice": "あたしの名前は桂乃芬！桂は嘉木、乃は「の」、芬は芳香。つまり素晴らしい木の芳香って意味になるの。いい名前だと思わない？普段は長楽天で雑技をしてるから、時間があったら見に来てね！"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Geez, why do I feel like I haven't seen you in a long time? What? You saw me yesterday? Ah — a day without seeing you feels like three years!"
+            "Title": "挨拶",
+            "Voice": "あれ、なんだか凄く久しぶりに会った気がする。え？昨日もあたしに会った？もう——あんたに会わない1日は、3年くらいに感じるってこと！"
         },
         {
-            "Title": "Parting",
-            "Voice": "See you next time! I'll save you a front-row seat. Oh, uh, it's a makeshift outdoor stand, \"front-row\" sounds a little fancy..."
+            "Title": "お別れ",
+            "Voice": "またね！最前列の席をあんたのために取っておくから。まあ、劇場でやるわけじゃないから、「最前列」はないかもしれないけど……"
         },
         {
-            "Title": "About Self: Name",
-            "Voice": "My real name is Guinevere. Guinaifen is the Xianzhou name Shangshang gave me. Who is Shangshang you ask? She's my best friend — Sushang the Cloud Knight. Have you met her?"
+            "Title": "自分について・名前",
+            "Voice": "あたしの本名は「グィネヴィア」、桂乃芬はすーちゃんが付けてくれた仙舟での名前なんだ。すーちゃんが誰かって？雲騎軍の素裳だよ。あたしたちは大親友なの、知らなかった？"
         },
         {
-            "Title": "About Self: Family",
-            "Voice": "I've got more than a dozen siblings! One of them is my older brother — he's also living on the Xianzhou. His name is Langshile, but he seems to prefer being called \"Lancelot.\""
+            "Title": "自分について・家族",
+            "Voice": "うちには数十人の兄弟姉妹がいて、郎世楽っていう兄も羅浮で生活してるの。でも、本人は「ランスロット」って呼ばれるほうが好きみたい。"
         },
         {
-            "Title": "Chat: Juggling",
-            "Voice": "I learned my juggling skills on the street — my brothers taught me. It started out as a way to survive. Who'd have thought the performances would become so popular? It feels like fate is teasing us sometimes, hehe."
+            "Title": "世間話・雑技",
+            "Voice": "あたしの技は街にいる仲間たちから学んだものなんだ。もともと生活のために始めたんだけど、ここまで人が集まるとは思わなかったな。もしかして、あたしって凄い？へへっ。"
         },
         {
-            "Title": "Chat: Doggerel",
-            "Voice": "This girl arrived on your Xianzhou ship and started juggling to earn her tips, melons and dates make a very nice meal, but to make my day needs at least ten strale, no need to waste time on idle chat, 'cause a real stage play is right where it's at!"
+            "Title": "世間話・数来宝",
+            "Voice": "あたしここで売るのは芸、どこの客でも大歓迎！投げ銭あればもちろんええ、「金より愛」は座右の銘、無駄話はここまで、芸能こそは我流の礼！"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Don't you think the poetry and songs of the Xianzhou people are enchanting? One time I asked Shangshang to teach me to write poetry, and she only wrote four words in three months... I don't think I'll be able to learn at this rate."
+            "Title": "趣味",
+            "Voice": "仙舟人の詩とか歌って、すっごく綺麗だと思わない？前にすーちゃんに詩の書き方を教えてもらおうと思ったんだけど、彼女ってば3ヶ月かけて4文字しか捻り出せなかったんだ…あたしがマスターするのは難しそう。"
         },
         {
-            "Title": "Annoyances 1",
-            "Voice": "There's so much good food on the Luofu, but for juggling one has to stay light and nimble. How does that ancient saying go... It's hard to be both loyal and filial? You can't serve two masters? Something like that?"
+            "Title": "悩み事・1",
+            "Voice": "羅浮には美味しいものがたくさんあるのに、雑技をするには体を軽くしておく必要がある…本当、忠孝の両立は難しだよね！えっ、ことわざの使い方が間違ってるって？"
         },
         {
-            "Title": "Annoyances 2",
-            "Voice": "Sushang has been calling me \"Little Gui\" for a long time now, which is fine... But recently I've noticed that even my brothers on the street have started calling me \"Little Gui,\" and even audience members... At this rate, no one's gonna remember my real name!"
+            "Title": "悩み事・2",
+            "Voice": "すーちゃんがあたしのことを「けいちゃん」って呼んでくるんだよね。それだけなら全然いいんだけど…最近、街の仲間たちも「けいちゃん」って呼ぶようになったの。それどころか、観客まで「けいちゃん」って呼ぶようになって…みんな、桂乃芬って名前を忘れたわけじゃないよね！？"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "On the Xianzhou, short-life species like us have a fleeting existence, here one moment and gone the next. That's all the more reason to seize the moment while you still have it!"
+            "Title": "シェア",
+            "Voice": "仙舟の尺度で言えば、あたしたち短命種は白駒過隙って感じだろうね——だからこそ、あたしたちは今をしっかり生きなくちゃ！"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "There's a crosstalk comedy duo in Exalting Sanctum — Forth and Back'n. They're a friendly couple of guys — they helped me to embellish a lot of my act. In fact, the doggerel portion of the performance was their idea."
+            "Title": "見聞",
+            "Voice": "長楽天には漫才をする往と来っていう2人組がいるんだけど、2人とも凄く親切なんだよ。開演前の数来宝とか、色んな口上にアドバイスしてくれたんだ！"
         },
         {
-            "Title": "About Sushang",
-            "Voice": "Shangshang is my best friend. Aside from my street-performing brothers, she's the person I've known the longest on the Luofu. I wanted to become sworn sisters with her, but she didn't seem interested."
+            "Title": "素裳について",
+            "Voice": "すーちゃんは一番仲のいい友達だよ。街の仲間を除けば、羅浮で一番付き合いが長いかな。前に姉妹の契りを結ぼうとしたんだけど、断られちゃったんだよね。"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "I heard that the general is interested in these street music performances. I wish I had the chance to perform at the Seat of Divine Foresight, then I could be famous."
+            "Title": "景元について",
+            "Voice": "将軍様はこういう雑技に興味があるって聞いたことがある。神策府で上演したいなあ。そうすれば、きっと有名になれるよね。"
         },
         {
-            "Title": "About Yanqing",
-            "Voice": "I've never spoken to the general, but I did meet his retainer once. He asked me if I was a \"woman of the sword,\" so you know what I did? I did a sword-swallowing performance right in front of him!"
+            "Title": "彦卿について",
+            "Voice": "将軍様と話したことはないけど、護衛となら話したことがあるよ。彼に「剣の使い手」かって聞かれて、その場で剣呑みを披露してあげたんだ。"
         },
         {
-            "Title": "About Qingque",
-            "Voice": "Qingque likes to play celestial jade in Exalting Sanctum, but sometimes she gets tired and comes to see me juggling. I can tell from her face if she's won or lost that day — red is a win, pale is a loss, and really pale means her boss is out looking for her."
+            "Title": "青雀について",
+            "Voice": "青雀はよく長楽天で牌をしてるんだけど、遊ぶのに疲れたらあたしの雑技を見にくるの。最近は彼女の顔色から、その日の牌の勝敗がわかるようになったんだ——桃色だったら勝ち、青色だったら負け。真っ白だったら上司が彼女を捕まえに来たってことだよ。"
         },
         {
-            "Title": "About Huohuo",
-            "Voice": "Isn't Huohuo's laugh just the cutest? My performances aren't scary — they're uplifting! I can't wait to see her laugh some more~"
+            "Title": "フォフォについて",
+            "Voice": "フォフォって笑うと可愛いんだよ。あたしの芸は人を怖がらせるものじゃなくて、楽しませるものなの。もっとあの子の笑顔が見てみたいな～"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "\"Living?\" that's all a big hustle and bustle. But life? Life's all about savoring the moment."
+            "Title": "星魂覚醒",
+            "Voice": "どんなに生活が慌ただしくても、人生はゆっくり体験しなきゃ。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Spread those positive vibes, and watch the good luck follow~"
+            "Title": "キャラクター昇格",
+            "Voice": "グッドボタンで、幸運が続々～！"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Fresh face, fresh vibes — must be talking about me!"
+            "Title": "レベルMax",
+            "Voice": "新人が新たな風を吹かせる――あたしのことだよね！"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "The more you can do, the easier life gets~"
+            "Title": "軌跡覚醒",
+            "Voice": "技は多いほどいいし、努力さえすれば必ず成功する！"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "Trailblazer, did you check out my latest livestream? It was a show-stopper!"
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "ねえ、最近のあたしの配信は観た？結構面白いよ！"
         },
         {
-            "Title": "Added to Team With Sushang",
-            "Voice": "Sushang! We should totally team up for this performance, the fans will go wild~"
+            "Title": "パーティ編成・素裳",
+            "Voice": "すーちゃん！一緒に舞台に上がってくれるのを待ってたよ。みんなこれが大好きなの！"
         },
         {
-            "Title": "Added to Team With Yanqing",
-            "Voice": "Hey little guy, wanna see some sword swallowing? I've added some new tricks to my act!"
+            "Title": "パーティ編成・彦卿",
+            "Voice": "護衛くん！剣呑みを見てく？また技を思いついたの！"
         },
         {
-            "Title": "Added to Team With Qingque",
-            "Voice": "Hey Qingque, you're looking chipper, did the cards fall in your favor?"
+            "Title": "パーティ編成・青雀",
+            "Voice": "青雀、今日は本当に嬉しそうだね。牌で勝ったの？"
         },
         {
-            "Title": "Added to Team With Huohuo",
-            "Voice": "Come get a better view, Huohuo. Don't worry, the fire won't bite you, you know~"
+            "Title": "パーティ編成・フォフォ",
+            "Voice": "フォフォも見てって。焼いたりなんかしないから！"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Don't throw the game!"
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "おっと、ズルはしないほうがいいよ。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "What's wrong? Everyone's a customer!"
+            "Title": "戦闘開始・危険予知",
+            "Voice": "なんで慌ててるの？"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Turn out your pockets!"
+            "Title": "ターン・1",
+            "Voice": "お金がある人は見てってね！"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Forget your wallet? Hmph..."
+            "Title": "ターン・2",
+            "Voice": "お金がない人はまた今度！"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "No one's gonna pay you to stand still!"
+            "Title": "戦闘中待機",
+            "Voice": "突っ立ってても投げ銭は貰えないよ！"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Fame and fortune!"
+            "Title": "通常攻撃",
+            "Voice": "金運招福！"
         },
         {
-            "Title": "Skill",
-            "Voice": "Wealth and wisdom!"
+            "Title": "戦闘スキル",
+            "Voice": "{RUBY_B#かかいふうき}花開富貴{RUBY_E#}！"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Glad I trained..."
+            "Title": "攻撃を受ける",
+            "Voice": "練習しててよかった…"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Getting serious, huh!?"
+            "Title": "重撃を受ける",
+            "Voice": "調子に乗らないで！"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Come feast your eyes!"
+            "Title": "必殺技・アクティブ",
+            "Voice": "寄ってらっしゃい見てらっしゃい！"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "It's never too early... for a Happy New Year!"
+            "Title": "必殺技・発動",
+            "Voice": "せっかくだから、一発ド派手にいくよ！"
         },
         {
-            "Title": "Downed",
-            "Voice": "Uh-oh, dropped the ball..."
+            "Title": "戦闘不能",
+            "Voice": "うっ、やっちゃった…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "The show must go on!"
+            "Title": "戦闘に戻る",
+            "Voice": "アンコールに応えてあげる！"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Here we go!"
+            "Title": "HP回復",
+            "Voice": "ナイス！"
         },
         {
-            "Title": "Technique",
-            "Voice": "Tough crowd!"
+            "Title": "秘技",
+            "Voice": "場を温めるね！"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "That was a heck of a performance!"
+            "Title": "戦闘勝利",
+            "Voice": "今回の公演は大成功！"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Ooh, extra tips!"
+            "Title": "戦利品を開ける・1",
+            "Voice": "おお、予想外の収穫！"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Quick, snatch it all up!"
+            "Title": "戦利品を開ける・2",
+            "Voice": "早く投げ銭を受け取らないと！"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Wooh, looks like we've struck gold!"
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "ほんっとうにおめでとう！"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Think fast and work faster~"
+            "Title": "謎解きに成功・1",
+            "Voice": "手足が俊敏で、頭脳明晰～"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Want to know the secret? Well, my lips are sealed~"
+            "Title": "謎解きに成功・2",
+            "Voice": "コツが知りたいって？秘密！"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Maybe this one's not a customer..."
+            "Title": "敵ターゲット発見",
+            "Voice": "ええ、穏便に済ませられない？"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Busier places mean fizzier business."
+            "Title": "町に戻る",
+            "Voice": "賑やかな所に観客ありってね！"
         }
     ]
 }

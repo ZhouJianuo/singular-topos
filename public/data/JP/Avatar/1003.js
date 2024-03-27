@@ -419,23 +419,23 @@ var _story_ = {
     "1003": [
         {
             "_id": 1,
-            "Story": "An adventurous scientist who encountered the Astral Express as a young woman when it got stranded in her homeworld.<br>Years later, when Himeko finally repaired the Express and began her journey into the stars, she realized that this is only the beginning. On her journey to trailblaze new worlds, she would need many more companions...<br>And while they may have different destinations, they all gaze at the same starry sky."
+            "Story": "チャレンジ精神に溢れた科学者。彼女がまだ少女であった頃、故郷で座礁した星穹列車を発見した。<br>数年後、ついに列車の修理を終えた姫子は、それがただの始まりに過ぎないことに気付いた。新たな世界を「開拓」する旅路には、より多くの仲間が必要である——<br>たとえ同行者たちの目指す方向が違っていても、彼らは同じ星空の下にいる。"
         },
         {
             "_id": 2,
-            "Story": "The girl is lost.<br><br>She can't remember when she became lost. She just walked and walked, on and on into the dark night, chasing the sun and the moon, over and over again — until she falls.<br><br>She remembers what she looked like as a college freshman, remembers her chosen major — interstellar travel dynamics — and now she's lying face down in the mud.<br><br>She looks up to the stars, and just then sees meteors streaming down: one, two, three... And then more, smaller ones, flickering and flashing ever so finely before a magnificent blaze tore open the night.<br><br>Her limbs drag her forward, leading her on to where the land meets the ocean. At the shoreline, the waters jostle against her like how the tide treats that stranded Express, alone and lost.<br><br>She walks in and see the scenery outside beginning to change. The Express shows her a myriad of magnificent worlds. They are faraway, beyond her homeworld, yet also close enough to be a simple train ride.<br><br>She tries to repair the Express. It starts up only briefly, but it is enough to skid across the sky of her home. She immediately sees the path home. From that altitude, the journey is so short, and even the ocean of her homeworld appears so insignificant.<br><br>It asked her whether she'd like to travel together. She wonders what kind of journey that would be.<br><br><i>\"A journey to the beginning.\"<br>\"Let's go then.\"</i> Without hesitation, the girl replied, <i>\"Just as you brought me home, so would I take you home, too.\"</i>"
+            "Story": "少女は道に迷っていた。<br><br>彼女は自分がいつ方向を見失ったのかもわからないまま、ただひたすら歩き続ける。何度も何度も、倒れるまで闇夜の中を歩き続け、太陽と月を追い求めた。<br><br>彼女は大学に入ったばかりの自分を思い出した。自分が選んだ学科——星間航行動力学。そして今、彼女は泥濘の道に横たわっている。<br><br>星空を見上げると流れ星が見えた。1つ、2つ、3つ…そして無数の小さな星がチカチカと点滅したかと思うと、最後に壮麗な烈光が夜を引き裂いていく。<br><br>彼女の四肢は体を引きずり、彼女を陸地の果てに導いた。そこは海の起点、海岸線。座礁した列車を打つように、潮水は彼女を押し進める、一人ぼっちで、道に迷ってしまった彼女を。<br><br>彼女が列車に足を踏み入れると、舷窓の外の景色が変わり始めた。列車は色とりどりの景色を彼女に見せていく。それは故郷から遥か遠い場所でもあり、列車に乗れば辿り着ける場所でもあった。<br><br>彼女は列車の修復を試みた。それは短い時間しか動かなかったが、彼女を乗せて故郷の空を横切るには十分だった。彼女は一目で帰り道を見つけた。上空から見れば、その道はあまりにも近い場所にある。故郷の海さえもちっぽけなものに思えた。<br><br>列車は彼女に尋ねた、一緒に行くか？と。一体どのような旅になるのか、彼女は興味が湧いた。<br><br><i>「それは始まりへ向かう旅」<br>「行くわ」</i>少女は躊躇なく答えた。<i>「私を家に連れ帰ってくれたように、今度は私があんたを家まで連れて行ってあげる」</i>"
         },
         {
             "_id": 3,
-            "Story": "Himeko has a suitcase.<br><br>This suitcase is her treasure trove. Previously, she'd filled it with all kinds of train repair tools to fix up the Express. But now, it's packed with a molecular saw, an escaped satellite, and countless other contraptions — the embodiment of her whims and the proof of her resolute will.<br><br>No travel companion is more faithful to her than this suitcase. Passengers come and go on the Express, and perhaps not even \"the conductor\" would be able to accompany her and the Express from start to finish.<br><br>But she doesn't care. She didn't care when that pretentious blond man left without saying goodbye, just like how she didn't care about her distant homeworld and old friends.<br><br>She knows that this journey is lonely. Even if she could get to know like-minded travel companions, even if they showed her generous grace, even if she could witness the end of a complete journey with those companions — that's all just a momentary fluke.<br><br>She knows that this journey is lonely. Nobody can follow in the exact same footsteps as anyone else. Nobody can experience for someone else everything that happens along a journey. All she can rely on are her own two eyes and feet.<br><br>That's why she stores inside her suitcase all the sights her eyes have witnessed, and all the footprints her feet have left behind."
+            "Story": "姫子はトランクを持っている。<br><br>トランクは彼女の宝箱だ。以前は列車の修理に使う道具がぎっしり詰まっていて、彼女はそれを頼りに列車を修理した。現在は単分子チェーンソー、軌道を逸脱した衛星、そして様々な機巧が詰め込まれている。それぞれが彼女の奇想を具現化したものであり、彼女が歩み続けてきた証でもある。<br><br>彼女のトランクほど忠実な旅の仲間はいない。列車の乗客はしばしば変わる。あの「車掌」でさえ、最後まで彼女と列車に同行できるとは限らない。<br><br>しかし彼女は気にしない。あの気取った金髪の男が、別れも告げずに列車を降りたことを気にも留めなかったように――遠すぎる故郷や家族のことを気にも留めていないように。<br><br>彼女はこの旅が孤独であることを知っている。たとえ旅の途中で志を同じくする仲間に出会ったとしても、たとえ旅の仲間から恩恵を受けたとしても、たとえ仲間と共にひとつの旅の終点を見届けられたとしても——それは彼女にとって単なる僥倖に過ぎない。<br><br>彼女はこの旅が孤独であることを知っている。如何なる者も、他人と同じ軌跡を辿ることはできない。如何なる者も、他人の代わりに旅路の風景を見ることはできない。彼女が頼れるのは、自分の両目と両足だけ。<br><br>そして彼女は、その目で見たすべての景色と、その足で残したすべての足跡を、自分のトランクに収めるのだ。"
         },
         {
             "_id": 4,
-            "Story": "Himeko's memory is very good.<br><br>The longer the journey gets, the more travel companions she accrues. She can still remember many of them.<br><br>She remembers her awkward chit-chats with Pom-Pom, and how the first two passengers aboard the Express were Welt and his blond friend. She remembers how the taciturn Dan Heng defeated the monsters that can swallow stars with just one strike of his lance. She remembers how March 7th had awoken from her icy slumber, all the outfits she'd designed for March, and what March loves the most. She remembers how the Crew arrived at Herta Space Station, how she met Trailblazer, and how they'd embarked on a new journey once more.<br><br>She remembers the specifications for every single component of the Express and how they're assembled. She remembers when to oil the Express' bearings and when each plant on the Express needs watering. She remembers Pom-Pom's non-negotiable bottom line, and that Welt has rather juvenile hobbies. She remembers that Dan Heng is always pulling all-nighters to organize the data bank, and how March 7th loves to sleep in. She remembers the personality, habits, hobbies, birthdays, and other anniversary days of everyone aboard the Express. And she remembers much, much more.<br><br>The greatest pleasure for Himeko is that everyone can safely reach their destination on the Express.<br><br><i>\"Traveling always has an end point. When it happens, I'll smile and say goodbye to everyone.\"</i><br><br>She always says that, and she'll definitely remember to do that.<br><br>It's memory that has formed the road she came from, and memory that will eventually return her to the seas from whence she came."
+            "Story": "姫子は記憶力がいい。<br><br>旅が長くなり、仲間が増えても、彼女は常に多くの物事を覚えている。<br><br>彼女は覚えている。パムと気ままにおしゃべりした時間も、列車の最初の乗客がヴェルトと彼の金髪の仲間だったことも。寡黙な丹恒が星を吞む巨獣を一撃で退けた姿も、明るい三月なのかが氷の中から目覚めた時のことも。三月なのかのためにデザインした服も、彼女の最愛も。そして、宇宙ステーション「ヘルタ」で{NICKNAME}に出会い、また新たな旅に出たことも。<br><br>彼女は覚えている。列車のあらゆる部品の仕様も、それらをどのように接続するのかも。列車のベアリングに潤滑油を供給する周期も、列車の植物に水やりをする時間と頻度も。パムには決して越えてはならない一線があることも、ヴェルトには少し子供っぽい趣味があることも。丹恒が夜通しアーカイブを整理していることも、三月なのかは寝坊が大好きだということも。列車組全員の性格、習慣、趣味、誕生日、そして他の記念日も。<br><br>もし彼らが列車に乗って自分の終点に辿り着くことができれば、姫子にとってそれ以上に喜ばしいことはない。<br><br><i>「旅には必ず終わりがある。その時が来たら、きっと笑ってみんなに別れを告げるわ」</i><br><br>いつもそう言っている姫子だが、彼女は決して忘れないだろう。<br><br>その記憶が彼女の歩んできた道を織り成し、やがて起点となった海に戻ることを。"
         },
         {
             "_id": 5,
-            "Story": "<i>\"What a long journey.\"</i> She says.<br><br><i>\"I've been waiting for so, so long.\"</i>████ looks at her: <i>\"It wasn't bad luck that has led you down this path, but wanderlust and curiosity.\"</i><br><br><i>\"Of course,\"</i> she smiles, <i>\"But I've experienced far less than what you've been through.\"</i><br><br><i>\"No, I've never experienced the things you have.\" </i>████ shakes their head: <i>\"There are as many routes as there are pairs of feet.\"</i><br><br><i>\"Right now, we may be standing in the same place, but we harbor different thoughts and views.\"</i><br><br>Together, they look up to the stars in silence, and just then saw meteors streaming down: one, two, three... And then more, smaller ones, flickering and flashing ever so finely before a magnificent blaze tore open the night.<br><br>A quiet voice disturbs the still air once more: <i>\"What do you see?\"</i><br><br><i>\"The stars have finished their journey.\"</i> She says.<br><br>████ laughs: <i>\"I, instead, see that their journey is only just beginning.\"</i><br><br>They do not speak again.<br><br><i>\"Let's go back. They're waiting for me.\"</i><br><br>████ is silent, then asks: <i>\"Has the journey so far made you happy?\"</i><br><br>She picks up her suitcase and walks back in the direction of the Express without looking back.<br><br><i>\"Same as always.\"</i>"
+            "Story": "<i>「本当に長い旅ね」</i>彼女は言った。<br><br><i>「僕はずっと待っていた。とても、とても長い時間を」</i>█████は彼女のほうを向いた。<i>「君をこの道に導いたのは不運ではなく、探求欲と好奇心だ」</i><br><br><i>「その通りよ」</i>彼女は笑った。<i>「でも、私の経験はあなたに遠く及ばないわ」</i><br><br><i>「そうでもないよ。僕は君が経験したすべてを経験していない」</i>█████は首を横に振る。<i>「歩む足の数だけ旅路があるんだ」</i><br><br><i>「今この瞬間、僕たちは同じ場所に立っているけれど、見るものや考えることには違いがある」</i><br><br>彼らは静かに星空を見上げた。すると、流れ星が1つ、2つ、3つと横切っていく…やがて、無数の小さな星がチカチカと点滅したかと思うと、最後に壮麗な烈光が夜を引き裂いた。<br><br>静かな声が再び空気を震えさせる。<i>「君には何が見えた？」</i><br><br><i>「星々が旅の終わりを迎えたわ」</i>彼女は答えた。<br><br>█████は笑う。<i>「でも僕から見れば、彼らの旅はまだ始まったばかりだ」</i><br><br>彼らは黙り込んだ。<br><br><i>「そろそろ帰りましょう。彼らがまだ待ってるわ」</i><br><br>█████は沈黙する。そして口を開いた。<i>「今までの旅は、幸せだったと思うかい？」</i><br><br>彼女はトランクを持ち上げ、振り返ることなく列車へと歩き出した。<br><br><i>「いつも通りよ」</i>"
         }
     ]
 }
@@ -443,196 +443,196 @@ var _story_ = {
 var _voice_ = {
     "1003": [
         {
-            "Title": "First Meeting",
-            "Voice": "Welcome aboard, Trailblazer. I'm Himeko, navigator of the Astral Express. I'm sure we're about to embark on a fascinating journey together."
+            "Title": "初対面",
+            "Voice": "ようこそ列車へ、{NICKNAME}。私は星穹列車のナビゲーター、姫子よ。これから一緒に旅を楽しみましょう。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Hey there. Tired? How about a coffee?"
+            "Title": "挨拶",
+            "Voice": "どうしたの、眠気覚ましにコーヒーでも飲む？"
         },
         {
-            "Title": "Parting",
-            "Voice": "Relax, Pom-Pom and I are here to take care of the train."
+            "Title": "お別れ",
+            "Voice": "安心して休みなさい。私とパムがいるから、列車の心配はしなくても大丈夫よ。"
         },
         {
-            "Title": "About Self: Relationship With the Astral Express",
-            "Voice": "The Express and I are like old friends — we've helped each other a lot. I fixed it so that it could get back to its original route, and in return it takes me to unknown frontiers."
+            "Title": "自分について・列車との関係",
+            "Voice": "私と列車は、お互いを支え合う親友のような関係なの。私が修理したことで、列車は再び元の航路を進めるようになった。そして、これら全ては私にとって、新鮮で知らないことばかりだったわ。"
         },
         {
-            "Title": "About Self: Fixing the Express",
-            "Voice": "As far as malfunctions on the train are concerned, I've usually dealt with them before you guys even realize anything's amiss."
+            "Title": "自分について・列車の修理",
+            "Voice": "あんたたちが列車の故障箇所を見つける前に、私が既に修理していることのほうが多いのよ。"
         },
         {
-            "Title": "Chat: Final Stop",
-            "Voice": "I'm speculating, but I think the Express departs from Akivili's home world and returns there before starting the journey anew. So the Express doesn't have a \"final stop\" per se — it's up to you where you disembark."
+            "Title": "世間話・旅の終着点",
+            "Voice": "ただの私の推測だけど、列車はアキヴィリの故郷から出発し、最終的にはそこに戻り、新たな旅を始める。だから列車に終点なんてないのよ。旅の「終点」を決めるのは、あんた自身なの。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I have a knack for blending different coffee beans. Can I make you a cup? I recommend not adding milk — black coffee is proper coffee."
+            "Title": "趣味",
+            "Voice": "色んな風味のコーヒー豆をブレンドするのが私の特技よ。今淹れてあげるわね。ミルクなしをおすすめするわ。ブラックが一番だもの。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "Seems like only Dan Heng has a kind word for my coffee. What do you think? ...Well, I've always thought that bitter is better..."
+            "Title": "悩み事",
+            "Voice": "丹恒以外は、私のコーヒーを酷評しているの。あんたはどう？…私のブラックコーヒーの「ブラック」は暗黒料理の「暗黒」じゃないわよ。"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "When people live together it seems like nobody ever changes. Only when they're away from each other for a long time do surprising transformations occur..."
+            "Title": "シェア",
+            "Voice": "毎日みんなと一緒に過ごしていると、誰にも変化がないように思えるわ。長く離れてる人だけに、凄まじい変化が見えるの。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "When we scour the universe for the things we seek, most of the time it's less of a \"Eureka, I found it!\" moment and more of a \"Is this it? What if I'm wrong?\" moment."
+            "Title": "見聞",
+            "Voice": "宇宙で探し物をしている時、多くの場合は「あった！これに違いない！」とひらめくのではなく、「本当にこれなのか？万が一違っていたら？」と考え、疑い、躊躇うものよ。"
         },
         {
-            "Title": "About March 7th",
-            "Voice": "If I woke up on the Express without any memories, there's no way I'd recover as quickly as March has. I admire her for that, but I also worry about her... If I'm ever too busy, please do take the time to chat with her."
+            "Title": "三月なのかについて",
+            "Voice": "私が列車で目覚め、何も覚えていない状態だったら、三月ちゃんのように元気を取り戻すことはできなかったと思うわ。だから彼女を見ていると、尊敬するのと同時に、不安になるのよ…私は忙しくてあまり時間が取れないから、話し相手になってあげて。"
         },
         {
-            "Title": "About Dan Heng",
-            "Voice": "Dan Heng is the cautious type — I think he's gotten used to doing things by himself. He doesn't like to bother or inconvenience others. That's why I asked him to be the train's guard and maintain the data bank. I don't think he'd have joined us if there wasn't anything for him to do."
+            "Title": "丹恒について",
+            "Voice": "あの子はとても慎重よ。1人に慣れているから、他人に迷惑をかける行為を嫌い、人を巻き込むことを恐れているのね。だから、護衛とアーカイブの管理を任せたの。そうでなければ、彼は列車に乗らなかったと思うわ。"
         },
         {
-            "Title": "About Welt",
-            "Voice": "I think Welt's anxious that he can't keep up with you youngsters, but he sure seems young at heart to me..."
+            "Title": "ヴェルトについて",
+            "Voice": "ヴェルトは、自分が若者についていけないんじゃないかと心配しているようね。私に言わせれば、彼の心はまだまだ若いわ…"
         },
         {
-            "Title": "About Pom-Pom",
-            "Voice": "To Pom-Pom, I'll always be the train's mechanic, haha."
+            "Title": "パムについて",
+            "Voice": "パムにとって私はずっと、列車の修理工に過ぎないわ。"
         },
         {
-            "Title": "About Dan Heng 2",
-            "Voice": "He's not so uptight nowadays. I think Trailblazer and March helped him understand that relying on others sometimes really isn't a big deal."
+            "Title": "丹恒について・2",
+            "Voice": "最近の彼は随分リラックスしているように見えるわ。{NICKNAME}と三月ちゃんが、たまには他の人に頼ってもいいんだって気付かせてくれたのね。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "The Express's path bridges the stars, as if it were a string of shimmering pearls."
+            "Title": "星魂覚醒",
+            "Voice": "まるできらめく真珠を繋げる糸のように、列車の軌跡は星々を繋ぐのよ。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "With countless marvelous sights to be seen, I couldn't possibly consider stopping here."
+            "Title": "キャラクター昇格",
+            "Voice": "この先には数えきれないほどの素晴らしい景色がある。ここで立ち止まってはいられないわ。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Our final stop can never truly be reached."
+            "Title": "レベルMax",
+            "Voice": "終点……実際に辿り着いたことはないわね。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "The human thirst for discovery is truly boundless."
+            "Title": "軌跡覚醒",
+            "Voice": "人間の探求心は果てしないのよ。"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "If there's anything you need, don't hesitate to ask, Trailblazer."
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "{NICKNAME}、必要なことがあったら何でも言ってちょうだい。列車組の心は一つよ。"
         },
         {
-            "Title": "Added to Team With March 7th",
-            "Voice": "Make sure to keep yourself safe this time March... and remember, we're all in this together."
+            "Title": "パーティ編成・三月なのか",
+            "Voice": "三月ちゃん、自分をちゃんと守るのよ…大丈夫、みんなもいるわ。"
         },
         {
-            "Title": "Added to Team With Dan Heng",
-            "Voice": "I'll be right behind you with all the support you need, Dan Heng."
+            "Title": "パーティ編成・丹恒",
+            "Voice": "支援は任せて…好きに動きなさい、丹恒。"
         },
         {
-            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
-            "Voice": "I'll be right behind you with all the support you need, Dan Heng. Be fearless."
+            "Title": "パーティ編成・丹恒・飲月",
+            "Voice": "支援は任せて…好きに動きなさい、丹恒。大胆にね。"
         },
         {
-            "Title": "Added to Team With Welt",
-            "Voice": "See, Welt, I told you we'd have lots of chances to shine."
+            "Title": "パーティ編成・ヴェルト",
+            "Voice": "私たちの出番はまだたくさんあるって言ったでしょ、ヴェルト。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "I have something for you."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "さあ、全部あんたのために用意したのよ。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Be careful."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "気を付けなさい。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Combat is a series of precise machinations."
+            "Title": "ターン・1",
+            "Voice": "戦闘は精巧なデザインなの。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Time for a detailed overhaul."
+            "Title": "ターン・2",
+            "Voice": "ちゃんと直さないと。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "It won't be so easy next time."
+            "Title": "戦闘中待機",
+            "Voice": "次はそう簡単には行かないわよ。"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "One at a time!"
+            "Title": "通常攻撃",
+            "Voice": "順番にね！"
         },
         {
-            "Title": "Skill",
-            "Voice": "Come one, come all."
+            "Title": "戦闘スキル",
+            "Voice": "もちろん、誰でも構わないわ。"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Barely felt it."
+            "Title": "攻撃を受ける",
+            "Voice": "軽傷よ。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "You've got a lot of nerve."
+            "Title": "重撃を受ける",
+            "Voice": "いい度胸ね。"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Perhaps you still don't understand..."
+            "Title": "必殺技・アクティブ",
+            "Voice": "まだ、分かってないのね…"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Humanity never conceals its desire to control the heavens... And I'm no exception."
+            "Title": "必殺技・発動",
+            "Voice": "人間は星空を掌握する欲望を隠さない…もちろん、私もよ。"
         },
         {
-            "Title": "Talent",
-            "Voice": "You won't get away!"
+            "Title": "天賦",
+            "Voice": "逃がさないわ！"
         },
         {
-            "Title": "Downed",
-            "Voice": "I was... just getting... started..."
+            "Title": "戦闘不能",
+            "Voice": "これからっ…と言うのに…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Did you miss me?"
+            "Title": "戦闘に戻る",
+            "Voice": "私に会いたかった？"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Much obliged."
+            "Title": "HP回復",
+            "Voice": "ありがとう。"
         },
         {
-            "Title": "Technique",
-            "Voice": "Burn away."
+            "Title": "秘技",
+            "Voice": "燃やし尽くせ。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "One step closer to the stars."
+            "Title": "戦闘勝利",
+            "Voice": "星々に一歩近づけたわね。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "This is also the reward of trailblazing."
+            "Title": "戦利品を開ける・1",
+            "Voice": "これも「開拓」ゆえの収穫ね。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Oh, how nice."
+            "Title": "戦利品を開ける・2",
+            "Voice": "ふふ、いいわね。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "What a pleasant surprise."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "予想外の喜びね。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Sometimes you gotta do things yourself."
+            "Title": "謎解きに成功・1",
+            "Voice": "やっぱり自分の手でやらなきゃね。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "No help required."
+            "Title": "謎解きに成功・2",
+            "Voice": "どうやら、私の手助けは必要ないようね。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Practice target?"
+            "Title": "敵ターゲット発見",
+            "Voice": "あいつで練習する？"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Fancy a coffee?"
+            "Title": "町に戻る",
+            "Voice": "コーヒーでもどう？"
         }
     ]
 }

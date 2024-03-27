@@ -416,23 +416,23 @@ var _story_ = {
     "1102": [
         {
             "_id": 1,
-            "Story": "A spirited and valiant member of Wildfire who grew up in the perilous Underworld of Belobog. She is accustomed to being on her own.<br>The protectors and the protected, the oppressors and the oppressed... The world Seele grew up knowing was just a simple dichotomy...<br>That is, until \"that girl\" appeared."
+            "Story": "늠름하고 뛰어난 「와일드 파이어」 멤버. 지하의 위험하고 혼란스러운 환경에서 자랐으며 혼자 다니는 것에 익숙하다.<br>보호하거나 보호받거나, 억압하거나 억압받거나, 제레에게 세상은 늘 이런 이분법적인 모습을 보였다——<br>「그 소녀」가 나타나기 전까진 말이다."
         },
         {
             "_id": 2,
-            "Story": "Seele's first fight in her life was for herself.<br><br>Back then, she would wander aimlessly through the alleyways each day. When she was thirsty, she'd beg for water at the orphanage. When she was hungry, she'd swap scraps she found with the merchants for biscuits. Everyone in the dark side of Rivet Town knew that fearless homeless girl, and everyone was keen to avoid this wild, stubborn little rascal.<br><br>One hot evening, she felt very thirsty from too much playing. She arrived at the orphanage to discover the bucket containing water from the well is almost empty. Another shriveled homeless man was also there trying to get a drink — and after a power struggle which involved fists and even teeth, the man fled and Seele earned the right to slake her thirst alone.<br><br>Seele saw the man three days later. Through the window of the clinic, she saw that wizened figure at death's door, lying on a stretcher.<br><br>Ever since then, she's always left a little water in the bucket for the people coming later."
+            "Story": "제레가 처음 싸움을 하게 된 건 그녀 자신을 위해서였다.<br><br>그때쯤, 그녀는 매일 아무런 목적도 없이 거리를 누비었다. 목이 마르면 보육원으로 가서 물을 얻어 마시고 배가 고프면 고물을 주워 판매상에게서 과자를 바꾸어 먹었다. 리벳 타운의 어두운 골목에 살고 있는 모든 이들은 그 무엇도 두려운 것 없는 부랑하는 소녀의 존재를 알고 있었고, 고집도 세고 성격도 괴팍한 그녀를 피해 다녔다.<br><br>어느 무더운 밤, 그녀는 노는 데 너무 집중한 나머지 입이 바싹 마름을 느꼈다. 여느 때처럼 보육원의 무료 배급소에 도착한 그녀는 철통에 담긴 우물물이 어느새 바닥을 드러낸 것을 발견했다. 어떤 쭈글쭈글한 얼굴의 노숙자 역시 그녀처럼 물을 얻어 마시기 위해 배급소에 왔다. 손톱과 이빨을 모두 사용한 치열한 몸싸움 끝에, 노숙자는 결국 도망쳤고 제레는 물을 독차지할 수 있는 특권을 가지게 되었다.<br><br>제레가 노숙자를 다시 만나게 된 건 3일 뒤였다. 진료소의 창문을 통해 그녀는 바싹 여윈 노숙자가 숨만 겨우 붙은 채 병상에 누워있는 걸 발견했다.<br><br>그때부터 제레는 항상 다음 사람을 위해 물을 남겨두었다."
         },
         {
             "_id": 3,
-            "Story": "As a child, Seele only ever went up to the Overworld once. That was after she'd met Oleg — who at the time was still captain of the Underworld's Silvermane Guards. Oleg hid Seele in his supply bag one day and took her up to the Overworld by cable car to give her a peek at the city she yearned for.<br><br>Seele followed Oleg around the sights of Belobog, eating delicious foods and dressing up in splendid clothes beyond her wildest imagination. She scared off a group of kids with her uncouth miner slang, which caused Oleg to burst out into laughter. Those two short days were full of joy and laughter.<br><br>Before leaving that evening, they sat on a bench in the Administrative District Plaza as Seele stared at the restaurant opposite them.<br><br><i>\"Was the Overworld fun, Seele? Wanna come back again later?\"<br>\"Can I ask you something?\"<br>\"...What's up? Ask away.\"<br>\"Those Overworlders are only eating half their meal, and threw the rest away.\"<br>\"...\"<br>\"Do they know that people down below haven't got enough food to eat?\"<br>\"...\"</i><br><br>Oleg saw how a look of gloom passed over her tender face.<br><br><i>\"Let's go back, Oleg. I don't want to come back here again.\"</i>"
+            "Story": "어렸을 때 제레는 딱 한 번 상층 구역에 가본 적이 있었다. 물론 그전에 제레는 이미 올레그와 아는 사이였다. 그때 당시 올레그는 이미 하층 구역의 치안을 담당하는 실버메인 철위대 병장이었다. 제레에게 그녀가 오랫동안 동경해 온 도시를 보여주기 위해 올레그는 자신의 보급 주머니 속에 그녀를 숨겨 케이블카를 통해 상층 구역에 도착했다.<br><br>제레는 올레그를 따라 벨로보그의 온갖 명소들을 돌아보고 그녀가 한평생 먹어보지 못했던 맛있는 음식들을 먹었으며, 그녀가 상상도 하지 못했던 아름다운 옷을 입어 보았다. 그녀의 거친 광부 사투리에 아이들이 겁을 먹고 도망치자 올레그는 배를 끌어안고 박장대소했다. 짧디짧은 이틀이었지만 그 시간 동안 두 사람은 단 한 번도 입가에 미소가 떠난 적이 없었다.<br><br>떠나기 전날 밤, 두 사람은 행정 광장의 벤치에 앉아 잠깐 쉬기로 했다. 제레는 맞은 편에 있는 레스토랑을 뚫어져라 바라보았다.<br><br><i>「상층 구역은 재밌었어, 제레? 또 오고 싶니?」<br>「아저씨 묻고 싶은 게 있어요」<br>「뭔데? 말해 봐」<br>「저 상층 사람들 말이에요, 음식을 절반만 먹고 버리네요」<br>「……」<br>「저 사람들은 지하에 제대로 된 밥도 못 먹는 사람이 있다는 걸 알까요?」<br>「……」</i><br><br>올레그는 제레의 얼굴을 자세히 살펴보았다. 우울함이 그녀의 앳된 얼굴에 비쳤다.<br><br><i>「이제 돌아가요, 아저씨. 여긴 다시 오고 싶지 않아요」</i>"
         },
         {
             "_id": 4,
-            "Story": "Lying on the clinic's bed, Seele is finally able to calm herself down as she silently thought over her experiences since becoming a member of Wildfire.<br><br>Injuries and blood are routine occurrences for her. Seele has a better-than-average tolerance for pain, which allows her to fully unleash herself in combat — ignoring any lingering bumps and bruises.<br><br>Wounds will always heal, just as the threat of the Fragmentum will always grow. Just as people always return to their boring lives once rescued. Sometimes, a misconception would pop up in Seele's mind, as if time in the Underworld had come to a standstill... It somehow seems that all the efforts she and Wildfire had made are all in vain.<br><br>The doctor comes over and gently asks about her injury. Seele struggles to organize words, and conveys her confusion to the doctor.<br><br><i>\"What's more important than miracles, Seele,\"</i> the doctor says with a smile as she places her palm lightly on Seele's forehead, <i>\"is to protect people's hopes for miracles.\"</i>"
+            "Story": "진료소의 병상에 누운 제레는 드디어 잠시나마 조용히 「와일드 파이어」가 된 후 그녀의 삶을 돌아볼 수 있게 되었다.<br><br>다치고 피를 흘리는 건 그녀에게 밥 먹듯 흔한 일이었다. 게다가 고통에 엄청난 인내력을 가지고 있는 덕에 전장에서 그녀는 웬만한 상처는 무시할 수 있었고 더 용맹하게 적들과 싸울 수 있었다.<br><br>상처는 결국 아물기 마련이다. 열계의 위협은 계속 존재하지만 결국 구조된 사람들은 다시 지루하고 팍팍한 일상으로 돌아가는 것처럼 말이다. 제레는 하층 구역의 시간이 아예 멈춰버린 건 아닐까, 그녀와 「와일드 파이어」가 바친 노력들이 헛수고는 아니었을까 라는 생각에 잠기곤 했다.<br><br>이때 여의사 한 명이 병실로 들어오더니 부드러운 말투로 그녀의 상태를 물었다. 말주변이 없는 제레는 힘겹게 자신의 곤혹스러움을 의사에게 전달했다.<br><br><i>「제레, 이 세상엔 기적 자체보다 더 중요한 게 있어」</i>의사는 싱긋 웃더니 그녀의 이마에 손을 얹었다.<i>「그건 바로 기적에 대한 사람들의 기대를 지키는 거야」</i>"
         },
         {
             "_id": 5,
-            "Story": "The Administrative District Plaza is a crowded place, and it's where almost half the residents of Belobog are now gathering. Suppressing her disdain for bustling crowds, Seele scans across the faces in the Plaza with her careful gaze.<br><br>Her hard work pays off, and she soon locks onto a target. A man wearing a gray hat, his hands in his pockets, is scuttling back and forth through the crowds while slyly looking from side to side with a sharp expression. After confirming that nobody is watching — at least, so he thinks — the man reaches out to grab the satchel of the woman beside him.<br><br>But before his fingers could reach the bag's zip, a slender but forceful hand quickly grabs his wrist. He nearly cries out with the pain, but Seele clasps her other hand over his mouth.<br><br><i>\"Not a peep from you.\"</i><br><br>The majestic cry of horns resounds throughout the skies, and the bustling crowd falls silent immediately. A man in a comical outfit rushes to the podium, and shouts in a piercing voice —<br><br><i>\"Ladies and gentlemen! For the ribbon-cutting part of this ceremony, please welcome to the stage — the Supreme Guardian herself, Madam Bronya Rand!\"</i><br><br>Deafening cheers erupt from the plaza. Seele quietly pulls the pickpocket out of the crowd during the ruckus, and escorts him to the Silvermane Guards on duty. She turns to look back at the distant stage, and briefly locks eyes with the woman in the white dress. The Supreme Guardian flashes her an ever-so-brief smile, and Seele nods slightly in response.<br><br>And then, they go their separate ways — one stepping into the light, the other into the shadows.<br>— One day, they will finally meet again."
+            "Story": "행정구역의 광장은 사람들로 가득했다. 벨로보그의 시민들 중 적어도 절반은 이곳에 모인 듯했다. 사람 많은 곳은 질색이었지만 제레는 날카로운 눈빛으로 사람들의 얼굴 하나하나를 확인했다.<br><br>그 정성에 하늘이 감동한 걸까? 얼마 지나지 않아 그녀는 타깃을 발견했다. 회색 체크무늬 모자를 쓰고 두 손은 주머니 안에 넣은 채 사람들 사이를 오가는 남자, 그림자 아래에 숨은 남자의 두 눈은 교활하게 주위를 훑어보고 있었다. 주위에 그의 존재를 의식하는 사람이 없다는 걸 확인한 그는——그의 착각이었지만——한 아주머니의 가방으로 손을 뻗었다.<br><br>남자의 손가락이 가방 지퍼에 닿으려는 순간, 여리여리하지만 힘 있는 손이 순식간에 그의 손목을 잡았다. 순간적인 고통에 소매치기범은 소리를 지르려 했으나 제레는 다른 손으로 남자의 입까지 막아버렸다.<br><br><i>「조용히 해」</i><br><br>웅장한 호각 소리가 하늘에 울려 퍼지자 사람들은 일제히 수다를 멈추었다. 과장되고 익살스러운 옷차림의 남자가 무대 위로 달려오더니 날카로운 목소리로 소리쳤다.<br><br><i>「신사 숙녀 여러분, 이번 축제를 위해 특별히 모신 귀빈, 수호자 브로냐•랜드 씨를 뜨거운 박수로 환영해 주세요!」</i><br><br>귀청이 떨어질 듯한 환호성이 광장에 울려 퍼졌다. 제레는 환호성 속에서 조용히 소매치기범을 끌고 나와 가장자리에서 당직을 서고 있는 철위대에게 인계했다. 그녀는 고개를 돌려 멀리 있는 무대를 바라보았다. 흰 치마를 입은 여인과 시선이 마주친 짧은 순간, 수호자는 그녀에게 미소를 지어주었고 제레도 미소로 화답했다.<br><br>그리고 두 사람은 각자의 길을 걷기 시작했다. 한 명은 빛으로, 다른 한 명은 어둠으로 숨어들었지만,<br>——그들은 결국 다시 만나게 될 것이다."
         }
     ]
 }
@@ -440,192 +440,192 @@ var _story_ = {
 var _voice_ = {
     "1102": [
         {
-            "Title": "First Meeting",
-            "Voice": "Hey, I'm Seele. I'm a member of Wildfire down here in the Underworld. Wanna help me forge a future for the people?"
+            "Title": "첫 만남",
+            "Voice": "안녕, 난 제레야. 벨로보그 하층 구역 「와일드 파이어」의 멤버기도 하지. 함께 하층 구역의 미래를 지켜볼래?"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Right on time — let's start the patrol."
+            "Title": "인사",
+            "Voice": "마침 잘 왔어, 순찰을 시작하자"
         },
         {
-            "Title": "Parting",
-            "Voice": "Hey, you're about to fall asleep on your feet. Don't push yourself — I got this. Go get some rest."
+            "Title": "작별",
+            "Voice": "어이, 서서 잘 기센데? 여긴 내가 있으니까 버티지 말고 얼른 가서 쉬어"
         },
         {
-            "Title": "About Self: Childhood",
-            "Voice": "Me as a child? Hook times ten."
+            "Title": "자신에 대해•어린 시절",
+            "Voice": "어린 시절? 후크 10명 정도의 파괴력이 있었달까?"
         },
         {
-            "Title": "Chat: Life Underground",
-            "Voice": "We may live underground, but we won't be buried by this city."
+            "Title": "잡담•지하 생활",
+            "Voice": "지하에서 생활해도 우린 결코 이 도시에 묻히지 않아"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I like to keep my scythe sharp so I can get a good night's sleep on it."
+            "Title": "취미",
+            "Voice": "잘 벼린 낫을 베개 옆에 놓고 자면 한 시름이 놓여"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "I'm over it now, but... when I was young, I used to keep my favorite comic books in the clinic. Then the other kids started borrowing them... permanently."
+            "Title": "고민",
+            "Voice": "고민이랄 것까진 없는데… 진료소에 소장해 둔 최애 만화책을 아이들이 전부 빌려 가버렸어…"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "The chief's right — sometimes a sharp blade is the only way to get people to come to their senses."
+            "Title": "공유",
+            "Voice": "두목 말이 맞아, 말이 안 통하는 녀석한테는 무기가 최고지"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Hmm... Can I see this Pom-Pom? Sounds like a talking teddy bear to me."
+            "Title": "견문",
+            "Voice": "네가 말했던 그 폼폼이라는 녀석은 말을 할 줄 아는 천 인형 같던데, 음… 한 번 만나볼 수 있을까?"
         },
         {
-            "Title": "About Natasha",
-            "Voice": "I learned when I was a kid that temper tantrums won't get you anywhere with Nat... Let's just say she knew how to give you a taste of your own medicine."
+            "Title": "나타샤에 대해",
+            "Voice": "배짱을 부려봤자 나타한텐 아무런 소용이 없다는 걸 일찌감치 깨달았지. 나타는 의사니까… 널 「처리」할 수 있는 방법도 많아"
         },
         {
-            "Title": "About Clara",
-            "Voice": "That girl doesn't talk much, but... I know she doesn't see us as her enemy."
+            "Title": "클라라에 대해",
+            "Voice": "그 녀석은 사람들이랑 대화하는 걸 그닥 좋아하지 않더라고, 하지만… 우릴 배척하는 게 아니라는 건 알아"
         },
         {
-            "Title": "About Svarog",
-            "Voice": "Heh, Svarog's always going on about \"humanity's endless conflicts,\" but you don't get peace by offering everything up on a silver platter."
+            "Title": "스바로그에 대해",
+            "Voice": "스바로그는 「인류는 끝없는 전쟁을 즐긴다」라는 말을 입에 달고 살아. 근데 양보만 한다고 평화가 오겠어?"
         },
         {
-            "Title": "About Sampo",
-            "Voice": "If you need something done, he might be your man. But if you feel like befriending him, do yourself a favor: don't."
+            "Title": "삼포에 대해",
+            "Voice": "일 처리는 괜찮게 하는데, 그 녀석을 친구로 삼는 건 스스로를 괴롭히는 일이야"
         },
         {
-            "Title": "About Hook",
-            "Voice": "Don't let her appetite for chaos fool you — I think that kid's going places."
+            "Title": "후크에 대해",
+            "Voice": "온종일 돌아다니면서 노느라 정신없긴 한데, 언젠간 정말 큰일을 해낼지도 모르지"
         },
         {
-            "Title": "About Oleg",
-            "Voice": "I probably owe my life to the chief."
+            "Title": "올레그에 대해",
+            "Voice": "두목이 없었다면 지금의 나도 없었을 거야"
         },
         {
-            "Title": "About Bronya",
-            "Voice": "It was the first time both of us had seen Belobog's real sky... the same sky."
+            "Title": "브로냐에 대해",
+            "Voice": "우리 둘 다 처음으로 벨로보그의 진짜 하늘을 봤어…. 같은 하늘을 말이야"
         },
         {
-            "Title": "About Luka",
-            "Voice": "You think I'm too competitive? Ha, guess you haven't met Luka."
+            "Title": "루카에 대해",
+            "Voice": "내 승부욕이 강하다고? 하, 그건 네가 루카를 못 봐서 그래"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Where there's hope, there's the will to fight."
+            "Title": "성혼 활성화",
+            "Voice": "희망이 있으면, 싸울 이유가 생기는 법이지"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Good news...? I'll take it."
+            "Title": "캐릭터 승급",
+            "Voice": "희망이 좀 보여"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Ha, try standing in my way now."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "하, 이제 아무도 우릴 건드리진 않겠지?"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Aha, that'll come in handy."
+            "Title": "행적 활성화",
+            "Voice": "괜찮네, 유용하겠어"
         },
         {
-            "Title": "Added to Team With Hook",
-            "Voice": "Hook? Shouldn't you be in... *sigh* Fine, just stay close."
+            "Title": "파티 편성•후크",
+            "Voice": "후크? 집에서 자는 거 아니었어…? 빠짝 붙어서 잘 따라와"
         },
         {
-            "Title": "Added to Team With Bronya",
-            "Voice": "I'll take the front line. Stay safe, Bronya."
+            "Title": "파티 편성•브로냐",
+            "Voice": "내가 앞장 설게. 브로냐, 넌 네 몸이나 잘 지켜"
         },
         {
-            "Title": "Added to Team With Natasha",
-            "Voice": "Managed to grab some sleep, Nat? Don't burn yourself out."
+            "Title": "파티 편성•나타샤",
+            "Voice": "푹 쉬었어, 나타? 무리하지 마"
         },
         {
-            "Title": "Added to Team With Luka",
-            "Voice": "Pair up with him? *sigh* Alright, Luka, let's do this."
+            "Title": "파티 편성•루카",
+            "Voice": "너랑 같은 편이라고? 하… 정말 오랜만이네, 루카"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "So you are afraid of me."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "내가 두렵구나?"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "*sigh* Great."
+            "Title": "전투 시작•위험 경보",
+            "Voice": "성가신 녀석"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "What a headache."
+            "Title": "턴 시작•1",
+            "Voice": "성가시네"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Don't mess with me."
+            "Title": "턴 시작•2",
+            "Voice": "날 건드리지 마"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Come on, I wanna try something out."
+            "Title": "턴 대기",
+            "Voice": "빨리 몸 좀 풀어보자고"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Who's next?"
+            "Title": "일반 공격",
+            "Voice": "다음"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Ahhh."
+            "Title": "약공격 피격",
+            "Voice": "쳇"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Argh, only a scratch."
+            "Title": "강공격 피격",
+            "Voice": "이 정도쯤이야"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "I'll free you from your chains."
+            "Title": "필살기•활성화",
+            "Voice": "이걸로 널 해방해주지"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Disappear among the sea of butterflies, illusions of the past!"
+            "Title": "필살기•발동",
+            "Voice": "나비와 함께 흩어져라, 과거의 환영이여"
         },
         {
-            "Title": "Talent",
-            "Voice": "Let me end your misery."
+            "Title": "특성",
+            "Voice": "단숨에 끝내주지"
         },
         {
-            "Title": "Downed",
-            "Voice": "I can still fight..."
+            "Title": "전투 불능",
+            "Voice": "난…… 아직이야………"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "It's not over yet."
+            "Title": "전투 복귀",
+            "Voice": "아직 안 끝났어"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Thanks."
+            "Title": "HP 회복",
+            "Voice": "덕분에 살았어"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "A sharp scythe needs targets."
+            "Title": "전투 승리",
+            "Voice": "목표가 있어야 낫을 더 빨리 휘두를 수 있어"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Time well spent."
+            "Title": "전리품 오픈•1",
+            "Voice": "헛수고는 아니었네"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Mm-hmm, not bad."
+            "Title": "전리품 오픈•2",
+            "Voice": "음, 나쁘지 않아"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Hey! Pretty generous."
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "오! 꽤 많은걸"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Not bad at all."
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "나름 괜찮은걸"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "That was unnecessarily difficult..."
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "왜 이렇게 어려운 거야…"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Enemies ahead... up for a scrap?"
+            "Title": "적 발견",
+            "Voice": "전방에 적이야. 싸워, 말아?"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Let's take it in turns. You rest, I'll stand guard."
+            "Title": "도시로 복귀",
+            "Voice": "넌 쉬어, 내가 먼저 보초를 설 테니 번갈아 서자"
         }
     ]
 }

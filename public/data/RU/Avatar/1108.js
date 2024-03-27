@@ -602,6 +602,14 @@ var _voice_ = {
             "Voice": "Ha! Always an honor to have the Trailblazer by my side!"
         },
         {
+            "Title": "Added to Team With Sparkle",
+            "Voice": "Same rule as always — no backstabbing, okay?"
+        },
+        {
+            "Title": "About Sparkle",
+            "Voice": "Think you've got her all figured out, do you? That's exactly what she wants you to think! Trust me, she's so cunning she could even outwit herself!"
+        },
+        {
             "Title": "Battle Begins: Weakness Break",
             "Voice": "We're just having fun."
         },

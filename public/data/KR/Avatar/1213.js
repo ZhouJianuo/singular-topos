@@ -628,23 +628,23 @@ var _story_ = {
     "1213": [
         {
             "_id": 1,
-            "Story": "Dan Heng's true Vidyadhara form, revealed after accepting the residual powers from the previous reincarnation of \"Imbibitor Lunae.\"<br>Upon accepting the majestic horned crown atop his forehead, he must accept all the merits and faults attributed to that person.<br>However, he was never himself."
+            "Story": "단항이 전생의 「음월군」이 남긴 힘을 받아들여 드러낸 비디아다라족으로서의 본모습.<br>이맛전의 각관을 받아들였으면, 그 사람이 짊어진 모든 공과도 이어받아야 한다.<br>하지만 처음부터 끝까지 그는 그가 아니다"
         },
         {
             "_id": 2,
-            "Story": "In the dim abyss devoid of light, he seemed to have returned to the insides of a Vidyadhara egg, being ceaselessly churned in tumultuous waves and elusive dreams.<br><br>He dreamed he was standing before a sacrificial altar, dancing and chanting. However, the songs and gestures were mere facades. The light emanating from his eyes and the storm roiling in his blood were the true forces at play. Casually, he wove the misty and foggy tide in Scalegorge Waterscape, sealing the maddened and frenzied \"dragon\" into the propagating giant tree. As the echoing roar streamed up into the heavens and dissipated, Scalegorge Waterscape will continue its peace for centuries more, and his duty was over.<br><br>The ceremony ended, and he turned to look behind him. In the blink of an eye, the stairs he had stepped down from had become full of standing dignitaries with draconic horns and dressed like royalty. As if they were mirages in a mirror, each of them turned and their sleeves swirled with the motion, ready to leave one after another in a meticulously calculated arrangement. Innumerable, they formed a staircase to the sky, stretching into the never-ending spatial void. The faces of all these people would greet him every morning in his dressing mirror — That was his face.<br><br>No, it was the face of the primordial, the original, the very first high elder. He smiled bitterly and covered his face with his palm, as if ascertaining whether he could tear off this mask and return it to its true owner.<br><br>He could not."
+            "Story": "빛이 없는 어둠 속에서, 그는 마치 비디아다라 알로 돌아간 듯이, 파도와 환몽 속에서 맴돌았다.<br><br>그는 자신이 제단에 서서 춤추고 시를 읊는 꿈을 꿨다. 노래와 손짓은 표상일 뿐, 두 눈에서 뿜어져 나오는 빛과 혈맥 속에서 용솟음치는 폭풍이야말로 본질이다. 그는 가벼운 손짓만으로 인연경의 연기 같은 파도를 일으키며, 날뛰는 「용」을 거목에 봉인했다. 용울음이 구름을 뚫으며 울려 퍼졌다. 인연경엔 다시 수백 년 동안 평화가 찾아올 것이고, 그의 사명도 끝났다.<br><br>의식이 끝나고, 그는 뒤를 돌아봤다. 떠나온 돌계단 위에는 언제부터인지 셀 수 없이 많은, 화려한 차림에 용뿔을 지닌 존자들이 서 있었다. 그들은 거울에 비친 형상 같았다. 미묘한 오차로 잔영처럼 하나씩 소매를 털더니 몸을 돌리고 떠나려고 했다. 수없이 많은 사람이 사다리가 되어 끝없는 허공을 향해 뻗어 나간다. 매일 아침 깨어날 때마다 거울 속에서 그들의 얼굴과 마주했다. 그건 그의 얼굴이었다.<br><br>아니, 그건 초대 용존의 얼굴이었다. 그는 쓴웃음을 지으며 손바닥으로 얼굴을 덮었다. 마치 그 가면을 벗겨 내서 진짜 주인에게 돌려줄 수 있는지 확인이라도 하는 것처럼.<br><br>그는 그럴 수 없었다"
         },
         {
             "_id": 3,
-            "Story": "In the dim abyss devoid of light, he seemed to have returned to the insides of a Vidyadhara egg, being ceaselessly churned in tumultuous waves and elusive dreams.<br><br>He dreamed he arrived at the battlefield like the descent of a god. He hovered with the clouds — the military formations below him were tiny as ants, and the airborne chariots and starskiffs were moths destined to die in a flame. Such were the lives of mortals... Was this the viewpoint of a dragon? A sliver of hubris rose up and plunged his heart into emotionless and icy detachment, and he hurriedly cast his gaze toward those with whom he had fought and shared liquor:<br><br>The pilot who zoomed past did not care whether the formation was orderly. She shot at will, letting the arrows filled with blazing fire fall on the storming borisin foot soldiers...<br><br>Along the direction pointed out by the starskiffs, a white-haired swordswoman spearheaded into the fray ahead of the entire army, dancing with her sharp blade. She dashed between flashes of metallic light, her actions too sharp to even let her allies come near, reducing them to merely supporting her from behind...<br><br>On the other hand, the Cloud Knight Lieutenant who used to chat and laugh with the dragon contained his languid indolence, holding his devastator glaive in hand as he stood with his men to repel the borisin pawns attacking from the battlefield's wings...<br><br>And behind the main host, the military engineers who marched with the army were adjusting and testing giant aurumatons... perhaps that exceedingly arrogant craftsman was now working at full speed, for these machines hundreds of feet tall are specialized weapons designed to counter the mechabeasts...<br><br>Then, he saw the general of yesteryear, Teng Xiao. He was enveloped in golden lightning like the avatar of the Reignbow, plowing through the enemies' rows of war beasts with his divine mirage...<br><br>The devastated borisins began to flee. He knew it was time to carry out the duty entrusted to him. So he let go — letting his consciousness disappear in storms and hails, letting thunder roar for him, letting tsunamis rage for him. He floated on top of clouds, watching the enemies getting swallowed by the watery abyss, and watching the land behind him. Many humans, Vidyadhara, and Foxians were eternally left there, unable to lay their eyes upon their home ever again.<br><br>The dragon heart told him that it was but a small speck of dust brushed away from the world. Wars come with a price, but life will always thrive once more — the Vidyadhara are not the only branch of Long's Scions. However, his human heart ached for those comrades who, like him, had warm flesh and blood, and for those mortals who might have lived longer but now could return home nevermore."
+            "Story": "빛이 없는 어둠 속에서, 그는 마치 비디아다라 알로 돌아간 듯이, 파도와 환몽 속에서 맴돌았다.<br><br>그는 자신이 신이 강림한 것처럼 전장에 당도한 꿈을 꿨다. 구름 위에서는 군진(軍陣)이 개미처럼 작고, 운차(雲車)와 별뗏목은 불구덩이로 날아드는 나방 같았다. 이게 바로 평범한 인간의 목숨이고, 용의 시점인가? 오만한 생각이 들면서 그의 마음은 싸늘해졌다. 그는 자신과 함께 싸우고 술을 즐기던 사람들에게 급히 눈길을 돌렸다.<br><br>질주하는 비행사는 대열을 개의치 않고 즉흥적으로 사격하고, 거센 불이 붙은 화살을 돌격하는 보리 병사들을 향해 뿌렸다.<br><br>별뗏목이 가리키는 방향 위에 한 백발의 검객이 앞장서서 검날을 따라 춤을 추며 검광 사이를 오가고 있었다. 그 기세가 대단하여 그녀의 동료들조차 곁에 서지 못하고 뒤에서 지원할 뿐이었다.<br><br>늘 그와 담소를 나누던 운기 효위(驍衛)도 평소의 해이한 모습을 거두고, 진도(陣刀)를 휘두르며 자신이 이끄는 병사들과 함께 측면에서 날아드는 보리 병사를 막았다.<br><br>본진 후방, 뒤따라오는 장인들이 거대한 금 조각상의 성능을 시험하고 있다. 그 고집이 세고 제멋대로인 장인도 지금쯤 땀을 비처럼 흘리고 있을지 모르겠다. 이 수십 미터에 달하는 병기는 기계짐승에 대항하기 위한 비장의 무기이다.<br><br>이어서 장군 등효가 보였다. 그는 금빛 천둥을 두른 천궁의 화신처럼 자신의 환영과 함께 적의 전투 요수 진지를 유린하고 있었다……<br><br>참패한 보리인은 도망치기 시작했다. 그는 자신에게 주어진 사명을 이행해야 할 때라는 것을 알았다. 그는 폭풍우와 우박이 의식을 잠식하도록 놔뒀다. 천둥이 그를 대신해 포효하고, 해일이 그를 대신해 분노했다. 그는 구름 위에 선 채 심연에 삼켜지는 적, 그리고 등 뒤의 땅을 바라봤다. 수많은 인간과 비디아다라족, 여우족들은 영원히 전장에 남아 다시는 고향을 볼 수 없을 것이다.<br><br>용심은 그에게 말했다. 그건 세상이 또 한 번 먼지를 털어낸 것뿐이라고. 전쟁에는 대가가 따르고 생명은 결국 재생한다. 비디아다라 일족은 용의 후예의 여러 갈래 중 하나일 뿐이다. 하지만 그의 전우처럼 따뜻한 피와 살을 지닌 동포들과, 더 오래 살 수도 있었지만, 이제 다시는 고향으로 돌아갈 수 없는 그 평범한 사람들 때문에 그의 마음은 아팠다."
         },
         {
             "_id": 4,
-            "Story": "In the dim abyss devoid of light, he seemed to have returned to the insides of a Vidyadhara egg, being ceaselessly churned in tumultuous waves and elusive dreams.<br><br>He dreamed that he parted the ocean's waters and came to the palace ruin depths, burying the remnants of his old friend's hallowed blood, or creating a new life that had not been seen for millennia — or, perhaps, those two actions were one and the same, an unattainable desire that could not be carried out for long years in the past, a final straw that broke the gargantuan dragon's back. The craftsman was covered in blood and wounds as he guarded the dragon with a sword in his hand. He urged himself to commit to the decision.<br><br><i>\"Shuhu is dead... we won, but how many more victories can we manage to achieve? How many more prices like this must we pay?\"<br>\"Look, the Ambrosial Arbor still stands. So long as it is alive, the monsters... they can come back again and again. The war of the Xianzhou natives, Foxians, and Vidyadhara against the abominations will never end.\"<br>\"Yes, none of us are special! Each of us has only one life, sacrificing for this, dying for that... it's all our own choices. Just like how she chose to save you and Jingliu... just like how she chose to let more people live on!\"</i><br><br>War, and the lives that expired in the war, were living beings just like him.<br>He shut his eyes wearily, remembering their faces, and made up his mind.<br><i>\"If there's a chance... we will also choose to let her and more people live on.<br>We, the Vidyadhara, have our own way of salvation. I can give it a try.\"</i><br><br>Like an out-of-body experience, like a dream within a dream, he returned to the moment before his sense of self disappeared. With a cold and emotionless mind, he observed himself turning into a dragon, entangled and fighting claw-and-fangs against that bulb of shapeshifting shadow of flesh and blood. In an illusion seen on the verge of death, the emissary of the god showed him an unsettling, beautiful scene — the stars pulsated and sang hymns like red blood cells, and the universe descended into an abyss of flesh and desires. The dragon heart beat to its limit, raising its fangs, breath, and fury — however, no matter how mighty it was, a \"lifeform\" cannot defy the true body of god of life's envoy.<br><br>...Until a starskiff ran everything through like an arrow shaft. He saw that girl crawling out of the ruins with great difficulty, lifting a \"sun\" of absolute darkness in her hand. In that fleeting eternity, he saw her hand disappear, saw her face disappear, and saw HER disappear — That item had ground everything around it into the finest dust and dragged them into a vortex of raw power, including that girl.<br><br>A tuft of hair and a few drops of blood fell to the floor as evidence of her existence. Those were the only traces she left."
+            "Story": "빛이 없는 어둠 속에서, 그는 마치 비디아다라 알로 돌아간 듯이, 파도와 환몽 속에서 맴돌았다.<br><br>그는 자신이 바다를 가르고 궁터 깊은 곳에 당도한 꿈을 꿨다. 죽은 친구의 피를 안장할지 아니면 오랫동안 탄생하지 않은 새로운 생명을 창조할지——아니, 어쩌면 이 둘은 본디 하나로, 오랫동안 이루지 못했던 갈망이자, 거대 용을 꺾을 마지막 지푸라기일지도 모른다. 오는 내내 검을 들고 호위하던 장인은 만신창이가 되었다. 그는 자신에게 결정을 내리라고 재촉했다.<br><br><i>「찰나(倏忽)가 죽었어…. 우리가 이겼다. 하지만 앞으로 몇 번이나 더 이길 수 있을까? 이런 대가를 얼마나 더 치러야 되지?」<br>「불멸의 거목을 봐. 거목은 여전히 살아있어. 거목이 건재하다면 괴물들은… 괴물들은 다시 몰려오겠지. 선주인, 여우족, 비디아다라가 함께 흉물에 맞서 싸우는 전쟁은 영원히 끝나지 않을 거다」<br>「맞아, 우리 모두 특별할 거 없어! 우리의 목숨도 하나뿐이지. 무언가를 위해 희생하고 목숨을 바치는 건… 우리의 선택이야. 그녀가 너와 경류를 구하고… 더 많은 사람을 살리기로 선택한 것처럼!」</i><br><br>전쟁 중에 스러진 생명들은 모두 자신과 마찬가지로 숨 쉬던 사람이었다.<br>그는 그 사람들의 얼굴을 떠올리며 피곤한 듯 눈을 감고 결심했다.<br><i>「같은 상황이 주어지면… 우리도 그녀와, 더 많은 사람을 살리기로 선택하겠지.<br>우리 비디아다라에게는 우리만의 구원의 길이 있어. 내가 한번 해볼게」</i><br><br>꿈속의 꿈, 몸 밖의 화신. 그는 자아를 잃기 직전으로 돌아가 자신이 용의 모습으로 변해서 자유자재로 변하는 혈육의 그림자와 뒤엉켜 싸우는 모습을 싸늘한 눈으로 바라봤다. 빈사로 인한 환각 속에서 신의 사도는 그에게 기이하고도 아름다운 장면을 펼쳐 보였다. 별이 선홍빛 세포처럼 뻐끔거리며 노래하고, 우주는 살과 욕망의 늪으로 빠져들었다. 용심은 힘차게 박동하고 이빨과 발톱을 드러냈으며, 숨결과 분노를 토했다. 하지만 아무리 막강하다 한들 생명은 생명의 신의 사자 본존에게 대항할 수 없었다.<br><br>그때 별뗏목 하나가 화살이 되어 이 모든 것을 관통했고, 폐허에서 힘겹게 기어 나오는 여자아이가 눈에 들어왔다. 그녀의 손에는 절대적으로 어두운 「태양」이 들려있었다. 순간이 영원처럼 느껴졌고, 그는 그녀의 손과 얼굴, 그리고 그녀가 사라지는 걸 지켜봤다. 검은 「태양」은 주위의 모든 것을 가장 고운 가루로 만들어 버리며 힘의 폭풍 속으로 빨아들였다. 그 여자아이까지도.<br><br>머리카락 몇 가닥과 핏방울이 땅에 떨어졌다. 그녀가 존재했다는 것을 증명할 수 있는 흔적은 이게 전부였다"
         },
         {
             "_id": 5,
-            "Story": "In the dim abyss devoid of light, he seemed to have returned to the insides of a Vidyadhara egg, being ceaselessly churned in tumultuous waves and elusive dreams.<br><br>He dreamed of the Dracocatena Nails being staked into his body, and chains of corallium winding around him to hang him in midair in the Shackling Prison. He dreamed the elders coming and going to interrogate him about the truth of the Arcanum and the whereabouts of the dragon heart. He did not speak.<br><br>He dreamed of the Judges coming before him to read their decision and wanting to sentence him to death. He did not speak.<br><br>He dreamed of the white-haired Cloud Knight Lieutenant coming to visit him and bringing him news of the Lieutenant's negotiations. The Vidyadhara did not permit him to die, nor did they permit him to leave. He did not speak.<br><br>He dreamed he was raising his cup to drink with the others again, that he molted off his scales, and that he returned to the egg, and became someone else.<br><br>He dreamed many, many things, like a never-ending immersia entitled \"Self.\"<br><br>Following the immersia was an even clearer but unreachable illusion.<br><br>He saw himself being exiled. He saw himself boarding an express. He saw himself running into the endless stars, never looking back."
+            "Story": "빛이 없는 어둠 속에서, 그는 마치 비디아다라 알로 돌아간 듯이, 파도와 환몽 속에서 맴돌았다.<br><br>그는 쇄룡침이 몸에 박혀 있는 꿈을 꿨다. 산호금으로 만든 사슬에 꽁꽁 묶여 유폐옥에 매달려 있는 그에게 장로들이 오가며 묘법의 진실과 용심이 있는 곳을 물었다. 그는 아무 말이 없었다.<br><br>그는 명부의 판관들이 앞으로 다가와 판결문을 읽는 꿈을 꿨다. 영원한 죽음을 선고받은 그는 아무 말이 없었다.<br><br>그는 백발의 운기 효위(驍衛)가 와서 중재 결과를 알려주는 꿈을 꿨다. 비디아다라는 그가 죽거나 떠나는 걸 허락하지 않았다. 그는 아무 말이 없었다.<br><br>그는 다시 한번 동료들과 잔을 들고 술을 마시는 꿈을 꿨다. 그는 자신이 용 비늘을 벗어 버리는 꿈을 꿨다. 그는 자신이 알로 돌아가 다른 사람이 되는 꿈을 꿨다.<br><br>그는 많은 꿈을 꿨다. 마치 영원히 끝나지 않는 「자아」라는 이름의 환상극처럼.<br><br>환상극 다음에는 더욱 또렷하지만 닿지 않는 허상이다.<br><br>그는 추방 당하는 자신을 봤다. 그는 열차에 탑승하는 자신을 봤다. 그는 머나먼 별하늘을 향해 뒤돌아보지 않고 달리는 자신을 봤다"
         }
     ]
 }
@@ -652,200 +652,200 @@ var _story_ = {
 var _voice_ = {
     "1213": [
         {
-            "Title": "First Meeting",
-            "Voice": "This is my original appearance, that of the Vidyadhara... Don't worry, I'm still Dan Heng, a descendant of the Vidyadhara, and also a member of the Nameless."
+            "Title": "첫 만남",
+            "Voice": "이게 내 원래 모습이고, 이 모습이 비디아다라족의 자태야…. 걱정할 필요 없어. 난 여전히 단항, 비디아다라의 후예이자 무명객이지"
         },
         {
-            "Title": "Greeting",
-            "Voice": "As recorded in the data bank, it is customary among the Vidyadhara to place one's hand on one's forehead when greeting someone. But... we don't need to do that."
+            "Title": "인사",
+            "Voice": "아카이브에서 기록한 바와 같이, 비디아다라의 예절법으로는 인사할 때 손을 이마 위에 둬. 우린… 이렇게까지 안 해도 돼"
         },
         {
-            "Title": "Parting",
-            "Voice": "It's getting late, I won't be staying up much longer. Sleep well."
+            "Title": "작별",
+            "Voice": "시간 됐어, 밤을 새진 않을 거야. 너도 좋은 꿈 꿔"
         },
         {
-            "Title": "About Self: Previous Life",
-            "Voice": "My previous life is like a faint shadow — hardly visible yet following me wherever I go. It's hard to describe the feeling, but one thing is for certain — I am nobody's shadow."
+            "Title": "자신에 대해•전생",
+            "Voice": "전생의 모든 것들이 내겐 마치 낯선 그림자 같아. 제대로 보이진 않지만 끈질기게 따라다니거든. 표현하기 너무 어렵지만, 확실한 건 난 어느 누구의 그림자도 아니라는 거지"
         },
         {
-            "Title": "Chat: Banishment",
-            "Voice": "The eternal banishment decree was like a pardon for me... After all, I'm here now, aren't I?"
+            "Title": "잡담•유배",
+            "Voice": "그 종신 유배령은 나한테 특별사면과도 같았어…. 결국 난 여기에 있잖아, 안 그래?"
         },
         {
-            "Title": "Chat: Cloud-Piercer",
-            "Voice": "There is unfinished business between me and the maker of this weapon."
+            "Title": "잡담•격운",
+            "Voice": "나와 이 창 주조자 사이의 관계는 아직 끝나지 않았어"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "During my days in The Shackling Prison, reading books was my only respite from the long hours and the shadows of the past."
+            "Title": "취미",
+            "Voice": "유폐옥에서 지내는 동안은 독서만이 나를 그 긴 시간과 과거의 그림자에서 벗어날 수 있게 해줬어"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "I have no interest in commenting on the deeds and sins of Imbibitor Lunae. Given the choice, I would like to cast his name aside... Even so, the consequences of his power will be borne by me alone."
+            "Title": "고민",
+            "Voice": "음월군의 공과 실에 대해선 말하고 싶지 않아. 기회가 된다면 그 이름을 버리고 싶지만… 이 힘을 썼으니, 결과도 내가 책임지는 수밖에"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "The Vidyadhara that reside on the Xianzhou received a blessing from the Permanence — our dragon ancestor. On the Luofu, we wield a magic known as \"cloudhymn\" that allows us to manipulate water and control the rains."
+            "Title": "공유",
+            "Voice": "선주를 통틀어 몇몇 비디아다라족은 용의 조상이 내린 은사로 「불멸」을 얻었어. 나부 비디아다라는 물을 다스리고 비를 내리는 술법을 부리는데, 이름하여 「운음」이지"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "The Ambrosial Arbor was severed long ago, but it is not dead. If there is any activity from the Denizens of Abundance, it will be connected to the Arbor."
+            "Title": "견문",
+            "Voice": "「불멸의 거목」은 천 년 동안 봉인돼 있었지만, 죽지는 않았어. 풍요의 백성 쪽에 이상한 움직임이 있다면, 분명 그것과 연관이 있을 거야"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "Sometimes the general treats me as a friend from the old days. Unfortunately, I am unable to return the sentiment."
+            "Title": "경원에 대해",
+            "Voice": "장군은 가끔 나를 옛 친구로 생각해. 난 그 기대에 부응할 수 없지만 말이야"
         },
         {
-            "Title": "About Bailu",
-            "Voice": "The high elder succession was incomplete, causing her to become trapped in shallow waters... Fortunately, she has a vitality that does not bend to the will of others."
+            "Title": "백로에 대해",
+            "Voice": "용존의 계승이 아직 이뤄지지 못 한 이유로 그녀는 잠재력을 발휘하지 못하고 있어…. 다행인 건, 그녀가 타인에게 휘둘리지 않는 활력이 있다는 거야"
         },
         {
-            "Title": "About Yanqing",
-            "Voice": "That young swordmaster has a keen eye and a swift hand, but I have no desire to compete with anyone in a sword fight."
+            "Title": "연경에 대해",
+            "Voice": "그 어린 검객의 눈빛과 몸놀림은 꽤 훌륭하지만, 난 타인과 검을 겨룰 생각이 없어"
         },
         {
-            "Title": "About Blade",
-            "Voice": "What he seeks I am unable to provide."
+            "Title": "블레이드에 대해",
+            "Voice": "그는 나한테서 원하는 걸 얻지 못할 거야"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "One cannot pick and choose their recollections. My past is unalterable."
+            "Title": "성혼 활성화",
+            "Voice": "기억은 선택할 수 없지. 어떻게 해도 내 과거는 바뀌지 않아"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "The unrest within me seeks an escape."
+            "Title": "캐릭터 승급",
+            "Voice": "가슴 속 솟구치는 이 느낌도 떨쳐내야겠지"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "The future is unknowable... but I have a choice."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "미래를 알 수는 없지만… 「선택」할 순 있지"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "I will pay the price for this power."
+            "Title": "행적 활성화",
+            "Voice": "내가 이 힘의 대가를 치를게"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "Trailblazer, proceed with caution. I've got your back."
+            "Title": "파티 편성•{NICKNAME}",
+            "Voice": "{NICKNAME}, 조심해. 내가 있으니 걱정 말고"
         },
         {
-            "Title": "Added to Team With March 7th",
-            "Voice": "March, remember that— *sigh* Forget it, you never remember."
+            "Title": "파티 편성•Mar. 7th",
+            "Voice": "Mar. 7th, 기억해…. 아니다, 넌 어차피 잊어버리겠지"
         },
         {
-            "Title": "Added to Team With Himeko",
-            "Voice": "As always, Himeko, I can handle it."
+            "Title": "파티 편성•히메코",
+            "Voice": "히메코 씨, 늘 그랬던 것처럼 제가 처리할게요"
         },
         {
-            "Title": "Added to Team With Welt",
-            "Voice": "Mr. Yang, do you have any insight into this? Allow me to explain my thinking."
+            "Title": "파티 편성•웰트",
+            "Voice": "웰트 씨, 이런 문제에 대해선 어떻게 생각하세요? 저도 제 생각을 표현하려고요"
         },
         {
-            "Title": "Added to Team With Jing Yuan",
-            "Voice": "Good to see you, General."
+            "Title": "파티 편성•경원",
+            "Voice": "장군, 반갑습니다"
         },
         {
-            "Title": "Added to Team With Blade",
-            "Voice": "This is your last warning. Stay away from my companions."
+            "Title": "파티 편성•블레이드",
+            "Voice": "다시 한번 경고하지. 너, 내 동료한테 가까이 오지 마"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "The times are changed beyond recognition."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "시대는 변했어"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Do not be afraid."
+            "Title": "전투 시작•위험 경보",
+            "Voice": "두려워하지 마"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "I sense a storm..."
+            "Title": "턴 시작•1",
+            "Voice": "솟구치는 힘이 느껴져…"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "I wish not to use this strength."
+            "Title": "턴 시작•2",
+            "Voice": "이 힘은… 쓰고 싶지 않았어"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Conflict requires undivided focus."
+            "Title": "턴 대기",
+            "Voice": "전장에선 한눈을 팔지 마"
         },
         {
-            "Title": "Enhanced Basic Attack 2",
-            "Voice": "You are flawed."
+            "Title": "일반 공격 강화 2",
+            "Voice": "허점투성이군"
         },
         {
-            "Title": "Enhanced Basic Attack 3: Activation",
-            "Voice": "The heavens surge..."
+            "Title": "일반 공격 강화 3•활성화",
+            "Voice": "하늘이 노했군…"
         },
         {
-            "Title": "Enhanced Basic Attack 3: Unleash (I)",
-            "Voice": "Celestial dragon... Break!"
+            "Title": "일반 공격 강화 3•발동•1",
+            "Voice": "천룡현신, 부숴라!"
         },
         {
-            "Title": "Enhanced Basic Attack 3: Unleash (II)",
-            "Voice": "Cloud-faring dragon... rise!"
+            "Title": "일반 공격 강화 3•발동•2",
+            "Voice": "교룡비상, 일어나라!"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "A graze."
+            "Title": "약공격 피격",
+            "Voice": "무방해"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Inevitable."
+            "Title": "강공격 피격",
+            "Voice": "실수했군"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Awaken, dormant scales."
+            "Title": "필살기•활성화",
+            "Voice": "잠든 용을 깨웠어"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Delve-hidden moon, world-cleansing dragon!"
+            "Title": "필살기•발동",
+            "Voice": "동천은월, 창룡의 정화!"
         },
         {
-            "Title": "Downed",
-            "Voice": "Not yet... not now."
+            "Title": "전투 불능",
+            "Voice": "지금은… 안 돼"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "A dragon... will always return."
+            "Title": "전투 복귀",
+            "Voice": "용은… 결국 돌아오지"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Do not fret."
+            "Title": "HP 회복",
+            "Voice": "긴장할 것 없어"
         },
         {
-            "Title": "Technique",
-            "Voice": "Water heeds the cloud's song..."
+            "Title": "비술",
+            "Voice": "운음으로 물을 다스리리"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "The consequences are mine to bear."
+            "Title": "전투 승리",
+            "Voice": "제반의 결과는 내가 짊어지지"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "It's all yours."
+            "Title": "전리품 오픈•1",
+            "Voice": "다 네 거야"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "This could serve you well."
+            "Title": "전리품 오픈•2",
+            "Voice": "너한테 도움이 될지도 몰라"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "A fine piece."
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "그럭저럭 괜찮네"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Good."
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "잘 됐군"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "All manner of mystic arts have their own distinctive merits."
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "사람은 다 저마다 장기가 있는 법이지"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Caution does not mean cowardice."
+            "Title": "적 발견",
+            "Voice": "신중히, 하지만 겁먹을 건 없어"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "All remains as it did yesterday..."
+            "Title": "도시로 복귀",
+            "Voice": "모든 게 어제 본 것 같군……"
         }
     ]
 }

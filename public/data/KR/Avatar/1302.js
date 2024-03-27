@@ -529,23 +529,23 @@ var _story_ = {
     "1302": [
         {
             "_id": 1,
-            "Story": "A paragon knight of the Knights of Beauty.<br>He embodies righteousness and honor, possessing an admirable nobility. As a solitary wanderer in the cosmos, he wholeheartedly embraces the principles of \"Beauty.\"<br>Upholding the honor of beauty in the universe has been Argenti's sacred duty. From the very beginning, he approached this duty with piety and unwavering conviction."
+            "Story": "「미(美)의 기사단」의 고전적인 기사.<br>사람들은 그의 정직하고 당당하며 고귀한 천성에 탄복한다. 그는 홀로 우주를 누비며 「미」의 길을 꿋꿋이 걷고 있다.<br>우주에서 「미」의 명예를 지키는 것이 아젠티의 직책이다. 이 의무를 수행하기 위해 창을 들 땐 경건해야 하고, 창을 내릴 땐 상대를 진심으로 승복시켜야 한다."
         },
         {
             "_id": 2,
-            "Story": "His hometown was ravaged by war for years, and the memories of his early childhood were tainted by the horrors of bloodshed and relentless shelling. Amidst the chaos, he sought refuge underground and, by chance, discovered an ocarina beneath a stone tile.<br>With trembling hands, he attempted to coax a melody from the instrument.<br>However, his \"music\" proved to be terrible.<br><br>Yet, the ethereal notes emanating from his ocarina became his sanctuary, a spiritual escape from the harsh reality.<br><br>Over time, the melodic strains faded into the recesses of his memory, becoming a mysterious and elusive moment. It was only years later, during a bard tour, when he saved a child from the flames of war and received a precious ocarina as a token of gratitude, that the melodies of his past resurfaced.<br>Holding the exquisite instrument in his hands, he examined its flawless and noble craftsmanship. Once again, the melodies of his childhood converged, evoking a flood of emotions and memories.<br>However, his \"music\" remained terrible.<br><br><i>\"I'm too clumsy to master this instrument...\"</i><br>He murmured in self-deprecation. Yet, after a profound moment of contemplation, a resolute courage ignited within him. He resolved to try once more, to weave a melody.<br>The music remained unchanged, but this time, he laughed wholeheartedly.<br><br><i>\"Despite the terrible music, I love it. I believe it to be beautiful.\"</i><br>Carefully stowing away his ocarina, he once again embarked on his journey without hesitation."
+            "Story": "그의 고향은 수년간의 전쟁을 겪었다. 포화가 난무하는 가운데, 그의 어린 시절 기억은 피와 연기로 얼룩져 있다. 어느 날 지하에서 포격을 피하다가 그는 벽돌 밑에서 오카리나를 발견했다.<br>그는 흐르는 공기를 멜로디로 바꾸려 했다.<br>그러나 그의 음악은 정말 끔찍했다.<br><br>하지만 그때의 오카리나 소리는 그에게 유일한 「정신적 도피처」였다.<br><br>선율은 시간이 지나면서 그의 기억 속에 녹아들어 「신비한」 순간이 되었다. 수년 후, 그는 음유하던 중 전쟁의 포화 속에서 아이를 구하고 진귀한 오카리나를 선물로 받았을 때, 그때의 기억이 떠올랐다.<br>그는 오카리나를 손에 들고 자세히 살펴봤다. 하얗고 흠잡을 데 없는 질감에 공기가 구멍을 통과해 기압으로 선율을 만들어 냈다. 음이 다시 조합되자 추억 속의 감정이 되살아났다.<br>그러나 그의 음악은 여전히 형편없었다.<br><br><i>「난 너무 어리석어서 이걸 제대로 다루지 못해……」</i><br>당혹감과 불안함에 한참 생각하는데 무시무시한 용기가 다시 생겨났다. 그는 다시 흐르는 공기를 선율로 만들고자 시도했다——<br>선율은 여전했지만 그는 활짝 웃었다.<br><br><i>「하지만 난 이게 정말 좋아. 이게 『아름답다』고 믿어」</i><br>그는 오카리나를 조심히 챙긴 뒤 더는 망설이지 않고 앞으로 나아갔다."
         },
         {
             "_id": 3,
-            "Story": "After leaving his hometown, he became the apprentice of an elderly master.<br>Alongside physical and mental training, he would often listen to his master's tales of bygone eras — stories of transcendent beauty and mystical phenomena witnessed by the Minstrels.<br><br><i>\"It was a world bathed in amber, draped in undisturbed stillness, where every being shed tears for the magnificent wonders veiled beneath its surface.\"<br>\"Rumor has it that Idrila, after embarking on a journey spanning numerous cycles of Thirteen Amber Eras, will make a triumphant return to the universe during the elusive thirteenth month.\"</i><br><br>Day after day, his master imparted the essence of beauty to him. He learned to go beyond mere poetic recitation and embrace devotion as the embodiment of beauty, truly upholding its philosophy.<br><br>He understood that beauty was not just a code to follow but a way of life, an existence known as a knight.<br><br>However, his master departed from this world, and he once again set out on his lonely journey. He contemplated his existence, pondering the nature of his being. Instead of lamenting his solitude, he focused on becoming a true knight.<br><br>During his stay in an old city, he labored to restore its dilapidated streets.<br>He vanquished nightmarish monsters, and with the arrival of spring, rabbits frolicked once again in the woods.<br>He also briefly found companionship in the presence of another knight, who professed his faith in the blessings of the goddess residing within his armor.<br><br><i>\"To give one's soul requires understanding that each encounter might be one's last, yet retreating is never an option.\"<br>\"Carry these words of courage with you, my dear friend.\"</i><br><br>He contemplated on his lance, which bore the stains of countless battles fought in the name of Beauty.<br>With solemn reverence, he wiped away each mark, a testament to his tireless odyssey toward the pursuit of Beauty."
+            "Story": "고향을 떠난 후 그는 연로한 스승을 따랐다.<br>일상적인 육체적, 정신적 수행 외에 가끔 오후에 휴식을 취할 때면 스승은 그가 본 적 없는 시대——고대의 우주 음유시인들이 「미(美)」를 목격했다고 주장하는 순간들을 이야기하곤 했다.<br><br><i>「그곳은 멈춰있는 마노의 세계로, 모든 사람들이 그 안에 갇힌 기이하고 아름다운 현상에 눈물을 흘렸다」<br>「이드릴라는 죽고 나서 여러 차례 13앰버기원의 윤회를 거쳐 13번째 달에 우주 어딘가로 돌아온다고 전해진다」</i><br><br>당시 스승은 매일 그에게 「미」의 정신을 가르쳤다.<br>「시」 낭송을 대신하여 경건한 「전투」로 「미」의 정신을 관철시키는 방법이 그 내용이었다.<br><br>——그는 그것이 「기사」라는 존재의 준칙이자 품격이라는 것을 알았다.<br><br>하지만 스승은 그에게 많은 이야기를 하기도 전에 세상을 떠났다. 그는 다시 혼자가 되어 일찍이 막 고향을 떠났을 때처럼 자신의 존재에 대해 깊이 생각했다. 다만 그는 더 이상 고독을 「걱정」하지 않고, 어떻게 「기사」가 될 수 있을지를 고민했다.<br><br>그는 오래된 성에 머물며 더러운 거리를 마치 햇살을 듬뿍 받는 아기처럼 새롭게 만들었다.<br>그는 악몽 같은 괴물을 토벌했고 이듬해 봄, 토끼들이 다시 숲속에서 뛰어다니기 시작했다.<br>그는 잠시 다른 「기사」 하나와 세계를 돌아다닌 적도 있는데, 그 기사의 말에 따르면, 그는 갑옷에 여신의 축복이 깃들어 있다고 굳게 믿는다고 했다.<br><br><i>「영혼을 바친다는 것은 '매번 돌아오지 못할 수 있으나, 결코 물러서지 않는다'는 뜻이네」<br>「힘내게, 친구여」</i><br><br>그가 창의 얼룩을 응시하는 것은 「미」를 수호하는 증거이다.<br>그가 창의 얼룩을 닦는 것은 「미」의 길에 오르는 증거이다."
         },
         {
             "_id": 4,
-            "Story": "Since embarking on the Path of Beauty, a path of asceticism, he had faced numerous trials. Some presented themselves as prayers, others as opportunities for repentance, and still others as the seductive whispers of the Triple Demons.<br><br>Fearlessly, he confronted these temptations with an unwavering lance and an indomitable spirit. With each victory, his weaknesses, greed, and distractions dissolved into oblivion. He pledged to offer his soul and life at the feet of the Aeon of Beauty.<br><br>The profane words of the Triple Demons resembled fragmented ravings, morphing into manifestations of human desires.<br>They embodied the crass pursuit of personal gain, shameless indulgence in sin, the allure of power, and the enticement of battle and worldly pleasures.<br>Their aim was to erode repentance and replace it with the banality of common sense.<br><br>His blood mingled with his flowing locks on the battlefield, with each crimson droplet intertwined with honor. His lance stood resolute at his side, blessed by the divine to retain its everlasting sharpness.<br>The echoes of his esteemed master and comrades transformed into whispers. His spear would never yield, even if his master had succumbed to evil temptations.<br><br>Drenched in blood, teetering on the precipice of consciousness, he finally discerned a faint murmur that seemed to emanate from the very fabric of existence.<br><br><i>\"You defy infamy. You proclaim glory. You are the Knights of Beauty.<br>With each triumph, you must confront yourselves anew, peering into the depths of your hearts and acknowledging the potential for malevolence.\"<br><br>\"Congratulations! Once again, you have triumphed in the Trial of Reflection.\"</i>"
+            "Story": "그가 「미(美)」의 운명의 길에 접어든 후, 고행의 길에 여러 「시련」이 점차 모습을 드러냈다——<br>시련은 희망이나 참회, 또는 삼중 마귀의 속삭임으로 나타나 혼란을 주었다.<br><br>그가 두려움 없는 「창」으로 긍지를 품고 삼중 마귀의 유혹을 베어내자 나약함, 탐욕, 잡념이 모두 사라졌다.<br>그는 영혼과 생명을 미의 에이언즈의 발밑에 바칠 것이다.<br><br>삼중 마귀의 속삭임은 형태가 제각각인 헛소리 같았다. 그것들은 어지러운 안개 속에서 다양한 인간의 욕망으로 변했다.<br>그것들은 비속한 이익 추구이자 파렴치한 죄업, 권력의 왕관이자 매혹적인 목소리가 되었다.<br>그것들은 정점에 이른 살육이자 식탐, 참회에 대한 망각이자 흔한 감정이 되었다.<br><br>그의 피는 명예와 함께 전장에 흩뿌려질 것이고, 검붉은 핏방울은 긴 머리카락과 함께 엉켜 있을 것이다. 그의 창은 이곳에 놓여 있고, 신은 그 창이 영원히 날카롭기를 축복한다.<br>떠나간 스승과 동행자의 목소리가 귓가에 맴돈다. 그의 주인이 고개 숙이지 않는 한 그 창은 영원히 부러지지 않을 것이다.<br><br>피에 젖어 의식을 거의 잃었을 때, 그는 마침내 어디선가 들려오는 속삭임을 들었다.<br><br><i>「그대들은 악명을 근절하고 명예를 선양한다. 그대들은 『미의 기사단』이다.<br>승리를 거둘 때마다 자신을 보고 악을 저지르고 싶어하는 자신의 마음을 봐야 한다」<br><br>「축하한다. 또 한 번 『거울의 시련』을 통과했구나」</i>"
         },
         {
             "_id": 5,
-            "Story": "The knights embraced diverse approaches in their pursuit of Beauty.<br>Some fervently embodied their beliefs until their final days, while others grappled with assumptions and defied heresies that could lead them into despair.<br>Some adorned themselves in armor and waged battles, while others saw themselves as unworthy, considering themselves the \"ugly ones\" unable to don the robe of beauty.<br><br>Yet, the unchanging truth remained in their collective quest to unravel the enigma of Idrila in the vast universe.<br>He vowed to uphold humility, mercy, and justice, remaining steadfast in honoring his oaths along the arduous path.<br><i>\"Those freaks!... The Knights of Beauty are a bunch of freaks!\"</i><br><br>As rumors of Idrila's demise spread throughout the cosmos, their perplexity deepened.<br>Piety intermingled with doubt, and laughter intertwined with lunacy.<br>Notions of honor, reputation, and infamy dissolved into nothingness.<br><br>This marked the end of everything.<br><br>When he finally encountered his former comrade, he found a knight who had become a fanatic, lost in a blind pursuit of power.<br>The former hero who had wielded a legendary weapon and vanquished the sky devourer had degenerated into a beast. His armor transformed into the scaly hide of the behemoth he had slain, his weapon into unyielding claws and fangs, and his blood into a viscous and restless flame. His eyes, once filled with wisdom, now burned with untamed wildness. The voice that had once addressed him as \"my dear friend\" had dwindled to a hissing cry.<br><br>The words spoken during the trial carried the weight of the Finality's impending prophecy, signaling the looming end.<br>Will he, himself... succumb to the clutches of the Omen of Evil?"
+            "Story": "기사단이 「미(美)」를 견지하는 태도는 다양하다.<br>누군가는 일생으로 자신의 신념을 관철하고, 또 누군가는 끊임없이 가설을 세우고 절망하며 다시 그 가설을 뒤집는다.<br>누군가는 훈장을 받고 전장에서 싸우고, 누군가는 자신을 시계탑의 추한 자라고 여기며 「미」의 의복을 받는 걸 부끄럽게 생각한다.<br><br>변하지 않는 것은 모든 사람이 우주에서 「이드릴라」의 실체를 찾기 위해 애쓰고 있다는 사실이다.<br>그는 겸손, 연민, 공정을 마음에 새기겠다고 맹세했고, 이를 어긴 적이 없다. 그는 「미」의 계명을 마음에 새겼고, 믿음도 점차 고집스럽게 변했다.<br><i>「괴짜… 미의 기사는 다 괴짜야!」</i><br><br>「이드릴라」가 죽었을지도 모른다는 소문이 우주에 퍼지자 그들의 당혹감은 더욱 심해졌다.<br>경건해질수록 의문도 커져 갔고, 더 크게 웃을수록 이상해져 갔다.<br>혼돈 속에서 돌이켜보니, 온갖 「명예」, 「미명」, 「악명」은 모두 긴 시간 속에 소멸되었다.<br><br>결국,<br><br>그가 이전에 동행했던 「기사」를 다시 만났을 때 상대는 이미 힘을 추구하는 길에 빠져 버렸다.<br>과거 전설의 무기를 들고 하늘을 삼킨 괴물을 잡은 영웅의 갑옷은 괴물의 비늘이 되었고, 그의 무기는 떼어낼 수 없는 발톱과 이빨이 되었으며, 그의 피는 끈적한 화염이 되었다. 지혜가 담겨 있던 그의 눈에는 야성만 남았다. 자신을 「친구」라고 불렀던 그의 목소리도 쇳소리 나는 울음소리로 변했다.<br><br>시련의 말은 「종말」의 예언이 되어 눈앞으로 다가왔다.<br>자신도… 마찬가지로 「흉조」가 되어 타락하게 되는 것은 아닐까?"
         }
     ]
 }
@@ -553,204 +553,204 @@ var _story_ = {
 var _voice_ = {
     "1302": [
         {
-            "Title": "First Meeting",
-            "Voice": "My name is Argenti, I belong to the Knights of Beauty. May this rose convey my heartfelt salutations."
+            "Title": "첫 만남",
+            "Voice": "전 「미(美)의 기사단」 아젠티입니다. 장미의 이름으로 그대에게 인사 올리죠"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Should misfortune befall you, do not hesitate to call upon me. I will protect you."
+            "Title": "인사",
+            "Voice": "곤란한 일이 생기면 꼭 알려주세요. 제가 안전하게 지켜드릴게요"
         },
         {
-            "Title": "Parting",
-            "Voice": "Forgive me, here we must part ways. It is my duty and destiny to traverse the universe alone. I'm sure our paths will converge again, somewhere."
+            "Title": "작별",
+            "Voice": "업무를 이유로 은하를 홀로 다녀야 해서 그대와 함께할 수 없는 절 이해해주세요. 우린 우주 어디에서 반드시 마주칠 겁니다"
         },
         {
-            "Title": "About Self: Origin",
-            "Voice": "Among the Knights of Beauty, I am one of the Honorclad — we are distinguished by our engraved armor."
+            "Title": "자신에 대해•일생",
+            "Voice": "전 미(美)의 기사단의 「수훈(受勳) 기사」예요. 말끔히 조각된 갑옷이 저희의 상징이랍니다"
         },
         {
-            "Title": "Chat: The Knights of Beauty",
-            "Voice": "The Knights tend to operate in solitude, spreading the grace of the Goddess far and wide across the universe. Nevertheless, we follow the same code of chivalry."
+            "Title": "잡담•미(美)의 기사단",
+            "Voice": "미(美)의 기사단이 모이는 경우는 극히 드물죠. 하지만 우린 같은 「기사도」를 따라 여러 행성을 오가며 우주 전역에 여신님의 명성을 알리고 있어요"
         },
         {
-            "Title": "Chat: The spaceship \"One and Only\"",
-            "Voice": "\"One and Only\" is the name of my spaceship. I must admit, keeping her in good order can be a chore. Perhaps I shouldn't have etched such intricate patterns into the fuselage."
+            "Title": "잡담•유일무이호",
+            "Voice": "전 우주선에 「유일무이」라는 이름을 붙여줬어요. 청소하려면 꽤나 힘들죠…. 외관을 이렇게 복잡하게 조각하는 게 아니었어요"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I have a preference for thick, crusty baguettes. Slice them thinly so they're easier to store — a crucial snack for extended voyages."
+            "Title": "취미",
+            "Voice": "전 두껍고 단단한 바게트를 선호해요. 창으로 썰어서 보관하면 휴대도 편리해서 긴 여정에 빠질 수 없는 좋은 먹거리죠"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "The dazzling array of entertainment and gourmet delights offered by the IPC is quite staggering, but I regularly struggle with making sense of it all. Perhaps one day someone with experience will show me the ropes."
+            "Title": "고민",
+            "Voice": "스타피스 컴퍼니가 만든 각종 오락과 미식은 다양하고 놀랍죠. 하지만, 그 비결을 도통 알 수가 없어요. 언젠가 달인의 지도를 받아보고 싶네요"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "I've heard tales of warriors on a certain planet passing book pages over artificial limbs in order to infuse knowledge directly into their neural systems. It sounds so outlandish, and yet I find the idea quite inspired."
+            "Title": "공유",
+            "Voice": "어떤 행성에서는 전사들이 개조한 의수에 책 페이지를 문질러서 지식을 신경에 직접 주입한다고 하더군요. 깜짝 놀랐지만 꽤 좋은 방법 같아요"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Did you ever hear tell of a planet where there is no concept of grotesquery? Even more intriguing — the people there have no concept of beauty, either."
+            "Title": "견문",
+            "Voice": "「추악함」이 존재하지 않는 행성에 대해 들어보셨나요? 재미있는 게 그 행성 사람들 눈에는 「아름다움」도 존재하지 않는대요"
         },
         {
-            "Title": "About March 7th",
-            "Voice": "Miss March possesses a pure heart, and such purity is rare and precious — there are far too many people who are inherently vulgar, profit-driven, and adept at flattery. I wish to extend more compassion and esteem towards people like her."
+            "Title": "Mar. 7th에 대해",
+            "Voice": "Mar. 7th 씨의 마음은 순수해요. 이렇게 착한 마음씨와 품행은 아주 귀하죠. 은하에는 본성이 속물적이고 감언이설에 능한 사람도 많아서, 이런 분을 보면 더욱 아껴주고 존중하고 싶답니다"
         },
         {
-            "Title": "About Himeko",
-            "Voice": "This lady's spirit is admirably noble: Despite the challenges and hardships that Trailblazing entails, she has retained her poise and bravery — qualities that I profoundly admire. It is these qualities that I strive to embody and use against evil."
+            "Title": "히메코에 대해",
+            "Voice": "이분의 영혼은 참으로 고귀해요. 개척의 여정은 길고 험한데 그녀는 여유와 용기를 잃은 적이 없으니, 참 마음에 들더군요. 전 이런 이상적인 품성을 본받아, 제 자신을 더욱 엄격하게 대하고 악에 저항하는 마음을 다잡겠어요"
         },
         {
-            "Title": "About Dan Heng",
-            "Voice": "While Mr. Dan Heng consistently maintains a sense of wariness towards others, his conduct remains unwaveringly honorable, and his expectations of himself are as stringent as the chivalric code. He possesses a unique form of beauty, I must say."
+            "Title": "단항에 대해",
+            "Voice": "단항 씨는 늘 사람을 경계하고 있지만, 행동은 언제나 점잖고 본인에 대한 잣대도 기사도 정신을 지키듯 엄격해요. 이 또한 「아름다움」이라고 여길 수 있게 해 주시죠"
         },
         {
-            "Title": "About Welt",
-            "Voice": "Despite the things he has endured, Mr. Yang stays true to his heart and knows how to appreciate the small joys of everyday life. A man whose wisdom and maturity I find admirable."
+            "Title": "웰트에 대해",
+            "Voice": "시간이 흘러도 천진한 마음으로 인생을 가장 순수하게 즐기는 분이에요——그런 성숙한 모습이 웰트 씨의 매력이죠"
         },
         {
-            "Title": "About Pom-Pom",
-            "Voice": "Such a fascinating ball of fluff. I imagine them to be exceptionally fitting perched atop a knight's shoulder, serving as a symbol of honor."
+            "Title": "폼폼에 대해",
+            "Voice": "참으로 「매력적인」 솜덩어리에요. 갑옷 입은 기사의 어깨 위에 앉아 있으면 「명예」의 상징으로 잘 어울릴 것 같아요"
         },
         {
-            "Title": "About Wubbaboo",
-            "Voice": "Haha, such an adorable little creature."
+            "Title": "울보 유령에 대해",
+            "Voice": "아, 「매력」 넘치는 동글이에요"
         },
         {
-            "Title": "About Trailblazer",
-            "Voice": "Trailblazer's inherent qualities, are as beguiling and engaging now as they were on the day we first met."
+            "Title": "{NICKNAME}에 대해",
+            "Voice": "{NICKNAME}의 타고 난 기질은 항상 우리가 처음 만났던 날처럼 신기하고 흥미로워요"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "The Beauty is universal — they exist within our grasp and beyond the grand expanse of the galaxy."
+            "Title": "성혼 활성화",
+            "Voice": "「미(美)」는 어디에나 존재하죠——지척에도, 아름다운 은하 너머에도요"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "One solid stride at a time. Fear not the peril of descent."
+            "Title": "캐릭터 승급",
+            "Voice": "한걸음씩 가면 늪에 빠질 염려가 없죠"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "I vow to make the grand name of \"the Beauty\" echo throughout the universe, till I draw my last breath."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "죽을 때까지 「미(美)」의 명성을 우주 널리 알릴 것을 맹세하죠"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Though as knights we may tread different paths, destiny will bring us together at journey's end."
+            "Title": "행적 활성화",
+            "Voice": "기사단 여러분과 행적이 다를지라도, 우린 종점에서 만나게 될 거예요"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "To stand side by side with a noble soul like you, Trailblazer, is a great honor."
+            "Title": "파티 편성•{NICKNAME}",
+            "Voice": "당신 같이 고상한 분과 한 팀이 되다니, {NICKNAME}, 영광입니다"
         },
         {
-            "Title": "Added to Team With March 7th",
-            "Voice": "If I may, Miss March, allow me to use my modest power to get rid of the gloom!"
+            "Title": "파티 편성•Mar. 7th",
+            "Voice": "Mar. 7th, 미약한 힘이지만 당신을 위해 어둠을 물리치게 해주시죠!"
         },
         {
-            "Title": "Added to Team With Dan Heng",
-            "Voice": "Combat is a contest of wits. Dan Heng, I am honored to fight by your side."
+            "Title": "파티 편성•단항",
+            "Voice": "이곳은 무력이 아니라 지략을 겨루는 곳이죠. 단항 씨, 당신과 함께하게 돼서 영광입니다"
         },
         {
-            "Title": "Added to Team With Himeko",
-            "Voice": "Miss Himeko, with your courage ablaze, the stars seem to shine even brighter."
+            "Title": "파티 편성•히메코",
+            "Voice": "당신인가요, 히메코 씨? 역시 당신의 용기가 닿는 곳에는 별이 빛나는군요"
         },
         {
-            "Title": "Added to Team With Welt",
-            "Voice": "Lend me your aid, Mr. Yang, with your intricate tactics and far-reaching vision."
+            "Title": "파티 편성•웰트",
+            "Voice": "웰트 씨——구름처럼 종잡을 수 없는 기교와, 좋은 술처럼 달콤한 지략으로 절 좀 도와주세요"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Embrace virtue."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "선을 행하시죠"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "This storm shall pass."
+            "Title": "전투 시작•위험 경보",
+            "Voice": "찰나의 먹구름일 뿐"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "My oath is to a solitary rose."
+            "Title": "턴 시작•1",
+            "Voice": "장미에 대고 맹세하죠"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "The Knights' duty is my guiding light."
+            "Title": "턴 시작•2",
+            "Voice": "미의 기사단의 직무에 따라"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "You who wander, what do your eyes seek?"
+            "Title": "턴 대기",
+            "Voice": "방황하는 님이여, 어딜 보고 있나요?"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "The Beauty... is eternal."
+            "Title": "전투 스킬•1",
+            "Voice": "미는 영원하리"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Wretched... fleeting."
+            "Title": "전투 스킬•2",
+            "Voice": "추함은 소멸하라"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Flesh wound."
+            "Title": "약공격 피격",
+            "Voice": "간지럽군요"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "A test..."
+            "Title": "강공격 피격",
+            "Voice": "기사의 시련……"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Until I see that light once more..."
+            "Title": "필살기•활성화",
+            "Voice": "다시 그 빛을 보기 전까지……"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "...I will protect all beauty in the universe."
+            "Title": "필살기•발동",
+            "Voice": "마지막 순간까지, 은하의 미를 수호하리"
         },
         {
-            "Title": "Enhanced Ultimate: Unleash",
-            "Voice": "...For Idrila."
+            "Title": "강화 필살기•발동",
+            "Voice": "……이드릴라 님을 위하여"
         },
         {
-            "Title": "Downed",
-            "Voice": "I... couldn't find them..."
+            "Title": "전투 불능",
+            "Voice": "「그분」은… 어디에……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "My faith is unbreakable."
+            "Title": "전투 복귀",
+            "Voice": "신념은 깨지지 않죠"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "My gratitude is yours."
+            "Title": "HP 회복",
+            "Voice": "감사합니다, 마음에 새겨둘게요"
         },
         {
-            "Title": "Technique",
-            "Voice": "Glory above all."
+            "Title": "비술",
+            "Voice": "영광이 있도다"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "The darkness ends here."
+            "Title": "전투 승리",
+            "Voice": "어둠은 여기까지"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Oh? I do like surprises."
+            "Title": "전리품 오픈•1",
+            "Voice": "호? 마음에 드는 이벤트군요"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "I offer you the captivating aroma of a rose."
+            "Title": "전리품 오픈•2",
+            "Voice": "제가 답례로 드릴 수 있는 건 장미의 향기뿐입니다"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "A lustrous beauty that sets the heart and soul astir..."
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "빛나는 아름다움은 사람의 마음을 움직이죠……"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "The consequence of wise deliberation."
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "현명한 판단이군요"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Worry not, for I shall shoulder this responsibility."
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "걱정 마세요, 제가 대신하죠"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Care to test your skills?"
+            "Title": "적 발견",
+            "Voice": "한번 겨뤄볼까요?"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "This familiar wind... a call to sweet remembrance."
+            "Title": "도시로 복귀",
+            "Voice": "익숙한 바람은… 그리움을 부르죠"
         }
     ]
 }

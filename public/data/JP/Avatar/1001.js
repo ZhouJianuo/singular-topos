@@ -493,23 +493,23 @@ var _story_ = {
     "1001": [
         {
             "_id": 1,
-            "Story": "A spirited and quirky young girl who is into all the things girls her age are interested in, such as taking photos.<br>She was awakened from a piece of drifting eternal ice, only to find that she knows nothing about herself or her past. Though initially feeling dejected, she decided to name herself after the date of her rebirth.<br>And thus, on that day, March 7th was born."
+            "Story": "お茶目な少女。写真撮影など、この年頃の少女が興味を持つような物事すべてに「執着」するべきだと思っている。<br>漂流する恒氷の中から目覚め、自分に関する記憶をすべて失っていることに気付いた少女は、しばらく思い悩んだ後、生まれ変わった日を自分の名前にすることに決めた。<br>この日、三月なのかは「誕生」した。"
         },
         {
             "_id": 2,
-            "Story": "Why does March 7th take photos?<br><i>\"First of all, girls like me should like this kind of pastime.\"<br>\"Besides, I won't forget anything that I keep a photo of.\"</i><br><br>What has March 7th come to learn about photography?<br><i>\"Number one, when taking pictures of terrible cuisines, all the details must be clearly visible on the pictures because 'Taking pictures of food is equal to eating them. Every detail matters.'\"<br>\"Number two, as long as you take a picture with your eyes closed, you will be able to capture an expression of your subject with their eyes closed.\"</i><br><br>Why is March 7th always wearing her camera?<br><i>\"Because if anyone ever seals me away in ice again, at least I'll have my camera with me!\"</i><br><br>So why doesn't March 7th just use the camera on her phone?<br><i>\"Oh yeah, why not — hang on, it's because of that sense of formality!\"</i>"
+            "Story": "なぜ三月なのかは写真を撮るのか？<br><i>「第一に、ウチみたいな女の子はこういうことが好きなはずだから」<br>「第二に、写真に撮ったものは忘れたりしないから」</i><br><br>三月なのかが写真を撮る際に学んだことは？<br><i>「まず、暗黒料理は細部まで撮影すること！『撮ることは食べることと同じである。よく味わうべし』ってね」<br>「あと、自分が目を閉じて誰かを撮影すると、絶対に相手も目を閉じてるんだ！」</i><br><br>なぜ三月なのかはカメラを肌身離さず持ち歩いているのか？<br><i>「次にウチを氷の中に閉じ込める時は、絶対カメラも一緒に入れてよね！」</i><br><br>では、なぜ三月なのかはスマホを使って写真を撮らないのか？<br><i>「言われてみれば、なんでだろ——って、カメラのほうがそれっぽいからに決まってるじゃん！」</i>"
         },
         {
             "_id": 3,
-            "Story": "March 7th's ability is \"Six-Phased Ice,\" but she has always insisted that it is not ice but some kind of condensed crystal.<br><i>\"Come on, ice can't be this beautiful.\"</i><br><br>The bows and arrows March 7th uses in battle are also made of the Six-Phased Ice, but she is not satisfied with the fact that her weapon is a bow.<br><i>\"Great warriors never use bows!\"<br>\"Besides, if I use my ice arrow to attack my ice shield, nothing will happen at all!\"</i><br><br>March 7th has also worked hard to practice a unique skill called \"Star Crazing: Glass Greatsword,\" but she never succeeded.<br><i>\"March, judging by the name, it should be a greatsword, right?\"<br>\"Well, but it doesn't feel as good as an ice sculpture... smash.\"</i>"
+            "Story": "能力は「六相氷」だが、三月なのかはそれは氷ではなく、ある種の凝固した結晶だと主張している。<br><i>「何度も言わせないでよね。あんなに綺麗な氷、見たことある？」</i><br><br>戦闘時に使用している弓矢も「六相氷」で形成したものだが、彼女は弓矢を使うことに不満を持っている。<br><i>「だって、弓を使うエースなんて見たことある？」<br>「それに、ウチが作った矢でウチが作った盾を攻撃しても何も起きないじゃん！」</i><br><br>そのため、以前は「斬星破宙・ビッググラスソード」という名の奥義の修行に励んでいたが、未だに成果は出ていない。<br><i>「三月ちゃん、名前からしてそれって大剣よね？」<br>「うん。でも、氷の像を落とした方が…効果があるかも」</i>"
         },
         {
             "_id": 4,
-            "Story": "Compared to Pom-Pom the conductor, Himeko the pilot, Dan Heng the guard, and Welt the jack-of-all-trades, even March 7th has a hard time explaining her role aboard the Express despite calling herself a \"warrior.\"<br>But March 7th's every move affects the crew's course of action all the time.<br><br><i>\"Passenger March 7th slipped and fell...\"<br>\"March, watch out for the galena ball above your head.\"<br>\"March, have you taken pictures of the sights over there?\"<br>\"I believe March. If she said it's not delicious, then it's truly not delectable.\"</i><br><br>Rather than calling March 7th someone who constantly worries people, it would be better to say that she works her way into people's hearts.<br>March 7th, of course, is oblivious to this, and is struggling to think up the right role for Trailblazer."
+            "Story": "「車掌」のパム、「ナビゲーター」の姫子、「護衛」の丹恒、「なんでもできる」ヴェルトに対して、彼女は「勇者」を自称している。三月なのか本人でも列車での自分の役割を説明することはできない。<br>しかし彼女の一挙手一投足は、しばしば列車組の行動方針に影響を与えている。<br><br><i>「三月ちゃんが転んだぞ……」<br>「三月、頭上の鉛鉱の玉に注意しろ」<br>「三月ちゃん、あっちの景色は撮った？」<br>「俺はなのかを信じている。あの子が不味いと言ったものは、本当に不味いからな」</i><br><br>つまり三月なのかは周囲を不安にさせているのではなく、むしろ気にかけられているのだ。<br>もちろん、三月なのかはそんなことには気付かずに、{NICKNAME}にぴったりな列車の役割を全力で考えている。"
         },
         {
             "_id": 5,
-            "Story": "For March 7th, who has been drifting in space, the situation in which she awoke isn't too bad.<br>She woke up on a passing train, and the people on the train looked friendly.<br>The only problem is that even though she has a reasonable understanding of what's going on around her, she still doesn't know anything about herself.<br><br><i>\"Who am I? Where do I come from...\" </i><br><br>March 7th looks at herself in the mirror, imagining dozens of potential past lives for herself as she tries on the various outfits that Himeko had assembled for her.<br>But she can't be sure what her past was like, and what kind of past a girl like her should have...<br>The only thing March 7th can choose to be is her current self, and the only thing she can look forward to is the future.<br>She is both frightened and glad."
+            "Story": "様々な兆候が示していても、ずっと宇宙を漂っていた三月なのかにとって、目覚めた時の状況は悪いものではなかった。<br>何しろたまたま通りかかった列車に乗ることができて、そこの乗客たちも親切そうだったのだから。<br>唯一の問題は、周りの状況はそれなりに理解できても、自分のことはまったくわからないということだった。<br><br><i>「ウチは誰で、どこから来たんだろ……」</i><br><br>三月なのかは鏡の中の自分を見つめ、姫子が用意してくれた服を試着しながら、何十通りもの自分の身の上を想像した。<br>しかし、どれが自分の過去で、どれが自分のような少女に相応しい過去なのか…三月なのかはわからなかった。<br>彼女に選べるのは今の自分だけであり、彼女が想いを馳せることができるのは、この先の未来だけである。<br>三月なのかは恐れを抱くと同時に、喜びも感じていた。"
         }
     ]
 }
@@ -517,208 +517,208 @@ var _story_ = {
 var _voice_ = {
     "1001": [
         {
-            "Title": "First Meeting",
-            "Voice": "Ahem! Hello, Trailblazer. Welcome aboard the Astral Express. My name is March 7th, I'm one of the passengers. We'll be working together. First, we need to take your induction photo... Did that scare you! Just a joke~"
+            "Title": "初対面",
+            "Voice": "初めまして、{NICKNAME}。ようこそ星穹列車へ！私は三月なのか。列車の乗員で、君の同僚でもあります。それでは、最初に乗員証の写真を撮らせてくださいね…なんちゃって。冗談だよ、びっくりした～？"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Ah! You're just in time — we haven't taken our selfie today."
+            "Title": "挨拶",
+            "Voice": "あ、いいところに来た！今日はまだ、一緒に写真撮ってないよね？"
         },
         {
-            "Title": "Parting",
-            "Voice": "I'm gonna get some rest after I've sorted these photos. Don't stay up all night playing video games again!"
+            "Title": "お別れ",
+            "Voice": "今日の写真の整理が終わったから、ウチはもう寝るね。アンタもゲームで夜更かししないように！"
         },
         {
-            "Title": "About Self: Name",
-            "Voice": "I came up with my name myself, but some people just call me March... Which do you prefer?"
+            "Title": "自分について・名前",
+            "Voice": "この名前は自分でつけたんだよ～。みんな、ウチのことを三月ちゃんとかなのかって呼ぶけど…アンタは？なんて呼びたい？"
         },
         {
-            "Title": "About Self: Past",
-            "Voice": "Maybe my past isn't behind me, but in front of me. That's why I'm gonna keep going forward, one stop at a time... train or no train."
+            "Title": "自分について・過去",
+            "Voice": "ウチの過去は、もしかしたら昔にあるんじゃなくて、この先にあるのかもしれない。だからウチは進み続けるんだ。たとえ…いつか列車がなくなってもね。"
         },
         {
-            "Title": "Chat: Juice",
-            "Voice": "Ahh, juice... If I say the word, I get a craving. If I get a craving, I wanna drink some. And if I drink some... Ahh... I can't stop!"
+            "Title": "世間話・ジュース",
+            "Voice": "ジュース…考えると喉が渇く、渇けば飲むしかない、飲むと…止まらなくなる……"
         },
         {
-            "Title": "Chat: Photos",
-            "Voice": "Of course photos aren't reality, but if you have enough of them, doesn't reality come a little closer?"
+            "Title": "世間話・写真",
+            "Voice": "確かに写真は現実じゃないけど、それがいっぱいあれば、ちょっとだけ現実に近づくよね？"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Taking pictures. Writing in my diary. What else is there to say~?"
+            "Title": "趣味",
+            "Voice": "写真を撮ることと、日記を書くことだよ～"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "I get really bored when no one's talking to me. When we're on the Express, Himeko and Mr. Yang are pretty busy, but Dan Heng's usually free. He doesn't like chatting though..."
+            "Title": "悩み事",
+            "Voice": "お喋りする相手がいない時は、退屈で死にそうになるよ～。列車にいる時、姫子やヨウおじちゃん、パムは大体忙しそうにしてるから。丹恒は忙しくないけど、お喋りがあまり好きじゃないんだよね……"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "Every time I'm done sorting my album and look out the window, I always want to take another picture... Even though I've seen the view a thousand times, I still feel happy looking at the stars like this."
+            "Title": "シェア",
+            "Voice": "アルバムの整理が終わってから車窓の外を見ると、見慣れた景色のはずなのに、それでもまた写真を撮っちゃうんだ…こうして列車に乗って、星を眺めることができるなんて、本当に幸せだよね～"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "No matter how disgusting the dish, you gotta summon your trailblazing spirit and face it! Not gonna lie though, jellied eels and Himeko's coffee are pretty tough to stomach..."
+            "Title": "見聞",
+            "Voice": "どんなに「暗黒」な料理でも、「開拓」の精神で向き合わないと！でも、真穴子のゼリー寄せと姫子の淹れたコーヒーだけは本当に不味いんだよね…"
         },
         {
-            "Title": "About Dan Heng",
-            "Voice": "...Dan Heng got on the train before me. He never mentioned his past... If you get the chance, why don't you ask him about it?"
+            "Title": "丹恒について",
+            "Voice": "丹恒は…ウチよりも前から列車に乗ってるんだけど、全然自分の昔の話をしないんだよね…アンタもチャンスがあったら、ウチの代わりに探ってみて。"
         },
         {
-            "Title": "About Himeko",
-            "Voice": "Ahh, beautiful Himeko. She's sensible, reliable, and elegant. It's great to have her as the navigator... When I'm grown up, I'm gonna be just like her! I like the now me too though~"
+            "Title": "姫子について",
+            "Voice": "姫子は綺麗で、大人で、頼りになって、しかもすごく優雅で、列車のナビゲーターでもある…ウチも姫子みたいな大人になれるよね！でも、今のウチのこの感じも悪くないと思うんだ～"
         },
         {
-            "Title": "About Welt",
-            "Voice": "I heard Mr. Yang was once the leader of a secret organization and saved a whole planet! Not to mention he's been a teacher, and even a storyboard artist! *sigh* He must be an alien or something..."
+            "Title": "ヴェルトについて",
+            "Voice": "ヨウおじちゃんは昔、秘密組織のボスとして星を救ったり、先生をしたり、それからアニメの原画を描いてたりしたんだって！すごいよね、万能すぎてめちゃくちゃ宇宙人っぽい……"
         },
         {
-            "Title": "About Pom-Pom",
-            "Voice": "The conductor is the best!"
+            "Title": "パムについて",
+            "Voice": "車掌さんは最高だよ！"
         },
         {
-            "Title": "About Dan Heng 2",
-            "Voice": "Even after we found out about his mysterious past, he's still the same Dan Heng we've always known!"
+            "Title": "丹恒について・2",
+            "Voice": "謎だった過去が明らかになっても、丹恒はウチらの知ってる丹恒のままだと思う！"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Hee-hee, my past is gradually coming to light."
+            "Title": "星魂覚醒",
+            "Voice": "ウチの過去、少しずつ増えてるね。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Today me is even more awesome than yesterday me!"
+            "Title": "キャラクター昇格",
+            "Voice": "今日のウチは、昨日のウチよりすごいんだよ！"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "I'm all grown up! My real journey starts now!"
+            "Title": "レベルMax",
+            "Voice": "成長！三月なのかの真なる旅は今から始まる！"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "That's right! I still have a few tricks up my sleeve~"
+            "Title": "軌跡覚醒",
+            "Voice": "そうそう、まだ隠してる技があるんだよ～"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "You're coming with? Hmph, I'm keeping score."
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "ウチら2人が揃えば、向かうところ敵なし！"
         },
         {
-            "Title": "Added to Team With Dan Heng",
-            "Voice": "I'm gonna show them what I can really do... Huh? Why the weird face, Dan Heng?"
+            "Title": "パーティ編成・丹恒",
+            "Voice": "真の力を見せてあげる…って、丹恒、何その眼？"
         },
         {
-            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
-            "Voice": "I'm gonna show them what I can really do... Huh? Dan Heng, you better believe in me!"
+            "Title": "パーティ編成・丹恒・飲月",
+            "Voice": "真の力を見せてあげる…丹恒、今は信じてるでしょ！"
         },
         {
-            "Title": "Added to Team With Himeko",
-            "Voice": "If push comes to shove, I'm counting on you, Himeko!"
+            "Title": "パーティ編成・姫子",
+            "Voice": "もし何かあったら、手を貸してね、姫子！"
         },
         {
-            "Title": "Added to Team With Welt",
-            "Voice": "Mr Yang's here! Yeah! Did I just say that out loud?"
+            "Title": "パーティ編成・ヴェルト",
+            "Voice": "ヨウおじちゃんだ！ラッキー！声、大きかった？"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "I told ya I could fight!"
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "ウチってば、なかなかやるじゃん。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Oh great, another walk in the park."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "こいつ、なんだか手強そう…"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "You have the worst luck running into me."
+            "Title": "ターン・1",
+            "Voice": "ウチに出くわすなんて、ついてないね。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "My turn~"
+            "Title": "ターン・2",
+            "Voice": "ウチの出番～"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "What's wrong? Afraid of what I might do?"
+            "Title": "戦闘中待機",
+            "Voice": "どうしたの？怖くなっちゃった？"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Watch this!"
+            "Title": "通常攻撃",
+            "Voice": "ほら！"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "With me out here, how can we lose~"
+            "Title": "戦闘スキル・1",
+            "Voice": "ウチがいるんだから、負けないよ～"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Stay right there while I give you a present~"
+            "Title": "戦闘スキル・2",
+            "Voice": "動かないでね、今祝福してあげるから～"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "You're annoying!"
+            "Title": "攻撃を受ける",
+            "Voice": "いや！"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Go away!"
+            "Title": "重撃を受ける",
+            "Voice": "あっち行って！"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Gotta try hard sometimes."
+            "Title": "必殺技・アクティブ",
+            "Voice": "たまには真面目にいこっか。"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Check out this awesome move~"
+            "Title": "必殺技・発動",
+            "Voice": "ウチのとっておきをくらえ！"
         },
         {
-            "Title": "Talent 1",
-            "Voice": "You can't run!"
+            "Title": "天賦・1",
+            "Voice": "逃がさない！"
         },
         {
-            "Title": "Talent 2",
-            "Voice": "Try that again!"
+            "Title": "天賦・2",
+            "Voice": "殴ったね？"
         },
         {
-            "Title": "Downed",
-            "Voice": "I don't want to... be alone..."
+            "Title": "戦闘不能",
+            "Voice": "一人ぼっちは…やだよ……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Alright... I'm done messing around!"
+            "Title": "戦闘に戻る",
+            "Voice": "分かったよ…もう無茶しないから！"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Thanks a lot!"
+            "Title": "HP回復",
+            "Voice": "ありがと！"
         },
         {
-            "Title": "Technique",
-            "Voice": "Freeze!"
+            "Title": "秘技",
+            "Voice": "凍れ！"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "You couldn't have done it without me!"
+            "Title": "戦闘勝利",
+            "Voice": "ウチ、今回は足を引っ張ってないでしょ！？"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "*gasp* Shiny! *bigger gasp* Sparkly!"
+            "Title": "戦利品を開ける・1",
+            "Voice": "どれどれ、キラキラなものはないかな？"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Finders keepers~"
+            "Title": "戦利品を開ける・2",
+            "Voice": "全部ウチが見つけたんだよ～！"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Wow, there's so much!"
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "こ、こんなに！？"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "I deserve a nice pat on the back for that one!"
+            "Title": "謎解きに成功・1",
+            "Voice": "えらい！自分を褒めてあげてね～"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Done and dusted!"
+            "Title": "謎解きに成功・2",
+            "Voice": "これでよし！"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Crush now or crush later?"
+            "Title": "敵ターゲット発見",
+            "Voice": "うーーん…やる？逃げる？"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Wanna go take some pictures?"
+            "Title": "町に戻る",
+            "Voice": "一緒に写真を撮りに行く？"
         }
     ]
 }

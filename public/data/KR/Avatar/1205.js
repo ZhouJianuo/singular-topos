@@ -635,23 +635,23 @@ var _story_ = {
     "1205": [
         {
             "_id": 1,
-            "Story": "A swordsman who abandoned his body to become a blade. Birth name unknown.<br>He pledges loyalty to \"Destiny's Slave,\" and possesses a terrifying self-healing ability.<br>Blade wields an ancient sword riddled with cracks, just like his body and his mind."
+            "Story": "전장에 몸을 내던지는 검객의 원래 이름이 무엇인지는 알 수 없다.<br>그는 「운명의 노예」에 충성을 다하며 무서운 자가 치유 능력을 가지고 있다.<br>고검을 손에 쥐고 싸우며, 검신에는 부서지고 갈라진 흔적이 널려 있다. 그의 몸과 마음도 이 검과 같다"
         },
         {
             "_id": 2,
-            "Story": "The only thing he could sense was a splotch of crimson in his sight and the taste of iron in his mouth. His limbs were unresponsive.<br>— He must have died.<br><br><i>\"Do you remember?\"</i><br>He opened his mouth, lost, his voice as coarse as a savage beast's.<br>The sound from his throat stopped abruptly as the cold, hard object penetrated his torso.<br>Again and again, this repeated for thousands of times.<br><br>How marvelous. When his muscle fibers tore open, he could hear the tiny sounds of tendons bridging and reconnecting.<br>How marvelous. The monster in his body was being nourished, but he would let it grow into a massive beast.<br>How marvelous. He had already lost all will to live, but his body regenerated without any consideration for his preferences.<br>How marvelous.<br><br>Before the sword pierced his body once more, he grabbed it with his bare hands and slowly stood up.<br><i>\"Do you remember now?\"</i><br>He met the woman's blood-red eyes, his mind still empty.<br>— He was run through by the sword once again.<br><i>\"Remember the feeling of death, and bring it to them.\"</i><br><br>Crimson resurfaced in his vision. He stared at the sword that killed him. The blade was broken in half and lying on the ground.<br><i>\"Rise, and let me kill you once more.\"<br></i>"
+            "Story": "선홍색 피가 그의 눈앞을 가린다. 입안에서는 달콤한 비린내가 나고 사지는 축 늘어졌다.<br>——아마도 자신은 죽었을 것이다.<br><br><i>「이젠 기억할 수 있겠지?」</i><br>그가 멍하니 입을 벌리자 야생의 맹수가 내는 듯한 소리가 들려왔다.<br>목구멍에서 나는 소리가 멎자 차디차고 단단한 것이 그를 관통하였다.<br>그리고 이런 과정이 천 번이 넘도록 반복되었다.<br><br>기묘한 느낌이다. 그는 근골이 부러질 때 다시 접합되는 미세한 소리를 들을 수 있었다.<br>기묘한 느낌이다. 체내에 서식하고 있는 괴물의 존재를 느낄 수 있으면서도 그는 그 괴물이 거대하게 자라나도록 내버려 두었다.<br>기묘한 느낌이다. 생존을 향한 신념을 이미 포기했는데도 본인의 의지와는 상관없이 신체는 원래의 형태대로 회복하고 있다.<br>정말 기묘한 느낌이 아닐 수 없다.<br><br>검이 다시금 신체를 관통하기 위해 날아들자 그는 검날을 잡아들고 천천히 일어섰다.<br><i>「이젠 기억할 수 있겠지?」</i><br>붉은 눈을 가진 여자의 시선을 마주한 그는 여전히 아무것도 생각해 낼 수 없다.<br>——단단한 물체가 다시 한번 그의 신체를 관통한다.<br><i>「이 느낌을 잘 기억해둬. 그들에게 죽는다는 게 어떤 느낌인지 전해주는 거야」</i><br><br>선홍색 피가 다시 눈가에 맺힌다. 그를 관통한 검을 보니 이미 검날이 반쯤 부러져 있었다.<br><i>「일어나, 널 다시 죽일 거거든」<br></i>"
         },
         {
             "_id": 3,
-            "Story": "The only thing he could sense was a splotch of crimson in his sight and the taste of iron in his mouth. His limbs were unresponsive.<br>— He must have died.<br><br>The black-haired young man shivered violently all over, but still clutched onto the spear in his hands.<br>He had no dragon horns, and his reaction was slightly less mature than he remembered...<br>But he would never forget this spear, these eyes, and how cruelty burst out from beneath the mirror-like emerald calmness.<br>His wounds began to heal. His irises flickered and fixed their gaze at the boy once more.<br>Without hesitation, the boy made another flourish with the spear...<br><br><i>\"That's it.\"</i><br>The one who showed no mercy to enemies - was you.<br>The one who single-handedly buried the beloved - was you.<br>The one who almost led the place called home to its destruction - was also you.<br><br>He fell down again.<br>The teen pressed his hand against his own wounds and retreated, until he was no longer in the man's sight.<br><i>\"Before I witness your death in person, we will meet again, ███.\"</i>"
+            "Story": "선홍색 피가 그의 눈앞을 가린다. 입안에서는 달콤한 비린내가 나고 사지는 축 늘어졌다.<br>——아마도 자신은 죽었을 것이다.<br><br>흑발의 소년이 온몸을 벌벌 떨면서도 손에 쥔 장창을 절대 놓지 않았다.<br>그는 용뿔이 없었고 기억하는 모습보다 훨씬 더 약해 보였다——<br>그는 이 장창을 기억하고 있다. 호수처럼 고요한 청록색 눈동자가 얼마나 잔혹한지를 잘 알고 있었다.<br>상처가 치유되기 시작하자 그는 시선을 돌려 소년을 바라보았다.<br>그 소년은 망설임 없이 다시 장창을 휘둘렀다——<br><br><i>「바로 그거야」</i><br>적이라면 씨를 말려버리는 게 바로 너지.<br>사랑하는 사람을 죽음으로 내모는 게 바로 너지.<br>하마터면 고향을 파멸의 길로 이끌뻔한 것도 바로 너지.<br><br>그가 다시 쓰러진다.<br>소년은 몸에 난 상처를 부여잡고 그의 시선에서 사라질 때까지 한걸음 한걸음 뒤로 물러선다.<br><i>「███, 내 두 눈으로 네가 죽는 걸 똑똑히 목격하기 전에 우리는 다시 만나게 될 거야」</i>"
         },
         {
             "_id": 4,
-            "Story": "The only thing he could sense was a splotch of crimson in his sight and the taste of iron in his mouth. His limbs were unresponsive.<br>— He must have died.<br><br>The monster swallowed him again, but this time, his enemy is not another person.<br>The imposing armor stayed quiet. He was grappled and imprisoned within those pair of arms. The speaker was the woman with sunglasses.<br><br><i>\"<u>Listen</u>, I can always kill you again, otherwise I can't bring you back.\"</i><br>Her voice was very gentle, and even the monster inside his body stayed silent to listen to her.<br><i>\"But I don't want to.\"</i><br>The woman leaned down and whispered in his ear. It was a deal he couldn't refuse. <br><i>\"What do you people want?\"<br>\"Is there anything more satisfying than seeing how the undying die? That's what 'he' said.\"</i><br><br>The giant armor loosened its arms. \"Destiny\" was ahead, and he will be leaving with them.<br><i>\"<u>Listen</u>, Bladie, loosen up.\"<br>\"<u>Listen</u>, don't think about anything at all.\"</i> He nodded. The woman walked to his side, smiling. Yet he thought her smile looked very sad.<br><i>\"Maybe someone left her before they could listen to everything she had to say,\"</i> he thought."
+            "Story": "선홍색 피가 그의 눈앞을 가린다. 입안에서는 달콤한 비린내가 나고 사지는 축 늘어졌다.<br>——아마도 자신은 죽었을 것이다.<br><br>괴물이 다시 한번 그를 집어삼켰다. 그러나 이번에 그가 마주해야 될 사람은 다른 이가 아니었다.<br>거대한 갑주가 아무 말 없이 두 팔로 그를 단단히 속박했다. 검은색 선글라스를 쓴 여자가 말하기 시작했다.<br><br><i>「<u>잘 들어</u>. 널 데려가기 위해서 난 한 번 더 널 죽일 수 있어」</i><br>그녀의 부드러운 음성에 체내에 있는 괴물까지 숨을 죽이고 귀를 기울였다.<br><i>「하지만 난 그렇게 하고 싶지 않아」</i><br>여자는 몸을 낮춰 그의 귀에 대고 나직하게 말했다. 거부할 수 없는 거래였다.<br><i>「나한테 원하는 게 뭐지?」<br>「불사의 몸을 가진 자가 죽어가는 걸 보는 것보다 더 재미있는 일이 있을까?『그』가 이렇게 말했다」</i><br><br>거대한 갑주가 그를 풀어주었다. 그는 그들을 따라 전방에 있는 「운명」을 향해 걸어갔다.<br><i>「<u>잘 들어</u>. 블레이디, 긴장할 필요 없어」<br>「<u>잘 들어</u>. 아무 생각도 하지 마」</i><br>그가 고개를 끄덕이자 여자는 그의 곁으로 다가가 웃음을 보였다. 그는 여자의 미소에 슬픔이 가득하다고 느꼈다.<br><i>「어쩌면 누군가 그녀가 하는 말을 끝까지 듣지 않고 떠나버렸을지도 몰라」</i>그는 마음속으로 이렇게 생각했다"
         },
         {
             "_id": 5,
-            "Story": "He could no longer see anything.<br><br>He remembered that, decades ago, he came to the Xianzhou with a merchant vessel and was impressed by the superb craftsmanship of this place. <br>The young man was obsessed to the point of forgetting to eat or drink, and spent his inspiration like he was running out of time. He forged hundreds of marvels, four of which were the most famous.<br><br>The sword named Shard Sword was flawless in its make, its inky body glimmered with a sheen of sanguine. Only the strongest swordmaster on the Xianzhou could demonstrate the true meaning of this blade.<br>The Foxian girl once loosened three arrows simultaneously with her recurve bow in a dire situation, while still continuing to navigate the starskiff and laughing with the others.<br>The black-haired man with dragon horns used his water manipulation abilities to rejuvenate his allies, and in the next moment he bound the water upon his spear and used it to run his enemies through.<br>There was also the boy who kept bickering with him. Yet the moment the youth saw the Devastator Glaive, he grabbed it and never wished to part with it.<br><br>Now, ██ had died. His first — and only — death.<br>However, he was still here, his youth-like brain churning and thinking - thinking for all eternity.<br>He thought about his hands that were no longer dexterous. The hands that could no longer forge another weapon.<br>— But none of this mattered to him.<br>From this moment on, that body will be the one and only \"Blade.\""
+            "Story": "아무것도 보이지 않는다.<br><br>그는 수십 년 전, 상선을 타고 선주에 도착해 그들의 경이로운 솜씨에 감탄했던 시절을 떠올렸다.<br>소년은 밥 먹는 것도 잊은 채 영감을 마음껏 발휘하며 백 가지가 넘는 기물을 만들었다. 그중 가장 유명한 것으로는 4종의 작품이 있었다.<br><br>그중 「지리(支離)」라는 이름의 검은 검신에 흠 하나 없고 검은 옻칠 색에 핏빛을 띠며, 선주 최강의 검객만이 그 능력을 완전히 발휘할 수 있었다.<br>여우족 소녀는 절체절명의 순간에 곡궁으로 화살 세 발을 동시에 발사하고, 별뗏목을 운전하면서도 일행들과 담소를 나누는 걸 잊지 않았다.<br>흑발에 용뿔을 지닌 남자는 물을 다스리는 능력을 사용해 동료의 상처를 치료하면서도, 장창에 물을 실어 적을 일순간 관통했다.<br>그리고 늘 그와 말다툼을 벌이던 소년은 진도가 눈에 띄자마자 순식간에 빼앗아 간 후, 자기 손에서 절대로 놓으려 하지 않았다.<br><br>이제, ██은 죽었다. 최초이자 유일한 죽음이다.<br>그러나 그는 여전히 이곳에 있고, 아직 소년인 채 사색에 잠겨있다. 그는 아마 영원히 사색에 잠길 것이다.<br>그는 더 이상 자신의 민첩하지 않은 두 손이 어떠한 병기도 만들 수 없다는 사실을 생각하고 있다.<br>——그러나 이 모든 것은 이제 그와 아무런 상관이 없다.<br>오늘부터 그의 신체가 곧 유일한 칼날, 「블레이드」가 될 테니까"
         }
     ]
 }
@@ -659,216 +659,216 @@ var _story_ = {
 var _voice_ = {
     "1205": [
         {
-            "Title": "First Meeting",
-            "Voice": "Trailblazer... I don't know you. Consider that a good thing."
+            "Title": "첫 만남",
+            "Voice": "{NICKNAME}… 난 널 몰라. 너한텐 좋은 일이지"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Back again...? The fate of those I remember is never a good one."
+            "Title": "인사",
+            "Voice": "또 왔어? …내 기억에 남고도 결과가 좋은 사람은 못 봤어"
         },
         {
-            "Title": "Parting",
-            "Voice": "Go. When the mara strikes, you don't want to be next to me."
+            "Title": "작별",
+            "Voice": "가라. 「마각의 몸」이 발작하면, 나한테서 떨어지는 게 좋을 거야"
         },
         {
-            "Title": "About Self: Name",
-            "Voice": "To whittle oneself away, to tear your enemies apart — that is the power of a blade."
+            "Title": "자신에 대해•이름",
+            "Voice": "자신을 마모하며 적을 찢어버리는 것이 검이지"
         },
         {
-            "Title": "About Self: Mara-struck",
-            "Voice": "We are all mara-stricken in different ways, but my situation is unusual. Although the mara haunts me, memories of it seldom cross my mind, be they of remorse, hatred, fear, or reflection."
+            "Title": "자신에 대해•마각의 몸",
+            "Voice": "사람은 모두 다른 방식으로 마각에 시달리지만, 내 상황은 특이해. 마각이 날 괴롭힌대도 회한, 증오, 그리움과 두려움에 대한 기억은 얼마 되지 않지……"
         },
         {
-            "Title": "About Self: Demons",
-            "Voice": "When the mara strikes... I become something else."
+            "Title": "자신에 대해•광마(狂魔)",
+            "Voice": "마각이 발작하면, 난 다른 사람이 돼"
         },
         {
-            "Title": "Chat: Stellaron Hunters",
-            "Voice": "By banding together, we reach our goals."
+            "Title": "잡담•스텔라론 헌터",
+            "Voice": "우린 서로의 손을 빌려 목적을 달성하지"
         },
         {
-            "Title": "Chat: Immortality",
-            "Voice": "The hope that \"this will be the last time\" always vanishes in bitter healing of the flesh."
+            "Title": "잡담•불사신",
+            "Voice": "「이번이 마지막」이라는 기대는 육체가 치유되는 고통 속에서 사라지지"
         },
         {
-            "Title": "Chat: Sacrifice",
-            "Voice": "Of five people, three must pay a price... These words are carved into my every wound..."
+            "Title": "잡담•대가",
+            "Voice": "사람은 다섯이나, 대가는 셋일지니——이 말은 내 상처 하나하나에 새겨져 있어……"
         },
         {
-            "Title": "Blade's Hobbies",
-            "Voice": "Only in the brief moments of its wielding can a blade truly disappear."
+            "Title": "블레이드의 취미",
+            "Voice": "「칼날」의 존재는, 휘두르는 찰나에야 잠시나마 사라질 뿐"
         },
         {
-            "Title": "Blade's Annoyances",
-            "Voice": "When will death come for me? My patience is wearing thin."
+            "Title": "블레이드의 고민",
+            "Voice": "죽음은 언제쯤 올는지. 기다리기 힘들군"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "There are countless weapons sharper than mine, but after a thousand clashes, what does it matter?"
+            "Title": "공유",
+            "Voice": "나보다 예리한 무기는 부지기수지만, 수천 번을 싸운다면 어떻게 될까?"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "The dead know no fear."
+            "Title": "견문",
+            "Voice": "죽은 자는 겁이 없지"
         },
         {
-            "Title": "About Kafka",
-            "Voice": "The mara's tether is firmly in her grasp. She will not pull upon it before the designated time, but nor shall she relinquish it."
+            "Title": "카프카에 대해",
+            "Voice": "마각을 묶을 수 있는 끈이 그녀의 손아귀에 있어. 약속한 시각이 오기 전까지 당기지도 놓지도 않을 거야"
         },
         {
-            "Title": "About Silver Wolf",
-            "Voice": "Within that world she calls a \"game,\" she will never give up, nor yield to death."
+            "Title": "은랑에 대해",
+            "Voice": "「게임」이라고 부르는 세계에선 은랑이 포기하지 않는 이상 죽지도 않더군"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "He always... He always understood the price better than any of us, yet he never spoke up — never did anything!"
+            "Title": "경원에 대해",
+            "Voice": "그는… 우리 중 「대가」를 가장 잘 아는 사람이었지만, 아무 말도, 아무것도 하지 않았어!"
         },
         {
-            "Title": "About Dan Heng",
-            "Voice": "Imbibitor Lunae... When will our retribution come? How can our debt be repaid?"
+            "Title": "단항에 대해",
+            "Voice": "음월군… 우리의 업보는 언제 올까? 우리가 진 빚은 어떻게 갚지!?"
         },
         {
-            "Title": "About Jingliu",
-            "Voice": "As she brandished her sword, phantom pain surged through every part of my body... all because of her!"
+            "Title": "경류에 대해",
+            "Voice": "검을 휘두를 때마다 몸속에서 끊임없이 환상통이 느껴져. 어떤 것은 치명적이고, 어떤 것은 죽을 만큼 아프지. 모두 그 여자 덕분이야"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Life itself is punishment."
+            "Title": "성혼 활성화",
+            "Voice": "삶은 징벌이지"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "There is no shortcut to destruction."
+            "Title": "캐릭터 승급",
+            "Voice": "파멸로 가는 길에 지름길 같은 건 없어"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "...Tell me this is the end."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "모든 게… 이곳에서 끝났으면 좋겠군"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "One of the lesser sufferings I've endured."
+            "Title": "행적 활성화",
+            "Voice": "내가 겪은 수만 번의 고통 중, 가장 보잘것없군"
         },
         {
-            "Title": "Added to Team With Kafka",
-            "Voice": "Those who can't bury us, are waiting to be buried, Kafka."
+            "Title": "파티 편성•카프카",
+            "Voice": "카프카… 우릴 없애지 못한 자들은 우리한테 묻힐 거야"
         },
         {
-            "Title": "Added to Team With Silver Wolf",
-            "Voice": "I don't understand your games and tricks, but suit yourself."
+            "Title": "파티 편성•은랑",
+            "Voice": "네 수법은 항상 종잡을 수가 없더군…. 너 하고 싶은 대로 해"
         },
         {
-            "Title": "Added to Team With Jingliu",
-            "Voice": "Jingliu... witness my every move, my suffering."
+            "Title": "파티 편성•경류",
+            "Voice": "경류… 내 고통을, 내 초식 하나하나를 지켜보아라"
         },
         {
-            "Title": "Added to Team With Jing Yuan",
-            "Voice": "Your new-found enthusiasm is amusing, Jing Yuan."
+            "Title": "파티 편성•경원",
+            "Voice": "경원, 예전에는 이 정도로 오지랖이 넓지 않았던 거 같은데"
         },
         {
-            "Title": "Added to Team With Dan Heng",
-            "Voice": "Need me to watch your back?"
+            "Title": "파티 편성•단항",
+            "Voice": "왔군, 작은 빈틈도 보여선 안 될 거야"
         },
         {
-            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
-            "Voice": "Need me to watch your back?"
+            "Title": "파티 편성•단항•음월",
+            "Voice": "왔군, 작은 빈틈도 보여선 안 될 거야"
         },
         {
-            "Title": "About Sam",
-            "Voice": "I live in an eternal purgatory. And Sam — he is good at creating purgatory."
+            "Title": "샘에 대해",
+            "Voice": "난 지옥에서 살고 있고, 샘은 지옥을 잘 만들지"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "You impede me."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "날 막다니"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "What surprises do you hold?"
+            "Title": "전투 시작•위험 경보",
+            "Voice": "넌 어떤 즐거움을 줄 거지?"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "I will dispatch you by my sword."
+            "Title": "턴 시작•1",
+            "Voice": "손에 든 검으로 배웅해 주지"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "A blade's edge knows no mercy."
+            "Title": "턴 시작•2",
+            "Voice": "봐줄 필요 없어"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Waiting drains one's vigor."
+            "Title": "턴 대기",
+            "Voice": "오랜 기다림은 살기를 무디게 하지"
         },
         {
-            "Title": "Enhanced Basic Attack",
-            "Voice": "Make good... the loss!"
+            "Title": "일반 공격 강화",
+            "Voice": "전부… 돌려주지!"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "The fight... is set!"
+            "Title": "전투 스킬•1",
+            "Voice": "흐름은… 정해졌다!"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Your end... approaches!"
+            "Title": "전투 스킬•2",
+            "Voice": "죽음이… 다가온다!"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Too little..."
+            "Title": "약공격 피격",
+            "Voice": "부족해……"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Well timed."
+            "Title": "강공격 피격",
+            "Voice": "좋아, 나쁘지 않군"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "That paradise may be unreachable for me ..."
+            "Title": "필살기•활성화",
+            "Voice": "난 이 절경에 닿을 수는 없지만……"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Savor it in my place... Hmph!"
+            "Title": "필살기•발동",
+            "Voice": "그대들을 초대할 수는 있지"
         },
         {
-            "Title": "Talent",
-            "Voice": "A vale... to send you!"
+            "Title": "특성",
+            "Voice": "피안의… 파멸!"
         },
         {
-            "Title": "Downed",
-            "Voice": "Is there a chance...?"
+            "Title": "전투 불능",
+            "Voice": "이번엔 성공할 것인가……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "I live? *sigh*"
+            "Title": "전투 복귀",
+            "Voice": "아쉽게도 살아있군"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Unnecessary."
+            "Title": "HP 회복",
+            "Voice": "부질없어"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "This sword needs sharpening."
+            "Title": "전투 승리",
+            "Voice": "검이 아직 무디군"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "That's all."
+            "Title": "전리품 오픈•1",
+            "Voice": "다른 건 없어"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Hmph."
+            "Title": "전리품 오픈•2",
+            "Voice": "음"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Take them."
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "챙겨둬"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Done."
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "끝났군"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "As expected."
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "예상대로군"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "We can get closer."
+            "Title": "적 발견",
+            "Voice": "조금 더 가까이 가도 괜찮아"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Are there other matters?"
+            "Title": "도시로 복귀",
+            "Voice": "볼일 남았어?"
         }
     ]
 }

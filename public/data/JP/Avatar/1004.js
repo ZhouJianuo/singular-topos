@@ -465,23 +465,23 @@ var _story_ = {
     "1004": [
         {
             "_id": 1,
-            "Story": "The wise and experienced former Anti-Entropy Sovereign who inherited the name of the world — Welt. He has saved Earth from annihilation time and time again.<br>After the incident with St. Fountain came to a close, Welt had no choice but to venture with the initiator of the incident to the other side of the portal.<br>Perhaps even he did not expect the new journey nor companions that awaited him there."
+            "Story": "経験豊富で頼れるネゲントロピーの元盟主。「世界」の名を受け継ぎ、幾度も世界を滅亡の危機から救った。<br>セントフォンテーヌの事件が一段落した後、ヴェルトは陰謀を企てた張本人と共に門の向こうへと旅立った。<br>彼自身でさえ予想していなかっただろう。その先に、新たな旅と仲間たちが待っていることを。"
         },
         {
             "_id": 2,
-            "Story": "On the way to the portal, Welt took out a pen and started outlining a sketch. For the eight years prior to that moment, he'd been repeating this job.<br><br>Going back further in time, he would construct objects in a different way, as long as the images could be pictured in his mind. But he could never regard that as \"creation,\" because they were just the way the original is. Those had nothing to do with his mind.<br><br>This is just the duty of the man who inherited the name of the world. If the world needs him to save it, then he will become that hero without hesitation. He has fallen down many times and been mocked even more, but he will always stand before everyone either in the past or the future — he will never change.<br><br>Only now, he finds himself embarking on a new journey."
+            "Story": "星門に向かう途中、ヴェルトはペンを手に取ると、紙の上に何か描き始めた。この前の8年間、彼はずっとこのような作業を繰り返している。<br><br>さらに時代を遡ると、かつての彼は別の方法で物体を構築していた。頭の中でイメージするだけで、その物体を構築することが可能だったのだ。しかし、彼はそれを「創造」と捉えることはできなかった。なぜなら、それは世界の元の形であり、彼自身の考えとは無関係だからである。<br><br>それは「世界」の名を継承した彼が背負うべき責任にほかならない。世界が救いを求めるのなら、彼は迷うことなく英雄になる。何度も倒れ、何度も嘲笑されたが、彼はいつも立ち上がる。過去から未来まで、それは変わらない。<br><br>しかし今、彼は新たな旅に出る。"
         },
         {
             "_id": 3,
-            "Story": "When Welt returned to that dangerous cosmic battlefield, he could feel his blood start to boil once more.<br><br>Even when his spaceship lost power and was drifting aimlessly through space, he joked casually with his companion: <i>\"The end of one adventure is often the beginning of another.\"</i><br><br>When a passing-by Himeko managed to save them and informed them that they couldn't go back home, he kept up his jokes: <i>\"This is like something out of a cartoon, and it's far too coincidental to be real.\"</i><br><br>Life really is this coincidental.<br><br>Since he can't find his way back home and can't live out a peaceful existence for the time being, why doesn't he take up arms again and fight?<br><br>This time, there is no burden or destiny to bear. Everything shall obey his own will."
+            "Story": "危険に満ちた宇宙の戦場に再び身を投じた時、ヴェルトの体に流れる熱い血が久々に燃え上がった。<br><br>乗っていた宇宙船が動力を失い、当てもなく宇宙空間を漂っていた時も、彼は動じることなく、仲間に冗談を言っていた。<i>「ある冒険の終点は、往々にして別の冒険の始まりとなる」</i><br><br>そして通りすがりの姫子が彼らを宇宙船から助け出し、もう家には帰れないと告げた時も、彼は冗談を言い続けた。<i>「こんなストーリーをアニメにしたら、誰でも都合がよすぎると言うだろうな」</i><br><br>実際、確かに都合がいいのだ。<br><br>——故郷に帰れず、しばらく平穏な生活に戻れないのなら、もう一度武器を取って戦おうじゃないか。<br><br>今回は運命を背負う必要はない、すべては自分の意のままだ。"
         },
         {
             "_id": 4,
-            "Story": "These days, Welt rarely fights, and it remains unknown whether or not he retains the strength from his heyday. Gravity manipulation has remained his usual combat means, ever since his cane was transformed from the Star of Eden.<br><br>He suppresses his enemies with gravity, even creating a kind of mini-black hole — what he considered his everyday powers are met with amazement by the youngsters on the Express.<br><br><i>\"Mr. Yang's incredible, amazing!\"<br>\"If you need help with anything, Trailblazer, go ask Mr. Yang.\"<br>\"You need to take turns. Let him rest a little while...\"</i><br><br>He is shocked to realize that his carelessness and surety are the results of his countless experiences, marks of the relentless passage of time he had endured. However, the youths aboard the Express are like blank pieces of paper, writing out their own lives.<br><br>What kind of responsibilities should he take on in their lives?<br><br>He couldn't help but think of the names of people throughout his life who had helped him before."
+            "Story": "今のヴェルトは無闇に手を出すことはなく、全盛期の実力を保っているかはどうかは窺えない。しかし、「エデンの星」を改造したステッキから察するに、「重力操作」は依然として彼の攻撃手段であることがわかる。<br><br>敵を重力で制圧し、ブラックホールに近い存在を創り出す——彼にとっては当たり前の能力だが、列車の若者たちからは喝采を博している。<br><br><i>「ヨウおじちゃんって何でもできてすごいね！」<br>「{NICKNAME}、わからないことがあればヴェルトさんに聞けばいい」<br>「1人ずつにしなさい、少しは休ませてあげないと……」</i><br><br>彼は突然、自分の落ち着きと自信は多すぎる経験からくるものであり、そこには歳月が流れた跡ばかりが刻まれていることに気付いた。しかし列車の若者たちは白紙のように、今まさに自分たちの人生を描いている。<br><br>——その中で、自分はどのような責任を担うべきなのか？<br><br>彼はふと思い出した。今までの人生の中で、自分を助けてくれた者たちの名前を。"
         },
         {
             "_id": 5,
-            "Story": "<i>— Welt's Log ██/██/████.<br><br>███'s relationship with the protagonists:<br><br>█—███'s sparkling personality is just like the protagonist in a cartoon. Go for it!<br>███ — A lively youth. I hope she can keep being imaginative, and not feel guilty even if she stumbles. Youths are always going to make mistakes, and ███ will be able to support her.<br>██ — A reliable youth. There's no need to worry about him. I hope he can chat more with ███, but if he doesn't want to, then that's fine.<br>██ — I can trust this companion with my life, ███ believes she will make the right decision.<br>██ — A common character in cartoons. Seemingly just a normal creature, but actually possesses frighteningly powerful abilities and a complicated background.<br><br>Note: If I ever get back home, consider making a cartoon out of this.</i>"
+            "Story": "<i>「ヴェルトの日記 ████年██月██日<br><br>████と主人公一同の人間関係：<br><br>█——████、アニメの主人公のように輝く心を持つ若者。進め！<br>█████——活発な若者。彼女にはいつまでも想像力豊かなままでいてほしい。たとえ何かミスをしても、あまり罪悪感を抱かないようにしてやりたい。若者が間違えるのは当然のことだ。それに、████が力になってくれるだろう。<br>██——頼れる若者、基本的に心配する必要はない。もっと████と交流してほしいところだが、その気がないならそれでもいい。<br>██——命を預けられる仲間。彼女なら正確な決断を下せると████は信じている。<br>██——アニメによく登場するようなマスコットキャラクター。可愛らしく見えて、実はとんでもない過去と強大な力を持つ生物。<br><br>注：故郷に戻れたら、この経歴をアニメにしよう」</i>"
         }
     ]
 }
@@ -489,196 +489,196 @@ var _story_ = {
 var _voice_ = {
     "1004": [
         {
-            "Title": "First Meeting",
-            "Voice": "Hi, I'm Welt Yang. If there's something you need help with, you can come find me anytime."
+            "Title": "初対面",
+            "Voice": "やあ、俺はヴェルト・ヨウだ。困ったことがあれば、俺を探すといい。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Hm? Still half asleep? Don't force yourself. You should get some more rest."
+            "Title": "挨拶",
+            "Voice": "おや？まだ眠いのか？無理をするな、少し寝るといい。"
         },
         {
-            "Title": "Parting",
-            "Voice": "Can't sleep? I understand — inspiration always comes knocking in the small hours. It's hard to ignore, right?"
+            "Title": "お別れ",
+            "Voice": "寝れないのか？わかるぞ、インスピレーションは夜に訪れる上に、抗いがたいものだ。そうだろう？"
         },
         {
-            "Title": "About Self: Previous Profession",
-            "Voice": "I was an animator for eight years — my life was pretty routine. I guess it was a little dull compared with adventuring, but work is a very worthwhile thing. It brings dreams to life."
+            "Title": "自分について・以前の仕事",
+            "Voice": "アニメの原画を八年ほど描いていたが、基本的には会社と自宅を往復するだけだった。冒険と比べれば「退屈」かもしれないが、この仕事は価値のあるもので、他人に夢を与えることができる。"
         },
         {
-            "Title": "About Self: Reason for Boarding the Express",
-            "Voice": "*sigh* It's a long story, and it involves a lot of people and incidents that everyone would like to forget about, haha. Best not to talk about it. In essence, I got lost in the universe, but was fortunate enough to come across Himeko driving the Express."
+            "Title": "自分について・乗車のきっかけ",
+            "Voice": "長い話になるうえに、忘れたい人間や出来事にも言及しなければならない。やはりやめておこう。とにかく、宇宙で迷子になっていたところで、幸運にも列車と姫子に出会ったんだ。"
         },
         {
-            "Title": "Chat: Arahato",
-            "Voice": "Oh, there's a lot to say there. They only aired that series on my home world — I don't know if there's anywhere else in the universe that'd have it... I can use my mimicry power to show you a few episodes, but I can't guarantee the resolution."
+            "Title": "世間話・アラハト",
+            "Voice": "アラハトを観たいのか？このシリーズは俺の故郷で放送されていたんだが、宇宙で観る手段があるかどうかはわからない…「投影」で数話程度なら再現することはできるが、再現度は保証できない。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Researching history and producing animations... I'd say they go hand in hand."
+            "Title": "趣味",
+            "Voice": "歴史の研究、アニメ制作…2つの間に矛盾はない。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "Y'know Trailblazer, you remind me of the main character in a cartoon or something — you seem to attract companions out of thin air... *sigh* I hope you don't mind me saying that. It's just... it seems like my own chances of going on an adventure have plummeted again..."
+            "Title": "悩み事",
+            "Voice": "君はまるでアニメの主人公のようだ。仲間が自然と君の傍に集まる…誤解しないでくれ、ただ感慨に耽っていただけだ。俺自身が冒険できる機会はあまりないからな……"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "My home was corroded by a force known as Honkai, but that hasn't stopped it from being a warm and beautiful world."
+            "Title": "シェア",
+            "Voice": "俺の故郷は一度、「崩壊」というエネルギーに侵蝕された。だが、それによって故郷が美しさや温かさを失ったわけではない。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Do you know how the followers of Qlipoth the Preservation became the Interastral Peace Corporation? The Aeon wanted to build a wall, and humanity started searching for building materials so they could follow in Qlipoth's footsteps... it's pretty funny when you think about it."
+            "Title": "見聞",
+            "Voice": "「存護」のクリフォトの信者がどのように「スターピースカンパニー」になったか知っているか？神は壁を造ろうとし、人間は神に付き従うため、その材料を探し始めた——この話はブラックユーモアに満ちていると思わないか？"
         },
         {
-            "Title": "About March 7th",
-            "Voice": "March is curious about everything, and she's always getting me to do combat poses. She thinks I pull them off pretty well, apparently. You think so too? Hmm..."
+            "Title": "三月なのかについて",
+            "Voice": "なのかは何事に対しても興味を持つ。そのせいか、様々な戦闘のポーズを実演してくれとせがまれるんだ。カッコいいからと言うんだが、本当にそうなのだろうか？君もそう思う？なるほど。"
         },
         {
-            "Title": "About Dan Heng",
-            "Voice": "He's safe. I know he has his doubts... but he's one of the crew now. Himeko and I won't let anyone harm him."
+            "Title": "丹恒について",
+            "Voice": "丹恒は信頼できる存在だ。何かを抱えているのは知っているが…彼はもう立派な列車組の一員なんだ。俺と姫子は、誰にも彼を傷付けさせるつもりはない。"
         },
         {
-            "Title": "About Himeko",
-            "Voice": "Himeko's the kind of person that... gives off her own light. Even though we're traveling across the train's old route, you can see Himeko's dreams flashing before her eyes when you look at her. It's almost as if she's been on the train from the very beginning — always moving starward."
+            "Title": "姫子について",
+            "Voice": "姫子は何というか…輝きを放つタイプの人間だ。俺たちは列車のかつての航路を辿っているだけだが、姫子を見ていると、彼女の夢が煌めいてることがわかる。姫子はずっと列車に乗り、彼女の星穹に向かっているのだろう。"
         },
         {
-            "Title": "About Pom-Pom",
-            "Voice": "Pom-Pom's always there to lend a helping hand, but I'd refrain from teasing them if I were you. The last person that did that..."
+            "Title": "パムについて",
+            "Voice": "助けを必要としている時、パムはすぐに現れる。だが、いたずらにパムを呼び出したりするなよ。以前そうした人間は……"
         },
         {
-            "Title": "About Dan Heng 2",
-            "Voice": "There is a quote I like very much that I would like to share with him: \"The cosmos is vast beyond compare, containing an infinite number of possibilities. An individual's fate shouldn't be limited to a single path ordained by heaven.\""
+            "Title": "丹恒について・2",
+            "Voice": "好きな言葉があるんだ。それを彼に贈ろうと思う——「銀河にはあらゆる可能性がある。人間の運命も、神に与えられた道だけではない」。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "New adventures, new friends... Great, isn't it?"
+            "Title": "星魂覚醒",
+            "Voice": "新たな冒険に、仲間か…悪くないな。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "The passion of yesteryear isn't all that returned..."
+            "Title": "キャラクター昇格",
+            "Voice": "戻ってきたのは…当時の情熱と激情だけじゃない。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "In the immense sea of stars, we too will leave our mark."
+            "Title": "レベルMax",
+            "Voice": "広大な星の海の間にも、俺たちの痕跡が残るだろう。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "After spending so much time with everyone, I feel like I'm starting to age backwards."
+            "Title": "軌跡覚醒",
+            "Voice": "みんなと一緒にいると、俺もどんどん若くなっていく気がするな。"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "As the protagonist of your own story, it's up to you to overcome and forge ahead."
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "行け、{NICKNAME}。主人公はいばらを断ち、進むんだ。"
         },
         {
-            "Title": "Added to Team With Himeko",
-            "Voice": "I don't often get the chance to fight alongside you, Himeko. It's time to show everyone what we can do."
+            "Title": "パーティ編成・姫子",
+            "Voice": "姫子と一緒に戦える機会は少ない、今度は俺たちが実力を発揮する番だ。"
         },
         {
-            "Title": "Added to Team With Dan Heng",
-            "Voice": "Having you here gives me peace of mind, Dan Heng. Still, best not to push yourself too hard."
+            "Title": "パーティ編成・丹恒",
+            "Voice": "丹恒がいれば安心だが…あまり無理をするなよ。"
         },
         {
-            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
-            "Voice": "Having you here gives me peace of mind, Dan Heng. Still... I'll stop nagging."
+            "Title": "パーティ編成・丹恒・飲月",
+            "Voice": "丹恒がいれば安心だが…何も言わなくてもいいみたいだな。"
         },
         {
-            "Title": "Added to Team With March 7th",
-            "Voice": "Youthful energy is a good thing... but I'd appreciate a heads-up before you make any moves, March."
+            "Title": "パーティ編成・三月なのか",
+            "Voice": "若者が元気なのは良いことだが…動く前に俺に声をかけてくれ、なのか。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Seems you need to experience some hardship."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "痛い目に遭いたいようだな。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Stay calm."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "冷静さを保て。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Leave the rest to me."
+            "Title": "ターン・1",
+            "Voice": "続きは、俺に任せろ。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "You can still walk away."
+            "Title": "ターン・2",
+            "Voice": "今去るのなら、見逃そう。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Better make a choice."
+            "Title": "戦闘中待機",
+            "Voice": "そろそろ決着をつけないとな。"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Stand down."
+            "Title": "通常攻撃",
+            "Voice": "下がれ。"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Calm your body and mind."
+            "Title": "戦闘スキル・1",
+            "Voice": "頭を冷やすといい。"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "I won't go easy on you!"
+            "Title": "戦闘スキル・2",
+            "Voice": "手加減はしない！"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "I'm fine."
+            "Title": "攻撃を受ける",
+            "Voice": "大事ない。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "That won't stop me..."
+            "Title": "重撃を受ける",
+            "Voice": "これしき……"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "You know nothing of the weight behind this power."
+            "Title": "必殺技・アクティブ",
+            "Voice": "君らは、この力について何も知らない。"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Witness the stars shatter before you... Survive or be destroyed, there is no other choice."
+            "Title": "必殺技・発動",
+            "Voice": "星が砕け散る様を見るがいい。生と死…君らに選ぶ余地はない。"
         },
         {
-            "Title": "Downed",
-            "Voice": "I'll leave the rest... to you..."
+            "Title": "戦闘不能",
+            "Voice": "君たちに…任せた…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "I can't relax just yet."
+            "Title": "戦闘に戻る",
+            "Voice": "やはり心配だな。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Timely treatment."
+            "Title": "HP回復",
+            "Voice": "時機を読んだ良い治療だ。"
         },
         {
-            "Title": "Technique",
-            "Voice": "Stay."
+            "Title": "秘技",
+            "Voice": "留まれ。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "The galaxy is vast beyond compare."
+            "Title": "戦闘勝利",
+            "Voice": "この銀河は、あらゆる可能性を受け入れる。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Interesting."
+            "Title": "戦利品を開ける・1",
+            "Voice": "なかなか面白いな。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "This will definitely come in handy."
+            "Title": "戦利品を開ける・2",
+            "Voice": "きっと役に立つだろう。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "You don't see these every day..."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "実に貴重だ…"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Well figured out."
+            "Title": "謎解きに成功・1",
+            "Voice": "手応えがあったな。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Now, that's talent."
+            "Title": "謎解きに成功・2",
+            "Voice": "才能があるな。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Enemy ahead... No harm in trying."
+            "Title": "敵ターゲット発見",
+            "Voice": "手強そうだが、試してみる価値はある。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "The next destination...? Up to you."
+            "Title": "町に戻る",
+            "Voice": "目的地は…君たちが決めればいい。"
         }
     ]
 }

@@ -457,23 +457,23 @@ var _story_ = {
     "1201": [
         {
             "_id": 1,
-            "Story": "An ordinary diviner at the Divination Commission. She would never slack off in slacking off.<br>Following her parents' wishes, Qingque qualified for the Divination Commission, but the relaxing post she was expecting was in fact a brutal, high-intensity workplace.<br>After several years of work, Qingque has honed her skills — no matter which department she's transferred to, she's still the lowest-leveled diviner.<br>She would browse books and play ancient tile games to wile away the hours... What more could one ask for than a life like this?"
+            "Story": "太卜司の普通の卜者、仕事をサボることを絶対にサボらない。<br>両親の期待に応えて太卜司に入った直後、彼女は楽で安定していると思っていた職が、仕事の絶えない苦海であることに気がついた。<br>そして数年の練磨を経て、青雀はひとつの能力を身につけた――どれだけ部署が変わっても、最低級の卜者であり続けるという能力を。<br>本を読んで、牌を打って…そんなふうに人生を過ごせるのなら、もう望むことはないだろう。"
         },
         {
             "_id": 2,
-            "Story": "The legend of Qingque begins at the lyceum.<br><br>From the time of Qingque's freshman year right through to her graduation, whenever exam grades were announced, the word Qingque was always followed by a number written out in full: 60, with no exception.<br><br>At first, her tutors thought that Qingque was just an average talent unsuitable for academia, so they didn't really look into things. However, as the same number kept turning up in the examination records, her tutors began to suspect that this wasn't a coincidence at all.<br><br>Very soon, having long conversations with the tutors became a common occurrence for Qingque. Anyone familiar with this kind of sophistry will recognize that handful of sayings: at first, she's <i>\"quiet and well-behaved,\"</i> or <i>\"gifted.\"</i> Then, later on the tone will shift to blame, <i>\"A pity that big brain of yours is going to waste,\"</i> before the grand finale:<i>\"If only you could dedicate such ingenuity to your studies, then blah blah blah...\"</i><br><br>But Qingque knew the kind of life she wanted far better than her tutors do. She kept repeating <i>\"Oh, yes yes yes,\"</i> and <i>\"Mmm sure sure sure,\"</i> before turning straight around to fall asleep at her desk, and just scraping by during the next exam — this was how Qingque responded to the coercion and threats of her tutors.<br><br>They finally ran out of patience with her. In the end, they could only leave behind a resentful message in her yearbook:<br><br><i>\"It'd be difficult for her to achieve greatness\"</i>"
+            "Story": "青雀の伝説は学舎から始まる。<br><br>青雀が入学してから卒業するまでの間、記録のある試験の点数はもれなく「 60 」となっている——例外はない。<br><br>最初の頃、学舎の教師たちは青雀を凡庸な学生だと思っていた、恐らくは学問を修める才能がないため、特に彼女に注目はしなかった。しかし、「六十」という数字が成績表を埋めていくにつれ、教師たちはようやくそれが偶然ではないと気付く。<br><br>それからは、教師たちに面談に呼ばれることが青雀の日常になってしまった。聞いていればわかる、教師たちの話はいつも変わらない——<i>「物静かで賢い」</i>、<i>「天賦の才がある」</i>から始まり、<i>「残念なことに、その才能の使い方は間違っている」</i>などの不満を垂れ、最後には決まって<i>「その要領の良さを学問に使えば、きっと成せることがある」</i>……<br><br>しかし、青雀は自分の求める生活を明確にしていた。面談の時は<i>「はいはいはい」</i>、<i>「うんうんうん」</i>と繰り返すだけで、授業になると再び居眠りを始め、試験は常に低空飛行——これが教師たちの心遣いに対する青雀の答えである。<br><br>ついに我慢の限界に達した教師たちは、最後、青雀の卒業評価欄に恨み節を書き添えることしかできなかった。<br><br><i>「大器に成り難し」</i>"
         },
         {
             "_id": 3,
-            "Story": "During the ten-plus years at the Divination Commission, Qingque kept a low-key existence like a harmless little sparrow.<br><br>Following her parents' expectations and holding down a steady job, Qingque thought she could breathe a sigh of relief. However, she didn't realize that the Divination Commission — which is in charge of gathering, collecting, and sorting information — is an endless sea of misery for slackers, with no end to the effort it demands. This high-intensity work drove Qingque into torment, from which she could not escape.<br><br>However, as the saying goes, \"what doesn't kill you only makes you stronger.\" Struggling through the endless days of being a lifelong \"professional,\" Qingque became a seasoned slacker and learned more than a few slick tricks to loaf on the job. She's transferred throughout the departments and worked under several bosses. Every time, she's always the lowest-leveled diviner, with her numbers threatening to go even lower. It can be said that this has been... pleasing.<br><br>However, there are two things that still trouble her. One is visiting her parents during New Year for an annual catch-up, talking about life and her plans for the future — because she doesn't have any plans at all. The other is that pesky boss of hers who's more accurate than a jade abacus at piling new work on her whenever she's busted slacking off.<br><br>Qingque is determined to keep improving her time management skills and escape the terror of being pursued by her superior in the Divination Commission. What a shame that Qingque fails to understand fate supersedes her. Her every thought is well within the purview of the omniscia."
+            "Story": "太卜司に入ってからの十数年間、青雀は人畜無害で目立たない小さな雀のように振舞ってきた。<br><br>両親の期待に応えて安定した職に就いた青雀は、やっと一息つけると思っていたが、彼女は知らなかった。情報と計算を担当する太卜司は、怠け者にとって果てしない苦海であることを。いくら振り返っても岸は見えない。その過酷な労働は、青雀を逃れられない苦しみに突き落とした。<br><br>しかし「あなたを殺さないものはあなたをさらに強くする」という言葉があるように、社会に揉まれ尽くされた青雀は、やがて熟練のサボり技術を身に着けた。どれだけ部署を移ろうと、どれだけ上司が変わろうと、青雀は常に最底辺の卜者であり続け、さらに左遷される傾向もある…これは喜ばしい成長と言えるだろう。<br><br>ただ、今の彼女には2つの悩みがある。1つ目は、毎年の元春に両親に会い、最近の生活状況と将来設計について話し合わなければならないこと——なぜなら、彼女自身に計画がないからである。2つ目は、あの玉兆のように精確に行動する上司が、彼女がサボっている時を狙って新しい仕事を回してくることだ。<br><br>太卜司の恐ろしい上司から逃れるため、青雀は己の時間管理能力を磨くことを決意した——残念ながら、小さな雀は理解していない。「雀の計算は天の計算には敵わない」ということを。彼女の計画など、すでにあの法眼の中にある。"
         },
         {
             "_id": 4,
-            "Story": "The game of Celestial Jade is supposed to have been around since the days of the Primeval Imperium, but was lost during the Xianzhou Alliance's period of long interstellar drift. Thanks to an anonymous diviner at the Divination Commission, the rules have been collated and brought back to modern-day Xianzhou, where the people are fortunate enough to have access to this mind-boggling tile game based on astrophysics and celestial phenomena.<br><br>Of course, rules alone are not enough. That's why the diviner used blueprints from her repository as bait to lure in close colleagues from the Artisanship Commission into crafting Celestial Jade tiles plus a board to play on. The auto-shuffling function is integrated into these boards, and quickly began to catch on in the Quatraboard Games Parlor (which is owned by the Artisanship colleague).<br><br>Nowadays, Celestial Jade is one of the most popular games aboard the Xianzhou Luofu. The diviner would joke about this in letters sometimes with her artisan friend. She'd originally wanted to use this game for nothing more than her own leisure, not to capture the hearts of millions of Xianzhou people. Now that's a completely unintended outcome.<br><br><i>\"Well, it's not a bad thing...\"<br>\"After all... If I can use this leisurely brain game to slack off out in the open, then why not go for it?\"</i>"
+            "Story": "「帝垣美玉」と呼ばれる遊戯は古代帝国時代から存在すると言われているが、仙舟同盟の長きにわたる星間漂流の途中で失伝してしまった。とある太卜司の匿名希望の卜者がルールをまとめ、現代の仙舟に蘇らせたおかげで、人々はこの星辰天象の法に則った牌を楽しむことができるようになった。<br><br>もちろん、ルールだけでは十分とは言えない。そこで卜者は、書庫にある図面を餌に工造司で匠作をしている親友を釣り、美玉の牌と碁盤を作ってもらった。その碁盤は自動洗牌、自動牌山積みなどの機能が搭載されており、後者が所有する「四至牌荘」で瞬く間に人気を博した。<br><br>今や「帝垣美玉」は羅浮で最も人気のある遊戯の1つとなった。卜者は時々、匠作との手紙の中で面白そうに語っている。この玉牌は自分がサボる時に遊ぼうと思っていたもので、まさか羅浮人の心を掴んでしまうとは考えもしなかった、と。<br><br><i>「でも、別に悪いことじゃないよね——」<br>「だって…知力の活性化に役立つ牌を建前に堂々とサボれるなんて、最高じゃない？」</i>"
         },
         {
             "_id": 5,
-            "Story": "<i>\"Being happy at work is an artform.\"<br><br>\"First, never overdo any task. Higher-ups want to see their tasks progressing at a consistent pace before the deadline, so never turn in anything early.\"<br><br>\"Second, never take the initiative. If higher-ups don't personally tell you what they want you to do, that is not your problem.\"<br><br>\"Third, don't work hard by yourself, and never fight for clout. If you can, try and drag someone in to suffering together with you. Whatever you do, never work alone for the sake of trying to demonstrate any kind of ability.\"<br><br>\"Afterward, you can give credit to your peers, both as an easy hat-tip or simple investment into your future. But also as a shield against the possibility of higher-ups promoting you — a promotion means even more work.\"<br><br>\"The point is, there are three basic principles for happiness at work – do not be proactive, do not say no, and do not be responsible. Did you get it?\"</i>"
+            "Story": "<i>「楽しく仕事をすることは一種の芸術である」<br><br>「その一、仕事は必要以上にやりすぎないこと。上から与えられた仕事は期限まで一定の速度で進める。決して早く終わらせてはならない」<br><br>「その二、自分から仕事を探さないこと。上が明確にやらせたがっている仕事でなければ、それはあなたとは無関係」<br><br>「その三、1人で頑張ったり、功を争ったりしないこと。他の人を道連れにできる時は、絶対に1人で仕事を引き受けない」<br><br>「それから、手柄を立てたら同僚に譲ること。借りを作るのは将来のための投資の一環。上司に評価されて昇進することも避けられる——昇進したら仕事が増えちゃうからね」<br><br>「とにかく、この3つが楽しく仕事するための基本的なルールってこと——自発的に動かない、拒否しない、責任を負わない。どう、わかった？」</i>"
         }
     ]
 }
@@ -481,244 +481,244 @@ var _story_ = {
 var _voice_ = {
     "1201": [
         {
-            "Title": "First Meeting",
-            "Voice": "I'm Qingque, a diviner from the Divination Commission. You wanna play Celestial Jade? Okay, come back during my work hours."
+            "Title": "初対面",
+            "Voice": "私は青雀、太卜司の卜者なんだ。え？牌をやりたい？いいよ、じゃあ私の勤務時間になったら連絡して。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "You're here this early again? So diligent..."
+            "Title": "挨拶",
+            "Voice": "こんなに早く出勤するの？あなたって勤勉なんだね。"
         },
         {
-            "Title": "Parting",
-            "Voice": "Let's go, let's go, time to play. Are you... thinking of working overtime!?"
+            "Title": "お別れ",
+            "Voice": "ほらほら、牌の時間だよ！…あなた、まさか残業するつもりじゃないよね？"
         },
         {
-            "Title": "About Self: Work Attitude",
-            "Voice": "Work is not about increasing value. It just pays your bills. The trick is to increase value for yourself at your employer's expense."
+            "Title": "自分について・仕事への態度",
+            "Voice": "仕事は価値の創造じゃなくて、報酬を得るための労働よ。仕事をサボることで、自分のために価値を創造できるの。"
         },
         {
-            "Title": "Chat: Divination Commission",
-            "Voice": "My Mom said I could relax in a secure job once I passed the Divination Commission entrance exam. Now that I'm in, I feel like I should be doing more..."
+            "Title": "世間話・太卜司",
+            "Voice": "お母さんにね、太卜司に入れば食いっぱぐれないし、楽に生きていけるって言われたの。はあ…なのに入ってみてすぐに分かったよ。安定した職どころか、ここはただの牢獄だって……"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Told off by my manager? Go play some Celestial Jade. Too much work? Go play some Celestial Jade. Ahhhh, Celestial Jade is my savior!"
+            "Title": "趣味",
+            "Voice": "上司に叱られたら「帝垣美玉」をやる。仕事が終わらないなら「帝垣美玉」をやる。――つまり「帝垣美玉」は、私を救ってくれた命の恩人なの！"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "I can't play Celestial Jade on my own. How come Celestial Jade isn't omnipotent..."
+            "Title": "悩み事",
+            "Voice": "1人じゃ「帝垣美玉」ができない…「帝垣美玉」も万能じゃなかったんだ……"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "There are three basic principles for happiness at work – do not be proactive, do not say no, and do not be responsible. You should give it a try~"
+            "Title": "シェア",
+            "Voice": "「楽しく仕事をする秘訣」は全部で3つ——自発的に動かない、拒否しない、責任を負わない。どう、試してみない？"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Fun number one, knowing there are books for leisure on the Xianzhou. Fun number two, browsing these books in the Spare Time Bookshop. Fun number three — the greatest fun — reading those books at work."
+            "Title": "見聞",
+            "Voice": "仙舟には雑書がある、これが1つ目の楽しみ。「三余書肆」で雑書を探す、これが2つ目の楽しみ。勤務時間に雑書を読む、これが3つ目の楽しみで、最大の醍醐味でもあるんだ。"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "I heard the general often listens to music with his eyes closed. Can we promote that in the Divination Commission? Thank you, general."
+            "Title": "景元について",
+            "Voice": "将軍様は、よく「目を閉じて」奏聞を聞くんだって。太卜司にも普及させたいなあ…お願いします、将軍様！"
         },
         {
-            "Title": "About Yanqing",
-            "Voice": "I've heard his name. A genius boy, and working every day at such a young age? Sounds exhausting."
+            "Title": "彦卿について",
+            "Voice": "噂は聞いたことある、たしか天才少年って呼ばれてる子だよね。まだ若いのに、もう仕事をしてるなんて…想像するだけで疲れちゃうよ。"
         },
         {
-            "Title": "About Fu Xuan",
-            "Voice": "As soon as I have free time, the master diviner immediately appears and gives me mundane jobs to do... It looks like I need to work on time management more..."
+            "Title": "符玄について",
+            "Voice": "私の手が空くと、すぐに太卜様が細かい雑務を押し付けてくるんだ…もう少し時間の管理について学んだほうがいいかな……"
         },
         {
-            "Title": "About Yukong",
-            "Voice": "She's a big shot from the Sky-Faring Commission who can't rest even after retiring from the front lines. It's hard being a powerful official."
+            "Title": "御空について",
+            "Voice": "天舶司の偉い人って、前線から退いても多忙な運命から逃れられないんだ…役人って大変なんだね。"
         },
         {
-            "Title": "About Tingyun",
-            "Voice": "I saw Tingyun stopping in front of the games parlor once, so I invited her to play a round. Tingyun is pretty and her play is entertaining. People crowded around the game table that day and the mood was on fire. The owner lost all his money — it was great to watch."
+            "Title": "停雲について",
+            "Voice": "停雲さんが牌荘の前で立っているのを見かけて、一度だけ牌に誘ったことがあるの。綺麗な人だし、牌の腕もなかなかだったから、その日は見物人に囲まれちゃって、すごい熱気だったんだ。そのうえ店主まで負けちゃって…まるでお芝居を見ているみたいだったよ。"
         },
         {
-            "Title": "About Luocha",
-            "Voice": "Who? That sounds like an outsider... We've got a lot of outsiders. You'll come across them a lot in The Looking Bronze. He's probably here to seek success in \"Seeking Immortality\" for himself... Yes, I did say \"seek\" twice."
+            "Title": "羅刹について",
+            "Voice": "誰？よそ者の名前みたいだけど…鑑爻軒でもよく見かけるよ。よそ者の大半は「長命を求められる」よう求めてるの…うん、そう、確かに2回「求める」って言ったよ。"
         },
         {
-            "Title": "About Sushang",
-            "Voice": "A newcomer with the Cloud Knights? *sigh* Just go back to where she's from. Everything is so competitive here in the Luofu. You can't get promoted."
+            "Title": "素裳について",
+            "Voice": "雲騎軍の新人？ありゃりゃ、早く帰ったほうがいいよ。「羅浮」は何をやっても競争が激しいから、昇進なんてできっこないって。"
         },
         {
-            "Title": "About Bailu",
-            "Voice": "I got a bit too excited playing Celestial Jade once and sprained my wrist — a friend recommended her to me. I had my doubts at first, but as soon as she'd written out my prescription, she took out a Celestial Jade set. She told me to practice stacking the tiles to improve wrist flexibility. Naturally, I instantly respected her."
+            "Title": "白露について",
+            "Voice": "牌をやりすぎて手が攣った時に、友達が紹介してくれたの。最初は半信半疑だったけど、薬を処方してもらった後に、白露様が「帝垣美玉」を持ってきたんだ。日頃から牌を積んでいれば手先が器用になるって言われて、すぐに尊敬するようになったよ！"
         },
         {
-            "Title": "About Guinaifen",
-            "Voice": "Guinaifen... Oh, you mean Little Gui! Every time I lose at celestial jade, I go watch her acrobatics performance to cheer me up. It's just... I never have enough strale to give her a tip..."
+            "Title": "桂乃芬について",
+            "Voice": "桂乃芬…ああ、けいちゃんのことか！牌に負けた時は、いつも彼女の雑技を見に行くの。そうすると、少し気持ちが軽くなるんだ。ただ、そういう時に限って…投げ銭を半鏑も用意できないんだけどね……"
         },
         {
-            "Title": "About Huohuo",
-            "Voice": "Every time I spot that kid, I can't help but feel this intense need to teach her how to play Celestial Jade. I've got to teach her the ins and outs..."
+            "Title": "フォフォについて",
+            "Voice": "フォフォを見かけると、いつも強烈な欲望が湧いてくるんだよね、絶対に「帝垣美玉牌」の遊び方を教えないと。絶対に「帝垣美玉牌」の遊び方を教えないと……"
         },
         {
-            "Title": "About Xueyi",
-            "Voice": "You know that book \"An Unsuitable Job for A Puppet?\" I didn't just read it, I even scribbled down some notes. Shame, though, I still don't have a clue who wrote it..."
+            "Title": "雪衣について",
+            "Voice": "『人形には向かない職業』って本、読んだだけじゃなくて、感想を書き込んだこともあるよ。でも、残念なことに、今になっても作者がわからないんだよね……"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Life's just like a game of tiles, you never know what's gonna come up next~"
+            "Title": "星魂覚醒",
+            "Voice": "人生のどの瞬間も、牌を出す時みたいにハラハラでドキドキだよ。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "When life's all go, the trick is to \"steal\" a bit of downtime, right?"
+            "Title": "キャラクター昇格",
+            "Voice": "{RUBY_B#ぼうりとうかん}忙裡偸閑{RUBY_E#}。重要なのは「偸む」ことだよ。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "You're bound to draw the tile you want sooner or later, right?"
+            "Title": "レベルMax",
+            "Voice": "おお、時間が経てば欲しい牌が来るものだね。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "When it comes to Celestial Jade, it's all about synergy and luck."
+            "Title": "軌跡覚醒",
+            "Voice": "牌に良し悪しはない、運があるかどうかだよ。"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "Hey... Trailblazer, you're here, too! Let's get this game going~"
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "{NICKNAME}！あなたもいたんだ。一局遊ばない？"
         },
         {
-            "Title": "Added to Team With Fu Xuan",
-            "Voice": "Weird, how'd the Master Diviner figure out I'd be here?"
+            "Title": "パーティ編成・符玄",
+            "Voice": "なんで太卜様は私がここにいるって卜算できたの？"
         },
         {
-            "Title": "Added to Team With Guinaifen",
-            "Voice": "A free performance by Little Gui? There's no way I'm missing that~"
+            "Title": "パーティ編成・桂乃芬",
+            "Voice": "無料でけいちゃんの芸を観られる機会は逃さないよ。"
         },
         {
-            "Title": "Added to Team With Yanqing",
-            "Voice": "Awesome, with a genius like Yanqing around, I can take it easy for a while!"
+            "Title": "パーティ編成・彦卿",
+            "Voice": "よし、彦卿みたいな天才がいれば、サボれる！"
         },
         {
-            "Title": "Added to Team With Huohuo",
-            "Voice": "No need to worry, Huohuo, the workday zips by when you're having fun~"
+            "Title": "パーティ編成・フォフォ",
+            "Voice": "フォフォ、大丈夫。仕事は目をつぶれば一瞬だよ。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Play hard, win big, keep quiet~"
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "優位を占めて、こっそり大儲け！"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "When the odds are against you, cut your losses~"
+            "Title": "戦闘開始・危険予知",
+            "Voice": "不利な時は、負けが少なければ勝ち！"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Wait for the tiles before you start counting~"
+            "Title": "ターン・1",
+            "Voice": "考えても無駄、牌は待てば来る！"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Fights are like gambling — you have to choose when to strike!"
+            "Title": "ターン・2",
+            "Voice": "戦局は牌勢と同じ、機を逃さず動く！"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Don't rush — the game is always changing~"
+            "Title": "戦闘中待機",
+            "Voice": "牌勢に決まった形なし、焦るのは損だよ！"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Don't need this tile~"
+            "Title": "通常攻撃",
+            "Voice": "いーらないっ"
         },
         {
-            "Title": "Enhanced Basic Attack",
-            "Voice": "Time for the payout."
+            "Title": "強化通常攻撃",
+            "Voice": "一気に清算するね。"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Gotcha!"
+            "Title": "戦闘スキル・1",
+            "Voice": "来た！"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Stay calm~"
+            "Title": "戦闘スキル・2",
+            "Voice": "慌てない～"
         },
         {
-            "Title": "Skill 3",
-            "Voice": "Come onnnn~"
+            "Title": "戦闘スキル・3",
+            "Voice": "来い～！"
         },
         {
-            "Title": "Skill 4",
-            "Voice": "Ooh~"
+            "Title": "戦闘スキル・4",
+            "Voice": "ふふん～"
         },
         {
-            "Title": "Skill 5",
-            "Voice": "Wow~"
+            "Title": "戦闘スキル・5",
+            "Voice": "ほう～"
         },
         {
-            "Title": "Skill S",
-            "Voice": "This hand sucks..."
+            "Title": "戦闘スキル・特殊",
+            "Voice": "待ち牌が来ない…"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Fluke."
+            "Title": "攻撃を受ける",
+            "Voice": "ただのまぐれでしょ。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Sore loser!"
+            "Title": "重撃を受ける",
+            "Voice": "よくもっ！"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Luck of the draw...!"
+            "Title": "必殺技・アクティブ",
+            "Voice": "お願いだからアガらせて～！"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Please, please, please, please, please... ah! Looks like... victory!"
+            "Title": "必殺技・発動",
+            "Voice": "お願いお願いお願い…——やったあ、これで…アガリ！"
         },
         {
-            "Title": "Talent 1",
-            "Voice": "Better late than never!"
+            "Title": "天賦・1",
+            "Voice": "いい牌来た！"
         },
         {
-            "Title": "Talent 2",
-            "Voice": "That's a set!"
+            "Title": "天賦・2",
+            "Voice": "自摸、嶺上！"
         },
         {
-            "Title": "Downed",
-            "Voice": "Time for a... day off..."
+            "Title": "戦闘不能",
+            "Voice": "仕事は…いやだ……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Need an extra player?"
+            "Title": "戦闘に戻る",
+            "Voice": "もしかして1人足りない？"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Tasty."
+            "Title": "HP回復",
+            "Voice": "今のよかったよ。"
         },
         {
-            "Title": "Technique",
-            "Voice": "Feeling lucky~"
+            "Title": "秘技",
+            "Voice": "運よ、来い～！"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "We're on a roll, hehe~"
+            "Title": "戦闘勝利",
+            "Voice": "運が巡ってきた、もう誰にも止められないよ！"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "We're in the money~"
+            "Title": "戦利品を開ける・1",
+            "Voice": "金運は良好だね！"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "I could use some of your luck~"
+            "Title": "戦利品を開ける・2",
+            "Voice": "私にも幸運を恵んでよ～"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Jackpot!"
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "思わぬ幸運！"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Just another walk in the park~"
+            "Title": "謎解きに成功・1",
+            "Voice": "力を借りて楽をする！"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Done! No need for overtime!"
+            "Title": "謎解きに成功・2",
+            "Voice": "残業しなくて済むように早く済ませたよ。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Time for another round — let's get them~"
+            "Title": "敵ターゲット発見",
+            "Voice": "ヤツらを片付けたら、もう一局牌をやろう～"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Just thinking about work gives me a full-body migraine..."
+            "Title": "町に戻る",
+            "Voice": "仕事のことを考えると、うっ、頭が……"
         }
     ]
 }

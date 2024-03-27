@@ -915,23 +915,23 @@ var _story_ = {
     "1312": [
         {
             "_id": 1,
-            "Story": "A lovable and thoughtful bellboy at The Reverie Hotel. He wishes to become an intergalactic adventurer like his grandfather.<br>He is extremely hardworking and is skilled at fixing a variety of machines. He also has a fondness for listening to the interstellar rumors the guests share with him.<br>He hopes he can grow up faster and looks forward to embarking on his star-treading journey."
+            "Story": "礼儀正しく聡明な「ホテル・レバリー」のドアボーイで、祖父のような銀河冒険家になることが夢。<br>働き者で、機械の修理が得意。ホテルの宿泊客から聞く星々のエピソードに夢中になっている。<br>早く大人になることを切望し、そしていつか星を巡る旅に出られる日が来ることを楽しみにしている。"
         },
         {
             "_id": 2,
-            "Story": "As the pocket watch struck six o'clock in the morning, the familiar aroma of milk and toast wafted into his narrow bedroom from the kitchen.<br><br>With the impending arrival of guests, he hurriedly rose from bed and positioned himself at the doorway. The scent of motor oil, leather, and tobacco greeted him as several tall figures entered the threshold.<br><br><i>\"W—Welcome...\"</i><br><br>The adventurers, who had journeyed from distant planets, paid little attention to the small figure welcoming them at the door, engrossed in their animated tales of peculiar encounters. These stories never failed to stir Misha's emotions, attracting his attention.<br><br><i>\"Have you seen a massive beam coming down from the sky and burn through a lush planet?... I was actually right there, and our ship got blasted away by the insane gust of wind... I risked my life to snap some photos...\"<br>\"Hah, let me tell you, that's nothing compared to the crazy stuff I've experienced. Once, I ventured into this abyss in the Memory Zone. It was like a total nightmare, with all these unimaginable monsters and even ghosts lurking around...\"<br>\"You think that's scary? Try witnessing the Swarm that completely blots out the entire sky! I barely made it out alive from that hellish encounter. And guess what? The whole dang planet got wiped out...\"</i><br><br>Enviously listening to these tales, whether genuine or fabricated, Misha mustered the courage to speak up.<br><i>\"Um... Excuse me, but if I want to venture into the galaxy, what should I learn?\"</i><br>The conversation came to a halt, and several explorers turned their gaze towards him.<br><i>\"What did you say, kiddo? You want to explore the galaxy?\"<br>\"Yeah... I wish I could become an adventurer... Just like my grandpa.\"<br>\"That's quite an ambition! Hahaha!\"<br>\"Hey, kiddo, this line of work is no joke. You'll need to learn how to handle weapons, fix things on the fly, and navigate through all sorts of obstacles. It requires a wealth of knowledge!\"<br>\"I understand... Grandpa's always complaining about getting lost and machines breaking down. Maybe I can start by addressing those issues...\"<br>\"Hey, just stop scaring that little one.\"</i><br>The elderly man at the forefront cleared his throat and turned his attention to Misha.<br><i>\"You can learn everything you need, but you really need to think if this is truly what you desire. Are you truly eager to achieve it? And how long are you willing to stick with it? Those are the most crucial questions, little one.\"</i>"
+            "Story": "時計が朝の6時を告げると、いつものように厨房からホットミルクとトーストの香りが、彼の小さな寝室に漂ってきた。<br><br>もうすぐお客さんが来る。彼は慌てて飛び起き、玄関に立った。彼が口を開く前に、数人の背の高い人物がホテルに入ってくると、機械油と革、そしてタバコのにおいが彼を襲った。<br><br><i>「い…いらっしゃいませ……」</i><br><br>遠路はるばるやって来た冒険家たちは、下っ端のドアボーイなど目もくれず、過去の武勇伝を大声で吹聴している。そしてそうした話はなぜか、いつも彼の心を惹きつけ、彼は時折振り返っては耳を傾けていた。<br><br><i>「巨大な光の束が天から降り注いで、緑の生い茂る星を貫いたんだ…俺はその時近くにいたが、飛行船が衝撃で吹っ飛ばされちまったよ。なんとか写真に収めたが、命懸けだったぜ……」<br>「それが何です。私なんかもっとすごいですよ。星の間を旅していた時、底なしの記憶域に落ちたことがありまして…見たこともない怪物だらけで、幽霊みたいなやつなんかもいて……」<br>「シケた話ばっかだな！お前らは、地表を覆い尽くすほどのスウォームを見たことがあるか？俺様は生きて帰ってきたが、星がまるごと滅んじまったのよ……」</i><br><br>本当かも分からない武勇伝をうらやましそうに聞きながら、彼はついに勇気を出して口を開いた。<br><i>「あの…すみません！銀河で冒険するために、何か勉強した方がいいことはありますか？」</i><br>会話が止まり、数人が一斉に彼を見た。<br><i>「どうした、チビ助。お前も銀河を冒険したいのか？」 <br>「はい…冒険家になって、銀河中を旅したいんです。祖父のように」<br>「でっかい志だな、ハハハ！」 <br>「おチビさんよ、冒険家になるってのは簡単じゃないぜ。武器の使い方から修理の仕方、方向感覚…勉強することは山ほどある」<br>「知ってます…祖父はいつも、何かが壊れたとか、コースを外れたとか…延々と愚痴を言ってますから。学べることがあるかも……」<br>「まったくお前さんたち、子供を怖がらせるのが好きじゃのう」</i><br>先頭の老人がせき払いをして、ミーシャの方を向いた。<br><i>「ゆっくり学べばいいんじゃ、ただしようく考えないといかんぞ。本当にその夢を叶えたいと思っておるのか？いつまでもその夢を持ち続ける覚悟はあるか？ミーシャよ、それが最も大事なことじゃ」</i>"
         },
         {
             "_id": 3,
-            "Story": "As the pocket watch struck two o'clock in the afternoon, signaling the end of his duties, he changed his overalls and started the task of overhauling the machinery.<br><br>Walder led the way, occasionally pausing to tap on intricate mechanisms. Misha followed closely behind, attuned to the noises emanating from the machinery and adeptly locating the issues.<br><br>Today's assignment involved repairing a multitude of broken clocks, rusty, discarded, missing gears, or shattered. To Misha, they appeared as lost sailors desperately in need of guidance.<br><br><i>\"Please head west, Mr. Wall Clock... And hey, Mrs. Pocket Watch! Please don't stop there!\"<br>\"Mr. Alarm Clock, please have a meal before resuming, and you three ladies over there, please follow Mr. Pocket Watch!\"</i><br>At that moment, all the malfunctioning clocks sprang to life. Misha turned the wheels and adjusted the hands, as if he were a captain navigating the sea of time.<br><i>\"Captain Misha, we're back on track!\"<br>\"The fog has lifted! We're about to reach our destination.\"<br>\"Let's keep sailing! The sea won't hinder us!\"</i><br>In Misha's eyes, the clocks seemed to possess lives of their own, expressing their delight in moving forward.<br><br>Walder smiled and patted his head.<br><i>\"Looks like I won't have to worry about time here. After all, you are the captain of these clocks.\"</i>"
+            "Story": "時計の針が昼の2時を指すと、彼は掃除と出迎えの仕事を同僚に任せる。そして自分は作業服に着替えて、機械を修理する仕事にかかるのだ。<br><br>ウェルダーは前を歩きながら、時々立ち止まっては複雑そうな機械を叩いている。ミーシャは小走りで彼の後ろをついて行き、機械から発せられる音を聞いて、問題のある箇所を正確に指摘した。<br><br>今日の仕事は、山積みになった壊れた時計の修理だ。さびたもの、廃棄されたもの、歯車が欠けているもの、壊れてしまったもの…それらがミーシャの目には方角を見失った船員たちに見えた。誰かが、正しい方向へ導いてあげなくては。<br><br><i>「壁掛け時計さんは、西へ向かってください。えっと…懐中時計の奥さん、そこで止まらないでください！」<br>「目覚まし時計さんは、まずご飯を食べてください。そちらにいる三人の時計さんは、懐中時計の旦那さんについて行ってくださいね」</i><br>突然、壊れた時計が全て動き始めた。ねじを回し、針を調整するミーシャの姿は、まるで時間の海を旅する船長のようだった。<br><i>「ミーシャ船長、方角はこっちでバッチリですね！」<br>「ついに霧から抜け出しました。この海を渡れば目的地です」<br>「航海を続けよう！大海原にも負けないぞ！」</i><br>ミーシャの目には、時計たちに命と意志が宿り、前に進める喜びを力いっぱい表しているように見えた。<br><br>ウェルダーは微笑みながらミーシャの頭をなでた。<br><i>「時間が狂う心配はなさそうだな。何があっても、君という船長がいる」</i>"
         },
         {
             "_id": 4,
-            "Story": "As the pocket watch struck seven o'clock in the evening, Misha finished his supper and settled onto the cot that had been modified from a cupboard.<br>Gazing into the darkness surrounding him, he listened to the ceaseless ticking of the pocket watch — the most blissful hours of his day. No work, no reality, only unrestricted flights of fantasy.<br><br>After traveling through the fog, his fantasy story reached the most exciting part of the sea battle. He extended his hands, pulling back his companions who had been knocked over by the waves, and he drew another line across the canvas as if vanquishing a sea monster...<br><br><i>\"Captain, Captain, wake up, it's clearing up!\"</i><br>He rubbed his eyes and looked incredulously at the sight before him.<br>A golden pocket watch, which had transformed into a figure with arms and legs, dressed in a uniform and a red bow tie, beckoned him over.<br>A silver mirror lady reflected him, adjusting her gown and peering through binoculars at the distant scene.<br>The storm from the previous night had disappeared without a trace. A refreshing sea breeze fluttered Misha's uniform, and in the distance, they could see the outline of the New World.<br><br><i>\"Look, Captain, the coast is not far off!\"</i><br>Taking Misha's hand, Mr. Pocket Watch and Miss Mirror gracefully leaped onto the clouds. Before he could react, the three of them were airborne, gazing at the boundless sea and the crescent-shaped continent below them. Mr. Pocket Watch and Miss Mirror cheered, pulling Misha into a joyful tap dance. He held his companions' hands tightly, his heart filled with amazement and joy.<br><br><i>\"Are... Are you my companions?\"<br>\"Yeah, we've faced countless challenges and gotten lost many times along the way, but we've finally found the New World!\"</i><br>...<br><br>At dawn, Misha woke up from his dream, a tear rolled down from the corner of his eye.<br>Looking around his bedroom, he noticed the pocket watch pressed against his chest, and the mirror had fallen off the wall.<br>Wiping away the tears, Misha felt as if he had lost nothing, yet he had lost everything."
+            "Story": "時計の針が夜の7時を指すと、彼は早めの夕食を済ませて、戸棚を改造した小さなベッドに横になる。<br>目の前の閉ざされた暗闇を眺めて、懐中時計が刻むカチカチという規則的な音を聞きながら、幸せな妄想に耽る——仕事も現実もなく、ただ自由な空想の世界へ。<br><br>霧を通り抜けると彼の空想物語は、最高に手に汗握る海戦のシーンに差し掛かる。両手を伸ばし、波でひっくり返った仲間を引っ張り起こした。そして彼は、まるで海の怪物をやっつけるかのように、画面に横線を引いた……<br><br><i>「船長、船長、起きてください、晴れましたよ！」</i><br>目をこすると、そこには信じられない光景があった。<br>手足が生え、制服と赤い蝶ネクタイを身に着けた懐中時計が彼を呼んでいるのだ。<br>銀色の鏡が彼の姿を映し、長いスカートをいじりながら望遠鏡で景色を見ていた。<br>昨夜の嵐は跡形もなく消え、爽やかな風が制服をなびかせる。遠くにはもう新大陸の影が見えていた。<br><br><i>「船長、見てください。海岸まではもう遠くありませんよ」</i><br>クロックボーイはミラーガールと手を取りながら、軽やかにジャンプする。ミーシャがまだうまく反応できないうちに、三人は雲に飛び乗った。下には果てしない大海原と三日月形の大陸が広がっているのが見える。クロックボーイとミラーガールは歓声を上げてミーシャの手を取り、楽しそうにタップダンスを踊った。彼は仲間たちの手をしっかりと握りながら、喜びと驚きに胸を躍らせた。<br><br><i>「アナタたち…アナタたちはボクの仲間なの？」<br>「そうですよ。私たちは道中いくつもの大きな困難を経験して、何度も道に迷いながら、ついに新大陸に到達したんです」</i><br>……<br><br>夜が明けると、彼は夢から覚めた。目の端から一滴の涙がこぼれ落ちる。<br>寝室を見渡すと、懐中時計が胸に押し当てられ、鏡が壁から落ちていた。<br>涙をぬぐった彼は、何も失っていないような、あるいは何もかも失ってしまったような、そんな感覚に陥った。"
         },
         {
             "_id": 5,
-            "Story": "As the pocket watch struck six o'clock again in the morning, the familiar aroma of milk and toast wafted into his narrow bedroom from the kitchen as usual.<br><br>He had settled into this life, burying his dreams deep within his heart. He was no longer easily captivated by the stories of the guests, nor did he hold onto the hope of his grandfather's immediate return.<br><br><i>\"Maybe that's how adults are. They don't keep their promises, and they don't really want to listen to children.\"</i><br>He took the guests' suitcases and bags. The guests walked away without a second glance, leaving him alone and muttering to himself.<br><br>He went back to his room of clocks and checked the various clocks displaying different times from different time zones as usual. He stared blankly at the wall full of clocks, imagining the stories and worlds that existed within them. Lost in thoughts of these fantastical realms, he unfolded a drawing paper and began sketching the adventures he experienced with his imaginary companions.<br><br>That was the end of the story.<br><br><i>\"Farewell, my companions! I'll stay in the New World, and once it's fully built, I'll continue traveling with you to other new worlds!\"<br>\"Farewell, Captain Misha! May our paths cross again!\"</i><br>All his companions left except his ever-excited first mate, Mr. Pocket Watch, and the gentle Miss Mirror. They had navigated through the mists and across the sea together. In crucial moments, Misha had steered their ship in the right direction. Now, the child named Misha would embark to build a new kingdom on a new continent until the opportunity arose for another journey.<br><br><i>\"If I'm to draw something else, my next creation will be about the adventures in the new world.\"</i><br>As he finished the last stroke, he sensed some kind of familiar sound paired with vibrations, as if a colossal being had emerged from the depths of the universe and landed outside the hotel gate.<br><br>He dropped his brushes, opened the door, and ran out...<br><br><i>\"Welcome to...\"</i><br><br>The Astral Express, glistening in the morning light, tiredly, proudly waited there, parked and quiet.<br>...Just like in the dream."
+            "Story": "時計の針がまた朝の6時を指すと、いつものように厨房からホットミルクとトーストの香りが、彼の小さな寝室に漂ってきた。<br><br>彼はここの生活にすっかりなじみ、自分の夢を心の奥底へとしまい込んだ。宿泊客の語る物語にたやすく心動かされることも、祖父はすぐ帰ってくると期待することもなくなった。<br><br><i>「大人はみんなそういうものなのかもしれない。約束を守らないし、子供の話なんて真面目に聞いてもくれない」</i><br>宿泊客はミーシャに荷物を預けると、彼に目もくれずそそくさと立ち去った。その場には、独り言をつぶやく彼一人だけが残された。<br><br>彼は時計の部屋に戻り、いつものように時計をチェックする。世界にはいろいろなタイムゾーンがあり、それぞれの場所で流れている時間は都度違う。壁一面にかかった時計をぼんやりと眺めながら、そうした世界で起こっているであろう出来事を空想した。やがて彼は画用紙を広げ、自身と空想上の仲間たちの物語の続きを描きはじめる。<br><br>物語は、すでに終盤へと差し掛かっていた。<br><br><i>「みんな、さようなら！ボクは新大陸に残るよ。そしてここが完成したら、キミたちと一緒にまた新しい世界を目指す」<br>「ミーシャ船長、さようなら！きっとまた会えますよ」</i><br>仲間たちは行ってしまったが、ぴょんぴょん跳ねるクロックボーイと、優しいミラーガールは残ってくれた。彼はかつて仲間たちを率いて霧のなかを航海し、海を渡った。危険に遭遇するたび、羅針盤を調整して皆を正しい方角へと導いた。そしていま、ミーシャという子供は再び錨を上げるその時まで、新たな大陸に新たな国を築くのだ。<br><br><i>「続きを描くなら第二部は…とりあえず、新大陸での冒険記かな」</i><br>最後の部分を描き終えると同時に、聞き覚えのある音と振動が伝わってきた。それはまるで、宇宙から何かものすごく巨大な怪物がやって来て、ホテルの外に止まったかのようだった。<br><br>彼は筆を置き、ドアを開けて外へ飛び出した——<br><br><i>「こんにちは、いらっしゃいま……」</i><br><br>夜明けの光を浴びて輝く星穹列車は、やや疲れた様子で、しかし誇らしげに…そこで静かに佇んでいた<br>——まるで、「夢」の中にいるようだった。"
         }
     ]
 }
@@ -939,184 +939,188 @@ var _story_ = {
 var _voice_ = {
     "1312": [
         {
-            "Title": "First Meeting",
-            "Voice": "Hi there, I'm Misha, a bellboy at The Reverie Hotel. Welcome to Penacony. This way. Oh, here, let me grab those bags for you!"
+            "Title": "初対面",
+            "Voice": "ボクは「ホテル・レバリー」のドアボーイをしているミーシャと言います。ようこそ、ピノコニーへ。こちらへどうぞ、荷物はボクが運びます！"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Trailblazer, did you rest well? If there's anywhere you want to go, please, don't hesitate to come find me!"
+            "Title": "挨拶",
+            "Voice": "こんにちは、ちゃんと休めましたか？もしどこか行きたいところがあったら、いつでもボクに言ってください！"
         },
         {
-            "Title": "Parting",
-            "Voice": "I should get back to work. We... we'll have another chance to meet, won't we?"
+            "Title": "お別れ",
+            "Voice": "あ、そろそろ仕事に戻らないと。ボクたち…また会えますよね？"
         },
         {
-            "Title": "About Self: Work",
-            "Voice": "Working at The Reverie is awesome! I get to meet a bunch of people from really far away, and hearing about their adventures is fascinating!"
+            "Title": "自分について・仕事",
+            "Voice": "「ホテル・レバリー」で働くのは好きです！ここでは遠くから来たお客様に出会えて、たくさんの冒険譚を聞けますから……"
         },
         {
-            "Title": "About Self: Future",
-            "Voice": "I'm going to work really hard, so I can save up and explore the stars just like grown-ups do!"
+            "Title": "自分について・未来",
+            "Voice": "頑張って働いて、お金をいっぱい貯めたら、大人みたいに星間を旅したり、探索したりしたいなぁ！"
         },
         {
-            "Title": "Chat: Repairs",
-            "Voice": "After a while, the machinery tucked away in the corners of the hotel tends to break down... But if I can fix them, I will. I don't like to swap out old parts for new..."
+            "Title": "世間話・メンテナンス",
+            "Voice": "時間が経つと、ホテルにある色んな機械が故障してしまうんです…もし修理できるなら、新しい部品には交換したくないんですけど……"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I make sure to read every issue of Stellar Cartography Magazine... in the most recent one there's a huge whale that can actually eat entire planets, it's incredible! I'm not sure when I'll get to read the next issue..."
+            "Title": "趣味",
+            "Voice": "銀河地理雑誌は毎号欠かさず読んでます…特に最新号の巨大なクジラが星を呑み込む話が本当に面白くて！いつになったら次の号を読めるんでしょうか……"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "He's already late... I wonder where Grandpa has gotten to..."
+            "Title": "悩み事",
+            "Voice": "もう約束の時間は過ぎてるのに、おじいさん、いつになったら帰ってくるんだろう……"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "When I was little, I used to sneak sips of SoulGlad, and by the time Grandpa found out, I already had cavities... So, we definitely shouldn't drink too much... Wait, actually it's okay for adults, but little kids shouldn't drink it!"
+            "Title": "シェア",
+            "Voice": "小さい頃、よくこっそりスラーダを飲んでたんです。そのせいか、おじいさんにバレた時には、もう虫歯ができちゃってて…だからスラーダは飲み過ぎないようにしないと…ううん、小さい子は飲み過ぎちゃダメだけど、大人は大丈夫です！"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "I often hear people talking about \"Trailblazing,\" like it's finding new places no one's been before. Penacony's had its share of finding new cool stuff too, like how tasty SoulGlad is, and the awesome shows by the Sweet Dreams Troupe! All of that was figured out by some serious \"Trailblazing.\" It sure wasn't a walk in the park..."
+            "Title": "見聞",
+            "Voice": "よく「開拓」は拓かれていない領域に足を踏み入れることだって聞くんですけど、実はピノコニーも似たような歴史を歩んできたんですよ——美味しいスラーダも、スウィート・ドリーム劇団の公演も、度重なる「開拓」によって完成したものなんです…本当にすごいですよね……"
         },
         {
-            "Title": "About Trailblazer",
-            "Voice": "The job at The Reverie can get pretty hectic, but it's also how I get to meet interesting new friends like you, Trailblazer!"
+            "Title": "{NICKNAME}について",
+            "Voice": "「ホテル・レバリー」の仕事は大変ですが、この仕事のおかげでアナタのようなお友達に出会うことができました！"
         },
         {
-            "Title": "About Robin",
-            "Voice": "The songs of Miss Robin have the power to carry people to faraway places, beyond even the most beautiful dreams. I... I'll always be a fan of Miss Robin!"
+            "Title": "ロビンについて",
+            "Voice": "ロビンさんの歌声は、人を夢すらも届かない遠いところまで連れて行ってくれる。ボ…ボク、ずっとロビンさんを応援しています！"
         },
         {
-            "Title": "About Sunday",
-            "Voice": "Well, despite his young age, Mr. Sunday is already big deal in Penacony. Just watching him from afar can make you feel overwhelmed..."
+            "Title": "サンデーについて",
+            "Voice": "サンデーさんって、まだ若いのにピノコニーのトップなんですよね…近くで見ているだけでも、すごい圧を感じる……"
         },
         {
-            "Title": "About Gallagher",
-            "Voice": "It's typical to see Gallagher immersed in his work on the streets of Penacony. He's always been so responsible and committed."
+            "Title": "ギャラガーについて",
+            "Voice": "ピノコニーの街角で、よく仕事中のギャラガーさんを見かけます。ギャラガーさんはずっと前から、どんなことにも責任を持って取り組んでいるんですよ。"
         },
         {
-            "Title": "About the Nameless",
-            "Voice": "Grandpa told me, it's never too late to have a dream, he said what matters is how much you aspire to make it come true. I'll never forget this — there will come a day when I'll make both my and Grandpa's dreams a reality!"
+            "Title": "ナナシビトについて",
+            "Voice": "おじいさんが言ってました。いつ夢を見始めても遅くはない。重要なのは、夢を叶えたいと思う気持ちの強さだって。"
         },
         {
-            "Title": "About Clockie",
-            "Voice": "Let me tell you a secret, Clockie is actually real, he isn't just an imaginary friend I made up!"
+            "Title": "クロックボーイについて",
+            "Voice": "こっそり教えてあげますね。実は、クロックボーイは本当に実在するんです。ボクが考えた空想の友達じゃないんですよ！"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "The one thing I look forward to? Growing up, of course!"
+            "Title": "星魂覚醒",
+            "Voice": "ボクの願いは、はやく大人になることです。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Yes! I feel like I'm getting closer to my dreams!"
+            "Title": "キャラクター昇格",
+            "Voice": "夢にどんどん近づいてる。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Wait, am I really that impressive? This has to be a dream!"
+            "Title": "レベルMax",
+            "Voice": "ボク、こんなに強くなったんですか？夢じゃないですよね…"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Yes! Another chance to learn something new!"
+            "Title": "軌跡覚醒",
+            "Voice": "また新しいことを学べました！"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "Is that Trailblazer? Yes! Finally, we get to fight side by side!"
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "{NICKNAME}でしたか！やっと一緒に戦えるんですね！"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Come on, I can do this...!"
+            "Title": "パーティ編成・ギャラガー",
+            "Voice": "ギャラガーさん？ボクもアナタみたいにみんなを守れるようになりました！"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "S—Sorry! Please don't be angry..."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "一気にやっつけましょう…！"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Let's dive into today's duties!"
+            "Title": "戦闘開始・危険予知",
+            "Voice": "お客様、どうか落ち着いてください…"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "I hope I don't mess this up..."
+            "Title": "ターン・1",
+            "Voice": "今日の仕事を始めよう…！"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "I'll never get the job done at this rate..."
+            "Title": "ターン・2",
+            "Voice": "今度こそ失敗しないように…"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "E—Excuse me, please...!"
+            "Title": "戦闘中待機",
+            "Voice": "これじゃあ仕事が終わりません…"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Uh, I'm on it — cleaning up now!"
+            "Title": "通常攻撃",
+            "Voice": "ど…退いてくださーい！"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Gotta keep things neat and tidy!"
+            "Title": "戦闘スキル・1",
+            "Voice": "今すぐ片付けます！"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "P—Please be polite..."
+            "Title": "戦闘スキル・2",
+            "Voice": "いつでも清潔に！"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Hey! That wasn't very nice..."
+            "Title": "攻撃を受ける",
+            "Voice": "マ、マナーに注意…"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "How much time do I have...?"
+            "Title": "重撃を受ける",
+            "Voice": "乱暴はやめて…"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Not again! I'm running late, ahhh...! Sorry..."
+            "Title": "必殺技・アクティブ",
+            "Voice": "まだ時間はあるかな…"
         },
         {
-            "Title": "Downed",
-            "Voice": "I tried my best..."
+            "Title": "必殺技・発動",
+            "Voice": "ま、間に合わないぃ、うわあぁぁぁぁ——！ごめんなさい…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "You won't be disappointed this time!"
+            "Title": "戦闘不能",
+            "Voice": "ご迷惑を…おかけしました…"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Oh, sorry for bothering you..."
+            "Title": "戦闘に戻る",
+            "Voice": "今度こそ満足してもらえるように…！"
         },
         {
-            "Title": "Technique",
-            "Voice": "Please, wait a sec!"
+            "Title": "HP回復",
+            "Voice": "ご迷惑をおかけしました…"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Another job in the bag."
+            "Title": "秘技",
+            "Voice": "ちょっと待ってください…！"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Did a guest leave this behind...?"
+            "Title": "戦闘勝利",
+            "Voice": "今回の仕事も無事に終わりましたね…"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "They left such a generous tip...!"
+            "Title": "戦利品を開ける・1",
+            "Voice": "これは、お客様の忘れ物でしょうか…？"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "I can't possibly take something this valuable..."
+            "Title": "戦利品を開ける・2",
+            "Voice": "チップがこんなにたくさん…！"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "All done!"
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "こ、こんな貴重なもの！受け取れません…"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "I might have cracked the code."
+            "Title": "謎解きに成功・1",
+            "Voice": "大成功です！"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Looks like a troublesome guest..."
+            "Title": "謎解きに成功・2",
+            "Voice": "コツを掴んだようですね。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Time for a well-deserved break."
+            "Title": "敵ターゲット発見",
+            "Voice": "あそこにいるお客様、手強そうですね…"
+        },
+        {
+            "Title": "町に戻る",
+            "Voice": "仕事は全部終わりました、ゆっくり休みましょう。"
         }
     ]
 }

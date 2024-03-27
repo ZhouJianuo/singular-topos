@@ -478,23 +478,23 @@ var _story_ = {
     "1209": [
         {
             "_id": 1,
-            "Story": "The spirited lieutenant of the Xianzhou Luofu, and also its most proficient swordsman.<br>He was born for the sword and is obsessed with it. Whenever a sword rests in Yanqing's hand, none would dare underestimate this genius still in the early days of his youth.<br>Perhaps the only thing capable of dulling his treasured blade's sharp edge is time."
+            "Story": "기세등등한 운기 효위(驍衛). 선주 「나부」의 최강 검객<br>검생검사 소년. 연경이 손에 검을 쥐고 있으면 그 누구도 이 천재를 얕잡아 보지 못한다<br>그가 손에 쥔 보검을 잠시나마 거두게 하는 건 시간뿐이다"
         },
         {
             "_id": 2,
-            "Story": "Youngest lieutenant in the history of the Cloud Knights. Retainer to General Jing Yuan. Collector of antique swords from the Artisanship Commission... With all these auspicious titles and street gossip swirling around this one wunderkind, it's scarcely believable that he is still a child.<br><br>Ever since he could remember, Yanqing would follow Jing Yuan around like a shadow, helping the Seat of Divine Foresight resolve problems. And Jing Yuan in return taught him the art of swordplay — and the art of war. After years of training, Yanqing's mind is as quick and sharp as the spotless sword he keeps.<br><br>Cloud Knight combat drills attest that controlling six simultaneous flying daggers is something even Cloud Knight chief drillmasters can't master in a century. The phrase agreed among the Xianzhou people to describe the combat talents of Yanqing is \"A gifted swordsman born to fight.\""
+            "Story": "운기군 역사상 최연소 효위, 경원 장군 호위무사, 공조사 보검의 수집 대가…. 수많은 호칭과 소문 탓에 사람들은 이 천재 소년이 어린애라는 사실을 짐작하지 못했다<br><br>기억 속의 연경은 경원이 신책부를 덜 걱정할 수 있도록 그림자처럼 곁을 맴돌았고, 경원은 그런 연경에게 검술을 가르쳐줬다. 몇 년간의 수련 끝에 검술을 능숙하게 익힌 연경은 속세에 흔들리지 않는 마음을 갖게 되었다<br><br>운기군 무술 경전에 따르면 자유자재로 비검 여섯 자루를 순식간에 막는 건 운기군 수석 교련조차 백 년을 연습해도 해내기 어려운 것이었다. 그 재능을 두려워한 선주인은 연경을 「검에서 태어난 아이」라고 불렀다"
         },
         {
             "_id": 3,
-            "Story": "It's recorded in the military annals of the Cloud Knights how Jing Yuan came to discover the young boy, stood his ground against public opinion, and incorporated him into the armed forces. However, in the family lineage column, Yanqing's lineage was relegated to the category of unknown.<br><br>Most talented officers display military talent from childhood. For millennia, several talented unicorns have emerged ahead of the pack during the hunt. However, Yanqing earned a military commission before he even reached the age of majority. Some would criticize that \"the general is absurd\" on this matter.<br><br>However, this genius' debut on the battlefield was even more explosive, and any critical voices soon fell silent.<br><br>When hunting near a distant star, the monstrously huge mechabeast Windguard created by the Denizens of Abundance was pulverizing defense forces as though they were ants. But this young boy met against it face-to-face, claiming its head and routing the enemy to the point of collapse.<br><br>As for subsequent victories: He broke the borisin's Devouring Wolf formation with Jing Yuan, beheading three Brood Lords. He also fought viciously against the wingweavers, ultimately sinking their almighty Cloudseizer Fleet... These are just a small footnote in the annals of his courageous swordplay."
+            "Story": "운기군의 병적부에는 경원이 소년을 어떻게 발견했는지, 어떻게 반대를 무릅쓰고 군에 데려왔는지 적혀 있었다. 다만 가족란에는 연경의 혈통 계승에 관한 정보가 빠져 있었다<br><br>대부분의 장군감은 떡잎부터 알아볼 수 있었다. 천 년간의 수렵 생활에서 두각을 나타낸 천재는 드물었다. 다만 성년이 채 되기도 전에 군직을 받았다는 소식이 퍼지자 사람들 사이에서 「황당한 장군」이라는 이야기가 나왔다<br><br>하지만 반대의 목소리는 천재 소년이 첫 전쟁에서 큰 승리를 거두면서 모두 사라졌다<br><br>먼 행성을 사냥할 때 풍요의 백성이 제작한 기수 「방풍」은 거대한 몸으로 적군을 개미 밟듯 짓밟았다. 하지만 소년이 나타나 기수의 머리를 베자 적군이 도망가게 되어 손쉽게 승리를 거두었다<br><br>그 이후의 전적은 다음과 같다. 경원과 함께 보리인의 탐랑 진영을 파괴하여 소부 셋을 베었고, 또한 날개를 짜는 자와 싸워 하늘을 뒤덮은 나운함을 완전히 격파했다…. 하지만 이 사건들은 그의 용기와 검술을 증명하기엔 극히 일부에 불과했다"
         },
         {
             "_id": 4,
-            "Story": "If you ask Yanqing what other interests he has besides sword fighting, you'll be met with a simple answer —<br><br><i>\"Interests would only affect the speed of my sword!\"</i><br><br>Like a child infatuated with toys, he spares no expense in buying most of the blades manufactured by the Artisanship Commission — flying swords controlled by qi, daggers for close combat, flexible swords that can bend and adjust... He knows different sword's spec and function like the back of his mind. He'll even buy an extra copy — one to use in combat, and one for his collection. This leaves his finances in a sorrowful situation at the end of each month, where he could only beg the general for food and daily necessities.<br><br>It's completely natural for teenage boys to love swords, but a specific dream flickers and dances among the Xianzhou swords in his collection.<br><br>To become the best on the Luofu — no, the best across all the Xianzhou ships. To take the title of Sword Champion on the Luofu, and even take the title of Sword Preeminence across the Alliance.<br><br>Since the Sedition of Imbibitor Lunae, the title of Sword Champion among the Luofu Cloud Knights has remained vacant for centuries. Not that nobody wants to claim it, but for a rather more embarrassing reason:<br><br>The previous Sword Champion, a legendary swordmaster with 13 outstanding accolades, violated the laws of heaven and resulting in her name being wiped from the face of the cosmos. Even the prestigious title that she bore became a sore spot for others.<br><br>But for this vastly impressive teen, it's now time to turn over a new page in the annals of history and write another chapter."
+            "Story": "연경에게 검술 말고 좋아하는 게 있냐고 묻는다면 명쾌한 대답이 돌아올 것이다<br><br><i>「취미는 검을 뽑는 속도에 방해만 될 뿐이야」</i><br><br>아이들이 장난감을 끊임없이 사는 것처럼 연경 역시 용돈을 탕진해가며 공조사에서 제작한 진기 비검, 근접전용 단도, 자유자재로 움직이는 검 등 대부분 보검을 사들였다…. 그는 다양한 검을 두 개씩 사들여 하나는 소장용으로 간직했다. 그래서 월말이 되면 「불쌍한 빈털터리 장군」이 되었다<br><br>소년이 검을 사랑하는 건 당연한 일이었다. 그가 소장한 선주검기에 비치는 건 그의 꿈이었다. 그 꿈은 바로…<br><br>나부의 1인자, 아니 선주의 1인자가 되어 나부 「검술의 일인자」와 연맹의 「검괴」 칭호를 얻는 것이었다<br><br>「음월의 난」 이후 수천 년간 나부 운기군 최고의 검객에게 주어지는 「검술의 일인자」 호칭은 비어있었다. 이는 아무도 그 호칭을 원하지 않아서가 아니라 형언하기 어려운 비밀스러운 이유이기 때문이었다<br><br>전임 검술의 일인자는 뛰어난 공적을 13번이나 세운 전설의 검객이었으나 천률을 어겨 칭호를 박탈당했다. 그녀가 얻은 명예 또한 남들이 건드릴 수 없는 약점이 되고 말았다<br><br>하지만 위풍당당한 소년에게는 역사에 한 획을 그어야 할 때였다"
         },
         {
             "_id": 5,
-            "Story": "<i>\"Bout #123: Yanqing, Jing Yuan.\"<br>\"General, let's call it a day! I'm exhausted...\"<br>\"Didn't you say you have the confidence to remain undefeated as long as you hold a sword? Why are you acting so weak?\"<br>\"What kind of retainer would take up arms against the person they vowed to protect? What if I accidentally hurt...\"<br>\"If your sword is half as quick as you mouth, I'd already have lost. I'll keep one hand behind my back. Now, be quick!\"<br>\"No no, two hands please! Or maybe you can consider not using the Lightning-Lord, general?\"<br>\"You think is like the Sky-Faring Commission's business, where you can barter your way out? Hmm, let me see...\"<br>\"Aha — a weakness! Watch this!\"<br>\"I knew you'd do that. Counter!\"<br>\"Ow-ow-ow, darn it! I'd been waiting for ages for my shot.\"<br>\"All's equal in war, and sneak attacks are a good idea. It's too bad your sword is so focused on the flourish and can't conceal its form. Is this what they call youthful vigor?\"<br>\"General, let's go again! This time I'll try to be as inconspicuous as possible...\"</i><br><br>Jing Yuan spent much time and energy in raising Yanqing. Some speculated that he was cultivating an heir, others claimed he only kept him around just to use this kid as a secret weapon. Jing Yuan never offered a response.<br><br>Yanqing became an unrivaled fighter aboard the Xianzhou Luofu as his skills grew more and more advanced. Jing Yuan gradually began thinking about ways to restrain Yanqing's edge, to take him down a peg without curbing his confidence.<br><br>Too solid and it can shatter. Too sharp and it can blunt. More than just a sharp edge — a sword also needs a scabbard that can restrain it. In Jing Yuan's view, Yanqing has grown up exceedingly fast — beyond expectations. What Yanqing needs right now is not more strength, but the ability and experience of curbing that strength — something that can only manifest by the passage of time."
+            "Story": "<i>「123번째 대련: 연경, 경원」<br>「장군님과 싸우고 싶지 않아요. 이 연경, 너무 괴롭습니다…」<br>「검을 들었으면 패배하지 않겠다는 자신감을 가져야지, 어찌 약한 소리를 하느냐?」<br>「지켜야 할 상대에게 검을 휘두르는 호위병이 어딨습니까? 다치시기라도 한다면…」<br>「검을 그 입처럼 잘 놀렸다면 이기고도 남았을 터인데. 한 손으로 상대해줄 테니 어서 덤비거라」<br>「안 됩니다, 꼭 두 손이어야 합니다! 아니면 신군과 싸우는 것도 괜찮습니다」<br>「흥정을 하다니, 이게 천박사의 거래라고 생각하는 거냐? 흠, 그렇다면…」<br>「허점이다! 갑니다!」<br>「예상했던 대로군」<br>「아얏! 이런, 한참이나 기회를 엿봤는데…」<br>「전장에선 기습도 좋은 방법이지. 하지만 검기가 너무 강해 숨겨지지가 않는구나. 아마 이게 소년의 검의겠지?」<br>「장군님, 한 번 더 하시죠! 이번엔 최대한 조용히 공격하겠습니다…」</i><br><br>경원은 연경을 가르치는 데 심혈을 기울였다. 그런 그를 두고 후계자를 육성한다는 둥 아이를 비밀무기로 삼는다는 둥 말들이 나왔지만, 경원은 한 번도 대꾸하지 않았다<br><br>연경의 검술이 늘어가고 나부 선주에 필적할 만한 전사가 없어지자 경원은 어떻게 해야 연경의 재능을 감출 수 있을지 고민했다. 경원은 연경이 좌절하지 않을 정도로만 실패의 시련을 주었다<br><br>단단하면 부러지기 쉽고, 날카로우면 닳기 쉽다. 보검에는 날카로운 검날이 필요하지만, 검날을 거둘 수 있는 검집이 더욱 필요한 법이다. 연경은 경원의 생각보다 훨씬 더 빠르게 성장했다. 지금 연경에게 필요한 것은 힘이 아닌 힘을 거두고 운용하는 경험이었다. 이것들은 오직 시간이 해결해줄 수 있는 문제였다"
         }
     ]
 }
@@ -502,216 +502,216 @@ var _story_ = {
 var _voice_ = {
     "1209": [
         {
-            "Title": "First Meeting",
-            "Voice": "Yanqing, lieutenant of the Luofu Cloud Knights, reporting in! If you have some free time, Trailblazer, would you mind sparring with me? Don't worry, I won't go easy on you."
+            "Title": "첫 만남",
+            "Voice": "「나부」 운기군 호위병 연경입니다! {NICKNAME} 선생님, 괜찮다면 저와 한 번 대련하시겠습니까? 걱정 마세요. 상대가 선생님이라고 대충하진 않습니다"
         },
         {
-            "Title": "Greeting",
-            "Voice": "What kind of sword training will you do today? Do you wish for me to accompany you?"
+            "Title": "인사",
+            "Voice": "오늘은 무슨 검술을 연습하려고요? 저도 같이할까요?"
         },
         {
-            "Title": "Parting",
-            "Voice": "The sword needs to return to its scabbard... See you tomorrow, Teacher!"
+            "Title": "작별",
+            "Voice": "검도 칼집에 넣어야겠네요…. 선생님, 내일 봬요!"
         },
         {
-            "Title": "About Self: Opponents",
-            "Voice": "There are no more fitting opponents for me on the Luofu, but out there among the stars... there may be someone yet."
+            "Title": "자신에 대해•상대",
+            "Voice": "「나부」엔 이제 제 상대가 없어요. 하지만 우주라면… 다르겠죠"
         },
         {
-            "Title": "Chat: Swords from the Artisanship Commission",
-            "Voice": "I can talk all day about swords made by the Artisanship Commission. I always buy two swords per model: one for the battlefield and one for my collection... Buuut my allowances might run a bit short by the end of the month. I'm sure the general will buy me food and things if I nag him a bit..."
+            "Title": "잡담•공조사의 검기",
+            "Voice": "공조사의 검기를 논할 때면, 오던 졸음도 확 달아나요. 크기별로 모두 두 자루씩 구매해서 하나는 사용하고 하나는 소장하죠…. 하지만 월말이니까 「장군님 거를 먹고, 쓰고, 간절하게 도움을 청하는」 수 밖에요"
         },
         {
-            "Title": "Chat: Sword Champion",
-            "Voice": "Not having the title of Sword Champion just means my skill still needs sharpening, but the general said I don't need more skills, just more time... *sigh* How exactly am I worse than that Sword Champion..."
+            "Title": "잡담•검술의 일인자",
+            "Voice": "「검술의 일인자」라는 이름을 얻지 못했으니 기술을 더 갈고닦아야 해요. 근데 장군님은 저에게 부족한 건 검술이 아니라 시간이래요…. 제가 그 「검술의 일인자」보다 부족한 게 뭘까요……"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "After buying a new sword, I would spend even more effort on the scabbard. Should the body be made of black pear wood, or silk? Should the locket and the carrying ring be dragon- or tiger-shaped? And the chape, the decorative plaque... It's great fun deciding on each piece!"
+            "Title": "취미",
+            "Voice": "새로운 검을 사면 칼자루 싸개에 공을 들여야 해요. 재질은 흑배나무를 쓸 건지, 비단을 쓸 건지, 검파두식 문양은 용을 쓸 건지, 호랑이를 쓸 건지, 그리고 가락지, 명패…. 하나씩 고르는 재미가 있죠!"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "Sometimes I find multiple good sheaths for a new sword, and I end up buying them all. And yet, one sword can only use one sheath..."
+            "Title": "고민",
+            "Voice": "가끔 새로운 검을 살 때, 여러 칼집이 눈에 들어오고 다 잘 어울리면 전부 사게 되더라고요. 검 하나에 칼집은 하나라서 아쉬워요……"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "\"What can one do after one has made history?\" I once asked the general this question, but he said he can't answer it because he never wanted to be a general, and that I should try to answer it myself. Um..."
+            "Title": "공유",
+            "Voice": "「역사에 이름을 남기고 나면 뭘 더 할 수 있을까요?」 장군님께 이 질문을 했더니, 본인은 장군이 되리라고 생각해본 적이 없어서 대답할 수 없다고 혼자 생각하래요. 휴……"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Like the other Xianzhou ships, the Luofu also holds the Stellar Martial Competition to test the strength of the Cloud Knights, and whoever wins the sword competition receives the title of Sword Champion!"
+            "Title": "견문",
+            "Voice": "다른 선주처럼 「나부」도 「성천 연무」 행사를 열어요. 운기군의 실력을 시험하는 목적이죠. 검술 종목에서 승리한 사람은 「검술의 일인자」 칭호를 차지할 수 있어요!"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "The general has no need to show his martial prowess with me around. Since he acknowledges my strength, I need to help shoulder his burdens that much more!"
+            "Title": "경원에 대해",
+            "Voice": "연경이 있으니 장군님은 무력으로 명성을 떨칠 필요 없어요. 장군님께서 제 실력을 인정했으니 당연히 제가 장군님의 짐을 덜어드려야죠!"
         },
         {
-            "Title": "About Tingyun",
-            "Voice": "Tingyun would ask me to write introductory pieces for blades when her Codex on Goods contains a section on them."
+            "Title": "정운에 대해",
+            "Voice": "정운 아가씨가 주간하는 「득물지」에 검기와 관련된 부분이 나오면 절 찾아와서 추천 문구를 쓰기도 해요"
         },
         {
-            "Title": "About Sushang",
-            "Voice": "Sushang has a good sword, but a good sword is not always an easy-to-use sword. One needs to apply ten times more power to make it perform just one-tenth better."
+            "Title": "소상에 대해",
+            "Voice": "소상 아가씨의 검은 좋은 검이에요. 하지만 좋은 검이라고 모두가 잘 쓸 수 있는 건 아니죠. 1할의 힘을 쓰려면 10배의 기력이 필요해요"
         },
         {
-            "Title": "About Yukong",
-            "Voice": "I visited the Sky-Faring Commission once and saw Madam Yukong staring alone at the leather target for a long time. She didn't fire a single arrow that day, but perhaps she did shoot thousands in her mind."
+            "Title": "어공에 대해",
+            "Voice": "천박사에 방문한 적이 있는데, 어공 님께서 홀로 가죽 과녁을 한참 동안 보시더라고요. 한 발도 쏘지 않았지만, 이미 마음속으로 수백 수천 번을 쏘셨겠죠"
         },
         {
-            "Title": "About Fu Xuan",
-            "Voice": "So, Diviner Fu wants to be the general... Well, firstly, she needs to fix the issue where everyone just wants to nap as soon as she starts to talk."
+            "Title": "부현에 대해",
+            "Voice": "부 태복은 장군이 되고 싶어하는데…. 다른 건 몰라도 입만 열면 누구든 지루해하는 그 언변부터 고쳐야 할 거예요"
         },
         {
-            "Title": "About Luocha",
-            "Voice": "At first, I thought he always fights using that sword casket. That thing looks really strange... I need to figure out a way to fight him and get him to use his skills for real..."
+            "Title": "나찰에 대해",
+            "Voice": "처음에는 검갑을 무기로 쓰는 줄 알고 이상하다고 생각했죠…. 진짜 실력을 볼 수 있게 대련할 방법을 찾아야겠어요……"
         },
         {
-            "Title": "About Jingliu",
-            "Voice": "I used to think there was only one way to become a true swordmaster... but General, Jingliu, and even myself... we all ended up on different paths."
+            "Title": "경류에 대해",
+            "Voice": "단순히 극한만을 추구하는 검술은 하나밖에 없는 줄 알았는데… 그분과 장군님, 전… 결국 모두 다 다른 길을 걷게 되나 봐요"
         },
         {
-            "Title": "About Dan Heng",
-            "Voice": "When I fought Dan Heng, his spear mastery was almost perfect... but he was completely detached from it as an art. Maybe for him it's just a means to an end?"
+            "Title": "단항에 대해",
+            "Voice": "단항 씨와 겨룰 때 느낀 건데, 창술이 뛰어나면서도 그 점을 전혀 신경 쓰지 않더라고요…. 그분께 창술은 수단일 뿐인 걸까요?"
         },
         {
-            "Title": "About Blade",
-            "Voice": "He can detect any swing of the sword before it lands... Would I be able to defeat him with my swordplay alone?"
+            "Title": "블레이드에 대해",
+            "Voice": "검을 휘두를 때마다 그에게 간파당하는데… 검술의 조예만으로 그를 이길 수 있을까요?"
         },
         {
-            "Title": "About Guinaifen",
-            "Voice": "I remember her... One time she was carrying a beautiful sword, so I thought I'd strike up a conversation. But then she swallowed the sword down her throat! To this day I still haven't figured out which sword-fighting style that technique is from..."
+            "Title": "계네빈에 대해",
+            "Voice": "그 선생님은… 아주 멋진 검을 들고 계셔서 이야기 좀 해보려고 했는데 그 검을 삼키더라니까요!? 이 연경, 아직도 그게 어느 문파의 검법인지 모르겠어요……"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "It feels like the stars just got brighter..."
+            "Title": "성혼 활성화",
+            "Voice": "나부의 별하늘이 더 밝아진 거 같네요"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "How many battles lie between me and my dreams?"
+            "Title": "캐릭터 승급",
+            "Voice": "꿈에 닿기까지, 얼마나 검을 휘둘러야 할까요?"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "My swordplay is ready. Time to put it to the test."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "어느새 검술이 많이 늘었네요. 제 실력을 시험해 볼 상대를 찾아야겠어요"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "\"He's got a bright future.\" If I had a strale for every time I heard that one..."
+            "Title": "행적 활성화",
+            "Voice": "제가 어린 건 사실이지만, 「미래가 기대된다」라는 말은 너무 형식적이지 않나요?"
         },
         {
-            "Title": "Added to Team With Jing Yuan",
-            "Voice": "Orders received, General."
+            "Title": "파티 편성•경원",
+            "Voice": "장군님의 명이라면 이 연경, 반드시 사명을 다하겠습니다"
         },
         {
-            "Title": "Added to Team With Fu Xuan",
-            "Voice": "What's your outlook for the coming battle, Master Diviner?"
+            "Title": "파티 편성•부현",
+            "Voice": "이번 전투의 승부와 길흉에 대해 태복은 어떻게 생각하시죠?"
         },
         {
-            "Title": "Added to Team With Sushang",
-            "Voice": "Cloud Knights assemble!"
+            "Title": "파티 편성•소상",
+            "Voice": "운기군이 같이 힘을 합쳐 적을 섬멸해보죠"
         },
         {
-            "Title": "Added to Team With Dan Heng",
-            "Voice": "Is my swordplay good enough to learn from a master like him?"
+            "Title": "파티 편성•단항",
+            "Voice": "지금 제 검술 실력으로 다시 가르침을 청해도 될까요?"
         },
         {
-            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
-            "Voice": "Is my swordplay good enough to learn from a master like him?"
+            "Title": "파티 편성•단항•음월",
+            "Voice": "지금 제 검술 실력으로 다시 가르침을 청해도 될까요?"
         },
         {
-            "Title": "Added to Team With Blade",
-            "Voice": "The general let you off the hook. Consider yourself lucky."
+            "Title": "파티 편성•블레이드",
+            "Voice": "장군님이 널 놓아줬으니, 더는 거슬리게 굴지 마"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Hmph, a one-time enemy."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "흥, 일개 잡졸일 뿐이군"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "A strong adversary. Help me improve!"
+            "Title": "전투 시작•위험 경보",
+            "Voice": "강적이야, 한 수 배워보지"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "So, how many of my moves can you block?"
+            "Title": "턴 시작•1",
+            "Voice": "호오? 넌 몇 수나 버티려나?"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Time for some swordplay!"
+            "Title": "턴 시작•2",
+            "Voice": "보검이여, 일어나라!"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "The sword is like water, it cannot remain still."
+            "Title": "턴 대기",
+            "Voice": "검술은 흐름이 중요한 법"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Blade, in flight."
+            "Title": "전투 스킬•1",
+            "Voice": "검은 도약하는 새처럼"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Strike... with heart!"
+            "Title": "전투 스킬•2",
+            "Voice": "검은 나의 의지대로"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "How...?"
+            "Title": "약공격 피격",
+            "Voice": "이런……"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Impressive."
+            "Title": "강공격 피격",
+            "Voice": "괜찮은 솜씨네"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Practice is over."
+            "Title": "필살기•활성화",
+            "Voice": "탐색은 이제 끝났어"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Swords, descend!"
+            "Title": "필살기•발동",
+            "Voice": "검이여, 쏟아져라!"
         },
         {
-            "Title": "Downed",
-            "Voice": "I've dishonored... the blade..."
+            "Title": "전투 불능",
+            "Voice": "검 앞에… 부끄럽군……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "I won't underestimate the enemy twice."
+            "Title": "전투 복귀",
+            "Voice": "이번에는 방심하지 않겠어"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "I can breathe easy again."
+            "Title": "HP 회복",
+            "Voice": "한숨 돌렸군"
         },
         {
-            "Title": "Technique",
-            "Voice": "Shift the balance."
+            "Title": "비술",
+            "Voice": "잔꾀를 부리는군"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Victory by the blade~"
+            "Title": "전투 승리",
+            "Voice": "역시 내 보검이야~"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "This can go towards my allowance."
+            "Title": "전리품 오픈•1",
+            "Voice": "용돈 좀 벌었네"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "A few more like this and I can buy a new sword!"
+            "Title": "전리품 오픈•2",
+            "Voice": "몇 개만 더 찾으면 새 검을 살 수 있겠어요!"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "No need to pester the general for a while!"
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "이제 장군님께 손 벌리지 않아도 되겠네요!"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Cooool."
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "재밌네, 재밌어"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "It worked! Save the next one for me too!"
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "됐다! 다음에도 또 해보고 싶어요!"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Let's go say hi!"
+            "Title": "적 발견",
+            "Voice": "한 번 가볼까!"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Wonder if I'll discover any rare swords..."
+            "Title": "도시로 복귀",
+            "Voice": "희귀한 검이 남아 있으려나……"
         }
     ]
 }

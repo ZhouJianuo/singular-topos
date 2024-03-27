@@ -401,23 +401,23 @@ var _story_ = {
     "1008": [
         {
             "_id": 1,
-            "Story": "The inarticulate head of the Herta space station's Security Department.<br>While scientific research is beyond his understanding, Arlan is willing to risk his life to protect the staff who value research so very much. He is used to pain and wears his scars like badges of honor.<br>Only when holding Peppy does the boy let down his guard and show a rare smile."
+            "Story": "말주변이 없는 우주정거장 「헤르타」의 방위과 책임자.<br>연구는 잘 모르지만, 연구를 사랑하는 우주정거장 연구원들이 편히 연구할 수 있도록 보호하는 일에 목숨도 바칠 수 있다. 통증은 이미 익숙하며 부상을 훈장으로 여긴다.<br>반려견 페피를 안고 있을 때에만 소년은 경계를 풀고 좀처럼 보기 힘든 미소를 보인다"
         },
         {
             "_id": 2,
-            "Story": "How is Arlan's work in the Security Department?<br>— Brother Arlan is the beacon that guides the Security Department, the core support for everyone's battles! Without him, the space station would fall to pieces in a day. Without him, people's lives would be ruined in ten days. Without him, the station would be hellish in just one hundred days!<br>— But he plays holodisc with Peppy during work hours.<br>— Because he's finished all daily security tasks ahead of schedule! His mere presence is an inspiration to us all.<br>— But he plays holodisc with Peppy during work hours.<br>— How do you know that playing holodisc with Peppy isn't actually part of his job description...<br><br><i>\"You're not allowed to play with your phone while out on patrol. Give it to me.\"<br>\"No, brother Arlan! People are talking smack about you in the group chat! Don't you care?\"<br>\"Nope. Too busy.\"<br>\"Huh, have you got an urgent mission? Let me go with you. What happened?\"<br>\"I'm taking Peppy to do rehab through play holodisc.\"</i>"
+            "Story": "아를란은 방위과에서 어떤 존재인지?<br>——형님은 방위과가 앞으로 나아갈 방향을 가르쳐 주는 등불과도 같은 존재이자 전투력의 핵심이라고 할 수 있지! 형님이 하루라도 없으면 우주정거장은 엉망이 될 테고 형님이 열흘 정도 자리를 비우면 우주정거장은 고통에 잠식될 테고 형님이 백 일 정도 자리를 비우면 우주정거장은 연옥이 되어버릴 거야!<br>——그런데 평소에는 업무시간에 맨날 페피랑 전자 부메랑 게임만 하던데?<br>——그건 형님이 방위과의 일상 훈련을 미리 마쳤기 때문이야! 형님의 멋진 모습을 볼 때마다 힘이 솟는 기분이지!<br>——그런데 평소에는 업무시간에 맨날 페피랑 전자 부메랑 게임만 하던데?<br>——네가 뭘 몰라서 그런데 사실 페피와 함께 전자 부메랑 게임을 하는 것도 큰 형님의 일과 중 하나라고……<br><br><i>「순찰 돌 때 휴대폰 게임을 하다니 이건 몰수야」<br>「저기, 아를란 형님. 단톡방에서 누가 형님 흉을 보고 있는데 뭐라고 하셔야 하는 거 아니에요?」<br>「그럴 시간 없어」<br>「뭐? 긴급 임무라고? 같이 가자. 무슨 일인데?」<br>「페피랑 같이 재활운동을 해야겠어. 전자 부메랑이 좋겠다」</i>"
         },
         {
             "_id": 3,
-            "Story": "There are countless strange and valuable things around Miss Asta's house, but it's the dog at death's door that attracts the most attention.<br><br>What's more, her forlorn cries only increase in volume as her parents attempt to comfort her — telling her that this dog she picked up won't live for very long, and they are better off buying her another one.<br><br>That filthy pup just lies there without the strength to even lift up its head and look around the people surround it. The crying, arguing, and the silence... None of this has anything to do with it.<br><br>At one point, he thinks it had already stopped breathing, so he bends down to check its nose. Just then, the dog suddenly licks his fingers — which is about the farthest distance it can stretch.<br><br>— Its tongue is wet.<br><br><i>\"Wanna play holodisc?\"</i><br><br>Its lifeless eyes suddenly light up."
+            "Story": "아스타 아가씨의 집에는 괴이하면서도 값비싼 물건들이 수도 없이 많다. 그래서인지 숨이 겨우 붙어있는 작은 강아지가 더 특별하게 느껴졌다<br><br>게다가 아스타는 강아지를 보며 슬프게 울고 있었다. 그녀의 부모님은 밖에서 주워온 강아지가 오래 사는 경우는 거의 없으며 정 안 되면 새 강아지를 데리고 오면 되지 않냐고 묻자 그녀는 더 세게 울기 시작했다<br><br>한편 저편에 누워있는 꼬질꼬질한 모습의 강아지는 고개를 들어 주위를 둘러싼 사람들을 바라볼 힘도 없는 모습이었다. 강아지는 눈물, 다툼, 침묵 같은 복잡한 인간들의 감정은 그와 아무런 상관도 없다는 듯한 표정을 지었다<br><br>강아지가 숨을 거두었다고 생각한 그는 허리를 숙여 숨소리를 확인했다. 이때, 강아지가 혀를 내밀어 그의 손가락을 핥았다. 강아지의 체력이 허락하는 가장 큰 움직임이었다<br><br>——강아지의 혓바닥은 여전히 축축했다<br><br><i>「전자 부메랑 게임 할래?」</i><br><br>풀이 잔뜩 죽어있던 강아지의 눈빛이 반짝이기 시작한다"
         },
         {
             "_id": 4,
-            "Story": "He stops pacing in the corridor and gazes out of the window into the tranquility of deep space, the dark circles around his eyes reflecting back at him.<br><br>Another pair of bloodshot eyes appears at the window. Their owner looks more relaxed than she usually does before the researchers, and absentmindedly lets out a huge yawn.<br><br><i>\"You're up late. Not going to bed?\"<br>\"I'm feeling anxious, so I'm just out for a patrol...\"<br>\"I just updated the firmware for the defense shield, and security systems are all operating smoothly.\"<br>\"Maybe I'm overthinking things, but...\"<br>\"I understand. You're the head of security, and I trust your instincts.\"</i><br><br>The space station remains brightly lit and operates without a stop. They each return to their respective posts.<br><br>They both know that regardless of the protection of Madam Herta's fame, the defensive measures around the space station, and the round-the-clock vigilance of the Security Department — if a disaster was to occur...<br><br>It would only take seconds."
+            "Story": "복도를 걷다 발걸음을 멈춘 그는 창밖을 내다 보았다. 적막한 우주를 보여주는 유리창에 그의 다크서클이 비쳤다<br><br>이때 그의 곁에 눈이 잔뜩 충혈된 또 다른 사람이 나타났다. 충혈된 눈의 주인은 평소 연구원들에게 보여주던 엄격한 모습은 지우고 입을 크게 벌려 하품을 했다<br><br><i>「아직도 안 자고 뭐해?」<br>「왠지 마음이 안 놓여서 순찰 한 번 더 돌려고……」<br>「보호 커버 코드도 업데이트 했고 보안 시스템도 정상적으로 돌아가고 있어」<br>「괜한 우려일지도 모르겠지만……」<br>「이해해. 넌 방위과 담당자니까. 난 네 직감을 믿어」</i><br><br>밤낮없이 운행되는 우주정거장은 깊은 밤에도 여전히 불을 밝히고 있었다. 짧은 대화를 나눈 그는 곧 자신의 위치로 돌아갔다<br><br>두 사람 모두 잘 알고 있었다. 정말 위기가 발생한다면…… 헤르타 님의 보호막이 있다 해도 우주정거장의 방어 조치가 아무리 완벽하다 해도, 방위과의 연구원들이 아무리 밤을 샌다 해도……<br><br>한순간에 모든 게 파괴될 것이라는 걸 말이다"
         },
         {
             "_id": 5,
-            "Story": "<i>\"Everyone's evacuated. Arlan. Hurry up!\"<br>\"There may still be survivors inside.\"<br>\"No... There aren't any more life signs in there.\"</i><br><br>He thought he could trust Asta until the moment when countless Antimatter Legion pawns pour towards him like a tsunami. The signal from the watcher zone is faint. Asta won't be able to see this situation.<br><br>He is now standing, alone, in the elevator. He has to make a decision, even if he has to disobey Asta's orders — No matter the cost, he has to block access to the elevator to save everyone. He cannot allow these monsters to get to the master control zone.<br><br><i>\"Sorry, Miss Asta...\"</i><br><br>The Antimatter Legion strikes him down from behind before he can explain himself. He falls, and his remote communications disconnects.<br><br>He had never hesitated, whether working in Miss Asta's home or after becoming Herta Space Station's head of Security Department. He had always taken for granted that, since Miss Asta decided to head in one direction, he has to follow her.<br><br>Arlan raises his head with great difficulty, and the monsters move closer to him. He had never disobeyed an order from Miss Asta before. This is the first time.<br><br><i>\"Hopefully it won't be the last time.\"</i><br><br>This thought pops up in his head.<br><br>Propping himself up with his greatsword, he slowly and firmly stands up."
+            "Story": "<i>「다들 철수했어. 아를란, 너도 어서 철수해!」<br>「아직 살아있는 연구원들이 있을 수도 있잖아요」<br>「아니… 다들 생명신호가 잡히지 않아」</i><br><br>지금 이 순간 아스타를 믿어야 한다는 걸 그도 잘 알고 있었다. 하지만 반물질 군단들이 밀물처럼 그를 향해 몰려들고 그는 다시 망설이기 시작했다. 감시 구역의 신호가 약해진 상황에서 아스타도 지금 무슨 일이 벌어지고 있는지 제대로 인지하지 못하고 있을 것이다<br><br>승강기 앞에 선 사람은 오직 그뿐, 이제 선택을 내려야 할 때다. 아스타의 명령을 어기는 한이 있더라도——그들을 지켜야 했다. 무슨 대가를 치르든 승강기의 권한을 봉쇄해야 했다. 그래야 괴물들이 메인 컨트롤 캐빈으로 진입하지 못할 테니까<br><br><i>「죄송합니다. 아가씨……」</i><br><br>그가 해명하려던 그때, 그의 등 뒤에 나타난 반물질 군단이 기습을 날린다. 그는 그 자리에서 쓰러지고 원거리 통신도 중단되고 만다<br><br>아가씨의 집에서 일할 때도 우주정거장 「헤르타」로 이동해 방위과 담당자가 되었을 때도, 그는 단 한 번도 「망설임」이라는 감정을 느낀 적이 없다. 아가씨의 결정에 무조건 따르는 것이 그에게는 너무나 당연한 일이었기 때문이다<br><br>아를란은 힘겹게 고개를 들었다. 괴물들이 그를 향해 몰려들고 단 한 번도 아가씨의 명령을 거역한 적이 없는 그가 드디어 첫 결단을 내렸다<br><br><i>「이번이 마지막이 아니길 바랄 수밖에」</i><br><br>갑자기 이런 생각이 그의 머릿속을 스쳤다<br><br>그는 대검으로 몸을 지탱하며 천천히, 하지만 결연한 모습으로 일어섰다"
         }
     ]
 }
@@ -425,168 +425,168 @@ var _story_ = {
 var _voice_ = {
     "1008": [
         {
-            "Title": "First Meeting",
-            "Voice": "Hello, Trailblazer. I'm Arlan, I head up the Security Department on Herta Space Station. I'll be in charge of your safety during your time here."
+            "Title": "첫 만남",
+            "Voice": "안녕, {NICKNAME}. 난 우주정거장 「헤르타」 방위과의 책임자 아를란이라고 해. 우주정거장에서 지내는 동안 최선을 다해 네 안전을 지켜줄게"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Seed Isle's latest flavors of dried earthworm hit the shelves today — we should head over before the queue starts. The early bird catches the... anyway."
+            "Title": "인사",
+            "Voice": "씨앗섬의 새로운 맛, 말린 지렁이가 오늘 출시된대. 지금 가면 줄 안 서도 돼"
         },
         {
-            "Title": "Parting",
-            "Voice": "You should have some mixed vegetable juice before bed — it helps you sleep. Well, I'm on night duty tonight. See you tomorrow."
+            "Title": "작별",
+            "Voice": "자기 전에 야채 혼합 주스를 한 잔 마시면 숙면에 도움이 돼. 난 오늘 야간 근무가 있어서 이만, 내일 봐"
         },
         {
-            "Title": "About Self: Looking for Peppy",
-            "Voice": "We've held the Space Station Peppy-Finding Contest nine times so far, and I've... I've won it nine times in a row."
+            "Title": "자신에 대해•페피를 찾아라",
+            "Voice": "「우주정거장의 『페피를 찾아라』 대회」는 시즌 9까지 개최됐어. 난… 우승을 연임하고 있고"
         },
         {
-            "Title": "Chat: On Patrol",
-            "Voice": "I try to be inconspicuous when I'm on patrol. That way, I can avoid disturbing the researchers while they work and observe their utmost concentration."
+            "Title": "잡담•순찰",
+            "Voice": "순찰할 땐 가능한 한 사람들의 눈에 띄지 않게 움직이는 편이야. 연구원들한테 방해도 안 되고, 그들이 업무에 몰두한 표정도 볼 수 있거든"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "You should keep your sword sharp at all times."
+            "Title": "취미",
+            "Voice": "대검은 항상 청결을 유지해야 해"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "Oh, man! The phone case shipping location is too far from the space station — you have to buy 5000 units for them to deliver... Wait, please don't tell Lady Asta that."
+            "Title": "고민",
+            "Voice": "휴대폰 케이스의 발송지가 우주정거장이랑 너무 멀리 떨어져 있어서 5천 개부터 배달이 가능하대…. 아냐, 아가씨한테는 말하지 말아 줘"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "There are some sword fragments housed here on the space station, but I can't find them in the pictographic index... They must be pretty special."
+            "Title": "공유",
+            "Voice": "범용 도감에서 우주정거장에 수용된 대검 조각을 찾을 수 없어…. 분명 엄청 특별할 거야"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "I heard the researchers say that there are some curios that actively requested to come to the space station."
+            "Title": "견문",
+            "Voice": "연구원들이 그러는데, 어떤 기물은 자발적으로 우주정거장에 왔대"
         },
         {
-            "Title": "About Asta",
-            "Voice": "*sigh* ...I don't know why, but it seems like I manage to annoy Lady Asta fairly regularly."
+            "Title": "아스타에 대해",
+            "Voice": "…이유는 잘 모르겠는데, 난 종종 아가씨를 화나게 만드는 거 같아"
         },
         {
-            "Title": "About Herta",
-            "Voice": "I'm different from the researchers — I'm not what you'd call a \"follower\" of Madam Herta — but she still lets me work here."
+            "Title": "헤르타에 대해",
+            "Voice": "난 다른 연구원들과는 달리, 헤르타 님의 추종자가 아냐. 하지만 헤르타 님은 그걸 알면서도 내가 이곳에서 일하는 걸 묵인해 주셨지"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "I've found a home to protect."
+            "Title": "성혼 활성화",
+            "Voice": "지켜야 할 「집」이 생겼어"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "I can't afford to be complacent."
+            "Title": "캐릭터 승급",
+            "Voice": "어떤 상황에서도 방심은 금물이야"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "The fruits of my training. I'll keep it up."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "이건 단계별 훈련 성과야…. 모두를 지키기 위해 더 노력하려고"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "You can learn new things by going back to the basics."
+            "Title": "행적 활성화",
+            "Voice": "일상적인 훈련이라도 새로운 수확이 있을 거야"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "Combat is an unavoidable risk, but be careful."
+            "Title": "파티 편성•{NICKNAME}",
+            "Voice": "전투는 위험하니까 조심해야 해"
         },
         {
-            "Title": "Added to Team With Asta",
-            "Voice": "You should leave the fighting to me, Lady Asta."
+            "Title": "파티 편성•아스타",
+            "Voice": "아스타 아가씨, 전투는 저한테 맡기세요"
         },
         {
-            "Title": "Added to Team With Herta",
-            "Voice": "Madam Herta! A—Awaiting your orders!"
+            "Title": "파티 편성•헤르타",
+            "Voice": "헤르타 님, 지… 지시를 내려주세요!"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Your number is up."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "말이 짧네"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Nothing can stop me."
+            "Title": "전투 시작•위험 경보",
+            "Voice": "뭐든 날 막을 수 없어"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Fight to win."
+            "Title": "턴 시작•1",
+            "Voice": "싸워야 이기는 법"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Haven't learned your lesson?"
+            "Title": "턴 시작•2",
+            "Voice": "아직 교훈도 못 배웠어?"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "We have to go on the offensive."
+            "Title": "턴 대기",
+            "Voice": "빨리 공세를 펼쳐야 해"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "As you wish."
+            "Title": "전투 스킬•1",
+            "Voice": "도와줄게"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Be silent."
+            "Title": "전투 스킬•2",
+            "Voice": "그 입 닥쳐"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Hmm?"
+            "Title": "약공격 피격",
+            "Voice": "어?"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Barely felt it."
+            "Title": "강공격 피격",
+            "Voice": "힘 좀 써봐"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Is that all you got?"
+            "Title": "필살기•활성화",
+            "Voice": "이 정도 통증은 별거 아냐"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Let me pay you back — tenfold!"
+            "Title": "필살기•발동",
+            "Voice": "너희의 고통은 배가 될 테다!"
         },
         {
-            "Title": "Downed",
-            "Voice": "I can't protect you anymore..."
+            "Title": "전투 불능",
+            "Voice": "모두를 지킬 수 없어……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "You can't fight from the grave."
+            "Title": "전투 복귀",
+            "Voice": "살아야 계속 싸울 수 있지"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "I'm fine... thank you."
+            "Title": "HP 회복",
+            "Voice": "난 괜찮아…. 고마워"
         },
         {
-            "Title": "Technique",
-            "Voice": "You're in the way."
+            "Title": "비술",
+            "Voice": "거슬리네"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Even a little strength comes in useful."
+            "Title": "전투 승리",
+            "Voice": "이 힘은 아직 쓸모가 있어"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "You keep it."
+            "Title": "전리품 오픈•1",
+            "Voice": "그냥 가지고 있어"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "I think I've seen these in our inventory..."
+            "Title": "전리품 오픈•2",
+            "Voice": "창고에서 본 적이 있는 것 같아……"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Did we get it all?"
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "다 챙겼어?"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "That'll do it."
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "끝났다"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Just like my days at the Security Department."
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "전에 방위과에서 훈련한 적이 있어"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Look up ahead."
+            "Title": "적 발견",
+            "Voice": "앞에 조심해"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "If there's no danger here, then I'm needed elsewhere."
+            "Title": "도시로 복귀",
+            "Voice": "싸우지 않으면 뭘 할 수 있는데?"
         }
     ]
 }

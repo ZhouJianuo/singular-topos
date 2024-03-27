@@ -1161,23 +1161,23 @@ var _story_ = {
     "1307": [
         {
             "_id": 1,
-            "Story": "A Memokeeper of the Garden of Recollection. A mysterious and elegant soothsayer.<br>She often wears a warm smile and is willing to patiently listen to the words of others, thus using such means as a pretext to enter \"memories\" and gain omniscience over certain matters.<br>A lady passionate about collecting unique memories, yet the thoughts that guide her are hard to glean."
+            "Story": "「기억의 정원」의 기억하는 자, 신비하고 우아한 점술가.<br>항상 부드러운 미소를 지으며 인내심을 갖고 타인의 말을 경청하고, 이를 통해 「기억」 속에 들어가 모든 정보를 파악한다.<br>유일무이한 기억을 수집하는 데 열중한다. 하지만 그 뒤에 숨은 생각은 알기 어렵다"
         },
         {
             "_id": 2,
-            "Story": "<i>\"She's quite an unusual kid, and I could sense it from the day she was born. It felt like nature itself was celebrating her arrival: The birds chirped, the moon and sun were together in the sky. The cards in my hand seemed to hint at the emergence of a soul steeped in nostalgia. Right from her early years, she had a fascination with stories from the past. She would delve deep into contemplating our origins, our creators, and even the very beginning of the world. Her questions would leave even the most erudite scholars scratching their heads. Sure, some other kids might poke fun at her for asking such deep questions, but aren't those questions important? Life is akin to a winding labyrinth, where memories serve as our sole companions.\"</i><br><align=\"right\"> — A mother's memories</align><br><br>Afflicted with amnesia, her mother struggled with forgetfulness, making it difficult for her to recognize her family or recall recent events.<br>Clutching the diagnosis of amnesia, she held her mother tightly, attempting to read aloud from the latter's diary. Her mother was physically present, but where was she in the realm of consciousness?<br><br>She stayed by her mother's side until the end of her life, realizing that her mother had been fading away as her memories became fragmented. If her own memories of her mother were to ever become blurred as well, her mother would completely slip away from her.<br><br><i>\"Life is akin to a winding labyrinth, where memories serve as our sole companions.\"</i> For the first time, she comprehended the profound meaning behind these words."
+            "Story": "<i>「그 아이는 참 이상한 아이야. 난 진작 이렇게 될 줄 알았어. 그 아이가 태어나던 날, 나무 위 종달새가 울었고, 달의 그림자와 떠오르는 해가 같이 하늘에 나타났지. 수중의 카드가 곧 과거에 미련이 있는 영혼이 세상에 올 거라고 알려줬어. 어릴 때부터 옛이야기에 제일 관심이 많았던 그 아이는 우리가 어디서 온 것인지, 누가 우리를 창조했는지, 또 이 세계는 어떻게 생겨난 것인지를 궁금해했지. 때론 가장 박식한 사람조차 대답할 수 없었다니까. 친구들은 모두 그 아이를 비웃었지만, 생각해 보면 중요한 질문 아닌가? 생명은 돌고 도는 미궁과 같고, 우리에게 기억 외엔 아무것도 없지」</i><br><align=\"right\">——한 어머니의 기억</align><br><br>기억상실증에 걸린 어머니는 점점 가족을 알아보지도, 조금 전에 있었던 일도 기억하지 못하게 되었다.<br>그녀는 진단서를 손에 들고 어쩔 줄 몰라 하는 어머니를 꼭 끌어안고는 어머니가 남긴 일기를 다시 읽어주려고 했다——어머니는 분명 그곳에 계셨지만, 어머니는 대체 어디에 계실까?<br><br>그녀는 삶의 종착지에 다다를 때까지 어머니의 곁을 지켰으나, 그녀는 알고 있었다. 기억이 산산조각 난 그날부터, 어머니는 갈수록 희미해지고 있다는 것을. 언젠가 그녀의 기억마저 산산조각이 난다면, 어머니는 완전히 그녀를 떠나게 될 것이다.<br><br><i>「생명은 돌고 도는 미궁과 같고, 우리에게 기억 외엔 아무것도 없지」</i> 그녀는 처음으로 이 말의 의미를 깨달았다"
         },
         {
             "_id": 3,
-            "Story": "<i>\"I arrived on this planet as an explorer. My usual tasks involved observing the flow of rivers, examining the materials of the city's bricks and tiles, analyzing the steepness of roads, and documenting the number and distribution of chimneys... These duties aligned with people's imagination of preserving a planet's 'memories.'\"<br><br>— However, such efforts were far from sufficient.<br><br>Once I started working in secrecy, I would often come across that girl. Sometimes, sunlight would dance through the leaves as she walked beneath them, disappearing around corners once the street lamps illuminated the surroundings. On other occasions, her gaze would follow a carrier pigeon, which left the High Priest's quarters every Wednesday night, only to return the following morning to the palace's chief of the guards — a known political adversary of the High Priest. Occasionally, she would quietly observe rain trickling into sewers scarred by artillery fired from the opposite shore. And sometimes, waves would dampen her skirts, while an elderly woman washing clothes by the river recounted the story of the previous sovereign and his five illegitimate children.<br><br>— Few individuals, apart from us, understand that a planet conceals and safeguards its \"memories\" in such a manner.<br><br>I trailed behind her until we reached a rock on the moor. I knew that it was the time to invite her.<br><br>\"What do you see?\" I asked, in a form visible to her.<br>She pointed at a patch of weeds and the lingering traces.<br>\"I see a stone, perhaps once part of a fireplace... But it must hold more significance.\"<br>I nodded and assisted her in removing the weeds and dirt from the crevices of the stone.<br>\"It was once a monument,\" she murmured, gently caressing the engravings adorning its surface.<br>\"Indeed, but the 'memory' holds more significance.\"<br><br>Thus, I revealed to her that the stone on the moor had once served as a fireplace, a monument before that, a flowerbed, and even an altar... And before all that, it had simply been a stone on the moor.<br><br>\"What price would I pay if I want to witness those 'memories'?\"<br>\"People will remain oblivious to your presence unless you are willing to reveal yourself.\"<br>\"Just as people fail to acknowledge the existence of black swans until they encounter one?\"<br>\"Yes, just like that.\"</i><br><br><align=\"right\">— An {RUBY_B#Memokeeper}Explorer's{RUBY_E#} memories</align><br><br>Memokeepers travel to numerous planets, collecting the memories of each city they encounter. They are careful not to leave any trace of their presence, ensuring that nobody remembers them, unless they come across someone with the potential to become a Memokeeper, whom they then take away from the city into the vast expanse of the stars."
+            "Story": "<i>「나는 탐험가의 신분으로 이 별에 왔다. 난 늘 그랬듯 강이 어디로 흘러가는지 통계하고, 거리에 있는 벽돌과 기와의 재질은 무엇인지, 경사가 가장 심한 길은 몇 도인지, 그리고 굴뚝의 개수와 분포를 조사할 것이다…. 이런 작업은 한 행성의 「기억」을 보존하고자 하는 사람들의 상상에 부합한다<br><br>——하지만 이걸로는 한참 부족하다<br><br>내가 뒤에서 본격적으로 일을 시작했을 때부터 그 소녀를 자주 봤다. 때로 햇빛이 나뭇잎 사이를 지나 그녀의 모습에 따라 흔들리다가 어느 길모퉁이에서 사라지면 가로등이 켜지곤 했다. 또 어떤 때는 그녀의 시선이 전서구를 따라 움직이면, 매주 셋째 날 저녁마다 전서구가 대사제의 거처에서 출발해 다음날 새벽 황궁 호위대장에게로 돌아갔는데, 둘은 공개적인 정적이었다. 그리고 때로 그녀가 조용히 하수도로 내려가는 빗물을 보고 있으면, 건너편에서 발사한 대포로 인한 파괴의 흔적이 생겼다. 또 가끔 물보라가 그녀의 치맛자락을 적시면, 강가에서 빨래를 하던 노부인은 선대 권력자와 그의 다섯 사생아에 대한 이야기를 중얼거렸다.<br><br>——우리 외에 행성이 이런 방식으로 자신의 「기억」을 감춰둔다는 걸 아는 사람은 많지 않다.<br><br>나는 그녀를 따라 어느 황야에 있는 돌 앞으로 갔다. 나는 그녀를 초대할 때가 되었다고 생각했다.<br><br>『뭐가 보여?』 난 그녀가 볼 수 있는 모습으로 그녀에게 물었다.<br>그녀는 잡초가 자란 곳을 가리켰고, 그곳에는 무언가가 갈린 흔적이 남아 있었다.<br>『돌. 원래 벽난로의 일부였겠지만… 그뿐만이 아닐 거야』<br>난 고개를 끄덕이곤 그녀를 도와 돌 틈 사이로 자라난 잡초와 흙을 치웠다.<br>『기념비이기도 했네』 그녀는 돌에 새겨진 흔적을 매만졌다.<br>『맞아. 하지만 「기억」은 그뿐만이 아니야』<br><br>그래서 나는 그녀에게 보여주었다. 황야의 돌은 한때 누군가의 집에 있던 벽난로였고, 그전에는 하나의 기념비였고, 화단이었고, 제단이었으며… 더 오래전에는 어느 황야 위의 돌이었다는 것을 말이다.<br><br>『이런 「기억」을 보려면 어떤 대가를 치러야 할까?』<br>『네가 모습을 보이기 전까지 사람들은 너의 존재를 모를 거야』<br>『사람들이 흑조를 보기 전까지는 세상에 백조만 있는 줄 아는 것처럼?』<br>『그렇지』」</i><br><br><align=\"right\">——어느 {RUBY_B#기억하는 자}탐험가{RUBY_E#}의 기억</align><br><br>기억하는 자들은 수많은 행성을 돌아다니며 모든 길과 모퉁이에서 도시의 기억을 수집한다. 그들은 도시가 기억하지 못하도록 절대 자신의 흔적을 남기지 않았다. 다만 기억하는 자의 자질을 갖춘 사람을 만나 그들을 이 도시의 기억에서부터 더 넓은 바다로 데려간다면 예외지만 말이다"
         },
         {
             "_id": 4,
-            "Story": "<i>Many individuals obsess over the glory of the past and aspire to become Memokeepers, longing to live within their memories. Such individuals often degenerate into unbridled Cremators, distorting memories to suit their preferences. However, she is different... I've sensed her unwavering determination and profound respect for memories themselves. Following tradition, I asked her three questions before making her a Memokeeper.<br><br>\"Will you dedicate your whole life to the collection of memories?\"<br>\"I will.\"<br>\"Will you relinquish your physical form and embrace the transformation of self?\"<br>\"I will.\"<br>\"If one day you cease to exist, what legacy will you leave behind for the world?\"<br>\"My memories. They hold seeds from the past, destined for rebirth into the future.\"<br><br>Memories come in various forms. Some are trivial and heartwarming, while others are grand and expansive. Some are gentle and meek, while others are wild and untamed... When she became a Memokeeper, her memories became tranquil and serene, like the calm waves that finally found their destined harbor.</i><br><align=\"right\">— A Memokeeper's memories</align><br><br><i>\"What comes to your mind?\"</i> The Memokeeper asked.<br>As she opened her eyes, fragments of memories swirled around her.<br><i>\"People tend to believe they are facing the present and the future, yet fail to realize that we are all, in fact, moving toward the past.\"</i>"
+            "Story": "<i>「수많은 사람들은 아름다운 과거에 빠져 기억 속에 사는 걸 꿈꾸기에 기억하는 자가 되고 싶어 한다. 안타깝게도 그런 사람은 결국 제멋대로인 소각공이 되어 기억을 자기가 원하는 대로 바꾼다. 그러나 그녀는 달랐다…. 그녀에게선 기억에 대한 존중과 강렬한 의지, 그리고 결심이 보였다. 기억하는 자가 되기 전에 관례대로 하는 세 질문에 그녀는 이렇게 답했다.<br><br>『기억을 수집하는 데 일생을 바치겠는가?』<br>『네』<br>『이를 위해 육신을 버리고 자아의 이변을 받아들이겠는가?』<br>『네』<br>『언젠가 그대가 더 이상 존재하지 않는다면, 세상에 무엇을 남기겠는가?』<br>『제 기억이요. 거기엔 과거의 씨앗이 있고, 그 씨앗은 미래에 다시 태어날 거예요』<br><br>어떤 기억은 사소하지만 따스하고, 어떤 기억은 웅장하고도 광활하며, 어떤 기억은 반려동물처럼 온순하고, 또 어떤 기억은 맹수처럼 통제하기 어렵다…. 기억하는 자가 된 순간, 그녀의 기억은 마치 요동치던 파도가 자신만의 항구를 찾은 것처럼 고요하고 평온해졌다」</i><br><align=\"right\">——어느 기억하는 자의 기억</align><br><br><i>「뭐가 떠오르지?」</i>기억하는 자가 물었다.<br>그녀가 눈을 뜨자 기억의 조각이 그녀 주변을 맴돌았다.<br><i>「사람들은 자신이 현재와 미래를 마주하고 있다고 생각하지만, 사실 우리 모두 과거로 가고 있다는 것은 아무도 모르죠」</i>"
         },
         {
             "_id": 5,
-            "Story": "<i>Location: Penacony<br>Date: ██/██/██<br>Guests: ██, ██, ██, and ██<br>\"A sorrowful memory from ██. This opulent memory, adorned with ostentation and longing, conceals an unknown sadness that will linger for years, influencing its owner for an extended period.\"<br>\"A joyous memory from ██. This dramatic memory is filled with vibrant hues of joy, confusion, and humor, but it can hardly be called true happiness. Such is the future it portrays.\"<br>\"A regrettable memory from ██. The fleeting happiness in this memory is beautiful yet short-lived, like a shooting spark from faded ashes. Cherish your limited moment, dear guest, for it informs me that it shall soon vanish.\"<br>\"A vague memory from ██. This memory is faint, chaotic, and disorienting, akin to an endless downpour with no respite in sight. I yearn to capture the future it points to, whether it be filled with rain or sunshine...\"</i><br><align=\"right\">— Black Swan's memories</align><br><br><i>\"I saw the figure of a woman, gracefully leaping and transforming amidst images and patterns. No... I'm not crazy, I did indeed see 'her.' I remember her voice, its velvety texture, and the colorful cards in her hands, imbued with some sort of magic... Oh, and she invited me to partake in fortune-telling. She said, 'Whether you want to foresee happiness or misfortune in the future, retrieve lost possessions, or seek unexpected gains... All I need is an honest story, for the past and the future are overlapped on the same point of a single circle.' My head spun, and she exuded such gentleness. I talked so much to her, and she patiently listened to my ramblings... And then, following her divination results, I retrieved a lost mirror for a guest of the hotel! Oh, you asked what I said to her? Oh, nothing important... Just some rumors about the past...\"</i><br><align=\"right\">— A native Penacony resident's memories</align><br><br>Currently, she journeys through various realms as a diviner, uncovering memories intertwined with her Path and Aeons. She believes that those memories are as enduring as gems, impervious to the eroding forces of oblivion.<br><br><i>\"Numerous Memokeepers have ventured to Penacony, only to discover it as a mere illusory mirage dancing upon the water's surface.\"<br>\"However, dreams... They represent a distorted form of memories. I shall delve into its depths and catch a fleeting glimpse of the buried memories before those Memosnatchers and Cremators arrive.\"</i>"
+            "Story": "<i>「장소: 페나코니 <br>날짜: ██년 ██월 ██일<br>손님: ██, ██, ██, ██<br>『██의 슬픈 기억. 과시와 갈망으로 물든 이 순금과도 같은 기억은 앞으로 슬픔을 감추고, 기억의 주인에게 오랫동안 영향을 줄 것이다』<br>『██의 즐거운 기억. 연극과도 같은 이 기억은 찬란한 색을 띠고 있다. 즐겁고, 혼란스럽고, 익살스럽지만——행복이라고는 할 수 없다. 이 기억의 미래 역시 그러하다』<br>『██의 안타까운 기억. 이 행복한 기억은 꺼져버린 불길 속에서 튕겨나온 유성처럼, 아름답지만 순식간에 사라진다. 그러니 지금 이 순간을 즐겨라. 이는 곧 사라질 거라고 내게 말하고 있으니』<br>『██의 흐릿한 기억. 이 기억은 결말을 알 수 없는 차가운 비처럼, 미약하고 혼탁하며 혼란스럽다. 난 이 기억이 가리키는 미래엔 비가 내릴지, 아니면 해가 뜰지 알고 싶다…』」</i><br><align=\"right\">——블랙 스완의 기억</align><br><br><i>「난 영상과 이미지 사이를 오가며 모습을 바꾸는 한 여인을 봤어. 아니… 난 미치지 않았어. 정말 『그녀』를 봤다고. 그 벨벳처럼 부드러운 목소리도, 무슨 마력이라도 있는 것처럼 그녀의 손에서 빛나던 카드도 전부 기억해…. 아, 그래. 그 여인은 내게 점을 쳐주겠다며 이렇게 말했지. 『당신이 알고 싶은 게 행복이든, 재앙이든, 잃게 될 물건이든, 뜻밖의 소득이든… 진실한 이야기 하나만 들려주면 돼요——과거와 미래는 원래 같은 원에 있는 같은 점이거든요』 머리가 좀 어지러웠지만, 참 상냥한 여인이었어. 그녀에게 아주 많은 이야기를 들려줬는데, 인내심 있게 내 헛소리를 끝까지 들어줬던 것만 기억나…. 그리고 난 점괘대로 호텔 손님 대신 그녀의 거울을 찾아줬지! 아, 그녀에게 무슨 말을 했었냐고?——중요한 건 아니고, 그저 과거에 대한 소문을 좀 들려줬지……」</i><br><align=\"right\">——어느 페나코니 현지인의 기억</align><br><br>지금 그녀는 점술가로서 여러 세계를 오가며 운명의 길과 에이언즈에 관한 기억을 탐색하고 있다. 그 기억들은 보석처럼 단단해서, 언젠가 잊혀도 완전히 지울 수는 없을 거라고 그녀는 믿고 있다.<br><br><i>「수많은 기억하는 자가 페나코니에 갔었지만, 아무런 소득이 없었지. 그리고 그들은 그곳이 수면 위 화려한 꿈에 불과하다고 말했어」<br>「하지만 꿈은… 변형된 기억이기도 해. 기억 도둑과 소각공들이 오기 전에, 난 심해 속으로 들어가 잔해를 볼 거야」</i>"
         }
     ]
 }
@@ -1185,196 +1185,204 @@ var _story_ = {
 var _voice_ = {
     "1307": [
         {
-            "Title": "First Meeting",
-            "Voice": "Trailblazer? Intriguing name. Hmm... and a fate that's quite elusive..."
+            "Title": "첫 만남",
+            "Voice": "{NICKNAME}? 재미있는 이름이네. 음, 그리고 꽤 간파하기 힘든 운명이야"
         },
         {
-            "Title": "Greeting",
-            "Voice": "How's the journey been? If there's something weighing you down, let me do a little divination for you..."
+            "Title": "인사",
+            "Voice": "요즘 어떻게 지내? 고민이 있다면 「선택」을 결정할 수 있게… 점 좀 쳐볼까?"
         },
         {
-            "Title": "Parting",
-            "Voice": "Fear not, unless I wipe away your memories, forgetting me is not an option~"
+            "Title": "작별",
+            "Voice": "걱정하지 마, 내가 너의 기억을 지우지 않는 이상 날 잊지는 않을 거야~"
         },
         {
-            "Title": "About Self: Existence",
-            "Voice": "Mortals are bound to the perception of the tangible, failing to comprehend that it is the spirit and the spiritual that form the true essence of the cosmos. Through the grace of \"Fuli,\" we may shed our perishable forms and attain closeness to the true essence of being."
+            "Title": "자신에 대해•존재",
+            "Voice": "평범한 사람은 물질만 보고 정신과 영성이 우주의 본질인 걸 깨닫지 못해. 우리는 「후리」의 은혜로 말미암아 쉽게 망가지는 실체에서 벗어나 진정한 존재에 가까워졌지"
         },
         {
-            "Title": "About Self: Wishes",
-            "Voice": "Recover those cherished recollections and enshrine them in a land of purity. In doing so, all will be preserved from true oblivion."
+            "Title": "자신에 대해•소원",
+            "Voice": "소중한 기억을 건져 정토에 봉인해 두면 정말로 사라질 일은 없어"
         },
         {
-            "Title": "Chat: Divination Methods",
-            "Voice": "The dance of the stars, the silent whisper of numbers, the foretelling of cards... Mmm, I've heard that divination via app is all the rage these days. Yet, this is just a supplementary tool. To hear one's speech, to venture into their hearts, to glimpse their memories... that's where the most precise truths are revealed."
+            "Title": "잡담•점괘 방식",
+            "Voice": "뭇별의 운동, 숫자의 암시, 카드의 예언…. 음, 최근엔 휴대폰 점괘도 유행이더라? 하지만 그런 것도 다 부가적인 것일 뿐이야. 사람의 말을 듣고, 그들의 마음속에 들어가, 그들의 기억을 엿봐야 정확한 결과가 나올 수 있어"
         },
         {
-            "Title": "Chat: Light Cone",
-            "Voice": "Through the course of one's existence, only a scant number of impactful memories— pain, joy, rage, sorrow, can be harvested... The Garden of Recollection was conceived with the preservation of such memories in mind — yet it isn't immune to the corporation's endeavor to openly profit from it."
+            "Title": "잡담•광추",
+            "Voice": "고통, 기쁨, 분노, 슬픔…. 한 사람의 인생에서 꺼낼 수 있는 힘을 지닌 기억은 매우 적어. 기억의 정원이 만들어진 목적은 이런 기억을 보관하기 위해서였지만 가격을 매기려는 컴퍼니의 마수를 피해갈 수 없었지"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "If I can identify and encapsulate a fragment of memory before it's unveiled to the world, those solitary moments of delight are my most favored and unique memories."
+            "Title": "취미",
+            "Voice": "세상보다 먼저 기억을 발견하고 수집할 수 있다면, 혼자서 기억을 감상하는 시간은 내가 가장 좋아하는 유일무이한 추억이 될 거야"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "It's undeniable, being without a physical body has its perks, but when moving through the world in the form of a memetic entity, the danger of forsaking one's \"self\" becomes apparent."
+            "Title": "고민",
+            "Voice": "육신이 없으면 편하긴 하지만 「밈」의 방식으로 세상을 오고 가는 건 「자아」를 잃어버릴 위험을 지니고 있지"
         },
         {
-            "Title": "Sharing: Pure Land",
-            "Voice": "The most luminous and lavish memories are to be sheltered in the Pure Land of Recollection. In the tales whispered among the Memokeepers, \"Fuli\" will blend these recollections into the Eden of Blessed Insight, and they shall serve to reshape the entirety of the world after its annihilation."
+            "Title": "공유•정토",
+            "Voice": "가장 찬란하고 아름다운 기억들은 정토로 보내져 보관되지. 기억하는 자들 사이에 떠도는 전설에 따르면 「후리」는 이 기억들을 엮어 선견천(善見天)에 두고, 이 기억들은 세계가 몰락한 뒤 모든 것을 재구성할 틀이 될 거래"
         },
         {
-            "Title": "Sharing: Memetic Entity",
-            "Voice": "The day I became a memetic entity, I saw my own corporeal body dissolve, people's memories precipitating, crystallizing, and then shattering in the flow of time. They gleamed with such brilliance, as if they were crystals with boundless facets. It was in that moment I grasped, that everything is transient, but memories are eternal."
+            "Title": "공유•밈",
+            "Voice": "「밈」이 된 그날, 내 육신이 녹아내리는 걸 봤어. 사람들의 기억은 시간 속에서 추출되고 침전되어 결정화되더니 다시 부서졌지. 그것은 마치 무수한 단면을 가진 결정체처럼 영롱했어. 그때 난 깨달았지, 모든 것은 사라져도 「기억」은 영원해"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "A few Memokeepers prefer to covertly penetrate others' thoughts capriciously reshaping their memories, but I harbor no liking for such deeds. Only the recollections that remain untouched by others carry true essence and are treasurable. Anything contrary is just the imposition of another's thought."
+            "Title": "견문",
+            "Voice": "타인의 뇌리로 들어가 마음대로 그들의 기억을 바꾸는 걸 좋아하는 기억하는 자도 있어…. 난 그런 짓을 전혀 좋아하지 않아. 타인이 수정하지 않은 기억만이 진실하고 소중하거든. 손을 댄 기억은 그저 타인이 주입한 사상에 불과하지"
         },
         {
-            "Title": "About Trailblazer",
-            "Voice": "Perhaps, there will come a day when you'll willingly share your memories with me — I eagerly await such a time."
+            "Title": "{NICKNAME}에 대해",
+            "Voice": "언젠가 네가 먼저 와서 기억을 공유해 주지 않을까——난 그 순간이 오기를 기대하고 있어"
         },
         {
-            "Title": "About Acheron",
-            "Voice": "Avoid entering someone's past memories lightly, especially hers."
+            "Title": "아케론에 대해",
+            "Voice": "준비를 마치기 전엔 함부로 누군가의 기억에 들어가지 마, 특히 그녀의 기억 말이야"
         },
         {
-            "Title": "About Aventurine",
-            "Voice": "When exploring opportunities, one such as he, a gambler, will never reject your overtures. Gratify his whims, but also keep your defenses up."
+            "Title": "어벤츄린에 대해",
+            "Voice": "기회를 찾을 때 그와 같은 도박꾼은 절대 너의 요구를 거절하지 않을 거야. 그의 비위를 맞춰주기도 해야겠지만 방비도 충분히 해둬야 하지"
         },
         {
-            "Title": "About Sparkle",
-            "Voice": "Hmm, a fascinating young girl. She won't admit it, but I imagine she's always yearned to be noticed by others. Her mind is the most chaotic place I've ever witnessed, but it also possesses the strongest tool of all — intuition."
+            "Title": "스파클에 대해",
+            "Voice": "음, 재미있는 꼬마 아가씨야. 말은 안 하지만, 남들에게 「보여지고」 싶은 것 같아. 그녀의 속마음은 내가 본 것 중에 가장 혼란한 곳이었지만, 그녀는 직감이라는 가장 큰 무기를 쥐고 있었지"
         },
         {
-            "Title": "About March 7th",
-            "Voice": "Even if her past is a forgotten whisper, and she was once bewildered about her future, March's experiences will undoubtedly transform into unique memoria. It's exciting to think just what memories she might bestow upon the Garden of Recollection..."
+            "Title": "Mar. 7th에 대해",
+            "Voice": "과거를 잊었어도, 미래가 막막했더라도, 그녀의 경험 역시 유일무이한 기억 물질이 될 수 있을 거야. 정말 기대돼, 그때 그녀는 기억의 정원에 어떤 기억을 바치게 될까……"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "As fate dictates, dispersed memories begin to intertwine anew..."
+            "Title": "성혼 활성화",
+            "Voice": "흩어진 기억은 운명의 길에서 다시금 이어지고 있어"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "I recall some enchanting moments..."
+            "Title": "캐릭터 승급",
+            "Voice": "아름다웠던 일들이 기억나네"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Set forth, for countless memories shimmer in the distance..."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "출발하자, 먼 곳에서 아직 수많은 기억들이 빛나고 있어"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Grand tales stem from grand pasts..."
+            "Title": "행적 활성화",
+            "Voice": "위대한 이야기는 위대한 과거에서 오지"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "Rest assured, dear, I'll do all that I can to assist you."
+            "Title": "파티 편성•{NICKNAME}",
+            "Voice": "달링, 힘닿는 데까지 도와줄게"
         },
         {
-            "Title": "Added to Team With Sparkle",
-            "Voice": "Little lady, make sure you don't go overboard this time."
+            "Title": "파티 편성•스파클",
+            "Voice": "꼬마 아가씨, 이번엔 적당히 해"
         },
         {
-            "Title": "Added to Team With March 7th",
-            "Voice": "What meaning does this journey hold for you?"
+            "Title": "파티 편성•Mar. 7th",
+            "Voice": "이번 경험이 너에게 어떤 의미가 될까……"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Destiny's course is becoming apparent."
+            "Title": "파티 편성•아케론",
+            "Voice": "이번엔 아케론 씨가 정해…. 「당신」은 어떤 춤을 추고 싶어?"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Such an elusive foretelling..."
+            "Title": "파티 편성•어벤츄린",
+            "Voice": "이번에도 잘 협력해서 각자 필요한 걸 얻도록 하자"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "The threads of destiny aren't chosen."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "정해진 궤도는 이미 나타났어"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "What would you like to know this time?"
+            "Title": "전투 시작•위험 경보",
+            "Voice": "파악하기 힘든 예언……"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Continue, or remain in the dark..."
+            "Title": "턴 시작•1",
+            "Voice": "운명은 선택이 아니야"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Here, all yours."
+            "Title": "턴 시작•2",
+            "Voice": "이번엔 무엇을 알고 싶어?"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Again, the ill tidings manifest."
+            "Title": "턴 대기",
+            "Voice": "계속해 봐, 아니면 어떻게 해답을 찾겠어?"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "The seal of ill fate descends!"
+            "Title": "일반 공격",
+            "Voice": "자, 잘 잡아"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Mind your manners."
+            "Title": "전투 스킬•1",
+            "Voice": "불길의 상징, 재현"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Retribution will find you!"
+            "Title": "전투 스킬•2",
+            "Voice": "액운의 맹세, 강림"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Memories are ever-changing."
+            "Title": "약공격 피격",
+            "Voice": "무례한 손님이네"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Beneath the silent waters lies an endless abyss."
+            "Title": "강공격 피격",
+            "Voice": "대가를 치러야 할 거야"
         },
         {
-            "Title": "Downed",
-            "Voice": "Time's passage... is unkind..."
+            "Title": "필살기•활성화",
+            "Voice": "기억은 늘 변하는 거품이지"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Only memories remain eternal."
+            "Title": "필살기•발동",
+            "Voice": "잔잔한 수면 아래는… 무한의 심연이야"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Destiny's hand has truly blessed me."
+            "Title": "전투 불능",
+            "Voice": "운이… 나빴네……"
         },
         {
-            "Title": "Technique",
-            "Voice": "Make a wish."
+            "Title": "전투 복귀",
+            "Voice": "기억만이 영원하지"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Another precious memory to hold onto."
+            "Title": "HP 회복",
+            "Voice": "운명의 인도에 감사를"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "A turn of fate."
+            "Title": "비술",
+            "Voice": "소원을 빌어봐"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "A sincere heart prevails."
+            "Title": "전투 승리",
+            "Voice": "또 하나의 소중한 기억이네"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Destiny gifts unexpected joys."
+            "Title": "전리품 오픈•1",
+            "Voice": "운이 좋아"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Exceptionally deciphered."
+            "Title": "전리품 오픈•2",
+            "Voice": "진심은 통하는 법이지"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "The power of wisdom and memory..."
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "운명의 선물은 때론 예상을 벗어나"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "A foreboding sign..."
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "훌륭한 해독이었어"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "This place holds such fond memories... Care to reminisce?"
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "지혜와 기억의 힘……"
+        },
+        {
+            "Title": "적 발견",
+            "Voice": "역위, 불리해……"
+        },
+        {
+            "Title": "도시로 복귀",
+            "Voice": "이곳의 과거는 재미나…. 어디 가서 얘기해 볼까?"
         }
     ]
 }

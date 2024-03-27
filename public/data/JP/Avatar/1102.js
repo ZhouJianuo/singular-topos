@@ -416,23 +416,23 @@ var _story_ = {
     "1102": [
         {
             "_id": 1,
-            "Story": "A spirited and valiant member of Wildfire who grew up in the perilous Underworld of Belobog. She is accustomed to being on her own.<br>The protectors and the protected, the oppressors and the oppressed... The world Seele grew up knowing was just a simple dichotomy...<br>That is, until \"that girl\" appeared."
+            "Story": "颯爽とした立ち振る舞いの「地炎」のメンバー。地下の危険な環境で育った彼女は、一人で行動することに慣れている。<br>保護する者と保護される者、抑圧する側と抑圧される側。世界がゼーレに見せるのは、いつも白と黒で分かたれた景色だった——<br>そう、「あの少女」が現れるまでは。"
         },
         {
             "_id": 2,
-            "Story": "Seele's first fight in her life was for herself.<br><br>Back then, she would wander aimlessly through the alleyways each day. When she was thirsty, she'd beg for water at the orphanage. When she was hungry, she'd swap scraps she found with the merchants for biscuits. Everyone in the dark side of Rivet Town knew that fearless homeless girl, and everyone was keen to avoid this wild, stubborn little rascal.<br><br>One hot evening, she felt very thirsty from too much playing. She arrived at the orphanage to discover the bucket containing water from the well is almost empty. Another shriveled homeless man was also there trying to get a drink — and after a power struggle which involved fists and even teeth, the man fled and Seele earned the right to slake her thirst alone.<br><br>Seele saw the man three days later. Through the window of the clinic, she saw that wizened figure at death's door, lying on a stretcher.<br><br>Ever since then, she's always left a little water in the bucket for the people coming later."
+            "Story": "ゼーレの初めてのケンカは自分のためだった。<br><br>その頃、彼女は当てもなく町を彷徨い、喉が渇けば孤児院の救済所で水を求め、お腹が空けばゴミを拾い、町の物売りにそれとクッキーを交換してもらって食べていた。リベットタウンの裏では、誰もがその怖いもの知らずな流浪の少女を知っており、誰もがその野蛮で頑固な幼いならず者とは関わりたくないと考えていた。<br><br>ある暑い日の夜、遊びすぎて喉が渇いた彼女は給水所に来たのだが、鉄のバケツの中の井戸水が底を尽いていることに気が付いた。そこに、彼女と同じく水を求めて浮浪者がやってきた——ひとしきり戦った結果、浮浪者は逃げ、ゼーレは水を独占する権利を勝ち取った。<br><br>ゼーレがその浮浪者に再会したのは3日後のことだった。診療所の窓を覗いた時、ベッドの上に横たわる痩せ細った体が見えたのだ。浮浪者は今にも死にそうだった。<br><br>それ以来、彼女は後から来る人のために水を残すようになった。"
         },
         {
             "_id": 3,
-            "Story": "As a child, Seele only ever went up to the Overworld once. That was after she'd met Oleg — who at the time was still captain of the Underworld's Silvermane Guards. Oleg hid Seele in his supply bag one day and took her up to the Overworld by cable car to give her a peek at the city she yearned for.<br><br>Seele followed Oleg around the sights of Belobog, eating delicious foods and dressing up in splendid clothes beyond her wildest imagination. She scared off a group of kids with her uncouth miner slang, which caused Oleg to burst out into laughter. Those two short days were full of joy and laughter.<br><br>Before leaving that evening, they sat on a bench in the Administrative District Plaza as Seele stared at the restaurant opposite them.<br><br><i>\"Was the Overworld fun, Seele? Wanna come back again later?\"<br>\"Can I ask you something?\"<br>\"...What's up? Ask away.\"<br>\"Those Overworlders are only eating half their meal, and threw the rest away.\"<br>\"...\"<br>\"Do they know that people down below haven't got enough food to eat?\"<br>\"...\"</i><br><br>Oleg saw how a look of gloom passed over her tender face.<br><br><i>\"Let's go back, Oleg. I don't want to come back here again.\"</i>"
+            "Story": "幼い頃、ゼーレは一度だけ上層部に行ったことがある。それは彼女がオレグに出会った後のこと——当時のオレグは下層部の治安を守るシルバーメインの兵長だった。オレグはゼーレが憧れている街を見せてあげようと、彼女を自分の補給袋の中に隠れさせ、ケーブルカーで上層部に戻ったのだ。<br><br>ゼーレはオレグと共にベロブルグの名所を巡り、今まで食べたことのない美味しいものを食べ、想像すらできなかった綺麗な服を着た。彼女が粗暴な鉱夫のスラングで子供たちを追い払った時は、オレグも思わず笑ってしまった。2日間という短い間だったが、彼らはずっと笑顔だった。<br><br>上層部を離れる前、2人は行政区の広場のベンチに座っていた。ゼーレは向かいのレストランをじっと見つめている。<br><br><i>「上層部は楽しかったか、ゼーレ？また来たいか？」<br>「ねえ、質問があるんだけど」<br>「…なんだ？」<br>「あの上層部の人たち、半分だけ食べてご飯を捨ててる」<br>「……」<br>「アイツら、地下の人がご飯を食べられないの知ってるの？」<br>「……」</i><br><br>オレグはゼーレの表情を窺った。幼い顔には一抹の憂いが滲んでいる。<br><br><i>「帰ろう。もうここには来たくない」</i>"
         },
         {
             "_id": 4,
-            "Story": "Lying on the clinic's bed, Seele is finally able to calm herself down as she silently thought over her experiences since becoming a member of Wildfire.<br><br>Injuries and blood are routine occurrences for her. Seele has a better-than-average tolerance for pain, which allows her to fully unleash herself in combat — ignoring any lingering bumps and bruises.<br><br>Wounds will always heal, just as the threat of the Fragmentum will always grow. Just as people always return to their boring lives once rescued. Sometimes, a misconception would pop up in Seele's mind, as if time in the Underworld had come to a standstill... It somehow seems that all the efforts she and Wildfire had made are all in vain.<br><br>The doctor comes over and gently asks about her injury. Seele struggles to organize words, and conveys her confusion to the doctor.<br><br><i>\"What's more important than miracles, Seele,\"</i> the doctor says with a smile as she places her palm lightly on Seele's forehead, <i>\"is to protect people's hopes for miracles.\"</i>"
+            "Story": "診療所のベッドに横たわった時、ゼーレはようやく落ち着くことができた。彼女は静かに自分が「地炎」になってからの経験を振り返る。<br><br>彼女にとって怪我や流血は日常茶飯事である。ゼーレは人よりも痛みに強かったため、戦闘中は取るに足らない傷や痣を無視して、思う存分自分を解放することができた。<br><br>傷は必ず癒える。裂界の脅威が常に増しているように、そして一度は救われた人々が、再び退屈で苦難に満ちた生活に戻ってしまうのと同じように。時折、ゼーレは下層部全体の時間が止まったように錯覚することがある…彼女や「地炎」の努力は、すべて無駄なのではないかと思ってしまうのだ。<br><br>女性の医者が入ってきて、ゼーレに優しく怪我の具合を尋ねた。彼女は何とか言葉を絞り出し、自分の困惑を相手に伝える。<br><br><i>「ゼーレ、重要なのは奇跡よりも……」</i>医者はにっこりと笑い、手のひらを彼女の額に乗せて言った。<i>「奇跡に対する人々の希望を守ることよ」</i>"
         },
         {
             "_id": 5,
-            "Story": "The Administrative District Plaza is a crowded place, and it's where almost half the residents of Belobog are now gathering. Suppressing her disdain for bustling crowds, Seele scans across the faces in the Plaza with her careful gaze.<br><br>Her hard work pays off, and she soon locks onto a target. A man wearing a gray hat, his hands in his pockets, is scuttling back and forth through the crowds while slyly looking from side to side with a sharp expression. After confirming that nobody is watching — at least, so he thinks — the man reaches out to grab the satchel of the woman beside him.<br><br>But before his fingers could reach the bag's zip, a slender but forceful hand quickly grabs his wrist. He nearly cries out with the pain, but Seele clasps her other hand over his mouth.<br><br><i>\"Not a peep from you.\"</i><br><br>The majestic cry of horns resounds throughout the skies, and the bustling crowd falls silent immediately. A man in a comical outfit rushes to the podium, and shouts in a piercing voice —<br><br><i>\"Ladies and gentlemen! For the ribbon-cutting part of this ceremony, please welcome to the stage — the Supreme Guardian herself, Madam Bronya Rand!\"</i><br><br>Deafening cheers erupt from the plaza. Seele quietly pulls the pickpocket out of the crowd during the ruckus, and escorts him to the Silvermane Guards on duty. She turns to look back at the distant stage, and briefly locks eyes with the woman in the white dress. The Supreme Guardian flashes her an ever-so-brief smile, and Seele nods slightly in response.<br><br>And then, they go their separate ways — one stepping into the light, the other into the shadows.<br>— One day, they will finally meet again."
+            "Story": "行政区は多くの人で賑わっており、まるでベロブルグ市民の半分がここに集まっているようだった。ゼーレは騒がしい人々への嫌悪感を抑えながら、鋭い視線で彼らの顔を眺めている。<br><br>その努力の甲斐あって、彼女はターゲットを見つけることができた。灰色のチェック柄の帽子を被った男は両手をポケットに入れ、人の間を縫って進みながら、陰に隠れた目で周囲を探っている。近くに自分を見ている人がいないことを確認した後——少なくとも彼自身はそう思っている——彼は傍にいた女性のショルダーバッグに手を伸ばした。<br><br>彼の指がショルダーバッグの肩ひもに触れる直前、細いながらも力強い手が彼の腕を掴んだ。スリは痛みに声を上げそうになったが、ゼーレはもう片方の手で彼の口を塞いだ。<br><br><i>「静かにしなさい」</i><br><br>荘厳なトランペットの音が空を切り裂き、賑やかだった群衆が一瞬にして静まり返った。そして派手な格好をした男が高台に駆け上がり、鋭い声で話し始める——<br><br><i>「レディース・アンド・ジェントルメン、本式典のテープカットゲストである——大守護者、ブローニャ・ランド様に歓迎の拍手を！」</i><br><br>耳をつんざくような歓声が広場を包み込む。その喧騒に紛れて、ゼーレは静かにスリを人混みから連れ出して、広場の端で見張りをしているシルバーメインに引き渡した。彼女が遠くの高台を振り返ると、白いスカートの女性と視線がぶつかった。大守護者は彼女に短く笑いかけ、ゼーレも小さく頷いてそれに応えた。<br><br>そして彼女たちは視線を逸らした。1人は光の中へ、もう1人は影の中へ足を踏み入れる。<br>——それでも、彼女たちは出会った。"
         }
     ]
 }
@@ -440,192 +440,192 @@ var _story_ = {
 var _voice_ = {
     "1102": [
         {
-            "Title": "First Meeting",
-            "Voice": "Hey, I'm Seele. I'm a member of Wildfire down here in the Underworld. Wanna help me forge a future for the people?"
+            "Title": "初対面",
+            "Voice": "ワタシはゼーレ、ベロブルグ下層部の「地炎」のメンバーよ。一緒に下層部の未来を見届ける？"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Right on time — let's start the patrol."
+            "Title": "挨拶",
+            "Voice": "いいところに来たわね。巡回に出掛けるわよ。"
         },
         {
-            "Title": "Parting",
-            "Voice": "Hey, you're about to fall asleep on your feet. Don't push yourself — I got this. Go get some rest."
+            "Title": "お別れ",
+            "Voice": "ちょっと、立ったまま寝るつもり？無理せずにここはワタシに任せて、早く休んできなさい。"
         },
         {
-            "Title": "About Self: Childhood",
-            "Voice": "Me as a child? Hook times ten."
+            "Title": "自分について・子供の頃",
+            "Voice": "ワタシの小さい頃？フック 10 人分くらいの破壊力はあったわね。"
         },
         {
-            "Title": "Chat: Life Underground",
-            "Voice": "We may live underground, but we won't be buried by this city."
+            "Title": "世間話・地下の生活",
+            "Voice": "地下で生活していても、ワタシはこの町に埋もれたままでいるつもりはないわ。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I like to keep my scythe sharp so I can get a good night's sleep on it."
+            "Title": "趣味",
+            "Voice": "鎌の刃を十分に早く研ぐことができれば、安心して枕に出来るわ。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "I'm over it now, but... when I was young, I used to keep my favorite comic books in the clinic. Then the other kids started borrowing them... permanently."
+            "Title": "悩み事",
+            "Voice": "悩みってほどじゃないけど…診療所で子供の頃大好きだった漫画を見つけたのに、全部子供たちに貸し出されてしまったのよね。"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "The chief's right — sometimes a sharp blade is the only way to get people to come to their senses."
+            "Title": "シェア",
+            "Voice": "ボスの言う通りだったわ。理不尽な奴に対しては、ナイフの切っ先がよく効くのよ。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Hmm... Can I see this Pom-Pom? Sounds like a talking teddy bear to me."
+            "Title": "見聞",
+            "Voice": "アンタの言うパムってやつ、なんだか喋るぬいぐるみみたいね。ワタシが…会うことって可能かしら？"
         },
         {
-            "Title": "About Natasha",
-            "Voice": "I learned when I was a kid that temper tantrums won't get you anywhere with Nat... Let's just say she knew how to give you a taste of your own medicine."
+            "Title": "ナターシャについて",
+            "Voice": "小さい頃から、駄々をこねて暴れてもナタには通じないと理解していたわ。彼女は医者で…人を「治療」することができるから。"
         },
         {
-            "Title": "About Clara",
-            "Voice": "That girl doesn't talk much, but... I know she doesn't see us as her enemy."
+            "Title": "クラーラについて",
+            "Voice": "あの子は、無口だけど…ワタシを拒んでいないことは分かるわ。"
         },
         {
-            "Title": "About Svarog",
-            "Voice": "Heh, Svarog's always going on about \"humanity's endless conflicts,\" but you don't get peace by offering everything up on a silver platter."
+            "Title": "スヴァローグについて",
+            "Voice": "スヴァローグは「人類は争いを好む」とよく口にしているけど、無抵抗のまま後退するだけで、平和が手に入るのかしら？"
         },
         {
-            "Title": "About Sampo",
-            "Voice": "If you need something done, he might be your man. But if you feel like befriending him, do yourself a favor: don't."
+            "Title": "サンポについて",
+            "Voice": "何かを依頼するのはいいけど、彼と友達になっても、結果的に自分の負担を増やすだけよ。"
         },
         {
-            "Title": "About Hook",
-            "Voice": "Don't let her appetite for chaos fool you — I think that kid's going places."
+            "Title": "フックについて",
+            "Voice": "毎日遊びまわっている姿を見ていると、いつか本当に有名になるんじゃないかと思うわ。"
         },
         {
-            "Title": "About Oleg",
-            "Voice": "I probably owe my life to the chief."
+            "Title": "オレグについて",
+            "Voice": "ボスがいなかったら、今のワタシはいなかったはずよ。"
         },
         {
-            "Title": "About Bronya",
-            "Voice": "It was the first time both of us had seen Belobog's real sky... the same sky."
+            "Title": "ブローニャについて",
+            "Voice": "ワタシたちは初めてベロブルグの本当の空を見たのよ…同じ空をね。"
         },
         {
-            "Title": "About Luka",
-            "Voice": "You think I'm too competitive? Ha, guess you haven't met Luka."
+            "Title": "ルカについて",
+            "Voice": "ワタシの闘争心が強すぎるって？はん、それはアンタがルカに会ったことないから言えるのよ。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Where there's hope, there's the will to fight."
+            "Title": "星魂覚醒",
+            "Voice": "希望があれば、戦う理由もある。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Good news...? I'll take it."
+            "Title": "キャラクター昇格",
+            "Voice": "やっと見通しがついたみたいね。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Ha, try standing in my way now."
+            "Title": "レベルMax",
+            "Voice": "ふ、これでちょっかいを出してくるヤツもいなくなるんじゃない？"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Aha, that'll come in handy."
+            "Title": "軌跡覚醒",
+            "Voice": "いいわね、役に立ちそう。"
         },
         {
-            "Title": "Added to Team With Hook",
-            "Voice": "Hook? Shouldn't you be in... *sigh* Fine, just stay close."
+            "Title": "パーティ編成・フック",
+            "Voice": "フック？アンタ…しっかりワタシについてきなさい。"
         },
         {
-            "Title": "Added to Team With Bronya",
-            "Voice": "I'll take the front line. Stay safe, Bronya."
+            "Title": "パーティ編成・ブローニャ",
+            "Voice": "ワタシが先陣を切る。ブローニャは――自分を守って。"
         },
         {
-            "Title": "Added to Team With Natasha",
-            "Voice": "Managed to grab some sleep, Nat? Don't burn yourself out."
+            "Title": "パーティ編成・ナターシャ",
+            "Voice": "ちゃんと休んでるの、ナタ？そのうち倒れるわよ。"
         },
         {
-            "Title": "Added to Team With Luka",
-            "Voice": "Pair up with him? *sigh* Alright, Luka, let's do this."
+            "Title": "パーティ編成・ルカ",
+            "Voice": "アンタと組むの？はっ…珍しいじゃない、ルカ。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "So you are afraid of me."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "ワタシが怖いの？"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "*sigh* Great."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "面倒くさいヤツ。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "What a headache."
+            "Title": "ターン・1",
+            "Voice": "しつこい。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Don't mess with me."
+            "Title": "ターン・2",
+            "Voice": "うっとうしいわねッ！"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Come on, I wanna try something out."
+            "Title": "戦闘中待機",
+            "Voice": "はやく、はやく試し斬りをしたいわ。"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Who's next?"
+            "Title": "通常攻撃",
+            "Voice": "つぎ。"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Ahhh."
+            "Title": "攻撃を受ける",
+            "Voice": "ちっ。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Argh, only a scratch."
+            "Title": "重撃を受ける",
+            "Voice": "これしき。"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "I'll free you from your chains."
+            "Title": "必殺技・アクティブ",
+            "Voice": "楽にしてあげる。"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Disappear among the sea of butterflies, illusions of the past!"
+            "Title": "必殺技・発動",
+            "Voice": "蝶と共に散れ、スタールイーファントム。"
         },
         {
-            "Title": "Talent",
-            "Voice": "Let me end your misery."
+            "Title": "天賦",
+            "Voice": "あの世に送ってやる。"
         },
         {
-            "Title": "Downed",
-            "Voice": "I can still fight..."
+            "Title": "戦闘不能",
+            "Voice": "ワタシは…まだ…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "It's not over yet."
+            "Title": "戦闘に戻る",
+            "Voice": "まだ終わってない。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Thanks."
+            "Title": "HP回復",
+            "Voice": "助かったわ。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "A sharp scythe needs targets."
+            "Title": "戦闘勝利",
+            "Voice": "目標を狙うほど、この鎌は速くなるのよ。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Time well spent."
+            "Title": "戦利品を開ける・1",
+            "Voice": "無駄足じゃなかったようね。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Mm-hmm, not bad."
+            "Title": "戦利品を開ける・2",
+            "Voice": "うん、悪くないわ。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Hey! Pretty generous."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "ふふ、結構入ってるじゃない。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Not bad at all."
+            "Title": "謎解きに成功・1",
+            "Voice": "やるわね。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "That was unnecessarily difficult..."
+            "Title": "謎解きに成功・2",
+            "Voice": "ここまで難しくする必要ないのに……"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Enemies ahead... up for a scrap?"
+            "Title": "敵ターゲット発見",
+            "Voice": "前方に敵がいるわね。戦う？"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Let's take it in turns. You rest, I'll stand guard."
+            "Title": "町に戻る",
+            "Voice": "アンタは休憩、ワタシは見張り。後で交替しなさい。"
         }
     ]
 }

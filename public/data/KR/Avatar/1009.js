@@ -416,23 +416,23 @@ var _story_ = {
     "1009": [
         {
             "_id": 1,
-            "Story": "A fiercely inquisitive and energetic young girl. She is the Lead Researcher of the space station Herta.<br>Whether it is managing opinionated staff, or courteously but firmly responding to the Intelligentsia Guild's devious demands, Asta handles it all effortlessly.<br>After all... commanding a space station is much easier than taking over the family business!"
+            "Story": "호기심과 체력 모두 왕성한 소녀. 우주정거장의 「헤르타」가 임명한 정거장 책임자다.<br>자기주장이 강한 연구원을 다루는 일이나, 각종 트집을 잡는 지식학회에 어떻게 우주정거장을 대표해 단도직입적으로 대응하는지 같은 건 아스타에게 모두 누워서 떡 먹기이다.<br>우주정거장을 지휘하는 게… 가업을 물려받는 것보단 쉽겠지!"
         },
         {
             "_id": 2,
-            "Story": "Back when she was still a child but was already picking out her own telescopes, Asta would always hear the faint murmurings of elders praising her. She was quite proud of this, because she could discern the quality of a telescope's primary mirror and autoguider with a mere glance.<br><br>It wasn't until she drew within earshot one day that she learned they were actually tutting and tsking at her — how could such a little girl manage to pick out such expensive items?<br><br>Personal hobbies don't exist in the eyes of these people. All they chose to see is a pampered little princess.<br><br><i>\"You like stars? Oh, I get it. You're a little girl. You all like sparkly things.\"<br>\"Yes... I'm researching protostars at the moment. I hope to name the stars I discover after myself... Just like those famous astronomers of old.\"<br>\"Is that all? Shall we name this planet after you for your next birthday? How about two planets? Those are actually quite cheap.\"<br>\"...\"<br>\"Hey, where are you going, Asta? Asta!!!\"</i>"
+            "Story": "어린 나이에 직접 망원경을 고르기 시작하는 모습을 본 어른들은 그녀에게 칭찬을 아끼지 않았고 그녀 스스로도 이를 꽤나 자랑스럽게 여겼다. 망원경의 메인 렌즈에 사용되는 기술, 도성 시스템을 기억하는 건 너무나 쉬웠으니까<br><br>그러던 어느 날, 어른들의 대화를 엿듣던 그녀는 그제야 진실을 알게 된다. 그녀를 칭찬하던 어른들이 그녀의 뒤에서 어린 나이에 비싼 것만 고른다고 혀를 끌끌 차고 있었다<br><br>망원경을 좋아하는 건 그녀의 개인적인 취향이었다. 하지만 어른들의 눈에 그녀의 모습은 안일한 생활에 빠져 사치나 부리는 부잣집 아가씨일 뿐이었다<br><br><i>「별을 좋아한다고? 아, 그렇겠지. 여자애들은 반짝이는 걸 좋아하니까」<br>「음… 저는 요즘 항성의 배아에 대해 연구하고 있어요. 언젠가 제가 발견한 별이 제 이름으로 명명된다면 얼마나 좋을까요… 유명한 다른 천문학자들처럼 말이에요……」<br>「그게 뭐가 어렵다고 그러니? 올해 생일선물로 네 이름으로 된 행성은 어때? 뭐, 두 개도 괜찮아. 어차피 얼마 안 하니까」<br>「……」<br>「어? 아스타, 어디 가! 아스타!」</i>"
         },
         {
             "_id": 3,
-            "Story": "She knows that it doesn't matter whether she and her mother are reliable volunteers. People just want to see them here. That's all.<br><br>After apportioning the food, the people disperse one by one, leaving behind a little boy. His right hand is wounded, and his eyes are like that of a wolf as he stares at her in a way she doesn't like.<br><br><i>\"Are you going to ask me to borrow money?\"<br>\"I don't want any money. I have to pay back the cost of this meal, but I don't have any money on me.\"</i><br><br>Occasionally, \"friends\" she never recognizes would come and ask if they could borrow money from Asta. However, it's the first time she actually heard someone offer to pay her back. Her eyes widen in surprise. Listening in, her mother can't help but laugh.<br><br><i>\"You're still a kid. What kind of work can you do?\"<br>\"Fight.\"<br>\"That's not a good job. How about this — I'll give you a job.\"</i><br><br>To this day, in Asta's heart, the bill for Arlan's meal was settled the moment he said that he'd pay her back."
+            "Story": "그녀와 어머니가 제대로 된 봉사자인지는 별로 중요하지 않다는 걸 그녀도 잘 알고 있었다. 사람들이 원하는 건 두 사람이 이 자리에 얼굴을 비추는 것 그것뿐이니까<br><br>음식을 모두 나누어주자 사람들은 곧 흩어졌지만 남자아이 한 명은 제 자리에 서서는 꿈쩍도 하지 않고았다. 오른손에 상처를 입은 소년은 그녀에게 불만이 많은지 굶주린 늑대처럼 그녀를 노려보고 있었다<br><br><i>「너도 나한테 돈을 빌리고 싶은 거니?」<br>「아니요. 난 돈은 필요없어요. 방금 먹은 밥값을 내고 싶은데 지금은 돈이 없으니까. 그래서 짜증이 나요」</i><br><br>얼굴도 모르는 「친구」들이 아스타에게 돈을 빌리는 건 흔히 있는 일이었지만 돈을 돌려주겠다고 하는 사람은 처음이었다. 아스타는 깜짝 놀라 눈이 휘등그레졌고 그녀의 옆에 있던 어머니는 웃음을 터트렸다<br><br><i>「넌 아직 어리잖아. 네가 뭘 할 수 있지?」<br>「싸움 잘 하는데요」<br>「그건 결코 좋은 직업이 아닌데——이렇게 하자. 내가 일 소개해 줄게」</i><br><br>——지금까지도 아스타는 아를란이 밥값을 갚겠다고 한 순간, 그녀에게 진 빚은 전부 갚은 것이나 마찬가지라고 생각하고 있다"
         },
         {
             "_id": 4,
-            "Story": "<i>\"The stars follow their own orbits, but what about humans... Can we humans ever hope to control our own destiny?\"</i><br><br>A wealthy family background grants Asta the power to explore the stars, but also become her personal shackles.<br><br>As she grows older, Asta's vow to become an astronomer was viewed as increasingly radical by her family. She begins to lose count of how many times she'd argue during family meetings about this very thing.<br><br>Until one day, after a family meeting, a puppet girl walks in, And one of the family members who were so domineering a moment ago suddenly changes into a yes-man.<br><br><i>\"That's the girl.\"<br>\"But she'd...\"<br>\"No buts. I didn't come all this way to listen to your garbage academic reports. I'd rather listen to this girl debate with you.\"<br>\"...\"<br>\"I want to see her on the space station within three days.\"</i><br><br>And with that, the puppet girl walks straight out without looking back."
+            "Story": "<i>「별들은 자신의 궤적을 따라 움직이지. 그럼 인간들은? 인간은 정말 자신의 운명을 통제할 수 없는 걸까?」</i><br><br>우월한 가정 배경 덕분에 아스타는 별하늘을 탐사할 수 있는 힘을 가지게 되었지만 아이러니하게도 그 배경은 그녀의 성장을 막는 장애물이 되고 말았다<br><br>시간이 흐르면서 집안 어른들은 천문학자가 되고 싶다는 아스타를 문제아라고 생각하기 시작했다. 가족 회의에서 이 일로 친척들과 몇 번이나 다툼이 있었지만 바뀐 건 없었다<br><br>어느 날, 가족 회의가 끝난 그때, 인형 소녀가 회의실로 들어왔다. 방금 전까지 기세등등하던 친척들이 그녀에게 굽신대기 시작했다<br><br><i>「이 아이 맞지?」<br>「하지만…」<br>「아니. 하지만 같은 건 없어. 당신들의 말도 안 되는 학술 보고보다 당신들에게 대드는 저 소녀의 말이 훨씬 더 재밌으니까」<br>「……」<br>「3일 안으로 우주정거장에 보내도록 해요」</i><br><br>말을 마친 인형 소녀는 고개도 돌리지 않고 자리를 떴다"
         },
         {
             "_id": 5,
-            "Story": "After becoming the Lead Researcher of the Herta space station, Asta's life is now busier than ever before. She has to manage the researchers and their differing opinions, reply to the numerous correspondence meant for Herta, constantly negotiate with the IPC, and procure equipment from various different sources... But at the same time, she's experiencing the greatest freedom she'd ever known...<br><br><i>\"Deploy the Nyul Iman telescope in the second equipment bay. Set it to 100× astronomical units, and begin observation of the pre-stellar core in front of us.\"<br>\"Pay close attention to particle density. If you discover any super-dense structures, commence recording of the protostar fragmentation process at once.\"</i><br><br>In her spare time, Asta would sometimes consider how Madam Herta never seems to come around anymore after Asta arrived at the space station. She even made inquiries, but was told, \"If there's no interesting new stuff, I won't bother coming in.\"<br><br><i>\"...I'd rather listen to this girl debate with you.\"</i><br><br>She thought back to the words Herta had casually told her family on that day long age.<br><br>The Herta of her memories seems to stand out amongst resplendent starlight, giving her the power to control the starry sky — and her own destiny."
+            "Story": "우주정거장 「헤르타」의 책임자가 된 뒤 아스타의 삶은 더 바빠지기 시작했다. 그녀는 각자 의견이 다른 연구원들을 관리해야 했고 헤르타 대신 수많은 편지에 일일이 답장을 하는 건 물론 각 회사들과 소통하고 여러 가지 루트를 통해 새로운 설비를 구매해야 했다<br><br><i>「2번 설비실의 뉴웰 이만 망원경을 가져와. 100배 천문 단위로 설치하고 전방 『분자구름』을 관측한다」<br>「특히 입자 밀도에 주목하고, 초밀도 구조가 발견되면 『항성 배아』의 분열 과정 기록을 시작해」</i><br><br>한가할 때면 아스타는 그녀가 우주정거장을 관리하기 시작한 뒤로 헤르타 님은 모습을 드러내지 않았다는 걸 의식하곤 했다. 왜 나타나지 않냐고 묻는 아스타의 질문에 헤르타는 「재밌는 물건이 들어오기 전까지 모습을 드러내지 않을 거야」라고 대답할 뿐이었다<br><br><i>「…당신들에게 대드는 저 소녀의 말이 훨씬 더 재밌으니까」</i><br><br>아스타는 아주 오래 전 헤르타를 처음 만난 그날, 그녀가 무표정한 얼굴로 했던 그 말을 다시 떠올렸다<br><br>그녀의 기억 속 헤르타는 마치 찬란한 별빛속에서 별하늘과 자신의 운명을 통제할 수 있는 힘을 준 구세주와도 같은 존재였다"
         }
     ]
 }
@@ -440,196 +440,196 @@ var _story_ = {
 var _voice_ = {
     "1009": [
         {
-            "Title": "First Meeting",
-            "Voice": "Hi, Trailblazer! The name's Asta, I'm the lead researcher on Herta Space Station. I'll be sure to let you know if I need your help... Don't worry, I think you'll be hearing from me."
+            "Title": "첫 만남",
+            "Voice": "안녕, {NICKNAME}. 난 우주정거장 「헤르타」의 책임자 아스타라고 해. 도움이 필요하면 반드시 연락할게…. 걱정 마, 도움은 절대 사양하지 않거든"
         },
         {
-            "Title": "Greeting",
-            "Voice": "*yawn* You're here! The observation matrix we adjusted should have some results for us now. Free to take a look?"
+            "Title": "인사",
+            "Voice": "왔어? 전에 조사한 관측 어레이의 결과가 나올 때가 됐는데. 시간 있으면 같이 볼래?"
         },
         {
-            "Title": "Parting",
-            "Voice": "Is that the time? Time flies when you're working hard."
+            "Title": "작별",
+            "Voice": "시간이 벌써 이렇게 됐다고? 근무 시간은 항상 순식간에 지나간다니까"
         },
         {
-            "Title": "About Self: Family",
-            "Voice": "*sigh* Even if I never kept in touch with any of my relatives, they would find their way over here."
+            "Title": "자신에 대해•가족",
+            "Voice": "휴, 아무한테 연락을 안 해도 친척들이 알아서 찾아올 거야"
         },
         {
-            "Title": "About Self: Work",
-            "Voice": "You heard right! If I don't work hard, I'll have to go back and inherit the family fortune... *sigh*"
+            "Title": "자신에 대해•업무",
+            "Voice": "맞아, 열심히 일하지 않으면 집으로 돌아가서 가업을 이어야 해…"
         },
         {
-            "Title": "Chat: Astronomy Thesis",
-            "Voice": "...I haven't written a single word yet... But it won't take long once I get started!"
+            "Title": "잡담•천문 논문",
+            "Voice": "…아직 한 글자도 못 쓰긴 했는데, 일단 시작하면 금방이야"
         },
         {
-            "Title": "Chat: Space Station",
-            "Voice": "\"The space station is merely Herta's toy box.\" That's by no means an inaccurate statement. But this is Herta we're talking about — her toys are pretty dangerous~"
+            "Title": "잡담•우주정거장",
+            "Voice": "「우주정거장은 헤르타의 장난감 박스일 뿐이다」, 틀린 말은 아니야. 하지만 상대가 헤르타 님이라면, 그분의 장난감은 당연히 위험하겠지~"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Continuously channeling funds into constructing the space station, improving employee benefits, creating a positive feedback loop... Ahem, as well as satisfying the lead researcher's — that is to say my — indispensable shopping needs."
+            "Title": "취미",
+            "Voice": "지속적으로 자금을 우주정거장의 건설에 투자하고 직원 복지를 개선하고, 양질의 순환을 형성하는 것. 그리고 책임자를 만족시키는 게 내 쇼핑 요구사항이야"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "If only Madam Herta could pay a visit to the space station more often — the researchers are clearly her followers."
+            "Title": "고민",
+            "Voice": "헤르타 님이 종종 우주정거장에 들러주셨으면 좋겠어. 연구원들은 다들 헤르타 님을 따라 여기 왔거든"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "When I first got to the space station, the researchers had prepared a room for me. I—I was really grateful, but it was far away from everyone else. That was a bit disheartening."
+            "Title": "공유",
+            "Voice": "우주정거장에 도착했을 때 연구원들이 나한테 1인실을 따로 준비해 줬어. 고마웠지, 고맙긴 한데 거긴 모두랑 멀리 떨어져 있어서 거기서 지내고 싶지는 않더라고"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Even the monitoring room is being monitored."
+            "Title": "견문",
+            "Voice": "감시실에 있어도 감시를 당할 수 있지"
         },
         {
-            "Title": "About Arlan",
-            "Voice": "Arlan's always saying stuff like, \"all of you must heed Lead Researcher Asta's judgment!\" Then when I remind him that that includes him, he says, \"don't worry, I have my own judgment.\""
+            "Title": "아를란에 대해",
+            "Voice": "아를란 성대모사 해줄게. 「모두들 아스타 책임자님의 판단을 따르면 된다」라고 하면, 내가 「너도 조심해」라고 해. 그럼 아를란은 「괜찮습니다, 전 저만의 판단이 있으니까요」라고 하지"
         },
         {
-            "Title": "About Herta",
-            "Voice": "If there's anyone who thinks they can be as headstrong as Madam Herta, I'd recommend they consider whether or not they possess her intelligence first."
+            "Title": "헤르타에 대해",
+            "Voice": "자신이 헤르타 님처럼 제멋대로 행동할 수 있다고 생각하는 사람이 있다면, 일단 자기가 헤르타 님 같은 지혜를 갖췄는지부터 고민해 봤으면 좋겠어~"
         },
         {
-            "Title": "About the Astral Express",
-            "Voice": "I can't solve every problem the Express Crew might have in their voyage across the galaxy, but if money's ever the solution, come find me."
+            "Title": "은하열차에 대해",
+            "Voice": "열차는 은하를 유람하니까 내가 도와주지 못할 수도 있어. 하지만 돈으로 해결할 수 있는 일이라면 뭐든 얘기해"
         },
         {
-            "Title": "About Topaz",
-            "Voice": "The last time I spoke with Topaz, we agreed to take a holiday. We were going to charter a ship, go star-seeing, and catch up on all the IPC gossip... but we still haven't had the chance..."
+            "Title": "토파즈에 대해",
+            "Voice": "전에 토파즈 씨랑 휴가 이야기를 나눴어. 비행체를 통째로 빌려서 드넓은 별바다를 감상하며 「컴퍼니」 얘기 좀 하자고 했는데… 언제쯤 시간이 맞을까……"
         },
         {
-            "Title": "About Ruan Mei",
-            "Voice": "I asked Miss Ruan Mei where I could buy a charm like the one on her sleeve — but I was surprised to learn she'd hand-embroidered it. I was equally surprised when she gave me my own hand-embroidered charm the next time she came to the space station. Her craftsmanship, like her research papers, is superb."
+            "Title": "완•매에 대해",
+            "Voice": "완•매 씨에게 소매 액세서리 구매 링크를 물어봤는데 놀랍게도 직접 수놓은 거였더라고. 게다가 그다음 우주정거장에 왔을 때 별 모양 펜던트를 나한테 선물하는 거 있지? 진짜 놀랐어! 손재주도 그녀의 논문만큼이나 섬세하더라니까"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Every star is a miracle!"
+            "Title": "성혼 활성화",
+            "Voice": "모든 별은 다 기적이야!"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "The more I learn about it, the more I love the starry sky."
+            "Title": "캐릭터 승급",
+            "Voice": "많은 걸 알아갈수록 이 별하늘이 더 사랑스러워"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Goals are like the stars — we'll reach them eventually."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "목표는 하늘의 별과 같아. 까마득히 멀리 있는 건 아니지"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Another step closer to distant worlds."
+            "Title": "행적 활성화",
+            "Voice": "어라라, 이게 바로 「별을 쫓는 여정」이야?"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "The Express has been a lifeline — time to return the favor!"
+            "Title": "파티 편성•{NICKNAME}",
+            "Voice": "열차팀이 많이 도와줬으니까, 이번엔 내가 보답할 차례야!"
         },
         {
-            "Title": "Added to Team With Arlan",
-            "Voice": "Arlan... don't carry the weight alone."
+            "Title": "파티 편성•아를란",
+            "Voice": "아를란… 더 이상 혼자 싸우지 마"
         },
         {
-            "Title": "Added to Team With Herta",
-            "Voice": "Oh! Madam Herta? We've got nothing to worry about."
+            "Title": "파티 편성•헤르타",
+            "Voice": "헤르타 님도 계셨어요? 그럼 걱정 안 해도 되겠네요!"
         },
         {
-            "Title": "Added to Team With Topaz",
-            "Voice": "Topaz, what a coincidence! Guess I should see this as a business trip!"
+            "Title": "파티 편성•토파즈",
+            "Voice": "어머, 토파즈 씨! 우연이네요, 출장이라 생각하면 되겠죠!?"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Hm. Scared yet?"
+            "Title": "전투 시작•약점 격파",
+            "Voice": "응? 무서워하지 마~"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Time to get vigilant."
+            "Title": "전투 시작•위험 경보",
+            "Voice": "조심해야겠어"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "A guest with no manners, huh?"
+            "Title": "턴 시작•1",
+            "Voice": "정말 예의를 모르는 손님이네"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "I don't remember inviting you."
+            "Title": "턴 시작•2",
+            "Voice": "너흴 초대한 기억 없어"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Guess what I'm about to do~"
+            "Title": "턴 대기",
+            "Voice": "뭘 하려는지 맞춰봐~"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Look out~"
+            "Title": "일반 공격",
+            "Voice": "비키라고"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Who's the lucky one today?"
+            "Title": "전투 스킬•1",
+            "Voice": "행운아는 누구려나~"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "A gift from the stars~"
+            "Title": "전투 스킬•2",
+            "Voice": "별의 축복을 받아라~"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Ow ow ow..."
+            "Title": "약공격 피격",
+            "Voice": "아야야……"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "No, don't..."
+            "Title": "강공격 피격",
+            "Voice": "오지 마……"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Everything is ordained by the stars."
+            "Title": "필살기•활성화",
+            "Voice": "모든 건, 별의 선택이야"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Oh profound secrets of the stars, give these Trailblazers your blessing!"
+            "Title": "필살기•발동",
+            "Voice": "별의 신비를 갈망하는 열쇠여, 개척자에게 진정한 축복을 주어라!"
         },
         {
-            "Title": "Downed",
-            "Voice": "But I want... to know more..."
+            "Title": "전투 불능",
+            "Voice": "아직… 알고 싶은 게 많은데……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "That didn't count, let's go again!"
+            "Title": "전투 복귀",
+            "Voice": "방금 건 무효야, 다시 해"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Saving me won't earn you any favors."
+            "Title": "HP 회복",
+            "Voice": "구해줘도 너한텐 뭐 안 떨어져"
         },
         {
-            "Title": "Technique",
-            "Voice": "Found your weakness~"
+            "Title": "비술",
+            "Voice": "약점 들통났어~"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "The stars will always remember us."
+            "Title": "전투 승리",
+            "Voice": "별들이 우리의 이름을 기억할 거야"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Do I have this already?"
+            "Title": "전리품 오픈•1",
+            "Voice": "난 다 있어"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Hope you like them!"
+            "Title": "전리품 오픈•2",
+            "Voice": "이것도 나름 성의네~"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Definitely worth our while."
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "품질은 꽤 좋은 거 같아"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Progress~"
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "실력이 많이 늘었네~"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Been a while since I worked on one of these!"
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "수수께끼는 간만이네!"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Might as well beat it up before it attacks me."
+            "Title": "적 발견",
+            "Voice": "내가 공격을 안 하면 녀석도 날 공격 안 하려나?"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Can you see the stars from here too?"
+            "Title": "도시로 복귀",
+            "Voice": "이곳에서도 별이 보여?"
         }
     ]
 }

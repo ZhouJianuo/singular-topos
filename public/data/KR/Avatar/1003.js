@@ -419,23 +419,23 @@ var _story_ = {
     "1003": [
         {
             "_id": 1,
-            "Story": "An adventurous scientist who encountered the Astral Express as a young woman when it got stranded in her homeworld.<br>Years later, when Himeko finally repaired the Express and began her journey into the stars, she realized that this is only the beginning. On her journey to trailblaze new worlds, she would need many more companions...<br>And while they may have different destinations, they all gaze at the same starry sky."
+            "Story": "모험심이 강한 과학자. 어린 시절, 고향 세계에서 좌초된 은하열차와 마주쳤었다.<br>몇 년 후, 히메코는 그 열차를 고치고 여정을 떠나서야 이것은 시작에 불과하다는 걸 깨달았다. 신세계를 「개척」하는 길엔 더 많은 동료가 필요하다——<br>동행자들이 서로 다른 곳 바라본대도 그들은 같은 별하늘 아래에 있다"
         },
         {
             "_id": 2,
-            "Story": "The girl is lost.<br><br>She can't remember when she became lost. She just walked and walked, on and on into the dark night, chasing the sun and the moon, over and over again — until she falls.<br><br>She remembers what she looked like as a college freshman, remembers her chosen major — interstellar travel dynamics — and now she's lying face down in the mud.<br><br>She looks up to the stars, and just then sees meteors streaming down: one, two, three... And then more, smaller ones, flickering and flashing ever so finely before a magnificent blaze tore open the night.<br><br>Her limbs drag her forward, leading her on to where the land meets the ocean. At the shoreline, the waters jostle against her like how the tide treats that stranded Express, alone and lost.<br><br>She walks in and see the scenery outside beginning to change. The Express shows her a myriad of magnificent worlds. They are faraway, beyond her homeworld, yet also close enough to be a simple train ride.<br><br>She tries to repair the Express. It starts up only briefly, but it is enough to skid across the sky of her home. She immediately sees the path home. From that altitude, the journey is so short, and even the ocean of her homeworld appears so insignificant.<br><br>It asked her whether she'd like to travel together. She wonders what kind of journey that would be.<br><br><i>\"A journey to the beginning.\"<br>\"Let's go then.\"</i> Without hesitation, the girl replied, <i>\"Just as you brought me home, so would I take you home, too.\"</i>"
+            "Story": "소녀는 길을 잃어버렸다<br><br>그녀는 자신이 언제부터 길을 잃어버렸는지 알지 못했다. 그저 걷고, 밤중에도 쉬지 않고 걷고, 해와 달을 쫓으며 쓰러질 때까지 계속 걸었다<br><br>갓 대학에 입학했을 때의 모습을 떠올리며 자신이 선택한 전공인 우주 항행 동력학을 떠올렸지만 지금은 진흙탕 길 위에 누워 있는 그녀였다<br><br>그녀는 고개를 들어 별하늘을 바라보며 별똥별을 세어보았다. 하나, 둘, 셋… 그리고 아주 작고 화려하고 명멸을 거듭하는 수많은 빛들이 보이더니 마침내 장엄한 열광이 밤하늘을 파열시키고 말았다<br><br>그녀의 사지는 그녀를 육지의 끝으로 이끌었다. 바다의 시작점, 그리고 해안선과 밀물이 그녀를 밀쳤다. 마치 좌초된 열차를 밀어내는 밀물처럼 그녀는 외로이 길을 잃은 듯한 모습이었다<br><br>그녀가 들어서자 창밖의 풍경이 변화하기 시작했다. 열차는 그녀에게 육지를 떠난 수많은 아름다운 세계를 보여주었다. 그것들은 아주 멀었으나 고향 밖에서는 아주 가까워서 열차를 타면 쉽게 도착할 수 있었다<br><br>그녀는 열차를 복구하려 시도하였다. 잠시 작동했을 뿐이지만 그걸로 고향의 하늘을 스쳐 지나가기에는 충분했다. 집으로 가는 길이 한눈에 보였고 하늘에서 내려보니 고향의 바다도 미미하게 보일 만큼 가까운 곳이었다<br><br>그는 그녀에게 동행할 생각이 있는지 물었다. 그녀는 그것이 과연 어떤 여정인지 궁금해졌다<br><br><i>「그건 출발점으로 가는 여정이야」<br>「가 보자」</i> 소녀는 아무런 고민 없이 말했다 <i>「네가 나를 데리고 집으로 돌아간 것처럼, 이번엔 내가 널 데리고 집으로 돌아갈 거야」</i>"
         },
         {
             "_id": 3,
-            "Story": "Himeko has a suitcase.<br><br>This suitcase is her treasure trove. Previously, she'd filled it with all kinds of train repair tools to fix up the Express. But now, it's packed with a molecular saw, an escaped satellite, and countless other contraptions — the embodiment of her whims and the proof of her resolute will.<br><br>No travel companion is more faithful to her than this suitcase. Passengers come and go on the Express, and perhaps not even \"the conductor\" would be able to accompany her and the Express from start to finish.<br><br>But she doesn't care. She didn't care when that pretentious blond man left without saying goodbye, just like how she didn't care about her distant homeworld and old friends.<br><br>She knows that this journey is lonely. Even if she could get to know like-minded travel companions, even if they showed her generous grace, even if she could witness the end of a complete journey with those companions — that's all just a momentary fluke.<br><br>She knows that this journey is lonely. Nobody can follow in the exact same footsteps as anyone else. Nobody can experience for someone else everything that happens along a journey. All she can rely on are her own two eyes and feet.<br><br>That's why she stores inside her suitcase all the sights her eyes have witnessed, and all the footprints her feet have left behind."
+            "Story": "히메코에게는 여행 가방 하나가 있었다<br><br>여행 가방은 그녀의 보물창고이다. 예전에는 열차를 수리하는 각종 도구들로 가득 차 있었는데 그녀는 그 도구들을 사용해 열차를 새것처럼 수리하곤 했다. 이제 가방 안에는 단분자 톱 한 자루, 도망치는 위성 하나, 그리고 수없이 많은 다른 기계들이 들어있었다. 그것들은 그녀의 기발한 아이디어를 구현한 것이며 그녀가 쉬지 않고 일하고 있다는 증거이기도 했다<br><br>그녀에게 있어 여행가방만큼 충실한 여행의 동반자는 없었다. 열차 안을 오가는 승객들도, 심지어 그 「열차장」조차도 시종일관 그녀, 그리고 열차와 함께 할 수 있을지 알 수 없었다<br><br>그러나 그녀는 개의치 않았다. 마치 허세를 잔뜩 부리는 금발의 남자가 작별 인사도 없이 떠나도록 내버려 두었던 것처럼, 너무나도 먼 고향과 고향 사람들을 신경 쓰지 않았던 것처럼 말이다<br><br>그녀는 이번 여정이 고독하다는 것을 알고 있었다. 설령 여행 중에 같은 뜻을 가진 동반자를 만날 수 있다고 해도, 여행자의 아낌없는 도움을 받는다고 해도, 그녀가 동반자와 함께 여행의 종착점을 함께 볼 수 있다고 해도, 그것은 단지 그녀에게 충분한 행운이 찾아왔기 때문일 것이다<br><br>그녀는 이번 여정이 고독하다는 것을 알고 있었다. 누구도 다른 사람과 똑같은 행적을 밟을 수는 없다. 그 누구도 길에서 볼 수 있는 풍경을 다른 사람을 대신해 체험할 수는 없다. 그녀가 의지할 수 있는 것은 오직 자신의 두 눈과 두 발뿐이었다<br><br>그리고 그녀는 자신의 두 눈으로 본 모든 광경과 자신의 두 발로 지나간 모든 발자취를 전부 자신의 여행 가방에 담을 것이다"
         },
         {
             "_id": 4,
-            "Story": "Himeko's memory is very good.<br><br>The longer the journey gets, the more travel companions she accrues. She can still remember many of them.<br><br>She remembers her awkward chit-chats with Pom-Pom, and how the first two passengers aboard the Express were Welt and his blond friend. She remembers how the taciturn Dan Heng defeated the monsters that can swallow stars with just one strike of his lance. She remembers how March 7th had awoken from her icy slumber, all the outfits she'd designed for March, and what March loves the most. She remembers how the Crew arrived at Herta Space Station, how she met Trailblazer, and how they'd embarked on a new journey once more.<br><br>She remembers the specifications for every single component of the Express and how they're assembled. She remembers when to oil the Express' bearings and when each plant on the Express needs watering. She remembers Pom-Pom's non-negotiable bottom line, and that Welt has rather juvenile hobbies. She remembers that Dan Heng is always pulling all-nighters to organize the data bank, and how March 7th loves to sleep in. She remembers the personality, habits, hobbies, birthdays, and other anniversary days of everyone aboard the Express. And she remembers much, much more.<br><br>The greatest pleasure for Himeko is that everyone can safely reach their destination on the Express.<br><br><i>\"Traveling always has an end point. When it happens, I'll smile and say goodbye to everyone.\"</i><br><br>She always says that, and she'll definitely remember to do that.<br><br>It's memory that has formed the road she came from, and memory that will eventually return her to the seas from whence she came."
+            "Story": "히메코의 기억력은 매우 뛰어나다<br><br>여정이 점점 길어지고, 동료가 점점 많아질수록 그녀는 여전히 수많은 것을 기억할 수 있었다<br><br>그녀는 자신이 폼폼과 두서 없이 이야기를 나누었던 것을 기억했고, 열차의 처음 두 손님이 웰트와 그의 금발의 동료였던 것을 기억했다. 그녀는 과묵한 단항이 어떻게 별을 삼킨 괴수에게 총을 쏘아 물리쳤는지 기억했다. 그녀는 Mar. 7th가 어떻게 얼음 운석에서 깨어났는지, 자신이 Mar. 7th를 위해 디자인한 모든 의상과 여자가 가장 좋아하는 것을 기억했다. 그녀는 열차팀이 어떻게 우주정거장 「헤르타」에 도착했는지, 어떻게 {NICKNAME}을(를) 만났고 어떻게 다시 새로운 여정을 떠났는지 기억했다<br><br>그녀는 열차 내 모든 부품의 규격 값을 기억했고, 그것들이 어떻게 연결되고 매칭되는지 기억했다. 그녀는 언제 열차의 베어링에 기름칠을 해야 하는지를 기억했고 언제 열차의 화분에 물을 줘야 하는지를 기억했다. 폼폼에게는 절대로 건드려서는 안되는 레드라인이 있는 것을 기억했고 웰트에게 아주 젊은 취미가 있는 것도 기억했다. 그녀는 단항이 언제나 밤새 싱크탱크를 정리하고 Mar. 7th가 곧잘 늦잠을 자는 것을 기억했다. 그녀는 열차팀 내 모든 이의 성격, 습관, 취미, 생일, 기타 기념일, 그리고 더 많은 것을 기억했다<br><br>만약 모두가 열차 안에서 자신의 종착점을 찾을 수만 있다면 그건 히메코에게 있어 가장 뿌듯한 일일 것이다<br><br><i>「여정은 언젠가는 결국 끝을 맞이하지. 그때가 되면 난 꼭 웃으며 모두와 작별 인사를 할 거야」</i><br><br>언제나 이렇게 말하는 그녀지만 그녀는 반드시 기억할 것이다<br><br>기억들이 모여 그녀가 올 당시의 길이 되고, 결국 다시 시작점의 바다로 되돌아갈 것이다"
         },
         {
             "_id": 5,
-            "Story": "<i>\"What a long journey.\"</i> She says.<br><br><i>\"I've been waiting for so, so long.\"</i>████ looks at her: <i>\"It wasn't bad luck that has led you down this path, but wanderlust and curiosity.\"</i><br><br><i>\"Of course,\"</i> she smiles, <i>\"But I've experienced far less than what you've been through.\"</i><br><br><i>\"No, I've never experienced the things you have.\" </i>████ shakes their head: <i>\"There are as many routes as there are pairs of feet.\"</i><br><br><i>\"Right now, we may be standing in the same place, but we harbor different thoughts and views.\"</i><br><br>Together, they look up to the stars in silence, and just then saw meteors streaming down: one, two, three... And then more, smaller ones, flickering and flashing ever so finely before a magnificent blaze tore open the night.<br><br>A quiet voice disturbs the still air once more: <i>\"What do you see?\"</i><br><br><i>\"The stars have finished their journey.\"</i> She says.<br><br>████ laughs: <i>\"I, instead, see that their journey is only just beginning.\"</i><br><br>They do not speak again.<br><br><i>\"Let's go back. They're waiting for me.\"</i><br><br>████ is silent, then asks: <i>\"Has the journey so far made you happy?\"</i><br><br>She picks up her suitcase and walks back in the direction of the Express without looking back.<br><br><i>\"Same as always.\"</i>"
+            "Story": "<i>.「정말 기나긴 여정이야」</i>그녀가 말했다<br><br><i>「아주 오랫동안 계속 기다리고 있었어」</i>████ 그녀에게 말한다: <i>「널 이길로 인도한 건 악운이 아니라 탐구욕과 호기심이었어」</i><br><br><i>「물론이지」</i>그녀가 웃으며 말했다<i>「하지만 내 경험은 한참이나 너에 미치지 못해」</i><br><br><i>「아니, 난 네가 경험한 모든 것을 전혀 경험하지 못했어」</i>████ 고개를 흔드며 말한다:<i>「두 발이 걸어온 만큼의 여행길이 있는 거야」</i><br><br><i>「지금 이 순간, 설령 우리가 같은 곳에 서 있다고 해도 보는 것과 생각하는 것은 달라지지」</i><br><br>둘은 아무 말도 하지 않고 고개를 들어 별하늘을 바라보며 별똥별을 세어보았다. 하나, 둘, 셋… 그리고 아주 작고 화려하고 명멸을 거듭하는 수많은 빛들이 보이더니 마침내 장엄한 열광이 밤하늘을 파열시키고 말았다<br><br>차분한 목소리가 다시 공기속을 갈랐다:<i>「무엇을 보았어?」</i><br><br><i>「별이 그들의 여정을 끝냈어」</i>그녀가 대답했다<br><br>████ 웃으며 말했다:<i>「하지만 난 그들의 여정이 막 시작되는 것을 보았는걸」</i><br><br>그들은 더 이상 말하지 않았다<br><br><i>「저들이 날 기다리고 있으니 이제 돌아가야 해」</i><br><br>████ 침묵한 후 다시 묻는다:<i>「지금까지의 여행은 행복했어?」</i><br><br>그녀는 뒤돌아보지 않고 여행 가방을 든 채 열차 쪽으로 걸어갔다<br><br><i>「언제나처럼」</i>"
         }
     ]
 }
@@ -443,196 +443,196 @@ var _story_ = {
 var _voice_ = {
     "1003": [
         {
-            "Title": "First Meeting",
-            "Voice": "Welcome aboard, Trailblazer. I'm Himeko, navigator of the Astral Express. I'm sure we're about to embark on a fascinating journey together."
+            "Title": "첫 만남",
+            "Voice": "열차 탑승을 환영해, {NICKNAME}. 난 은하열차의 항법사 히메코야. 우린 흥미로운 여정을 함께할 수 있을 것 같아"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Hey there. Tired? How about a coffee?"
+            "Title": "인사",
+            "Voice": "왜? 정신이 번쩍 드는 커피 한 잔 할래?"
         },
         {
-            "Title": "Parting",
-            "Voice": "Relax, Pom-Pom and I are here to take care of the train."
+            "Title": "작별",
+            "Voice": "걱정 말고 쉬어~ 나랑 폼폼이 있으니까 열차는 걱정하지 말고"
         },
         {
-            "Title": "About Self: Relationship With the Astral Express",
-            "Voice": "The Express and I are like old friends — we've helped each other a lot. I fixed it so that it could get back to its original route, and in return it takes me to unknown frontiers."
+            "Title": "자신에 대해•열차와의 관계",
+            "Voice": "나와 열차는 서로 돕는 오랜 친구와도 같아. 난 과거의 항로로 돌아갈 수 있도록 열차를 수리했고, 이 모든 건 나한테 새로운 미지의 영역이지"
         },
         {
-            "Title": "About Self: Fixing the Express",
-            "Voice": "As far as malfunctions on the train are concerned, I've usually dealt with them before you guys even realize anything's amiss."
+            "Title": "자신에 대해•열차 수리",
+            "Voice": "일반적으론 너희가 열차의 고장을 발견하기 전에 해결하는 편이야"
         },
         {
-            "Title": "Chat: Final Stop",
-            "Voice": "I'm speculating, but I think the Express departs from Akivili's home world and returns there before starting the journey anew. So the Express doesn't have a \"final stop\" per se — it's up to you where you disembark."
+            "Title": "잡담•여정의 종점",
+            "Voice": "이건 내 추측인데, 열차는 아키비리의 고향에서 출발해 결국 그곳으로 돌아가고, 또다시 새로운 여정을 시작하는 거 같아. 그러니까 열차에 종점은 없어. 여정의 「종점」을 결정할 수 있는 건 너뿐이야"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I have a knack for blending different coffee beans. Can I make you a cup? I recommend not adding milk — black coffee is proper coffee."
+            "Title": "취미",
+            "Voice": "다양한 풍미의 커피콩을 조합하는 게 나만의 비법이야. 지금 한잔 내려줄게, 우유를 안 넣은 블랙커피 어때?"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "Seems like only Dan Heng has a kind word for my coffee. What do you think? ...Well, I've always thought that bitter is better..."
+            "Title": "고민",
+            "Voice": "단항 빼고는 다들 내 커피에 꽤 불만이 있는 거 같아. 넌 어때? …블랙커피의 「블랙」이 블랙 머드의 「블랙」은 아니겠지?"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "When people live together it seems like nobody ever changes. Only when they're away from each other for a long time do surprising transformations occur..."
+            "Title": "공유",
+            "Voice": "매일 모두와 함께 지내다 보면, 누구도 변하지 않을 것만 같아. 떠난 지 오래된 사람한테만 놀라운 변화가 생기겠지……"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "When we scour the universe for the things we seek, most of the time it's less of a \"Eureka, I found it!\" moment and more of a \"Is this it? What if I'm wrong?\" moment."
+            "Title": "견문",
+            "Voice": "우주에서 자신이 원하는 물건을 찾는다면, 대부분 「찾았다! 저기 있어!」 같은 좋은 반응이 아니라, 「이게 맞나? 아니면 어떡하지?」 같은 고민, 의심과 망설임으로 가득해져"
         },
         {
-            "Title": "About March 7th",
-            "Voice": "If I woke up on the Express without any memories, there's no way I'd recover as quickly as March has. I admire her for that, but I also worry about her... If I'm ever too busy, please do take the time to chat with her."
+            "Title": "Mar. 7th에 대해",
+            "Voice": "내가 Mar. 7th처럼 열차에서 깨어났는데 아무 기억도 떠오르지 않았다면, 절대 그 아이처럼 회복할 수 없었을 거야. 그래서 Mar. 7th를 볼 때면 걱정이 되기도 하고, 존경스럽기도 해…. 내가 바쁠 땐 종종 Mar. 7th랑 대화 좀 해줘"
         },
         {
-            "Title": "About Dan Heng",
-            "Voice": "Dan Heng is the cautious type — I think he's gotten used to doing things by himself. He doesn't like to bother or inconvenience others. That's why I asked him to be the train's guard and maintain the data bank. I don't think he'd have joined us if there wasn't anything for him to do."
+            "Title": "단항에 대해",
+            "Voice": "무척 신중한 아이야. 혼자 지낸 지 오래돼서 그런지 남을 귀찮게 하는 걸 안 좋아해. 폐를 끼치는 것도 싫어하고. 그래서 단항한테 경호와 아카이브 관리를 맡긴 거야. 이곳에서 할 일이 없다면 절대 열차에 오르지 않았을걸?"
         },
         {
-            "Title": "About Welt",
-            "Voice": "I think Welt's anxious that he can't keep up with you youngsters, but he sure seems young at heart to me..."
+            "Title": "웰트에 대해",
+            "Voice": "웰트는 젊은이들한테 뒤처질까 봐 걱정하는 거 같아. 내가 보기엔 마음도 젊던데 말이야…"
         },
         {
-            "Title": "About Pom-Pom",
-            "Voice": "To Pom-Pom, I'll always be the train's mechanic, haha."
+            "Title": "폼폼에 대해",
+            "Voice": "폼폼한테 난 항상 열차 수리공일걸"
         },
         {
-            "Title": "About Dan Heng 2",
-            "Voice": "He's not so uptight nowadays. I think Trailblazer and March helped him understand that relying on others sometimes really isn't a big deal."
+            "Title": "단항에 대해•2",
+            "Voice": "요즘 많이 편안해진 것 같아. 가끔 다른 사람에게 의지하는 것도 괜찮다는 걸 Mar. 7th와 {NICKNAME}가 일깨워 줬다고 생각해"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "The Express's path bridges the stars, as if it were a string of shimmering pearls."
+            "Title": "성혼 활성화",
+            "Voice": "열차의 궤적은 뭇별과 이어져 있어. 실에 엮여 있는 진주알처럼"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "With countless marvelous sights to be seen, I couldn't possibly consider stopping here."
+            "Title": "캐릭터 승급",
+            "Voice": "앞에 수많은 장관이 펼쳐질 텐데, 어떻게 여기서 멈출 수 있겠어?"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Our final stop can never truly be reached."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "종점… 진짜로 도착해 본 적은 없어"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "The human thirst for discovery is truly boundless."
+            "Title": "행적 활성화",
+            "Voice": "인류의 탐구심은 끝이 없어"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "If there's anything you need, don't hesitate to ask, Trailblazer."
+            "Title": "파티 편성•{NICKNAME}",
+            "Voice": "필요한 거 있으면 편히 말해. 열차팀은 한마음이잖아, {NICKNAME}"
         },
         {
-            "Title": "Added to Team With March 7th",
-            "Voice": "Make sure to keep yourself safe this time March... and remember, we're all in this together."
+            "Title": "파티 편성•Mar. 7th",
+            "Voice": "Mar. 7th, 이번에도 몸조심해…. 걱정 마, 우리가 있잖아"
         },
         {
-            "Title": "Added to Team With Dan Heng",
-            "Voice": "I'll be right behind you with all the support you need, Dan Heng."
+            "Title": "파티 편성•단항",
+            "Voice": "내가 팍팍 지원해줄 테니까… 하고 싶은 대로 해, 단항"
         },
         {
-            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
-            "Voice": "I'll be right behind you with all the support you need, Dan Heng. Be fearless."
+            "Title": "파티 편성•단항•음월",
+            "Voice": "내가 팍팍 지원해줄 테니… 하고 싶은 대로 해, 단항. 과감하게 저질러 버려"
         },
         {
-            "Title": "Added to Team With Welt",
-            "Voice": "See, Welt, I told you we'd have lots of chances to shine."
+            "Title": "파티 편성•웰트",
+            "Voice": "내가 말했잖아, 웰트. 우리가 등장할 기회는 많다고"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "I have something for you."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "이제부터는, 널 위해 준비한 거야"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Be careful."
+            "Title": "전투 시작•위험 경보",
+            "Voice": "조심해"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Combat is a series of precise machinations."
+            "Title": "턴 시작•1",
+            "Voice": "전투란, 곧 치밀한 설계지"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Time for a detailed overhaul."
+            "Title": "턴 시작•2",
+            "Voice": "제대로 손 좀 봐야겠네"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "It won't be so easy next time."
+            "Title": "턴 대기",
+            "Voice": "다음은 쉽지 않을 거야"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "One at a time!"
+            "Title": "일반 공격",
+            "Voice": "하나씩 덤벼!"
         },
         {
-            "Title": "Skill",
-            "Voice": "Come one, come all."
+            "Title": "전투 스킬",
+            "Voice": "오는 사람은 안 막지"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Barely felt it."
+            "Title": "약공격 피격",
+            "Voice": "이 정도쯤이야"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "You've got a lot of nerve."
+            "Title": "강공격 피격",
+            "Voice": "꽤 겁이 없네"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Perhaps you still don't understand..."
+            "Title": "필살기•활성화",
+            "Voice": "아직 뭘 모르는 모양이네……"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Humanity never conceals its desire to control the heavens... And I'm no exception."
+            "Title": "필살기•발동",
+            "Voice": "인간은 단 한번도 은하를 지배하려는 욕망을 감춘 적이 없어…. 물론 나도 포함이고"
         },
         {
-            "Title": "Talent",
-            "Voice": "You won't get away!"
+            "Title": "특성",
+            "Voice": "도망칠 수 없어!"
         },
         {
-            "Title": "Downed",
-            "Voice": "I was... just getting... started..."
+            "Title": "전투 불능",
+            "Voice": "분명…… 이제… 시작인데……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Did you miss me?"
+            "Title": "전투 복귀",
+            "Voice": "나 보고싶었지?"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Much obliged."
+            "Title": "HP 회복",
+            "Voice": "정말 고마워"
         },
         {
-            "Title": "Technique",
-            "Voice": "Burn away."
+            "Title": "비술",
+            "Voice": "불타올라라"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "One step closer to the stars."
+            "Title": "전투 승리",
+            "Voice": "별에 한 걸음 더 가까워졌네"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "This is also the reward of trailblazing."
+            "Title": "전리품 오픈•1",
+            "Voice": "이것도 「개척」의 성과야"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Oh, how nice."
+            "Title": "전리품 오픈•2",
+            "Voice": "좋아 좋아"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "What a pleasant surprise."
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "이건 뜻밖의 기쁨인걸!?"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Sometimes you gotta do things yourself."
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "그래도 직접 하는 게 의미 있지"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "No help required."
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "내 도움은 필요 없는 것 같네"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Practice target?"
+            "Title": "적 발견",
+            "Voice": "손 좀 풀어볼까?"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Fancy a coffee?"
+            "Title": "도시로 복귀",
+            "Voice": "커피 한 잔 할래?"
         }
     ]
 }

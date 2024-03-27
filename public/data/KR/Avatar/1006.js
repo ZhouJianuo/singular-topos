@@ -566,23 +566,23 @@ var _story_ = {
     "1006": [
         {
             "_id": 1,
-            "Story": "The universe is just another game to this super hacker.<br>No matter how thorny the defense system, Silver Wolf can crack it with ease. Her hacking battle with Screwllum of the Genius Society has become stuff of legends in the hacking world.<br>How many more levels are there to beat in the universe? Silver Wolf looks forward to finding out."
+            "Story": "우주를 게임으로 여기는 슈퍼 해커.<br>아무리 까다로운 방어 시스템이라도 은랑은 손쉽게 해킹할 수 있다. 그녀와 「지니어스 클럽」 스크루룸 간의 데이터 공방전은 오늘날 해커계의 전설로 남았다.<br>우주에 돌파해야 할 스테이지가 몇 개나 남았을까? 은랑은 엄청 기대하고 있다"
         },
         {
             "_id": 2,
-            "Story": "She toyed with the joystick, day in, day out.<br>A fast food restaurant with only one employee, a basement turned into an arcade hall, several old arcade machines — this was her childhood.<br><br>She didn't have a legal name or an identity number, only a nickname the proprietress chose for her.<br>She did not have any friends, but she is not lonely.<br>She liked the game of Pong — two lines and a dot of light, the simplest of ball games. She could play it for a whole day.<br>She liked Battle Wheel 32 — eight blocks of different colors on a matrix-drawn sky. There was only one rule: Win, no matter what.<br>She liked Geometric Wars, Odysseus, and Star Cheetah. The score records on these games were filled with astronomical numbers left by other patrons.<br><br>She toyed with the joystick, day in, day out.<br>Until one day, only one name remained on all of the score records.<br><br>She set down the joystick and looked around the empty basement.<br>Many people have sought respite in this place, but few stayed behind.<br>Many have left, but few returned.<br>She blinked and turned off the screen.<br><br>That night, the only employee of the fast food restaurant said goodbye to proprietress, and became the next person to leave.<br>The game called Basement ended that night."
+            "Story": "그녀는 매일 조이스틱을 가지고 놀았다.<br>직원이 하나뿐인 패스트푸드점, 지하실을 개조한 오락실, 오래된 게임기 몇 대, 이게 그녀의 어린 시절이었다.<br><br>그녀는 합법적인 이름과 신분증 번호가 없다. 여주인이 지어준 닉네임이 있을 뿐이다.<br>그녀는 친구가 없지만, 전혀 외롭지 않다.<br>그녀는 ≪퐁≫을 즐겨했다. 가로줄 두 개에 광점 하나. 가장 간단한 핑퐁 게임, 하루 종일 해도 질리지 않았다.<br>그녀는 ≪배틀 휠32≫를 즐겨했다. 격자로 이루어진 별하늘에서 판이하게 다른 색조각 8개, 규칙은 하나뿐이다. 수단과 방법을 가리지 말고 일등이 되어라.<br>그녀는 ≪기하학 전쟁≫, ≪오디세우스≫, ≪스타 치타≫를 즐겨했다. 이 게임들의 점수 기록판에는 고객들이 남긴 천문학적인 숫자로 가득했다.<br><br>그녀는 매일 조이스틱을 가지고 놀았다.<br>모든 점수 기록 앞에 단 한 사람의 이름만 남을 때까지.<br><br>그녀는 조이스틱을 놓고 고개를 돌려 텅 빈 지하실을 바라봤다.<br>이곳에서 잠시 쉬다 가는 사람은 많았지만, 머무른 사람은 적었다.<br>이곳을 떠나는 사람은 많았지만, 다시 돌아온 사람은 적었다.<br>그녀는 눈을 몇 번 깜빡이고는 화면을 껐다.<br><br>그날 밤, 패스트푸드점의 유일한 직원은 여사장과 작별 인사를 나누고 다음으로 떠나는 사람이 되었다.<br>「지하실」이라는 이름의 게임은 이날 종료되었다"
         },
         {
             "_id": 3,
-            "Story": "She traveled west through the barren land, arriving at Mount Scrap.<br>She wants to find a job, but was obstructed by her tendency to be a loner.<br>On Punklorde, almost everyone works in teams. Loners usually don't last long.<br><br>Acquiescing to her situation, she fabricated some virtual partners.<br>Her first one was called Friend. Of course it was.<br>Her second was Demon Lord, inspired by a poster she saw on the streets. In her imagination, it was a veteran who had lost the ability to speak.<br>She suddenly thought this team was too harmonious and lacked realism, so she named the third one Whitecollar and the fourth Servant.<br>Her final one was called Preschool Classmate — there wasn't a special meaning attached to this. She just really ran out of ideas. After much deliberation, she deleted this last person from her list.<br>She stored her \"partners\" in an intelligent weapon, so she could pompously introduce her sizable team to intermediaries.<br><br>She got her first job — its risk was as unimaginable as its reward.<br>Maybe she sold herself too well that people believed her, or they just wanted to see this newbie's performance, dead or alive.<br><br>On Punklorde, almost everyone works in teams. Loners usually don't last long.<br>Those who could last would eventually become legends.<br><br>After 24 system hours, she walked out of the Slag Gang's base — alone and through the front gate.<br>The intermediary was silent. They looked at her, then at the sky, before turning around to toss a chest full of gold ingots on the ground.<br>The game called Mount Scrap ended that day."
+            "Story": "그녀는 계속 서쪽으로 가다가 커다란 황야를 건너 폐품산에 도착했다. 그녀는 일거리를 찾고 싶었지만, 독자적으로 움직이는 탓에 계속 어려움에 부딪혔다.<br>펑크 로드에서 사람들은 팀을 이뤄 일을 하므로, 독자적으로 움직이는 사람은 살아가기 어렵다.<br><br>어쩔 수 없었다. 그녀는 가상의 동료를 만들기 시작했다.<br>첫 번째 동료의 이름은 「친구」라고 지었다. 당연히 그렇게 불러야 했다.<br>두 번째 동료의 이름은 「마왕」이라고 지었다. 길거리에서 본 포스터에서 나온 이름으로, 그녀의 상상 속에 그는 실어증에 걸린 군인이었다.<br>그녀는 문득 이 팀이 너무 화목해서 리얼리티가 부족하다고 느끼고 세 번째 동료에게는 「일꾼」, 네 번째 동료에게는 「노예」라는 이름을 지어줬다.<br>마지막 동료의 이름은 「유치원 친구」였다. 아이디어 고갈로 인해 아무렇게나 지은 이름이었다. 한참 망설이다가 그녀는 명단에서 아예 이름을 지웠다.<br>그녀는 이 「동료」들을 스마트 무기에 저장했다. 이렇게 그녀는 중개인 앞에서 그럴듯하게 큰 규모의 팀을 소개할 수 있었다.<br><br>그녀는 원하던 첫 번째 일거리를 얻었다. 일의 리스크는 중개인이 제시한 보수만큼 컸다.<br>그녀의 포장이 그럴싸해서 믿을 수밖에 없었던 걸 수도 있고, 그녀가 죽든 살든 신입의 능력을 보고 싶었던 것일지도 모른다.<br><br>펑크 로드에서 사람들은 팀을 이뤄 일을 하므로, 독자적으로 움직이는 사람은 살아가기 어렵다.<br>따라서 이곳에서 두각을 나타내는 사람은 전설이 된다.<br><br>24 시스템 시간 후, 그녀는 슬래그파 거점에서 혼자 정문으로 걸어 나왔다.<br>중개인은 한참 동안 말이 없다가 그녀를 힐끔 보고 다시 고개를 들어 하늘을 쳐다봤다. 그러고는 뒤에 있는 금괴가 든 상자를 바닥에 던졌다.<br>「폐품산」이라는 이름의 게임은 이날 종료되었다"
         },
         {
             "_id": 4,
-            "Story": "She stood at the top of the tallest building in the Rainbow City, from which she could see her birthplace.<br>A fast food restaurant with only one employee, a basement turned into an arcade hall, several old arcade machines — this was her childhood.<br><br>She remembered liking the game of Pong — two lines and a dot of light, the simplest of ball games. She could play it for a whole day.<br>Just like how right now the crimson lights of the hoard of drones filled the night sky in crisscrossed line. Wave by wave they swarmed her, and wave by wave they fell.<br><br>She remembered liking Battle Wheel 32 — eight blocks of different colors on a matrix-drawn sky. There was only one rule: Win, no matter what.<br>Just like how right now distinct colors split the internet into eight regions, and people from all kinds of organizations gather in the square for a singular goal — to capture Silver Wolf, no matter the cost.<br><br>She remembered liking Geometric Wars, liking Odysseus, liking Star Cheetah. The score records on these games were filled with insurmountable, astronomical numbers.<br>Just like how right now— Wait, no, only this is somewhat different...<br>\"Insurmountable.\" Hah, what's that?<br><br>She stood at the top of the tallest building in the Rainbow City, from which she could see her birthplace.<br>She has climbed too high for another person to stand beside her.<br>However, she looked up even higher than before. She can see the starry skies within reach of her hands, but yet so impossibly far.<br><br><i>\"So boring.\"</i><br>The game called Rainbow City ended that day."
+            "Story": "그녀는 무지개 도시에서 가장 높은 빌딩 꼭대기에 서 있다. 이곳에서는 그녀가 태어난 곳이 보인다.<br>직원이 하나뿐인 패스트푸드점, 지하실을 개조한 오락실, 오래된 게임기 몇 대, 이게 그녀가 기억하는 어린 시절이다.<br><br>그녀는 ≪퐁≫을 즐겨 했다는 걸 기억한다. 가로줄 두 개에 광점 하나, 가장 간단한 핑퐁 게임, 그녀는 이 게임을 하루 종일 해도 질리지 않았다.<br>바로 지금처럼. 드론의 빨간 불빛이 밤하늘을 가득 메우고 선을 이루며 그녀를 향해 몰려왔다. 그러고는 이내 우르르 바닥으로 추락했다.<br><br>그녀는 ≪배틀 휠32≫를 즐겨 했다는 걸 기억한다. 격자로 이루어진 별하늘에서 판이하게 다른 색조각 8개, 규칙은 하나뿐이다. 수단과 방법을 가리지 말고 일등이 되어라.<br>바로 지금처럼. 각기 다른 색깔이 인터넷 공간을 8개로 나누었다. 여러 조직에서 온 사람들이 광장에서 떼를 지어 움직인다. 그들의 목표는 단 하나뿐이다. 「은랑」을 잡기 위해 어떠한 대가도 불사하라.<br><br>그녀는 ≪기하학 전쟁≫, ≪오디세우스≫, ≪스타 치타≫를 즐겨 했다는 걸 기억한다. 이 게임들의 점수 기록판에는 천문학적인 숫자로 가득했다.<br>바로 지금처럼. 음 아니, 이것만은 좀 다르다…… <br>따라잡을 수 없다라. 하, 「따라잡을 수 없다」? 그게 뭐지?<br><br>그녀는 무지개 도시에서 가장 높은 빌딩 꼭대기에 서 있다. 이곳에서는 그녀가 태어난 곳이 보인다.<br>그녀는 너무 높은 곳에 있어서 옆에 다른 사람이 올 수 없었다.<br>그래도 그녀는 고개를 들고 더 높은 곳을 바라봤다. 별하늘이 눈에 들어왔다. 별하늘은 아주 가까워 보였지만 닿을 수 없을 만큼 멀었다.<br><br><i>「시시해」</i><br>「무지개 도시」라는 이름의 게임은 이날 종료되었다"
         },
         {
             "_id": 5,
-            "Story": "She stood on a chair and dusted the screen of the arcade machine in circular motions again and again, trying to wipe away each particle of dust on it.<br>She returned to that fast food restaurant, to that basement. She opened the door, and everything was where they used to be. The proprietress kept all the arrangements for her.<br><br>The soft pink light spilled on the screen like the neon lights in the city, reminding her of the starry skies she saw on that day.<br>She was not the first to reach the top of that building, and not the first to have gazed upon those starry expanses.<br>She knew the story of Zero, the greatest hacker and the most terrifying player in the era of Internet Wars. He caused the first global network paralysis just to summon the IPC's escort ship to his doorstep.<br>She thought of Sage, the creator of the aether editing technology, a weirdo who named himself after the dead. To leave the planet, he was willing to discard his physical flesh, raid into the Dark Zone, and become a wraith eternally wandering the Interastral Network.<br>She recalled Stoneblade, the pride of Mount Scrap. His tales of resisting the Oasis Zone were oft-told among families in the barren land. Some said he eventually left with the Galaxy Rangers, continuing his rebellious spark in the cosmos.<br>His lover, Twinsnake, a celebrity in the Oasis Zone. Her whereabouts were widely disputed, and all people knew was that their birth could not stop them from being together, but the cosmos eventually parted them.<br><br>On Punklorde, any hacker who can be called \"legendary\" has ended up with the same fate.<br>As the legend of the current era, she knew that she has already arrived at that threshold.<br><br>Clop, clop... She heard footfalls coming from above her, getting closer, closer...<br>One, two, three, four people.<br>A man, a woman, a metal humanoid, and...<br>She sat down, turned around, and looked around the empty basement one last time, before turning to the person at the door...<br><br><i>\"I'll join.\"</i><br>The game called Punklorde ended that day."
+            "Story": "그녀는 의자 위에 서서 오락기 화면을 닦았다. 원을 그리며 모든 먼지를 없애겠다는 듯이 닦고 또 닦았다.<br>그녀는 그 패스트푸드점,그 지하실로 돌아갔다. 문을 열자, 모든 게 예전과 같았다. 여사장은 그녀를 위해 모든 것을 원래대로 남겨두었다.<br><br>분홍빛 등불이 도시의 네온사인처럼 화면 위로 쏟아진다. 그녀는 그날 밤 봤던 별하늘을 떠올렸다.<br>그녀는 그 빌딩 꼭대기에 처음으로 올라간 사람이 아니고, 그 별하늘을 처음으로 본 사람도 아니다.<br>그녀는 「0호」의 이야기를 안다. 네트워크 전쟁 시대의 가장 위대한 해커이자 가장 무서운 플레이어. 그는 처음으로 전 세계 네트워크를 마비시켰다. 오로지 스타피스 컴퍼니의 호송선을 자기 집 앞으로 불러들이기 위해.<br>그녀는 또 에테르 편집 기술의 창조자 「세이지(Sage)」를 떠올렸다. 그는 죽은 자의 이름으로 자신의 이름을 지은 괴짜였다. 행성을 떠나기 위해 그는 육신을 버리고 암흑 구역에 쳐들어가 스타 네트워크를 영원히 배회하는 유령이 되었다.<br>그녀는 폐품산의 자랑인 「스톤블레이드」를 떠올렸다. 그가 오아시스에서 반기를 들었던 이야기는 황야에서 모르는 사람이 없을 정도로 유명하다. 어떤 이는 그가 지금은 갤럭시 레인저를 따라가서 은하에 반역의 불꽃을 뿌리고 있다고 전한다.<br>그리고 그가 사랑한 오아시스의 유명인 「트윈스네이크」, 사람들은 그녀의 행방에 대해 이론이 분분하다. 그들은 그저, 출신이 그녀와 스톤블레이드가 함께하는 걸 막지 못했지만, 은하가 결국 두 사람을 갈라놓았다는 사실만 알뿐이다.<br><br>펑크 로드에서 「전설」이라 불리는 모든 해커는 같은 종착점을 향한다.<br>지금의 전설인 그녀는 자신도 그 문 앞에 도착했다는 것을 안다.<br><br>저벅, 저벅… 머리 위에서 발소리가 들리더니 점점 가까워진다…….<br>한 사람, 두 사람, 세 사람, 네 사람.<br>남자 하나, 여자 하나, 철인 하나, 그리고…….<br>그녀는 앉아서 몸을 돌려 텅 빈 지하실, 문가의 그 사람을 바라봤다.<br><br><i>「팀의 일원이 되겠어」</i><br>「펑크 로드」라는 이름의 게임은 이날 종료되었다"
         }
     ]
 }
@@ -590,172 +590,172 @@ var _story_ = {
 var _voice_ = {
     "1006": [
         {
-            "Title": "First Meeting",
-            "Voice": "Hey, Trailblazer, you seem pretty cool. That Stellaron hasn't affected you at all?"
+            "Title": "첫 만남",
+            "Voice": "아, {NICKNAME}. 잘 지내는 거 같네? 그 스텔라론은 아무 영향도 없었던 거야?"
         },
         {
-            "Title": "Greeting",
-            "Voice": "You're online today too?"
+            "Title": "인사",
+            "Voice": "오늘도 접속했어?"
         },
         {
-            "Title": "Parting",
-            "Voice": "Done everything you needed to? Good, don't want to climb into bed only to realize you forgot to finish your dailies. Bye-bye."
+            "Title": "작별",
+            "Voice": "할 일은 다 끝냈어? 흠, 자려고 누운 다음에야 못다 한 일이 떠오르지 않길, 잘 가"
         },
         {
-            "Title": "About Self: Name",
-            "Voice": "It's the same as my screen name. Isn't yours, Trailblazer?"
+            "Title": "자신에 대해•이름",
+            "Voice": "그냥 게임 닉네임 같은 거야. {NICKNAME} 너도 마찬가지잖아?"
         },
         {
-            "Title": "Chat: Universe",
-            "Voice": "*sigh* I wish this universe had a few more things to do. Don't you get bored running across the map every day?"
+            "Title": "잡담•우주",
+            "Voice": "이 우주에 더욱 다양한 콘텐츠를 추가하고 싶어. 매일 반복되는 탐험 과정은 지루하지 않아?"
         },
         {
-            "Title": "Chat: Prometheus",
-            "Voice": "Prometheus is equipped with four modules — \"friend\" is the most talkative... \"Friends are fated — a toast to our friendship!\""
+            "Title": "잡담•프로메테우스",
+            "Voice": "프로메테우스는 4개의 모듈이 탑재되어 있어, 그중 말을 제일 잘하는 모듈은 「친구」지…. 「친구는 인연이니, 영원히 소중하게 여겨야 한다. 우리의 우정을 위해 건배!」"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Burying my head under a pillow for a siesta, and pinching cute things."
+            "Title": "취미",
+            "Voice": "머리를 쿠션에 파묻고 낮잠을 자는 거랑 귀여운 걸 조물조물하는 거"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "Nobody gets to open an alt account, not even Elio."
+            "Title": "고민",
+            "Voice": "부계정은 팔 수 없어. 엘리오도 안 돼"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "When I hacked into the space station, I thought I may as well make some changes to Screwllum's portrait... but I changed it back in the end."
+            "Title": "공유",
+            "Voice": "우주정거장을 해킹할 때 겸사겸사 스크루룸의 초상화를 좀 수정했어. 근데… 결국은 원상 복귀시켰지"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "My favorite games always update on the same day. Do you think it's deliberate?"
+            "Title": "견문",
+            "Voice": "좋아하는 게임들이 항상 같은 날에 버전을 업데이트하더라고. 짜고 치는 건가?"
         },
         {
-            "Title": "About Kafka",
-            "Voice": "Ignoring the rules is something Kafka and I have in common."
+            "Title": "카프카에 대해",
+            "Voice": "「규칙을 무시」하는 쪽으로는 카프카한테 공감하지 않을 수 없어"
         },
         {
-            "Title": "About Blade",
-            "Voice": "He said he'd game with me once his hand healed up, but it seems like it still isn't any better."
+            "Title": "블레이드에 대해",
+            "Voice": "손 부상이 다 나으면 같이 게임하자고 약속했는데, 손이 지금까지도 안 낫더라고"
         },
         {
-            "Title": "About Screwllum",
-            "Voice": "It is always me that has to make the first move... That guy never loses his cool, does he?"
+            "Title": "스크루룸에 대해",
+            "Voice": "먼저 공격하는 건 항상 내 쪽이야. 그 녀석은 흥분할 줄 모르는 거 맞지?"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Could've done it using console commands."
+            "Title": "성혼 활성화",
+            "Voice": "오, 치트키를 얻었어"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Gaming is a full-time pursuit."
+            "Title": "캐릭터 승급",
+            "Voice": "이대로 멈추지 말고 계속 유지해"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Maxed out? Time for the endgame."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "최고 레벨까지 올린 거야? 미래가 아주 밝네"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Stop worrying about the stats — have some fun!"
+            "Title": "행적 활성화",
+            "Voice": "중요한 건 수치가 아니라 체험과 조작이야!"
         },
         {
-            "Title": "Added to Team With Kafka",
-            "Voice": "Hey Kafka, can I go off-script this time?"
+            "Title": "파티 편성•카프카",
+            "Voice": "카프카, 「각본」에 없는 부분은 애드리브로 가도 돼?"
         },
         {
-            "Title": "Added to Team With Blade",
-            "Voice": "...You gonna say something? Chat's enabled, y'know."
+            "Title": "파티 편성•블레이드",
+            "Voice": "제발 뭐라고 말 좀 해…. 「각본」에 대화 금지라고 적혀 있지도 않잖아"
         },
         {
-            "Title": "About Sam",
-            "Voice": "Doing a mission with Sam is basically: Bang, bang...! Bang! And then it's over."
+            "Title": "샘에 대해",
+            "Voice": "샘이 있는 임무는 대체적으로 퍽퍽——퍽! 이게 끝이야"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "You took the bait just like that?"
+            "Title": "전투 시작•약점 격파",
+            "Voice": "벌써 걸려들다니"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Might be trickier to crack."
+            "Title": "전투 시작•위험 경보",
+            "Voice": "좀 까다롭네"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Can you let me have some fun this time?"
+            "Title": "턴 시작•1",
+            "Voice": "이번엔 좀 재밌게 해줄래?"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Huh, more enemies."
+            "Title": "턴 시작•2",
+            "Voice": "음, 적이 더 추가됐어"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "...I've got a raid to get to — let's finish this."
+            "Title": "턴 대기",
+            "Voice": "……임무 갱신하는 걸 잊었어. 빨리 처리하자"
         },
         {
-            "Title": "Skill",
-            "Voice": "Time for a buzz."
+            "Title": "전투 스킬",
+            "Voice": "자극 좀 줘봐"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Huh?"
+            "Title": "약공격 피격",
+            "Voice": "응?"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Bad news."
+            "Title": "강공격 피격",
+            "Voice": "글렀어"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "This combat needs optimizing."
+            "Title": "필살기•활성화",
+            "Voice": "전투를 최적화해야겠어"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Hmph, at this speed? Too slow!"
+            "Title": "필살기•발동",
+            "Voice": "훗, 겨우 이거야? 느리네!"
         },
         {
-            "Title": "Downed",
-            "Voice": "I..."
+            "Title": "전투 불능",
+            "Voice": "난…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Nice. Rematch."
+            "Title": "전투 복귀",
+            "Voice": "좋아, 한 판 더"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Good as new."
+            "Title": "HP 회복",
+            "Voice": "좋았어"
         },
         {
-            "Title": "Technique",
-            "Voice": "100% Break."
+            "Title": "비술",
+            "Voice": "완벽한 약점 격파"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Nice, let's do it again when you're leveled up."
+            "Title": "전투 승리",
+            "Voice": "좋아, 강해진 다음 다시 싸워야겠어"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Is that it? *sigh* Stingy chest."
+            "Title": "전리품 오픈•1",
+            "Voice": "쪼잔하긴, 조금만 더 주지"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Wow, what an amazingly ordinary find!"
+            "Title": "전리품 오픈•2",
+            "Voice": "와, 정말 생각도 못 했어!"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "That's more like it."
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "이 정도는 돼야지"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Is it always the same mechanics?"
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "새로운 콘텐츠는 언제 생겨?"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Hm, not a bad time."
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "음, 손은 꽤 빠르네"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Ready when you are."
+            "Title": "적 발견",
+            "Voice": "준비됐으면 시작하자"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Time to log off... I mean, ah, head back."
+            "Title": "도시로 복귀",
+            "Voice": "이제 꺼야 해…. 어! 아냐, 착각했어"
         }
     ]
 }

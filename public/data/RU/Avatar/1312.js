@@ -1023,6 +1023,10 @@ var _voice_ = {
             "Voice": "Is that Trailblazer? Yes! Finally, we get to fight side by side!"
         },
         {
+            "Title": "Added to Team With Gallagher",
+            "Voice": "Gallagher? You're here! Check it out, I can protect everyone, too!"
+        },
+        {
             "Title": "Battle Begins: Weakness Break",
             "Voice": "Come on, I can do this...!"
         },

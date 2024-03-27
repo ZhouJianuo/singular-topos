@@ -446,23 +446,23 @@ var _story_ = {
     "1214": [
         {
             "_id": 1,
-            "Story": "One of the judges of the Ten-Lords Commission on the Luofu. She is in charge of \"detention\" among the four judges of detention, interrogation, incarceration, and punishment.<br>With iron chain and Mara-Sunder Awl in hand in tireless pursuit of recidivists, she will forthwith ensnare and subdue them all.<br>The mortal coil of her past being has been reduced to ashes. She is reanimated via a puppet body. For each villain she captures, she gets in return half a day in the world of the living."
+            "Story": "선주 「나부」의 「시왕사」 판관 중 하나로 체포, 구금, 처벌, 심문, 4부문 중 「체포」를 담당한다.<br>쇠밧줄과 파마추를 지닌 그녀는 지치는 일 없이 흉악범을 찾아 체포한다.<br>과거의 육신은 먼지가 되어 사라졌다. 인형의 몸에 「환생」하여 범죄자 한 명을 체포할 때마다 반나절을 얻는다"
         },
         {
             "_id": 2,
-            "Story": "<i>\"Ten Lords perceptual, Karma perpetual.\"</i><br><br>Dressed as white as the driven snow, the Judge strolled out from the dim street, obscuring his final escape.<br><br>The man drew closer, but the shrill tremble in his voice betrayed his fear: <i>\"How... is catching them not enough?\"</i><br><br>It may have started with a <i>\"How,\"</i> but not as a question, rather as a rhetorical one. The semantic analysis goes back and forth in the mind, and there's no other intel other than <i>\"the target clearly knew who the accomplice was.\"</i><br><br>She decided to execute the mission assigned to her straight away.<br><br>The eyeballs, forehead, chin, heart, the Core Esse, and the lower abdomen... With a glance, she marked off all the parts that might make for a single effective strike. Despite Foxians being known for their quick reactions, her opponent had left himself wide open and one round... two rounds, max, should be enough to take care of things.<br><br>But this blow missed.<br><br>The Judge looked at him with an air of curiosity. The man's body seemed to move like scurrying mice, with muscles undulating, and his eyes sparkled with the gleam of a well-executed plan.<br><br>He panted violently as though suffering from a critical illness, and during a burst of uncontrollable pain his body shot out large swathes of fine hairs as his limbs and body swelled and tore open by some invisible force. Under the glow of moonlight within the delve, a monstrous wolfman stood up. In the view of the Judge, the sanguine silhouette enveloping its body had burned up into a wildfire.<br><br><i>\"You... are seeking death.\"</i> She has an urge to sigh out of habit, but her body no longer has that function. <i>\"The partaking of the Disciples of Sanctus Medicus' concoction will only hasten your demise.\"</i><br><br>The man's gaze barely wavers at all. <i>\"The second I was discovered by you, I only ever had a few more days to live.\"</i><br><br>The Foxian grabs the medicine pouch, and pours out more pills into his mouth as though it were candy. <i>\"You are a tool that sheds no blood and cry no tears. You could never understand — I have my reason for leaving here!\"</i><br><br>A huge fist suddenly expanded, filling up the entire field of vision, and the Judge barely had any time to react. Shaking her arms, the chain she clutched whipped into a circle as she tried to lasso the fist.<br><br>The fist punched into her chest with astonishing force, splitting cracks into the ground like cobwebs and creating a crater beneath where the white-robed Judge was standing.<br><br>There was no pain, only the gentle ringing of damaged ingenium parts. The white-robed Judge was left befuddled."
+            "Story": "<i>「시왕의 심판, 업보 불변」</i><br><br>눈처럼 하얀 옷을 입은 판관이 으슥한 골목에서 천천히 걸어 나와 그의 마지막 길을 가로막았다.<br><br>남자는 더 가까이 다가갔으나, 떨리는 그의 목소리에서 공포가 고스란히 느껴졌다: <i>「왜… 그놈들 몇 명 잡은 걸로는 부족한가 보지?」</i><br><br><i>「왜」</i>라는 말로 시작됐지만, 그의 말은 의문이 아니라 반문에 가까웠다. 의미 분석이 머릿속을 계속 맴돌지만, <i>「목표가 공범의 말로에 대해 확실히 알고 있다」</i>는 것 외에는 별다른 정보가 없었다.<br><br>그녀는 즉시 주어진 사명을 이행하기로 결정한다.<br><br>눈, 관자놀이, 턱, 심장, 단부, 아랫배… 그녀는 일격에 치명타를 입힐 수 있는 급소를 순식간에 파악했다. 상대는 민첩하기로 유명한 여우족이지만, 허점투성이이니 아마도 한 번… 많아도 두 번의 공격이면 해결할 수 있을 것이다.<br><br>그러나 이번 일격은 실패하고 만다.<br><br>판관은 호기심 어린 눈빛으로 그를 응시한다. 남자의 근육은 마치 쥐라도 돌아다니는 것 같이 쉴 새 없이 들썩이고, 두 눈은 계획이 성공했다는 듯이 반짝이고 있다.<br><br>그는 급병에 걸린 것처럼 헐떡인다. 걷잡을 수 없는 고통 속에서 비명을 지르던 그의 온몸에 솜털이 자라고, 사지와 몸이 보이지 않는 어떤 힘에 의해 부풀어 오른다. 동천의 달빛 아래, 거대한 늑대인간이 몸을 일으킨다. 이때 판관의 눈에 인체를 둘러싸고 있는 그 새빨간 윤곽이 들불처럼 타오른다.<br><br><i>「너… 스스로 무덤을 파는구나」</i> 내면 깊은 곳의 습관으로 그녀는 한숨을 쉬려 하지만, 그녀의 몸에는 이제 그런 기능이 없다. <i>「약왕의 비전 약을 먹어봤자 죽음을 재촉할 뿐이야」</i><br><br>남자의 눈빛은 조금도 흔들리지 않는다. <i>「어차피 너희에게 발각된 그 순간부터 나는 이미 시한부였어」</i><br><br>여우족 남자는 옆에 있던 약주머니를 움켜쥐고 콩을 들이붓듯 더 많은 약을 입안에 털어 넣는다. <i>「너희처럼 피도 눈물도 없는 것들이 어떻게 이해하겠어. 내게는 반드시 이곳을 떠나야만 하는 이유가 있단 말이야!」</i><br><br>거대한 주먹이 순식간에 커지며 단번에 시야를 가득 메운다. 판관의 반응 기교는 아슬아슬하게 대응한다. 두 팔을 흔들자 그녀가 지니고 다니던 쇠사슬이 팽팽하게 원을 그리며 그 주먹을 감싸려 한다.<br><br>엄청난 힘이 실린 주먹이 가슴팍을 향해 날아들자, 백의의 판관이 딛고 서 있던 땅은 마치 거미줄처럼 갈라지며 움푹 꺼진다.<br><br>기계 장기가 부서지는 소리가 가볍게 났을 뿐, 통증은 없다. 백의의 판관은 한동안 정신이 아득했다"
         },
         {
             "_id": 3,
-            "Story": "<i>\"Madam Xueyi, this body of yours is beyond salvation. I... I have to move you into a new puppet now. This process may leave you a little confused. Please bear with me.\"</i><br><br>Similar conversations had been exchanged between her and Huohuo the spiritfarer over and over again. She responded the same as always, <i>\"Thank you. This time, please pick something sturdy.\"</i><br><br>She saw Huohuo's foxy ear twitch — was it out of frustration? She knew not. Her eyes could see, but they had no capacity for recognizing emotion... And maybe this was through no fault of her eyes.<br><br><i>\"I've packed all the best, hardest, and most flexible parts into Madam Xueyi's body, but your rates of injury and damage are still the highest in the division... The craftsmen of the Interrogation Division have started to grumble.\"</i><br><br><i>\"Once you put me together, I will...\"</i><br><br><i>\"... Just give each of them a 'light' tap on the head, okay?\"</i> A familiar voice came beside her as she lay at sixes and sevens.<i>\"They are still flesh and blood, and cannot stand your jokes.\"</i><br><br>Long hair drooped down to cover her face, and a disturbance signal emitted from her artificial skin. The woman's face looking down had each independent feature combined into a new one that was both extremely familiar yet also kind to her.<br><br><i>\"Sister, having an ingenium body will always lull you into a false sense of invulnerability. However, I have to use the remaining days of reanimation to offset premature damage to this body of yours. I hope you can remember during your next mission that you've still got a sister out there who cares about you.\"</i><br><br><i>\"I remember.\"</i><br><br><i>\"Otherwise, you'll have to get Huohuo to write this line into your mind... Ah, just kidding, Huohuo. No need for that. I trust my sister can remember it.\"</i><br><br><i>\"So Madam Xueyi, let's begin.\"</i><br><br><b>She felt herself being sliced open, copied, split into a thousand pieces, and uploaded into millions of circuits housed at the Ten-Lords Commission. When...<br>In a flash, she shuffled through countless documents inscribed in the Hall of Karma and then, after a fleeting glimpse at all the souls of the Xianzhou, the memory vanished.<br>Moments later, she entered the body of a nearby aurumaton spectral envoy, feeling both the strength of the metal body alongside the unshakable will of the jade abacus.<br>She has one thousand pairs of eyes, watching over the people of Starskiff Haven with the wings and sight line of a cycrane...<br>She has one thousand ears, scanning the changing waves and pitches among the infinite possible frequencies...<br>Her one thousand hands write handwritten judgments on the spiritfarer's body, and her one thousand feet give chase over unfamiliar avenues... <br>She knows that she's only inside the jade abacus circuitry of the Ten-Lords Commission, but she feels as though she were everywhere and gradually fading away...</b><br><br><i>\"Sister... sister!\"</i><br><br>A familiar voice rang out again beyond the waveform of the voiceprint, and she was trapped fast inside a memory. The white-robed judge was left befuddled."
+            "Story": "<i>「설의 님, 이 몸은 틀렸어요. 제… 제가 새로운 인형으로 옮겨드릴게요. 이 과정에서 좀 혼란스러울 수 있는데, 조금만 참으세요」</i><br><br>그녀와 명관 곽향 사이에서 비슷한 대화가 이미 수도 없이 반복됐다. 그녀는 예전과 똑같이 대답했다. <i>「고마워. 이번엔 튼튼한 걸로 골라줘」</i><br><br>곽향의 귀가 움직이는 게 보인다. 속상하다는 표현일까? 그녀는 알 수 없다. 그녀의 눈은 볼 수 있지만, 감정을 분별할 능력은 없다…. 어쩌면 이건 눈의 문제가 아닐지도 모른다.<br><br><i>「가장 뛰어나고, 튼튼하고, 가장 민첩한 부속품을 전부 설의 님의 몸 안에 넣었는데도 설의 님의 부상률과 손상률이 부서에서 가장 높아요…. 심문부의 장인들이 불평하기 시작했다고요」</i><br><br><i>「네가 다 조립하면, 난 바로……」</i><br><br><i>「…저것들의 머리를 『가볍게』 두드려주겠다는 거지?」</i> 익숙한 목소리가 산산조각 난 그녀의 몸 옆에서 들려왔다. <i>「저것들은 아직 피와 살을 지닌 평범한 몸이라 그런 장난은 못 견뎌」</i><br><br>늘어진 긴 머리카락이 그녀의 얼굴을 덮었다. 그녀의 인조 피부에서 방해 신호가 방출됐다. 그녀의 내려다보는 얼굴은 독립적인 오관에서 그녀에게 익숙하고 친근하기 그지없는 얼굴로 합쳐졌다.<br><br><i>「언니, 기교의 몸은 늘 자신이 강철 같이 단단하다는 착각을 불러일으키곤 해. 하지만 난 환생하는 휴일로 너무 빨리 망가진 언니의 몸을 때워야 한단 말이야. 그러니 다음에 사명을 이행할 땐 언니를 걱정하는 동생이 있다는 걸 기억해줬으면 좋겠어」</i><br><br><i>「기억할게」</i><br><br><i>「그래도 안 되면 곽향에게 언니의 머릿속에 이 말을 새겨 놓으라고 할… 아, 괜찮아, 곽향. 농담이야. 난 언니가 기억할 거라고 믿어」</i><br><br><i>「그럼 설의 님, 이제 시작할게요」</i><br><br><b>그녀는 자신이 잘리고 복제되어 수천 개로 쪼개져서 시왕사의 수많은 회로에 업로드되는 것을 느꼈다.<br>순간 그녀는 인과의 전당에 새겨진 수많은 기록을 읽었고, 선주 사람의 영혼의 전모를 잠시 살펴본 후 다시 기억을 잃었다.<br>다음 순간, 그녀는 주위의 금 조각상•저승사자의 몸에 들어가 금속 몸체의 강인함과 옥조 속의 흔들리지 않는 의지를 느꼈다.<br>천 개의 눈이 생겨난 그녀는 기계새의 날개와 시선으로 별뗏목의 바다 사람들을 굽어보았다……<br>천 개의 귀가 생겨난 그녀는 무한한 주파수에서 파형의 변화와 날카로운 소리를 들었다……<br>그녀의 천 개의 손은 명관의 몸에서 업보의 판결을 써 내려가고, 천 개의 발은 낯선 거리를 바삐 걸었다……<br>그녀는 이 순간 자신이 시왕사 옥조 회로 속에 있다는 것을 알고 있지만, 또 모든 곳에 존재하며 점점 흩어져 간다는 걸 느꼈다……</b><br><br><i>「언니… 언니!」</i><br><br>또다시 익숙한 목소리가 성문의 파형을 넘어 들려왔다. 기억 하나가 그녀를 단단히 속박했다. 백의의 판관은 한동안 정신이 아득했다"
         },
         {
             "_id": 4,
-            "Story": "<i>\"Sister... sister!\"</i><br><br>She was shocked to discover herself beneath an azure sky, surrounded by lush undulating waves of wheat growing.<br><br>She smiled as she braided together the twigs and flowers she'd picked up earlier, placing this wreath on the tiny head of the little girl in her lap. The girl turned back to look at her, smiling even more brightly than the flowers.<br><br>She held onto this face tightly, vowing to eternally protect this delicate, fragile face — vowing to do many, many things for her.<br><br><i>\"Sister... sister!\"</i><br><br>As soon as she was distracted, this face relaxed and grew broader. There was no trace of weakness in those gorgeous eyes that needed her care — only perseverance. This face once walked side-by-side with her, boarding starskiffs together and cruising out beyond the borders.<br><br>Sandstorms, frost, mud marks... Time has left behind much dirt upon this face. But these hands will always gently and meticulously wipe away everything.<br><br>Just like herself, her sister has grown and matured. She shouldn't always wipe her sister's face clean in front of everyone like an anxious mother. But how could she ever just let go of things? She vowed to protect this face forever — vowing to do many, many things.<br><br><i>\"Sister... sister!\"</i><br><br>She looked up from the blood and fire of the scorched earth. On the ground lay thousands of familiar but lifeless faces, including that of her sister.<br><br>But she couldn't find her own face.<br><br><i>\"I can save her. I can save all of you. All it takes is a wave of the branch and I can teach flesh to regrow from the mere bones or let petals rise up out of the dust to the flower once more. You know very well I can.\"</i><br><br>Underneath her, a strange tree with a thousand faces spoke to her, and to everyone. They waved their branches, penetrating deep into the earth.<br><br><i>\"I am Shuhu. I am eternal. From me, you shall gain true immortality.\"</i><br><br>Sobbing, she closed her eyes, incapable of providing any resistance. At this moment, she was just an insignificant fruit upon this giant tree, powerless against mighty roots.<br><br>A colossal, blazing sword plunged down from the heavens, scorching away the sweet yet putrid atmosphere. A towering figure in formidable armor crashed onto the battlefield like a meteor, bellowing at the towering tree. The strange tree blossomed once more like a perennial flower, its golden branches growing ferociously to tightly entangle the enemy.<br><br><i>\"Each time you overcome death, I am beyond overjoyed. Like them, your flesh and blood are insignificant, but your pain is something that pleases me.\"</i><br><br>The branches laughed shrilly, letting each head speak one word on their behalf, stringing together a sentence, <i>\"Teng Xiao, what do you plan on using to kill me this time? I'm curious.\"</i><br><br><i>\"With myself.\"</i> The man replies calmly. Behind him, the golden illusion plunges the colossal blade straight down into the ground from high up in the sky.<br><br><i>\"Sister... sister!\"</i><br><br>The cries grow more urgent. She could feel herself being once again filtered, deleted, merged, and stuffed into a narrow and limited self.<br><br><i>\"These so-called Judges of the Netherworld and envoys of the Ten Lords truly amount to nothing.\"</i><br><br>Like everyone who jolts awake from a dream, she returns to her body but has forgotten the momentary dream. The judge dressed in white feels befuddled."
+            "Story": "<i>「언니… 언니!」</i><br><br>그녀는 자신이 푸른 하늘 아래 있다는 것을 알아차리고 놀랐다. 주변엔 무성하게 자란 보리 이삭이 넘실댔다.<br><br>그녀는 웃으면서 잔가지와 일찌감치 주워 둔 꽃을 한데 엮어 품 안 여자아이의 머리 위에 얹어줬다. 고개를 돌린 아이는 꽃보다도 더 환하게 웃었다.<br><br>그녀는 아이의 얼굴을 꽉 끌어안고 영원히 이 섬세하고 연약한 얼굴을 보호하고, 그녀를 위해 많은 일을 하겠다고 맹세했다.<br><br><i>「언니… 언니!」</i><br><br>잠시 정신을 잃은 사이, 이 얼굴은 넓어지고 커졌다. 그 수려한 오관에는 그녀의 보호가 필요한 연약함이 사라지고, 강인한 모습뿐이었다. 이 얼굴은 예전에 그녀와 함께 걸었고, 함께 별뗏목에 올라 역외를 원정했다.<br><br>모래바람, 서리, 진흙 자국… 시간은 이 사랑스러운 얼굴에 많은 때를 묻혔지만, 그녀의 손은 언제나 부드럽고 섬세하게 모든 것을 닦아낸다.<br><br>그녀와 마찬가지로 여동생은 어른이 되었다. 사람들 앞에서 노심초사하는 어머니처럼 그렇게 얼굴을 닦아주어서는 안 된다는 건 알지만, 그렇다고 어찌 쉽게 놓을 수 있을까? 영원히 이 얼굴을 보호하겠다고, 많은 것들을 해주겠다고 맹세한 것을.<br><br><i>「언니… 언니!」</i><br><br>그녀는 화염과 피가 가득한 그을린 땅에서 고개를 들었다. 땅에는 수천 개의 익숙하지만 생기를 잃은 얼굴이 있었고, 그중 여동생의 얼굴도 보였다.<br><br>하지만 그녀는 자신의 얼굴은 찾을 수 없었다.<br><br><i>「난 그녀를, 너희 모두를 구할 수 있어. 손안의 가지를 가볍게 흔들기만 하면, 백골에 다시 피와 살이 생기고, 꽃잎이 흙먼지 속에서 꽃술로 돌아가게 할 수 있어. 너도 잘 알잖아」</i><br><br>그녀의 몸 아래에는 천 개의 얼굴을 가진 이상한 나무가 그녀와 모든 사람에게 말을 걸고 있었다. 그것이 가지를 흔들자, 가지와 줄기는 대지에 깊숙히 박혔다.<br><br><i>「나는 찰나이자 영원이다. 너희는 나로부터 진정한 장생을 얻으리라」</i><br><br>그녀는 눈물을 삼키며 눈을 감았다. 저항할 여력이 없었다. 이 순간 그녀는 거대한 나무의 보잘것없는 열매일 뿐, 웅장한 뿌리에 항변할 수 없었다.<br><br>불타는 거대한 검이 하늘에서 내려와 공기 중에 퍼진 달큰한 썩은 냄새를 모조리 태웠다. 갑옷을 걸친 우람한 남자가 유성처럼 전쟁터에 떨어져 노호하며 거대한 나무를 향해 돌진했다. 그 이상한 나무는 마치 꽃처럼 다시 한번 피어났고, 금빛 가지가 맹렬히 자라나 숙적을 칭칭 얽어맸다.<br><br><i>「죽음을 극복할 때마다 더없이 기뻐. 그들과 마찬가지로 네 육신은 보잘것없지만, 네 고통은 날 기쁘게 할 수도 있지」</i><br><br>가지는 날카롭게 웃으며 모든 머리가 자신을 대신해 한 글자씩 뱉도록 만들어 문장을 완성했다: <i>「등효, 이번엔 뭐로 날 죽일 셈이지? 정말 기대되는군」</i><br><br><i>「나 자신으로」</i> 남자는 담담하게 대꾸했다. 그의 등 뒤로 금빛 환영이 거대한 칼날을 하늘에서 대지로 내리꽂았다.<br><br><i>「언니… 언니!」</i><br><br>외침이 절박해진다. 그녀는 자신이 다시 선별되고 삭제되고 합쳐져 좁고 한정된 자아 속에 갇히는 것을 느꼈다.<br><br><i>「소위 말하는 명부 판관, 시왕의 칙사도 별거 아니구나」</i><br><br>꿈에서 깬 사람이 으레 그렇듯, 그녀는 자신의 몸으로 돌아왔지만, 방금 전 꿈을 잊어버렸다. 백의의 판관은 한동안 정신이 아득했다"
         },
         {
             "_id": 5,
-            "Story": "The raspy laughter of the Foxian next to the judge's ears sounds like the howling of a wolf.<br><br>The man took away dozens of the most valuable pellets in the organization. Now, it appears that he is simply lacking in combat experience. Ingesting just one pellet is already enough to easily crush the judge before him.<br><br><i>\"At the end, ingenia have their limits... They are nothing compared to the immeasurable potential of the bodies of us long-life species.\"</i><br><br>The Foxian chuckles and tries to retrieve his arm, only to find several chains entangling it. The chains are interlocked and intertwined over his skin like spider silk.<br><br>The judge's eyes are glowing through the gaps in her long black hair, which cascades down her face. Her expression reminds the Foxian of a predator that had smelled blood. <i>\"My ingenium organ, 'Deities of the Five Organ Senses,' has been damaged. The part responsible for my sympathy has been reduced.\"</i><br><br><i>\"...That's ridiculous!\"</i> As the Foxian curls his fingers into the shape of a claw and powerfully slams it down, a three-pronged spike pierces through his palm. He shrieks in pain.<br><br><i>\"I originally wanted to let you undergo interrogation in the Shackling Prison with your body intact, but you have shattered my sympathy.\"</i><br><br><i>\"Just drop your act! Have you forgotten that I'm tied to you through your chain?\"</i> The wounded beast caught in the trap starts struggling. The Foxian pulls the chain and drags the white-robed judge into his arms. Every inch of his massive muscles contracts like coiled ropes in response to his anger. The unsettling sound of bones sliding out of their sockets and becoming misaligned pops loudly in the air.<br><br><i>\"Just like how you put it, body of flesh and blood holds unfathomable potential... But it has a crucial setback. It feels pain.\"</i><br><br>The white-robed judge's voice hums as the man's agonizing screams resonate in the night sky.<br><br>She props her shattered right arm up. Her broken iron bone protrudes out like the sharp tip of a spear, stabbing into the Foxian's jaw that already appears like a wolf's. The twisted fugitive scrambles in all directions but fails to break free from the judge's relentless pursuit. He rolls around on the ground in excruciating pain, finally losing consciousness and going limp like a puddle of goo.<br><br><i>\"You say I am a tool that sheds no blood and cries no tears?\"</i> The judge, now dressed in a bloodstained robe, slowly rises from the massive body of the criminal. <i>\"It's Abominations of Abundance like you... that have shattered my sympathy.\"</i><br><br>She tries her best to push her skull, spine, and patella back to the correct positions, then fastens to her waist the severed arm that cannot be re-attached no matter what.<br><br>What will her sister and Huohuo say about this time? A habit slumbering deep in her mind makes her want to heave a sigh, but her body no longer has that function."
+            "Story": "백의의 판관 귓가에 여우족의 쉰 웃음소리는 늑대의 울부짖는 소리처럼 들렸다.<br><br>남자는 조직에서 가장 귀한 단약을 수십 알 가져갔다. 이제 보니 그는 실전 경험이 부족한 것 같다. 한 알만 먹어도 눈앞의 판관을 산산조각 낼 수 있으니 말이다.<br><br><i>「결국 기교는 한계가 있는 법이지…. 무한한 잠재력을 지닌 우리 장수종의 몸만 못 해」</i><br><br>여우족은 웃으며 손을 빼내려고 하지만 꿈쩍도 하지 않는다. 여러 번 감긴 쇠사슬이 거미줄처럼 그의 팔을 칭칭 감고 있다.<br><br>얼굴을 가린 흑발 사이로 판관의 눈이 번쩍였다. 여우족은 그 표정에서 사냥감의 피 냄새를 맡은 맹수의 모습을 떠올렸다. <i>「『오장신(五藏神)』, 내 기교 장기가 부서졌어. 동정심을 담당하는 부분이 약해졌지」</i><br><br><i>「…무슨 소린지 모르겠군!」</i> 여우족은 손가락을 갈퀴 모양으로 구부려 맹렬하게 공격했지만, 삼각 가시에 손바닥이 뚫려 울부짖는다.<br><br><i>「원래는 너를 성한 상태로 감옥에 보내 재판을 받게 하려고 했어. 육신의 고통을 덜어주고 싶었지. 그런데 네가 내 동정심을 파괴했어」</i><br><br><i>「허세 부리지 마! 네 사슬이 내 몸에 묶여 있는 걸 잊었나?」</i> 덫에 걸린 상처 입은 짐승은 몸부림치기 시작했다. 여우족이 쇠사슬을 잡아당겨 백의의 판관을 품으로 끌어들인다. 우람한 근육이 그의 분노에 반응해 올가미처럼 수축한다. 관절이 비틀리는 살벌한 소리가 공기 중에 울려 퍼진다.<br><br><i>「네 말대로 육신의 잠재력이란 무한하다…. 하지만 결정적인 단점이 딱 하나 있지. 고통을 느낀다는 것」</i><br><br>백의의 판관이 웅얼거리는 소리와 남자의 고통스러워 하는 비명이 밤하늘을 가득 메운다.<br><br>그녀는 산산조각 난 오른팔을 받친다. 부러진 팔에서 튀어나온 철골이 날카로운 창끝처럼 늑대의 모습을 드러낸 여우족의 턱에 꽂힌다. 주화입마에 빠진 탈주범은 발버둥치지만, 그를 단단히 옭아매는 판관을 뿌리칠 순 없다. 그는 극심한 통증으로 한참을 뒹굴다 마침내 의식을 잃고 축 늘어진다.<br><br><i>「피도 눈물도 없다고?」</i> 옷이 피로 물든 판관은 수배범의 거대한 몸에서 천천히 몸을 일으켰다. <i>「너희 풍요의 흉물이… 내 동정심을 부순 거야」</i><br><br>그녀는 두개골과 척추, 슬개골을 간신히 원래 위치로 돌려놓은 후, 아무리 애를 써도 붙지 않는 부러진 손을 허리춤에 묶는다.<br><br>이번엔 또 동생과 곽향이 얼마나 잔소리를 할까? 내면 깊은 곳의 습관으로 그녀는 한숨을 쉬려 하지만, 그녀의 몸에는 이제 그런 기능이 없다"
         }
     ]
 }
@@ -470,212 +470,212 @@ var _story_ = {
 var _voice_ = {
     "1214": [
         {
-            "Title": "First Meeting",
-            "Voice": "I am Xueyi, a judge of the Ten-Lords Commission. By decree of the Commission, I come to the world of the living to enforce its will. Tell me what you want. I haven't got much time."
+            "Title": "첫 만남",
+            "Voice": "시왕사 판관 설의, 시왕의 명을 받들어 환생해 일을 처리하지. 할 말 있으면 빨리해. 난 시간이 별로 없거든"
         },
         {
-            "Title": "Greeting",
-            "Voice": "It's good we could be acquainted. I rarely have the chance to come to your side of the world."
+            "Title": "인사",
+            "Voice": "간만에 환생인데 바로 널 만나다니, 인연이군"
         },
         {
-            "Title": "Parting",
-            "Voice": "My wakespan for today is running out — I must return to my coffin. Take care."
+            "Title": "작별",
+            "Voice": "시간이 됐네, 하루의 「수명」이 끝났어. 관으로 돌아가서 쉴게. 걱정 말고"
         },
         {
-            "Title": "About Self: Name",
-            "Voice": "\"Xueyi\" is a type of white-feathered bird. It also refers to the white pieces of a chessboard. It is a fitting alias — I often move first, though it is the Commission that decides where to dispatch me."
+            "Title": "자신에 대해•이름",
+            "Voice": "「설의」는 원래 백조의 일종이자 장기판의 흰 패를 지칭하는 말이야. 시왕의 뜻에 무조건 따르겠다는 결심으로 이 이름을 골랐지"
         },
         {
-            "Title": "About Self: Puppet",
-            "Voice": "You are talking to a puppet, not a living being. The Commission gifted me this body. The real me has already been reduced to ashes."
+            "Title": "자신에 대해•인형",
+            "Voice": "난 산 사람이 아니야. 너와 이야기하는 건 시왕께서 하사한 인형의 몸이지. 내 몸은 오래 전에 먼지가 됐어"
         },
         {
-            "Title": "About Self: Sister",
-            "Voice": "My sister may not strike you as an extrovert, but when I have wakespan to spare, her eyes light up. We'll wander around and do silly things together. It's good to keep her company."
+            "Title": "자신에 대해•자매",
+            "Voice": "내 동생을 늘상 풀 죽어 있는 애로 보지 마. 내가 환생하는 짧은 시간에도 그 아이는 신나서 날 이리저리 끌고 다니거든. 난 그저 끌려다니는 수밖에 없지"
         },
         {
-            "Title": "Chat: Work",
-            "Voice": "As per my arrangement with the Ten-Lords Commission, for each criminal I take into custody, I will be granted half a day of wakespan. It might not seem much to you, but I cherish every second of it."
+            "Title": "잡담•업무",
+            "Voice": "시왕사는 내게 범인 하나를 잡을 때마다 반나절을 환생시켜주기로 약속했어. 너희에게 반나절은 긴 시간이 아니겠지만, 내겐 무척 소중해"
         },
         {
-            "Title": "Chat: Past",
-            "Voice": "In my living years, it appears I was stricken with mara and committed terrible crimes. The Commission offered me the chance to atone for my sins by working for them."
+            "Title": "잡담•과거",
+            "Voice": "살아 있을 때 난 마각의 몸에 빠져 큰 죄를 지었던 것 같아…. 시왕의 은혜로 죄를 만회할 기회를 얻은 거지"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I used to enjoy many things: walking around the markets, reading novels, and watching immersia. Now, I can only relive those moments during my wakespan. When I return to my coffin, my memories don't follow."
+            "Title": "취미",
+            "Voice": "난 생전에 취미가 많았나 봐. 거리 구경하기, 소설 읽기, 환상극 보기 등등. 반나절은 기억을 떠올리기에 충분하지만, 관에 들어가기만 하면 다 잊게 되지……"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "Annoyances are a luxury to me."
+            "Title": "고민",
+            "Voice": "「고민」 같은 건 내게 사치야"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "When asleep in my coffin, I often experience the memories of criminals in my dreams. But when I awake, I don't remember anything... People say the Ten-Lords Commission can perform dream divination. I wonder if that's what I'm experiencing."
+            "Title": "공유",
+            "Voice": "관에서 잠잘 때면 늘 여러 죄인들의 과거에 대한 꿈을 꿔. 깨어나면 기억이 전혀 안 나지…. 이게 시왕사의 꿈점 보는 법인가?"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "\"An Unsuitable Job for A Puppet\" — have you read that novel? The story is based on my life. I wonder who wrote it. Could it be one of my colleagues?"
+            "Title": "견문",
+            "Voice": "≪인형에 어울리지 않는 직업≫, 이 소설 읽어봤어? 누가 내 이야기를 소설로 썼는지 모르겠어…. 이상해, 설마 시왕사 동료인가?"
         },
         {
-            "Title": "About Hanya",
-            "Voice": "My sister is tasked with the karmic interpretation of people's memories. She works relentlessly in the Hall of Karma — it's a thankless job with no \"rest days...\" I can see the dark circles around her eyes."
+            "Title": "한아에 대해",
+            "Voice": "내 동생은 인과와 업보를 판독하는 중책을 맡고 있어서 평소에는 「인과의 전당」에서 지내. 휴일도 없이 밤새워 일하지. 근무 환경이 얼마나 열악한지 눈에 그늘까지 생겼다니까"
         },
         {
-            "Title": "About Huohuo",
-            "Voice": "Only 38 years have passed since Huohuo joined the Commission as a spiritfarer, but she's already become a judge. The speed of her promotion is unheard of. As per the Commission's rules, it would have taken anyone else at least 500 years."
+            "Title": "곽향에 대해",
+            "Voice": "곽향이라… 명관이 된 지 겨우 38년인데 갑자기 판관이 됐어. 이런 승진 속도는 금시초문이야. 명부의 규정대로라면 평범한 사람은 500년이 지나도 될까 말까거든"
         },
         {
-            "Title": "About Dan Heng",
-            "Voice": "When I was alive, Dan Feng's reputation preceded him. To witness him now — an ousted criminal under a different name... How the world changes."
+            "Title": "단항에 대해",
+            "Voice": "내가 살아있을 때 단풍의 명성을 모르는 사람은 없었어. 근데 지금은 죄인이 되어 선주에서 쫓겨났지. 이름도 바뀌고…. 세상 일은 참 알 수 없어"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "The general has proved to be a staunch ally of the Ten-Lords Commission. His loyalty will be rewarded."
+            "Title": "경원에 대해",
+            "Voice": "장군은 시왕사를 위해 최선을 다했으니, 시왕께서 크게 보답하실 거야"
         },
         {
-            "Title": "About Luocha",
-            "Voice": "As an outsider capable of mending my mechanical body, he's far from typical..."
+            "Title": "나찰에 대해",
+            "Voice": "내 기계 몸을 고칠 수 있는 그 이방인… 평범하지는 않아"
         },
         {
-            "Title": "About Jingliu",
-            "Voice": "Just like me, she carries the burden of guilt. But, unlike me, she doesn't have the chance or need to atone for her wrongdoings, which has led her down a dangerous path."
+            "Title": "경류에 대해",
+            "Voice": "그녀도 나처럼 죄를 지은 사람이야. 다만 속죄할 가능성과 필요가 없어서 잘못된 길을 가고 있지"
         },
         {
-            "Title": "About Tail",
-            "Voice": "Back then, I tried to dissuade {RUBY_B#Hanya}her{RUBY_E#} from her actions. But now, I can see how it provided the Ten-Lords Commission with many opportunities."
+            "Title": "꼬리에 대해",
+            "Voice": "그때는 나도 동생을 말렸었어. 하지만 지금 보면 되레 시왕사에 많은 가능성을 안겨다 줬지"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Serving under the Ten Lords, as a judge of souls, I come to the world of the living to enforce their will."
+            "Title": "성혼 활성화",
+            "Voice": "시왕을 모시고 혼을 구금하는 판관이야. 명을 받들고 환생해 일을 처리하지"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Very well, out with the old and in with the new."
+            "Title": "캐릭터 승급",
+            "Voice": "좋아, 새로워졌군. 성공이야"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Though puppet in form, I'm fully functional."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "인형의 몸이지만 기능은 다 있어"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "I shall carry out the decree of the Ten Lords."
+            "Title": "행적 활성화",
+            "Voice": "시왕의 명은 필히 받들어야 하지"
         },
         {
-            "Title": "Added to Team With Hanya",
-            "Voice": "Quite unexpected. You're also going on this mission?"
+            "Title": "파티 편성•한아",
+            "Voice": "모처럼이네. 이번 임무는 우리 한아도 가는 거야?"
         },
         {
-            "Title": "Added to Team With Dan Heng",
-            "Voice": "We meet again, a pleasant surprise."
+            "Title": "파티 편성•단항",
+            "Voice": "또 만났네, 반가워"
         },
         {
-            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
-            "Voice": "It's you, how fortunate. This new look of yours must surely stir up trouble, does it not?"
+            "Title": "파티 편성•단항•음월",
+            "Voice": "너구나, 반가워. 그 모습을 보니 곤란한 일이 꽤 생길 것 같네"
         },
         {
-            "Title": "Added to Team With Jing Yuan",
-            "Voice": "The Ten Lords will surely repay your assistance with kindness, General."
+            "Title": "파티 편성•경원",
+            "Voice": "도와주신 은혜는 시왕께서 반드시 갚으실 거예요"
         },
         {
-            "Title": "Added to Team With Huohuo",
-            "Voice": "Huohuo, just stand behind me and do what you can."
+            "Title": "파티 편성•곽향",
+            "Voice": "곽향, 내 뒤에서 지원해주면 돼"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "You could've surrendered."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "왜 항복을 안 해?"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "That's it?"
+            "Title": "전투 시작•위험 경보",
+            "Voice": "이게 다야?"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "It's time."
+            "Title": "턴 시작•1",
+            "Voice": "시간이 됐어"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Do you admit this crime?"
+            "Title": "턴 시작•2",
+            "Voice": "네 죄를 알렸다"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "I can't spend my wakespan waiting..."
+            "Title": "턴 대기",
+            "Voice": "더 있다간 내 수명이 다할 거야…"
         },
         {
-            "Title": "Skill",
-            "Voice": "Yield!"
+            "Title": "전투 스킬",
+            "Voice": "순순히 항복해!"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Execution."
+            "Title": "일반 공격",
+            "Voice": "사형 집행"
         },
         {
-            "Title": "Talent",
-            "Voice": "No amnesty... for the Mara-struck."
+            "Title": "특성",
+            "Voice": "마각, 용서 못해"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "You can't hurt me."
+            "Title": "약공격 피격",
+            "Voice": "날 해칠 순 없어"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "So what if it hurt?"
+            "Title": "강공격 피격",
+            "Voice": "다치면 또 어때서?"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "By order of the Ten-Lords..."
+            "Title": "필살기•활성화",
+            "Voice": "시왕의 명령으로…"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Execute the Mara-struck!"
+            "Title": "필살기•발동",
+            "Voice": "마각, 단죄한다!"
         },
         {
-            "Title": "Downed",
-            "Voice": "Forgive me, sister..."
+            "Title": "전투 불능",
+            "Voice": "언니가 미안……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Death has yet to claim me."
+            "Title": "전투 복귀",
+            "Voice": "죽기엔 일러"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Motor function restored."
+            "Title": "HP 회복",
+            "Voice": "운동 기능 회복 완료"
         },
         {
-            "Title": "Technique",
-            "Voice": "Spirits be gone."
+            "Title": "비술",
+            "Voice": "악령아 물렀거라"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "A few more days to my wakespan..."
+            "Title": "전투 승리",
+            "Voice": "또 수명을 늘릴 수 있겠어……"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Interesting, show it to that silly child."
+            "Title": "전리품 오픈•1",
+            "Voice": "재밌네, 그 녀석한테 보여주자"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "It's not every day you see something like this."
+            "Title": "전리품 오픈•2",
+            "Voice": "꽤 신선하군"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "This will make her happy for quite some time..."
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "그 애한테 주면… 두고두고 기뻐할 거야"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Was it this easy the last time I was awake?"
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "전에 환생했을 때도 이랬나?"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Next time we could pick up the pace."
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "다음에는… 더 빨리 풀 수 있겠지……"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Careful, there is evil ahead."
+            "Title": "적 발견",
+            "Voice": "살기가 가득하니 조심해"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "I'd like to take in something new before returning to the coffin."
+            "Title": "도시로 복귀",
+            "Voice": "관으로 돌아가기 전에 새로운 것들 좀 보고 싶어"
         }
     ]
 }

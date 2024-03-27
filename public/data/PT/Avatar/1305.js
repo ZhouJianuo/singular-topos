@@ -523,6 +523,14 @@ var _voice_ = {
             "Voice": "Harnessing and tempering the instincts of life... you know more of such things than myself."
         },
         {
+            "Title": "Added to Team With Aventurine",
+            "Voice": "Keep to yourself, gambler, and spare me the false display of concern."
+        },
+        {
+            "Title": "About Aventurine",
+            "Voice": "Our man here always manages to wriggle out from the jaws of catastrophe, and we can't chalk it all up to \"good luck.\" The audience is forever anticipating his blunder... maybe he's anticipating it as well — will that day ever come?"
+        },
+        {
             "Title": "Battle Begins: Weakness Break",
             "Voice": "Call that defense?"
         },

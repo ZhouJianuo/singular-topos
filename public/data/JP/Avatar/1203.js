@@ -474,23 +474,23 @@ var _story_ = {
     "1203": [
         {
             "_id": 1,
-            "Story": "An elegant and handsome blond young man who carries a giant coffin on his back.<br>As an intergalactic merchant, he was unfortunately caught in the Xianzhou Luofu's Stellaron crisis.<br>And that is how he found his mastery of medicine to come in handy."
+            "Story": "大きな棺を背負っている、容姿端麗な金髪の青年。<br>天外の行商人である彼は、不幸にも星核によって発生した仙舟「羅浮」の危機に巻き込まれてしまう。<br>その結果、優れた医術の腕を発揮する機会が生じた。"
         },
         {
             "_id": 2,
-            "Story": "<i>\"What's your occupation?\"<br>\"Traveling merchant.\"<br>\"What is the purpose of your entry?\"<br>\"Commercial business.\"<br>\"Do you vow not to violate the laws and regulations of the Xianzhou Alliance, to conduct business activities in accordance with the law, and not to conduct activities outside the scope of the visa permit?\"<br>\"Of course. I will follow the law.\"<br>\"Do you vow not to conduct any illegal research related to immortality?\"<br>\"I... promise.\"<br>\"Great, please sign here.\"<br><br>\"Mr. Luocha, welcome to the Xianzhou Luofu.\"</i>"
+            "Story": "<i>「あなたの身分は？」 <br>「行商人だよ」 <br>「仙舟に来た目的は？」 <br>「商業活動だよ」 <br>「仙舟同盟の法律を犯さないこと。法律や規則に従った商業活動をすること。査証の許可範囲以外に行かないこと。以上のことを守れますか？」 <br>「もちろん。ちゃんと守るさ」 <br>「『長生』に関するいかなる非合法な研究もしないと保証できますか？」 <br>「ああ…守るよ」 <br>「よろしいです。ではこちらに署名をお願いします」<br><br>「羅刹さん、ようこそ仙舟『羅浮』へ」</i>"
         },
         {
             "_id": 3,
-            "Story": "<i>\"Hey, do you still remember that guy? Came here often, carries a huge box...\"<br>\"You mean Luocha?\"<br>\"Yeah, Luocha... He's an Outworlder, right? But from the way he works and speaks, he feels like those older Xianzhou natives. Has he lived here for long? But then again, he had kept his unique and exotic fashion style...\"<br>\"Who knows? Maybe it's because his blond hair doesn't match the clothing of Xianzhou.\"</i><br><br>He would sometimes think of home.<br>The devils, the church, the insanity... None of those are good memories.<br>People would clamber to high places in groups just so they could witness their city's demise.<br>If everything were to end, then there shall be at least one witness.<br><br><i>\"Why do you still wear the clothes of your home world?\"</i> Someone asked.<br><i>\"It reminds me of the path I must keep treading. That is all,\"</i> Luocha answered."
+            "Story": "<i>「ねえ、あの人のこと覚えてる？いつも私たちの家に来る、大きな箱を背負った……」 <br>「羅刹のこと？」 <br>「そう、羅刹…殊俗の民だよね？でも、話し方とか習慣は、古風な仙舟人にとても似ている。仙舟に来て長いのかな？でも、ずっと独特な外の服を着てる…」 <br>「さあ？あの金髪と仙舟の服装が合わないんじゃない？」</i><br><br>彼はたまに故郷のことを思い出す。<br>悪魔、教会、狂気…それは決して美しい記憶ではない。<br>人々は、自分の街がいかに壊れるかを眺めるために、群れを成して高い所に登った。<br>もし、全てが終わらなければいけないのなら、少なくとも目撃者と2つの目が必要である。<br><br><i>「どうして、今も故郷の服を着ているのですか？」</i>誰かが質問した。<br><i>「この服は僕に守るべき道を教えてくれる、それだけさ」</i>羅刹は答える。"
         },
         {
             "_id": 4,
-            "Story": "The people of Xianzhou do not recognize coffins.<br>Each time Luocha emerged on the streets with the coffin, curious gaze followed.<br>If someone were to ask him, <i>\"What exactly is this?\"</i><br>Luocha will answer, vaguely, <i>\"This is the tool of my trade.\"</i><br><br><i>\"Tool of my trade... I hope I didn't offend you,\"</i> Luocha stood in a pavillion in the Exalting Sanctum, murmuring to himself, <i>\"But then again, our relationship does count as a business relationship, doesn't it?\"</i><br><br>The coffin responded with silence."
+            "Story": "仙舟人は棺を知らない。<br>羅刹が棺を背負って街に出るたび、人々の注目を集める。 <br>誰かが羅刹にこんな質問をした。<i>「それは一体、何なのでしょうか？」</i> <br>羅刹は必ず誤魔化す。<i>「これは、僕の商売道具だよ」</i><br><br><i>「『商売道具』…君を冒涜していることになるのかな？」</i>羅刹は、長楽天の亭台の上で少しも気にしてなさそうに言った。<i>「でも、僕と君の関係はビジネスのような物だろう？」</i><br><br>棺は沈黙で答えた。"
         },
         {
             "_id": 5,
-            "Story": "Luocha carried the coffin on his back and headed into the distance.<br>The coffin made no sound. It did not protest and had no right to protest.<br><i>\"When you keep silent, you are free.\"</i><br><br>The curtains closed, and he left the guilt behind.<br>Guilt is just another weapon to be controlled, a lie one tells themselves to believe they will one day obtain a correct answer.<br><i>\"What's so different about you? Is your pain more valuable and more moving than other people's?\"</i><br><br><i>\"Go to the Xianzhou,\"</i> the one who gave him the coffin said, <i>\"Don't forget your promise.\"</i><br><i>\"Never.\"</i><br><br>Luocha promised, but silently made another vow."
+            "Story": "当方羅刹は、棺を背負い遠方へ向かう。<br>棺からは何も聞こえない。棺は抗議しなかった。抗議する権利もなかった。<br><i>「君が何も話さない時は、自由だよ」</i><br><br>幕が上がり、彼は罪を後ろに放った。<br>罪は別の種類の操られた武器に過ぎず、自分が正しい答えを得られると騙しているに違いない。<br><i>「君は違うのかい？君の苦しみは、どうして他の人より価値があり、人の心を動かすのだろう？」</i><br><br><i>「仙舟に行くといい」</i>棺を彼に渡した人は言った。<i>「誓いを忘れるな」</i> <br><i>「永遠に忘れないさ」</i><br><br>そう言いながら、羅刹は心の中で別の誓いを立てた。"
         }
     ]
 }
@@ -498,204 +498,204 @@ var _story_ = {
 var _voice_ = {
     "1203": [
         {
-            "Title": "First Meeting",
-            "Voice": "I'm a traveling merchant, merely passing through. The name's Luocha."
+            "Title": "初対面",
+            "Voice": "僕は通りすがりの行商人だ。「{RUBY_B#ラセツ}羅刹{RUBY_E#}」と呼んでくれ。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "We got up early to press on with our journey. Did you sleep well last night?"
+            "Title": "挨拶",
+            "Voice": "よく眠れたかい？今日は早く起きることができたし、先を急ごう。"
         },
         {
-            "Title": "Parting",
-            "Voice": "Have an early rest. I'll keep watch here."
+            "Title": "お別れ",
+            "Voice": "さあ、そろそろ寝たほうがいい。ここは僕が見張っておくから。"
         },
         {
-            "Title": "About Myself: Art of Healing",
-            "Voice": "I have no one to rely on as a traveling merchant. There is at least some security when I have some ways of saving myself."
+            "Title": "自分について・医術",
+            "Voice": "外で商売をしていると、自分しか頼りにできないからね。応急処置の知識があれば、少しは安心できるだろう？"
         },
         {
-            "Title": "Chat: The Coffin",
-            "Voice": "The coffin draws attention. As a traveling merchant, it helped me a lot. Everyone is curious about the coffin, so they come up to ask me about it. As I answer them, the business is done."
+            "Title": "世間話・棺",
+            "Voice": "この棺には色々と世話になっているんだ。持っているだけで人の目を引くから、みんな好奇心を持って僕に話し掛けてきてくれる。そうして会話をしているうちに、自然と商売ができるんだよ。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "There are always differences between what I hear about a place and seeing it with my own eyes. Finding out the differences between these perceptions is my joy."
+            "Title": "趣味",
+            "Voice": "各地の文化や風習は、本で読んだものと実際に見たものとで印象が変わってくる。その違いが面白いんだ。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "When in a difficult situation, it's not so important to maintain who you truly are, but to find the suitable role to play... Ah, that's just my own experience."
+            "Title": "悩み事",
+            "Voice": "面倒事に巻き込まれた時に重要なことは、自分の本心じゃない。いかに自分に相応しい役割を見つけるかだ…はあ、これは経験談だよ。"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "The meaning of a flower lies in the duration of its bloom, and not in its petals, aroma, or the seeds it leaves behind."
+            "Title": "シェア",
+            "Voice": "花の意味は花期そのものにある。花びらでも香りでも、蒔かれた種でもなくね。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "I have long heard that the Xianzhou can preserve their beauty, and have found that to be true. However, they keep this secret by hiding in a corner of the galaxy, like sitting on a mountain of wealth without spending it... What a shame."
+            "Title": "見聞",
+            "Voice": "仙舟の天人には、その美貌を保つ力があると聞いたことがある。本当に噂の通りだったよ。でも、その秘密を守るために銀河の片隅に身を潜めているなんて…もったいないと思わないかい？"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "Not only is the general an expert in perceiving people's intentions, but he is also a master of the arts of concealment and showmanship. When he decides to \"show\" something, it's time to be careful."
+            "Title": "景元について",
+            "Voice": "将軍は人の心を読むだけでなく、「隠秘」と「顕示」の術にも長けている。彼が何かを「顕示」する時は、気をつけたほうがいいだろう。"
         },
         {
-            "Title": "About Yanqing",
-            "Voice": "Oh, you mean the young boy? The one who's always by the general? I don't know anything about him..."
+            "Title": "彦卿について",
+            "Voice": "ふむ…ああ、将軍の隣にいる機敏な少年のことかい？うーん…あまり印象はないね……"
         },
         {
-            "Title": "About Yukong",
-            "Voice": "Unlike her, very few can realize that they are nothing but a tiny mustard seed in this vast galaxy... She is worthy of my respect."
+            "Title": "御空について",
+            "Voice": "彼女のように、自分が銀河の海の一粟に過ぎないと見極められる者は、そういない…尊敬に値するよ。"
         },
         {
-            "Title": "About Tingyun",
-            "Voice": "It's hard to forget anything Tingyun says. The Foxians' talent with words should be utilized to its maximum potential, no?"
+            "Title": "停雲について",
+            "Voice": "停雲さんが何を言っても、聞き手は彼女の言葉を無視できない。狐族の特徴である卓越した話術は、利用して然るべきだ…違うかい？"
         },
         {
-            "Title": "About Sushang",
-            "Voice": "She's kind and always willing to help. She invited me to \"tea and storytelling\" the next time I'm on the Xianzhou. I'm not so sure about the storytelling — sounds time-consuming."
+            "Title": "素裳について",
+            "Voice": "熱心で優しいお嬢さんだ。また僕が仙舟に来た時には、一緒に講談を聞いて、茶を飲もうと誘われたよ…いや、やっぱり講談は遠慮しておこう、時間がかかるからね。"
         },
         {
-            "Title": "About Jingliu",
-            "Voice": "That sword she holds in her heart has long since split heaven and earth... but having harnessed that kind of power, she is no longer a mere master of the sword."
+            "Title": "鏡流について",
+            "Voice": "彼女の心に秘められた剣は、とうに天地を切り裂いている。あれほどの力を持っているとなると、もはや一介の剣士とは呼べないだろうね。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Nothing is truly new in the universe, but thanks to you, I now see things in a new way."
+            "Title": "星魂覚醒",
+            "Voice": "星光の下に新事はないが、君のおかげで新しい悟りを得られたよ。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "It takes time and patience for a seed to grow."
+            "Title": "キャラクター昇格",
+            "Voice": "花が種から成長するには、時間と我慢が必要なんだ。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "The passage of our lives is a brief affair, but it brings more joy than the immortality of the Aeons."
+            "Title": "レベルMax",
+            "Voice": "人の成長は微々たるものだが、神の不動に比べれば、円満で喜ばしい事と言えるだろう。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "What happened in the past is destined to return — I won't stand still to delay this encounter."
+            "Title": "軌跡覚醒",
+            "Voice": "一度あることは二度ある。それでも、僕は歩みを止めたりしない。"
         },
         {
-            "Title": "Added to Team With Sushang",
-            "Voice": "I am not well-versed in the art of combat. I leave this to you, Miss Sushang."
+            "Title": "パーティ編成・素裳",
+            "Voice": "お嬢さん、僕は兵事に詳しくないから、よろしく頼んだよ。"
         },
         {
-            "Title": "Added to Team With Jing Yuan",
-            "Voice": "Would you prefer me to reveal or conceal, General?"
+            "Title": "パーティ編成・景元",
+            "Voice": "将軍殿は僕に手のうちを明かしてほしいのか、隠してほしいのか、どっちなんだい？"
         },
         {
-            "Title": "Added to Team With Jingliu",
-            "Voice": "An enemy worthy of your attention is a formidable enemy."
+            "Title": "パーティ編成・鏡流",
+            "Voice": "君が剣を抜くような相手なら、きっと手強いに違いない。"
         },
         {
-            "Title": "Added to Team With Dan Heng",
-            "Voice": "Yet another journey with you."
+            "Title": "パーティ編成・丹恒",
+            "Voice": "またしばらく同行することになるね。"
         },
         {
-            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
-            "Voice": "Yet another journey with you, Imbibitor Lunae."
+            "Title": "パーティ編成・丹恒・飲月",
+            "Voice": "またしばらく同行することになる…ね、飲月君？"
         },
         {
-            "Title": "Added to Team With Blade",
-            "Voice": "Shame. I can't give you the burial that you seek."
+            "Title": "パーティ編成・刃",
+            "Voice": "残念だけど、不死の者が求める葬儀は、僕には実現できそうにない。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Time to settle your accounts."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "贖罪の時は来た。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Don't get complacent."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "気を緩めてはいけない。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Pity. You chose the wrong enemy."
+            "Title": "ターン・1",
+            "Voice": "残念ながら、選ぶ相手を間違えたよ。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Allow me to see you off."
+            "Title": "ターン・2",
+            "Voice": "僕の介錯に身を委ねるといい。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "What is it we're waiting for?"
+            "Title": "戦闘中待機",
+            "Voice": "何をためらう？"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Hmph."
+            "Title": "通常攻撃",
+            "Voice": "ふん。"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Abyss Flower, bloom."
+            "Title": "戦闘スキル・1",
+            "Voice": "白花よ、咲け！"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Receive divinity!"
+            "Title": "戦闘スキル・2",
+            "Voice": "天賜を、授けん！"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Nothing major."
+            "Title": "攻撃を受ける",
+            "Voice": "大丈夫、問題はない。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "I underestimated you."
+            "Title": "重撃を受ける",
+            "Voice": "甘く見たな。"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Eternal sleep is not the end..."
+            "Title": "必殺技・アクティブ",
+            "Voice": "永眠は終わりではない…"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "The dead will return!"
+            "Title": "必殺技・発動",
+            "Voice": "亡者は再び降臨する！"
         },
         {
-            "Title": "Talent",
-            "Voice": "That which is seized, must be repaid!"
+            "Title": "天賦",
+            "Voice": "奪ったならば、償ってもらおう！"
         },
         {
-            "Title": "Downed",
-            "Voice": "It cannot... come to pass..."
+            "Title": "戦闘不能",
+            "Voice": "叶わないと…いうのか…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "You see? I've returned."
+            "Title": "戦闘に戻る",
+            "Voice": "ほら、戻ってきただろう？"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "I feel much better."
+            "Title": "HP回復",
+            "Voice": "調子がよくなったよ。"
         },
         {
-            "Title": "Technique",
-            "Voice": "Let's wait and see."
+            "Title": "秘技",
+            "Voice": "刮目して待とう。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "A moment's excitement. Nothing more."
+            "Title": "戦闘勝利",
+            "Voice": "ひと時の余興にすぎない。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Take it, if it's to your liking."
+            "Title": "戦利品を開ける・1",
+            "Voice": "気に入ったならどうぞ。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "The enjoyment of collecting."
+            "Title": "戦利品を開ける・2",
+            "Voice": "収集も楽しみの1つだよ。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Quality merchandise."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "上等な商品だ。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Hardly worth mentioning."
+            "Title": "謎解きに成功・1",
+            "Voice": "取るに足らない小細工だね。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "A traveling merchant needs a knowledge of puzzles."
+            "Title": "謎解きに成功・2",
+            "Voice": "行商人として、多少はできないとね。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Trouble ahead... Proceed. I'm with you."
+            "Title": "敵ターゲット発見",
+            "Voice": "僕がいるんだ、好きに戦うといい。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "It's hard for a wanderer to find rest in this world."
+            "Title": "町に戻る",
+            "Voice": "世を漂う者に、根を張る場所などない。"
         }
     ]
 }

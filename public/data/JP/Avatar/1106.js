@@ -434,23 +434,23 @@ var _story_ = {
     "1106": [
         {
             "_id": 1,
-            "Story": "The meticulous Intelligence Officer of the Silvermane Guards. While young, she is undeniably brilliant.<br>Whether it relates to maneuvering troops, distributing supplies, or the analyzing terrain, Pela can answer any problems with calm certainty.<br>As for her phone case... \"It has nothing to do with work, captain.\""
+            "Story": "物事を綿密に進めるシルバーメインの情報官。年は若いが優秀な頭脳を持っている。<br>部隊の動き、物資の分配、地形の状況など、ペラはどんな質問にも冷静に、かつ寸分の狂いもなく答えてくれる。<br>ペラのスマホケースについては…「これは仕事と関係ありません、長官」"
         },
         {
             "_id": 2,
-            "Story": "The following is an excerpt from page 102 of the Silvermane Guards Recruitment Records: Intelligence Department — Vol. 24:<br><br>Basic information about the candidate —<br><br><i>\"My name is Pelageya Sergeyevna, but you can call me Pela.\"<br>\"I graduated from the Faculty of Social Sciences and the Faculty of Science from the Belobog Cadet School, with a double honorary degree in Military Studies and Cryptography.\"<br>\"My hobbies? Pardon me, I need a minute to collect myself...\"<br>\"...My hobby is studying prehistoric Belobog music. That's it.\"<br>\"No, no, I have no other hobbies... Really... Please trust me.\"</i>"
+            "Story": "以下の内容は『シルバーメイン面接選抜記録・情報部・第 24 部』 102 ページから抜粋されたものである。<br><br>受験者個人に関する基本情報——<br><br><i>「わたくしはペラゲヤ・セルゲーヴナと申します。『ペラ』とお呼びください」<br>「わたくしはベロブルグ士官学校社会科学部および理学部を卒業し、戦争研究学と情報学の2つの優等学士学位を取得いたしました」<br>「趣味ですか？すみません、少し考える時間をください……」<br>「…わたくしの趣味は『ベロブルグの先史音楽の研究』です。それだけです」<br>「はい、他に趣味はありません…本当です、わたくしを信じてください」</i>"
         },
         {
             "_id": 3,
-            "Story": "The following is an excerpt from page 103 of the Silvermane Guards Recruitment Records: Intelligence Department — Vol. 24:<br><br>As for what is an honorary degree —<br><br><i>\"Please allow me to recite from the Belobog Sergeant Education and Degree Awarding Regulations Version 3, Chapter 5, Section 23, Article 1, Paragraph 7...:\"<br>\"An Honorary Bachelor's degree will be conferred to students who have not met the minimum age requirement but have earned enough credits from courses of corresponding majors.\"<br>\"That's right. I currently have no plans for postgraduate study, and never will.\"<br>\"I find practice far better than theory, Madam.\"</i>"
+            "Story": "以下の内容は『シルバーメイン面接選抜記録・情報部・第 24 部』 103 ページから抜粋されたものである。<br><br>なぜ栄誉学士号を取ったのか——<br><br><i>「『ベロブルグ士官教育および学位軍隊階級の授与についての規約』第3編第5章第 23 節第1条目第7款の内容について説明してもよろしいでしょうか……？」<br>「学位の授与対象が最低年齢制限を満たしておらず、かつ目標学部の指定単位を修了した場合、当該対象に『優等学士』の学位を授与するものとする、とされています」<br>「はい、今のところ進学する予定はありません——この先もありません」<br>「実践は理論に勝りますから」</i>"
         },
         {
             "_id": 4,
-            "Story": "One snowy Belobog evening, underneath the massive stopped clock, the laughter of girls spilled out from a warmly-lit window.<br><br><i>\"Studying prehistoric Belobog music!? That's just ridiculous! Didn't Cocolia bother to ask about that?\"</i> The slightly older woman rocks back and forth with laughter.<br><br><i>\"Please address her as Madam Cocolia, Serval.\"</i> A petite girl pouts as she take off her steamed-up round glasses. <i>\"She has to know that I'm playing in your band.\"</i><br><br>The girl in the cat ears hat — she is reluctant to take it off even when inside — chimes in. <i>\"...You really are a piece of work. Does Madam Cocolia know what your other hobbies are?\"</i><br><br><i>\"Ha. No way.\"</i> The woman named Serval gets up from her bedding on the floor. <i>\"I've lived with her for so long and never seen her pick up a novel — she says they're a complete waste of time...\"</i><br><br><i>\"Okay. Pela, Lynx — We need to go to the </i>Tale of the Winterlands<i> fan meet tomorrow. Let's get some rest.\"</i>"
+            "Story": "雪夜のベロブルグ。止まった巨大な時計の下で、少女たちの笑い声が暖かい光と共に窓格子から漏れ出している。<br><br><i>「『ベロブルグの先史音楽の研究』！？無理ありすぎだって！それで？カカリアは追及してこなかったの？」</i>少し年上であろう女性がゲラゲラと笑った。<br><br><i>「カカリア様とお呼びください、セーバルさん」</i>小柄な少女は口をへの字にして曇った眼鏡を外した。<i>「わたくしが貴方のバンドに所属していることは、きっと彼女も知っていると思いますよ」</i><br><br>もこもこの帽子をかぶった少女もペラに同調する——彼女は室内にいても可愛い帽子を取ろうとしない。<i>「…さすがだね、ペラ。カカリア様はあなたの他の趣味についても知ってる？」</i><br><br><i>「はっ、そんなの知らないに決まってんじゃん」</i>セーバルと呼ばれた女性が立ち上がった。<i>「一緒に住んでたけど、あいつが小説を読んでるとこなんて見たことない——むしろ時間の無駄だって言ってたよ……」</i><br><br><i>「よし！ペラ、リンクス——明日は『奇譚』の交流会だから、今日は早く寝よう」</i>"
         },
         {
             "_id": 5,
-            "Story": "If you're familiar with the street gossip of Belobog, then there's no way you could miss the <i>Tale of the Winterlands</i>. And if you're an avid Tale fan, then you'll definitely have heard of the fan meet. Its time and location are a secret, and attendance is by special invite only.<br><br>Attendants are split into only two categories: content creators, and the consumers who love the created content. They all have a genuine love for the <i>Tale of the Winterlands</i>, and do their bit to support this monumental masterpiece of Belobog literature.<br><br>Among them, a new legend is born — It is said that she is a petite woman. It is said she never missed a single meet. It is said she always wore a mask. It is said she once spent a small fortune on a limited-edition artbook. It is said that when ever she creates something, her work would cause a huge sensation among the dedicated fan base...<br><br><i>\"That's a whole lot of rumors, yet none of them are related to the Silvermane Guards...\"<br>\"Looks like... My skills of disguise really are fantastic after all. Teehee!\"</i>"
+            "Story": "もし巷で流れている噂に詳しければ、『雪国冒険奇譚』のことは聞いたことがあるだろう。そしてこの作品の熱狂的なファンならば、まず間違いなく「『雪国冒険奇譚』交流会」のことも知っているはずだ——それは招待状を受け取った人だけが参加できる、開催時間も場所も秘密の会のことである。<br><br>交流会の参加者は大きく2種類に分けられる。創作を楽しむ「生産者」と、前者の努力の結晶を楽しむ「消費者」である。彼らは『雪国冒険奇譚』を心の底から愛しており、ベロブルグ文学史の不朽の名作を支えるために微力ながら貢献していた。<br><br>そんな中、また新たに伝説の人物が誕生した——その人物は小柄な女性らしい。すべての交流会に参加している彼女は、噂によれば仮面を着けており、絶版の画集に大金を注ぎ込むこともあれば、「生産者」になることもあるらしく、どの創作もファンの間で大きな反響を呼ぶという……<br><br><i>「こんなにたくさんの伝説があるのに、シルバーメインに関する話題は1つもないんだ……」<br>「どうやら……わたくしの偽装は上手くいっているようですね、ふふ」</i>"
         }
     ]
 }
@@ -458,192 +458,192 @@ var _story_ = {
 var _voice_ = {
     "1106": [
         {
-            "Title": "First Meeting",
-            "Voice": "Pelageya Sergeyevna, Silvermane Guards Intelligence Officer, at your service. You can call me Pela."
+            "Title": "初対面",
+            "Voice": "シルバーメイン情報官、ペラゲヤ・セルゲーヴナと申します。以後は、ペラとお呼びください。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "You ready? Let's start the records for the day."
+            "Title": "挨拶",
+            "Voice": "準備は終わりましたか？それでは、今日の記録を始めましょう。"
         },
         {
-            "Title": "Parting",
-            "Voice": "The reports look pretty normal today. You can go have some rest."
+            "Title": "お別れ",
+            "Voice": "今日は何もありませんでした。早めにお休みください。"
         },
         {
-            "Title": "About Self",
-            "Voice": "I'm good at documenting information and coming up with my analysis. Acting on that analysis is the captain's job."
+            "Title": "自分について",
+            "Voice": "わたくしは、情報の研究、記録、分析を得意としています。判断を下すのは、長官の仕事になります。"
         },
         {
-            "Title": "Chat: Role in the Band",
-            "Voice": "People don't usually notice the drummer, but if you miss a beat, everyone feels it. I like the challenge."
+            "Title": "世間話・バンドでのポジション",
+            "Voice": "ドラマーは目立たないように思えるかもしれません。ですが、わずかな拍子のズレでも、すぐに観客に伝わってしまいます。その厳しさが自己鍛錬にとても役立つのです。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I like to go to the library on the weekend and take out some... literature. Then when we're finished reading, me and my friends meet up to discuss it."
+            "Title": "趣味",
+            "Voice": "週末に図書館に行って、お気に入りの…書籍を何冊か借りて読み、友人と感想を共有することでしょうか。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "*sigh* Sometimes I practice over a dozen times before reporting to my superiors, but I still can't get it right..."
+            "Title": "悩み事",
+            "Voice": "完璧な報告をするには、時には 10 回の練習でも足りません…"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "There are 32 versions of my full name circulating among the troops. How do I know? I'm an intelligence officer after all."
+            "Title": "シェア",
+            "Voice": "わたくしのフルネームは、シルバーメインの中では少なくとも 32 通りの言い方があるそうです。わたくしがどうやってこれを知ったのかは…情報官の能力を活かした、としか言えません。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "*gasp* A new edition of the fanbook \"Tale of the Winterlands?\" That's one of the most sought-after series out there... H—How many copies should I get... Ten? Is ten enough...?"
+            "Title": "見聞",
+            "Voice": "『雪国冒険奇譚』の画集再販版？これは界隈でも1番入手困難な物です…な、何冊買えばいいでしょう… 10 冊、 10 冊で足りるでしょうか……"
         },
         {
-            "Title": "About Bronya",
-            "Voice": "In all of Belobog, you won't find anyone who speaks more elegantly or acts more like a leader than Lady Bronya."
+            "Title": "ブローニャについて",
+            "Voice": "ベロブルグの隅々まで探しても、ブローニャ様ほどエレガントで、リーダーに相応しい人はいないでしょう。"
         },
         {
-            "Title": "About Serval",
-            "Voice": "*sigh* Serval's rule is: no rules."
+            "Title": "セーバルについて",
+            "Voice": "ルールを守らないのが、セーバルさんのルールなんです。"
         },
         {
-            "Title": "About Gepard",
-            "Voice": "Captain Gepard is an honorable man and very reliable. But when it comes to his horticultural skills... all I can say is I respect his effort and wish him the best of luck."
+            "Title": "ジェパードについて",
+            "Voice": "ジェパード長官は裏表がなく、とても頼りになります。花を育てる趣味に関しては…尊敬と、上手くいくように祈るばかりです。"
         },
         {
-            "Title": "About Lynx",
-            "Voice": "Lynxy is one of my... Uh, Lynx is one of my... Ahem! Lynx is... one of Belobog's number one researchers, and... one of my best besties!"
+            "Title": "リンクスについて",
+            "Voice": "リンたんは…コホンッ。リンた…コホン！リンクスは…ベロブルグ屈指の科学観測専門家です。そしてわたくしの好きな…お友達でもあります！"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Stay focused, push forward."
+            "Title": "星魂覚醒",
+            "Voice": "目の前の道に集中してこそ、遠くへ行けるのです。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Mm, there's still room for improvement."
+            "Title": "キャラクター昇格",
+            "Voice": "ふむ、まだ精進する余地はありますね。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Finally, all contingencies covered."
+            "Title": "レベルMax",
+            "Voice": "これでバッチリですね。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Mm, this is valuable intel."
+            "Title": "軌跡覚醒",
+            "Voice": "はい、とても貴重な情報です。"
         },
         {
-            "Title": "Added to Team With Gepard",
-            "Voice": "Glad to be of service, Captain Gepard."
+            "Title": "パーティ編成・ジェパード",
+            "Voice": "今回の協同作戦、連携が楽しみですね、ジェパード長官。"
         },
         {
-            "Title": "Added to Team With Serval",
-            "Voice": "Remember, Serval — don't rush the beat."
+            "Title": "パーティ編成・セーバル",
+            "Voice": "セーバルさん、いつも言っていますが――ちゃんと拍子に合わせるように。"
         },
         {
-            "Title": "Added to Team With Lynx",
-            "Voice": "Let's do this, Lynxy!"
+            "Title": "パーティ編成・リンクス",
+            "Voice": "一緒に戦いましょう、リンたん！"
         },
         {
-            "Title": "Added to Team With Bronya",
-            "Voice": "Expect a decisive victory, Lady Bronya."
+            "Title": "パーティ編成・ブローニャ",
+            "Voice": "貴方に完璧な勝利を、ブローニャ様。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "We have the upper hand."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "こちら側が優勢です。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Do we still have the upper hand?"
+            "Title": "戦闘開始・危険予知",
+            "Voice": "まだ優勢ではありません。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Commencing support."
+            "Title": "ターン・1",
+            "Voice": "支援、開始いたします。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Enemy targets detected."
+            "Title": "ターン・2",
+            "Voice": "敵ターゲットを確認。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Time to make a decision."
+            "Title": "戦闘中待機",
+            "Voice": "決断の時です。"
         },
         {
-            "Title": "Basic Attack 1",
-            "Voice": "Enough."
+            "Title": "通常攻撃・1",
+            "Voice": "お黙りなさい。"
         },
         {
-            "Title": "Basic Attack 2",
-            "Voice": "Ready for another?"
+            "Title": "通常攻撃・2",
+            "Voice": "まだ立ち上がりますか？"
         },
         {
-            "Title": "Basic Attack 3",
-            "Voice": "I'll contain them!"
+            "Title": "通常攻撃・3",
+            "Voice": "牽制します！"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "This... that... Oh!"
+            "Title": "戦闘スキル・1",
+            "Voice": "こうやって……あれっ？"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Inputting commands... Oh!"
+            "Title": "戦闘スキル・2",
+            "Voice": "インストラクション入力…っ、なっ？！"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Ouch."
+            "Title": "攻撃を受ける",
+            "Voice": "痛っ。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Eek ...Not good."
+            "Title": "重撃を受ける",
+            "Voice": "っ…面倒なことにっ…"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Enemy data secured."
+            "Title": "必殺技・アクティブ",
+            "Voice": "敵データ収集完了。"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Net markers activated — time for a good old counterattack."
+            "Title": "必殺技・発動",
+            "Voice": "捕獲マーク起動、ここからは愉快な反撃の時間です。"
         },
         {
-            "Title": "Downed 1",
-            "Voice": "I miscalculated..."
+            "Title": "戦闘不能・1",
+            "Voice": "誤差が…あった…ようです…"
         },
         {
-            "Title": "Downed 2",
-            "Voice": "Run..."
+            "Title": "戦闘不能・2",
+            "Voice": "早く…逃げて…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "I won't make the same mistake twice."
+            "Title": "戦闘に戻る",
+            "Voice": "同じ過ちは犯しません。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Thanks for the support."
+            "Title": "HP回復",
+            "Voice": "支援、感謝します。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "The combat report will be ready soon."
+            "Title": "戦闘勝利",
+            "Voice": "作戦報告書は後ほどお送りします。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Inventory complete."
+            "Title": "戦利品を開ける・1",
+            "Voice": "確認完了。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "It's received."
+            "Title": "戦利品を開ける・2",
+            "Voice": "しかと受け取りました。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "All in order — leave nothing behind."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "すべて納めました。漏れはありません。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Wowwww... *clears throat*"
+            "Title": "謎解きに成功・1",
+            "Voice": "面白い…"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "...That did the trick!"
+            "Title": "謎解きに成功・2",
+            "Voice": "…解決できました！"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Analyze the targets before you make a plan of action."
+            "Title": "敵ターゲット発見",
+            "Voice": "敵を分析してから判断しましょう。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Do you need me to formulate the next plan?"
+            "Title": "町に戻る",
+            "Voice": "わたくしが次の計画を練りましょうか？"
         }
     ]
 }

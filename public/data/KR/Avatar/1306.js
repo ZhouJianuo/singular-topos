@@ -975,23 +975,23 @@ var _story_ = {
     "1306": [
         {
             "_id": 1,
-            "Story": "A member of the Masked Fools. Inscrutable and unscrupulous.<br>A dangerous maestro of theatrics, utterly engrossed in the art of performance. Adorned with innumerable masks, she is the hero with a thousand faces.<br>Wealth, status, power... None of those matters to Sparkle. The only thing that can get her attention is \"amusement.\""
+            "Story": "「가면의 우인」 멤버 중 한 명, 종잡을 수 없으며 목적을 이루기 위해 수단과 방법을 가리지 않는다.<br>역할극에 심취한 위험한 연극 대가. 천의 얼굴을 지닌 그녀는 수많은 모습을 가지고 있다.<br>스파클에게 재물, 지위, 권력 따위는 중요하지 않다. 그녀를 움직일 수 있는 건 오직 「재미」 뿐이다"
         },
         {
             "_id": 2,
-            "Story": "The girl, an abandoned orphan, lived without knowledge of her origins or destination until she encountered a passing troupe. From a distance, she watched a black-haired lady with a double ponytail, gracefully moving across the stage like a fish. Despite donning various masks, they did not hinder her laughs and cries during her performance, captivating the audience even from afar. The fish leaped in front of her, then dove back down, creating ripples in the surface of the water.<br><br>Gradually, she realized she was watching the performance from beneath the stage.<br><br>Intrigued, she continued to watch the performances for countless days, but she remained an audience member, never stepping into the spotlight. After one of the shows ended, she went backstage, where the black-haired lady handed her a mask.<br><i>\"Can I perform, too?\"<br>\"Why not? If others believe you are 'Sparkle,' then you are. Go, it's time for your show.\"</i><br><br>As the curtain, serving as the fourth wall, was drawn, the stage remained dimly lit, revealing an unsettling black void. Though wearing a mask, she knew the audience could see and hear her. She kept recalling Sparkle's performance, imitating her movements, voice, and demeanor.<br><br><i>\"You've done very well for your first time.\"<br>\"But my imitation... Was not perfect.\"<br>\"That is a minor hiccup, but not a problem as long as nobody notices the difference... By the way, we are leaving tomorrow, so for as long as you want, you are the true Sparkle here, and you can make her whoever you want her to be.\"</i><br>Sparkle wanted to say something, but the lady affectionately rubbed her head.<br><i>\"Not many people come to see us, except for you. We're just a small troupe, and we don't have grand aspirations of becoming famous in the cosmos... It brings me joy to meet someone like you who will remember an insignificant character named Sparkle... Don't cry, you can keep this mask. Now it's yours.\"</i><br>Sparkle nodded.<br><i>\"When you don this mask, you have the power to become anyone and no one... If you truly aspire to be an actor, don't limit yourself to this small stage. Set your sights on the larger world and explore new horizons.\"</i>"
+            "Story": "아이는 버려진 고아였다. 살아는 있지만 자신이 어디에 있는지, 어디에서 온 것인지, 어디로 가야 하는지 몰랐다. 그러던 중 어느 극단이 그녀의 앞을 지나갔다. 달려가 보니 멀리서 검은색 양 갈래 머리를 한 소녀가 물고기처럼 무대 이쪽에서 저쪽까지 헤엄치는 것이 보였다. 소녀는 다양한 가면을 쓰고 있었지만, 그것들은 소녀가 무대에서 울고 우는 것에 방해가 되지 않았다. 관중들이 아무리 멀리 있어도 마치 그들의 눈앞에서 공연을 하는 것 같았으며, 헤엄치는 물고기도 조용히 아이의 앞에서 뛰어올랐다가 다시 물속으로 들어가 물결을 일으켰다.<br><br>아이는 그제야 「자신」이 「무대 아래」에서 「공연」을 관람하고 있었다는 것을 점차 깨달았다.<br><br>아이는 밤낮을 가리지 않고 여러 번 공연을 보러 갔다. 하지만 그럼에도 아이는 관객일 뿐, 무대 위 스포트라이트는 아이를 비추지 않았다. 공연이 끝난 후 아이는 무대 뒤로 갔고, 검은색 양 갈래 머리의 소녀가 가면 하나를 건넸다.<br><i>「제가 할 수 있을까요?」<br>「안 될 게 뭐 있어? 어차피 가면을 쓰면 사람들은 너를 『스파클』이라 여길 거고, 그럼 그게 사실이 되는 거지. 그러니 어서 가봐」</i><br><br>제4의 벽인 막이 열렸고, 조명은 아직 켜지지 않은 상태였다. 아이는 무대 아래를 바라보았다. 그곳에는 어두운 구멍만 있을 뿐이었고, 가면을 쓰고 있었는데도 불안했다. 어두운 구멍 안에는 사람들이 빼곡하게 앉아, 자신의 말과 행동을 주시하고 있다는 것을 알았기 때문이다. 이에 아이는 「스파클」의 공연을 떠올리며 자신의 동작과 목소리, 자세 등을 가다듬으려고 했다.<br><br><i>「처음 치고는 정말 잘했어」<br>「하지만 그건 당신의 『스파클』과는… 달랐어요」<br>「그게 문제긴 한데, 사람들이 모른다면 더 이상 문제가 아니지…. 게다가 극단은 내일이면 떠나. 네가 원한다면, 이곳에선 네가 스파클이고 스파클이 곧 너야. 스파클은 네가 원하는 대로인 거지」</i><br>아이가 우물쭈물하자 소녀는 아이의 머리를 쓰다듬었다.<br><i>「너 말곤 우리를 보러 오는 사람도 별로 없었어. 별 볼 일 없는 조그만 극단이니까. 우리의 이름을 은하에 알리는 건 바라지도 않아…. 가끔 너 같은 아이가 『스파클』이라는 캐릭터를 기억해 주는 것만으로도 한동안 아주 기쁠 거야…. 자, 울지 말고 이 가면은 네가 가져. 이제 이건 네 가면이야」</i><br>아이는 고개를 끄덕였다.<br><i>「잘 들어. 가면을 쓰면 너는 누구든 될 수 있고, 또 그 누구도 아닐 수도 있어…. 정말로 연기자가 되고 싶다면, 이런 조그만 무대에만 있지 말고 더 넓은 곳으로 가봐」</i>"
         },
         {
             "_id": 3,
-            "Story": "As the last descendant of the Puppet Clan, the girl lacked the freedom to choose. She was bound to live her life according to the dictates of the mask, as puppets were mere vessels for the masks.<br><br>According to their legend, the longer a puppet dons a mask, the higher the chances of the puppet acquiring a soul, resembling a true human. However, in human folklore, masks were depicted as tools used for resurrecting the deceased, thus leading to the dwindling numbers of her people.<br><br>However, as she had no interest in becoming human, being a doll was not an unfavorable choice for her. She dutifully obeyed the commands of the mask, despite the risk of attracting pursuers, as defying the mask proved to be challenging.<br><br>Movement was a crucial aspect.<br>By the will of the mask, she needed to smile sweetly when happy, hold her forehead while crying, grit her teeth when angry, narrow her eyes when jealous, and make a scene when in despair. There were also signature gestures, such as raising her eyebrows slightly to face others with the left side of her face, and raising her hand to express love, although she had to lower it later, as slightly biting her lower lip was the way to convey her true desires.<br><br>Voice was another aspect.<br>Depending on the situation, her voice needed to be cheerful when happy, mellifluous when expressing lyrical emotions, calm and assertive when making statements, strained when harboring hatred, and sorrowful when filled with grief.<br><br>Remarkably, she managed to sustain this way of life for years, seamlessly blending into her surroundings and even becoming a playwright. Nobody ever suspected that she wore a mask. However, she couldn't help but wonder if there existed another type of \"mask\" in the world — perhaps someone wearing such a mask would laugh when seeking revenge, shed tears when smiling, remain silent when raging... And speak the most sarcastic remarks with the utmost calmness.<br><br>Naturally, she couldn't do this due to the will of the mask, but as a playwright, making her characters on stage act like this was easy for her.<br><br>One morning, the doorbell rang, but it wasn't her usual delivery person at the door.<br><i>\"Dear Miss Sparkle, I wonder if we could have a chat?\"<br>\"We have read your latest work, and we're curious if you know anything about the 'Mask'...\"</i><br>"
+            "Story": "아이는 인형 일족의 마지막 후손이라 선택권이 없었다. 그녀는 자신이 받은 가면에 따라 「가면」의 계획대로 그 생을 보내야 했다. 인형은 「가면」의 운반체에 불과했다.<br><br>그들 사이에서는 가면이 인형과 오랫동안 융합될수록 인형이 영혼을 얻게 될 가능성이 커져 「인간」과 다를 바 없는 것처럼 보인다는 전설이 전해져 내려왔다. 하지만 인간의 전설에서는 가면이 죽은 사람을 되살리는 도구가 되었다——그로 인해 그녀의 일족은 점차 줄어들었다.<br><br>하지만 그녀는 인간이 되는 것에 관심이 없었고, 그저 주어진 대로 살아가는 인형의 삶도 나쁘지 않다고 생각했다. 가면의 명령을 따르면 쫓기는 삶을 피할 수 없었지만, 가면의 의지는 거스를 수 없었다.<br><br>우선은 동작이었다.<br>그녀는 「가면」의 의지에 따라 기쁠 때는 달콤한 미소를 지었고, 울 때는 이마를 짚었으며, 화날 때는 이를 악물며 말했고, 질투할 때는 눈을 흘겼으며, 절망할 때는 크게 소리를 질렀다. 거기에 트레이드마크 같은 동작들도 있었는데, 눈썹을 살짝 치켜뜰 때는 반드시 상대에게 왼쪽 얼굴을 보인다든지, 또 애정을 표현할 때는 손을 들어 가슴팍을 움켜쥐는 제스처를 취하는데, 아랫입술을 살짝 깨물어야만 진정한 마음을 보여줄 수 있으니 그 후엔 꼭 손을 내려놓아야 한다든지 말이다.<br><br>그다음은 목소리였다.<br>그녀는 「가면」의 의지에 따라 기쁠 때는 목소리 톤을 높였고, 서정적일 때는 부드럽게 말했으며, 진술할 때는 차분하고 일정한 톤을 사용했고, 증오할 때는 이를 갈았으며, 슬플 때는 흐느낌을 절대 빼놓지 않았다.<br><br>신기한 건, 그녀는 여러 해 동안 이렇게 살아오면서 주변 환경에 완벽히 녹아들어 극작가가 되었다는 것이다. 아무도 그녀가 가면을 쓰고 있다고 의심하지 않았지만, 그녀는 세상에 또 다른 「가면」이 있는 것은 아닐까 하는 생각이 들었다. 어쩌면 가면을 쓴 사람은 크게 웃으며 복수를 하거나, 뜨거운 눈물을 흘리며 미소를 짓거나, 화가 났을 때 침묵하거나… 평온한 말투로 가장 모진 말을 할지도 모른다고 말이다.<br><br>그녀는 「가면」의 의지 때문에 그렇게 할 수 없었다. 하지만 그녀는 극작가였기에 무대 위 캐릭터가 그렇게 연기하게 만드는 것은 식은 죽 먹기였다.<br><br>어느 날 아침, 초인종이 울렸다. 하지만 문 앞에 있는 것은 그녀가 알던 집배원이 아니었다.<br><i>「스파클 씨, 지금 시간 괜찮으신가요?」<br>「스파클 씨의 신작을 봤는데, 혹시 『가면』에 대해 아시는 게 있는지 여쭙고 싶네요……」</i><br>"
         },
         {
             "_id": 4,
-            "Story": "The faceless girl realized that she must be under some kind of curse. Why else couldn't she feel any stimuli? Her sense of pain, taste, and smell were all intact, yet she was unable to react to them. Naturally, she couldn't experience joy, anger, sadness, or a range of emotions. She could only strive to observe others' reactions in various situations to understand their feelings.<br><br><i>\"...How would you feel if you were drinking a cup of bitter tea? How would you drink it?\"</i><br>Although tied to the chair and immobilized, the homeless man on the left made an appreciative gesture and nodded. The girl in the middle immediately cried and shook her head in denial, while the madam on the right wrinkled her nose in disgust.<br><br><i>\"What if you were in an extremely cold hut, with only this cup of tea at hand?\"</i><br>Naturally, the man nodded. The girl cried for a while and then reluctantly accepted, while the lady still reacted in disgust.<br><br>She continued to change her scenarios and ask questions day and night until her interviewees passed out. She would send them home and seek out new targets for her \"interviews.\"<br><br>During that time, the town's inhabitants all had the same nightmare. They found themselves trapped in a place where a blurred-faced young girl politely asked them questions, and they had no choice but to answer. They could only provide responses repeatedly until the young girl meticulously recorded every detail on paper masks, one after another. Whenever a mask was filled, it was replaced by another.<br><br>This nightmare was soon replaced by another, as residents claimed to see paper masks flying through the air in the middle of the night. The masks would talk to each other, faintly glowing before eventually fading out, resembling sparklers in the night sky. They appeared every night, as if they were residents living in the shadow of the town.<br><br>In a dark basement, a young lady remained unaware of this nightmare. She had gathered enough information about people's nuanced emotions and their perceptions of different things... To make more paper masks. She firmly believed that although she possessed no emotions, the masks she created had flesh and blood. She even believed that one day, they would become real beings."
+            "Story": "얼굴이 없는 소녀는 자신이 분명 어떤 저주에 걸렸다고 생각했다. 그게 아니라면 어째서 외부의 그 어떤 자극도 느끼지 못하겠는가? 통각, 미각, 후각은 모두 정상이었지만, 그에 대한 반응은 할 수 없었다. 그렇게 자연스럽게 희로애락도 없어졌고, 감정도 느낄 수 없게 되었다. 그녀는 여러 상황을 가정해 관찰한 후 타인의 기분을 물어보는 것으로 이를 보완하는 수밖에 없었다.<br><br><i>「…만약 엄청 쓴 차를 마신다면, 기분이 어떨 것 같아? 어떻게 마실 거야?」</i><br>의자에 묶여 옴짝달싹할 수 없었지만, 왼쪽의 남자 노숙자는 만족한다는 듯 고개를 끄덕였다. 그리고 중간에 있던 여자아이는 울음을 터뜨리며 고개를 저어 거절했고, 오른쪽의 연로한 여자는 싫다는 듯 코를 찡그렸다.<br><br><i>「그럼 만약 엄청 추운 오두막에 있는데, 있는 게 그 차뿐이라면?」</i><br>남자의 답은 뻔했고, 여자아이는 한참을 울고불고 난리를 친 후에야 받아들였으며, 여인은 여전히 거부했다.<br><br>그녀는 응답자들이 더 이상 버티지 못하고 기절할 때까지 밤낮으로 질문을 계속했다. 그런 다음 그들을 집으로 데려다주었고, 인터뷰할 다른 사람들을 찾았다.<br><br>그 당시 마을 주민들은 모두 같은 악몽을 꿨다. 그들은 어떤 곳에 갇혀 있었고, 얼굴이 흐릿한 소녀가 예의 있게 그들에게 질문을 했다. 그들은 거절할 권리가 없었고, 그저 소녀가 디테일 하나하나를 여러 개의 종이 가면에 기록할 때까지 질문에 대답했다. 가면 하나가 가득 차면 다른 가면으로 바꿨다.<br><br>그리고 그 악몽은 금세 다른 악몽으로 대체되었다. 주민들은 한밤중에 공중에 종이 가면이 날아다니며 서로 대화를 나누는데, 은은한 빛을 내다가 밤하늘의 불꽃처럼 순식간에 사라졌다고 말했다. 그것들은 마치 마을의 어둠 속에 숨어 사는 주민들처럼 밤마다 나타났다.<br><br>그러나 어느 어두운 지하실에 있던 소녀는 그 악몽을 전혀 모르고 있었다. 그녀는 사람들의 세밀한 감정과 사물에 대한 다양한 생각을 수집해 더 많은 종이 가면을 만들어냈다. 자신은 무정하고 눈물도 없지만, 자신이 만든 가면은 피와 살이 있고, 언젠가 진정한 생명이 될 것이라고 그녀는 굳게 믿었다"
         },
         {
             "_id": 5,
-            "Story": "<i>\"There are a few versions that are particularly popular.\"</i> When Sparkle arrived at Fool's Tavern, she admitted her deeds. <i>\"Liking and believing are two different things, but people are more likely to believe in their favorite stories.\"</i><br><br><i>\"Lies? Come on, I'm not trying to tell a grand story or fabricate an eye-catching experience... I'm wholeheartedly exercising my imagination for my own sake. I imagine various lives, seek excitement, and then recreate them as best I can, and pump the brakes on my imaginative balloon just a second before it bursts.\"<br><br>\"Seriously, having a script is far from enough. First and foremost, I must wholeheartedly believe that the character I'm portraying truly exists. Then, I need to imagine the other stories where the character would appear. I always need extra information to make their motivation logical and emotional.\"<br><br>\"And only then will I feel I can grasp the essence of the character without being influenced by others. After all, I might encounter other Fools, and I won't know what they want until I know who they are. Sometimes, you simply like the appearance of a character, and sometimes, you just want to experience it for fun. I do that sometimes, too.\"<br><br>\"And of course, there are those who play solely for the sake of gain or to be regarded in that way, hoping for unimaginable wealth, status, or power... Anyway, what I'm trying to convey is that in such an environment, who but myself can guarantee that I won't stray from my intended path and become a character in someone else's story? Nobody! That's why I have to tirelessly imagine and immerse myself in the act.\"<br><br>\"No, I'm not denying it... It's truly addictive to me. The more I imagine, the more I get absorbed in those characters, the wonderful and tragic situations I create for them, and the emotions they experience in those circumstances...\"<br><br>\"Sure, I used to think about that kind of life... Joining a troupe, becoming an actor, traveling to unknown planets for performances, creating a character with my own name on it... But then, one day, I had a sudden realization!\"<br><br>\"If you want to perform, is there a stage more captivating than your own life?\"</i>"
+            "Story": "<i>「몇몇 설정은 특히 인기가 많아」</i>우인의 「술집」에서는 스파클도 인정할 수밖에 없었다. <i>「좋아하는 것과 믿는 것은 별개지만, 사람들은 늘 자신이 좋아하는 이야기가 진짜라고 믿지」</i><br><br><i>「거짓말이라고? 이봐, 난 흥미진진한 이야기를 지어내고 사람들의 관심을 끌려는 게 아니야…. 난 나를 위해 상상력을 단련하고 다양한 삶을 상상해서 스릴을 느끼려는 거라고. 그런 다음 최선을 다해 그걸 연기하고 표현하고 재현해서 상상력의 풍선이 터지기 직전에 브레이크를 밟는 거지」<br><br>「솔직히 극본만으로는 부족해. 먼저 나부터 내가 연기하는 캐릭터가 정말로 존재한다고 믿어야 하지. 그런 다음 그 캐릭터가 또 어떤 이야기에서 등장할지 상상해야 해. 캐릭터의 동기에 개연성과 감정을 부여하기 위해 난 항상 추가적인 정보를 보충하고 있어」<br><br>「그래야 다른 사람의 영향을 받지 않고 그 캐릭터를 파악할 수 있거든. 다른 우인들을 만날 수도 있고, 서로의 신분을 확인하기 전까진 너희들의 의도를 알 수 없으니까. 단순히 캐릭터의 겉모습이 마음에 들어서일 수도 있고, 재미 삼아 해보려는 걸 수도 있지——나도 가끔 그럴 때가 있어」<br><br>「물론 연기를 거래 수단으로 삼거나 다른 사람이 되고 싶은 걸 수도 있지. 그럼 가늠할 수 없는 부와 지위, 그리고 권력을 얻을 수도 있으니까…. 어쨌든 내가 말하고자 하는 건, 이런 환경에서 내가 원래의 길에서 벗어나 다른 캐릭터가 되지 않을 거라고 보장할 수 있는 사람이 나 말고 또 누가 있냐는 거야. 아무도 없지! 그래서 난 끊임없이 상상하고 연기해야 해」<br><br>「아니, 부정하는 게 아니야…. 아주 중독성 있는 일이라고. 상상을 하면 할수록 그 캐릭터에 몰입하게 되고, 내가 캐릭터를 위해 설계한 아름답고도 비극적인 상황과 거기서 파생된 감정에 빠져들게 된달까……」<br><br>「물론, 전에는 그런 삶이 살고 싶었어…. 극단의 배우가 되어 이름 모를 별에 가서 공연하고, 나와 이름이 같은 캐릭터를 만드는 그런 삶 말이야… 하지만 어느 날 갑자기 깨달았지!」<br><br>「공연을 한다면, 내 인생보다 더 호소력 있는 무대가 있을까?」</i>"
         }
     ]
 }
@@ -999,184 +999,188 @@ var _story_ = {
 var _voice_ = {
     "1306": [
         {
-            "Title": "First Meeting",
-            "Voice": "Hey hey, I'm Sparkle! Got any cool, daring quests or risky biz? Just hit me up! If it piques my interest we can talk money. The main thing is about having a riot of a time, right?"
+            "Title": "첫 만남",
+            "Voice": "안녕 안녕, 난 스파클이야! 위험한 일을 처리해야 할 땐, 언제든지 나를 찾아도 좋아. 내가 관심만 있다면 얼마든지 흥정할 수 있으니까. 중요한 건 재미있게 노는 거지, 안 그래?"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Oh wow, we seem to be crossing paths a lot lately... Where could I have seen you before? Can you figure it out?"
+            "Title": "인사",
+            "Voice": "어머, 요즘 널 자주 보는 것 같네… 어디서 봤냐고? 그건 알려줄 수 없지, 히히~"
         },
         {
-            "Title": "Parting",
-            "Voice": "See you around, Nameless~ Try to stay out of trouble, especially... the next time we meet!"
+            "Title": "작별",
+            "Voice": "다음에 만나 무명객~ 안전 조심하고, 특히… 다음에 만날 때 말이야!"
         },
         {
-            "Title": "About Self: Name",
-            "Voice": "Me, I'm happy being a side character in the background, cheering on those who have the limelight, then, at the climax of the performance, I'll suddenly shoot into the sky— bang! Sparkling like fireworks into brilliant colors— You think the leading character would dare do this?"
+            "Title": "자신에 대해•이름",
+            "Voice": "난 그냥 구석에서 조연만 하고 싶어. 평소엔 무대 위의 사람에게 박수를 보내 분위기를 띄우고 공연 하이라이트 땐 갑자기 하늘로 날아가는 거지, 팡! 마치 불꽃처럼 알록달록하게——주인공은 이런 거 못 하잖아?"
         },
         {
-            "Title": "About Self: Dream",
-            "Voice": "I'm not one with many talents, and having a dream isn't really my thing. But my latest goal is... getting into the Genius Society! Yes, I wanna impersonate a genius! Ha, I'm itching to try. Think anyone will fall for it?"
+            "Title": "자신에 대해•꿈",
+            "Voice": "난 인내심이 별로라 끈기 있게 꿈을 가져본 적이 없어…. 요즘 꿈은… 지니어스 클럽에 가입하는 거야! 그래, 지니어스를 연기하는 거지! 하, 이 어려운 도전에 뛰어들고 싶은데… 응원해 줄 사람?"
         },
         {
-            "Title": "About Self: Past",
-            "Voice": "An abandoned orphan, a cursed little girl, the last descendant of the puppet clan... I can tailor it to the tastes of the individual⁓"
+            "Title": "자신에 대해•과거",
+            "Voice": "버려진 고아, 저주받은 소녀, 인형 일족의 후손… 상대가 어떤 걸 좋아하냐에 따라 달라, 뭐든 다 지어낼 수 있다고~"
         },
         {
-            "Title": "Chat: Masked Fools",
-            "Voice": "This world's just like a big non-stop circus showcasing beasts brawling all day and night: bears on unicycles, lions leaping through fire hoops, monkeys juggling bowls... The only thing that sets us \"Fools\" apart from the rest of you is we're already in on the act."
+            "Title": "잡담•가면의 우인",
+            "Voice": "이 세계는 마치 서커스단 같아. 밤낮 구분 없이 짐승들을 무대에 올려 우스꽝스러운 공연을 앞다투지. 외발자전거 탄 곰, 불고리를 넘는 사자, 접시 돌리는 원숭이… 다른 사람들과 우리 「우인」의 차이점은, 우린 스스로 연기하는 걸 인지하고 있다는 거야~"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I dig jokes — there's just too much sorrow and resentment in the world. Sure, jokes won't make the world any better, but they don't make it any worse either."
+            "Title": "취미",
+            "Voice": "난 장난이 좋아——이 세계는 너무 억압되어 있다고! 물론 장난이 세상을 더 좋게 만드는 건 아니지만, 적어도 세계를 더 위선적으로 만들진 않잖아~ 안 그래?"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "Rules, societal dos and don'ts, all these made-up human moral codes — I've given it my all, but I just can't seem to shirk them!"
+            "Title": "고민",
+            "Voice": "난 이렇게 노력하는데 질서, 사회적 규범, 인류가 만든 도덕적 잣대는 왜 날 놓아주지 않는 거냐고!"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "So, we've got this arrogant Aeon named \"Nanook\" out there in the cosmos, and they genuinely believe that, without them, the entire universe <i>wouldn't</i> be headed straight for \"Destruction!\" Not funny? Okay, wanna hear my \"Preservation\" version?"
+            "Title": "공유",
+            "Voice": "은하에 「나누크」라는 독선적인 에이언즈가 있는데, 본인이 없으면 은하가 「파멸」의 결말로 가지 않는다고 생각하는 거 있지! 재미없어? 좋아, 여기 「보존」 버전도 있는데, 들어볼래?"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "The big shots think they know how this world ticks, so they're out here making all the rules, judging what's legal, what's moral... they even want a say in what jokes make the cut! To me, that's the real joke."
+            "Title": "견문",
+            "Voice": "거물들은 이 세계가 어떻게 돌아가는지 너무 잘 알아서 규칙을 세우고, 위법 행위를 저질렀는지, 도덕적으로 행동했는지를 판단해…. 심지어 장난이 재미있는지 없는지까지 관여한다니까?! 그게 진짜 웃긴 거지"
         },
         {
-            "Title": "About Sampo",
-            "Voice": "He's quite the entertaining one, and dependable when it comes to handling matters. The only thing with this guy is... he's got a line he won't cross... having limitations always kills the vibe!"
+            "Title": "삼포에 대해",
+            "Voice": "재미있는 사람이야, 일 처리도 믿을 만해. 이 형제님의 제일 큰 문제점은… 선을 넘지 않는다는 거지——손발이 묶이는 건 환락의 금기거든!"
         },
         {
-            "Title": "About Black Swan",
-            "Voice": "Graceful, entertaining, distinguished, yet dangerous... I'm just itching to bring someone like that down, but hey, her wrecking me... is totally on the table too!"
+            "Title": "블랙 스완에 대해",
+            "Voice": "우아하고, 재미있고, 고상하지만 위험해…. 이런 사람일수록 망가트리고 싶다니깐. 하지만 한발 물러서서 그녀에게 망가지는 것도 괜찮은 선택이지…. 안 되는 건 아니야!"
         },
         {
-            "Title": "About Aventurine",
-            "Voice": "Seriously, who'd ditch an invite to our \"tavern\" to go rub shoulders with the corporation's drones? Still, if he'd simply become a friend, our relationship with him today would be far less interesting..."
+            "Title": "어벤츄린에 대해",
+            "Voice": "아니 어떻게 우리 「술집」의 초대를 거절하고 컴퍼니에 들어갈 수가 있지? 그래도 그 사람과 동료가 되는 것보다 지금의 관계가 더 흥미롭긴 해!"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "A foolish sage or a wise fool... Who will I become next?"
+            "Title": "성혼 활성화",
+            "Voice": "어리석은 현인, 똑똑한 우인… 다음의 나는, 누구일까?"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Let's push the envelope further, shall we?"
+            "Title": "캐릭터 승급",
+            "Voice": "더 대담한 도전을 해보는 건 어때?"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Having fun? That's all that matters!"
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "즐거웠어? 그럼 됐어!"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Rules, are made to be broken~"
+            "Title": "행적 활성화",
+            "Voice": "규칙은 깨라고 있는 거야~"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "I promise you won't be bored with me. Can you say the same?"
+            "Title": "파티 편성•{NICKNAME}",
+            "Voice": "이봐, 회색머리! 지루하지 않을 거라고 장담할게. 넌 장담해줄 수 있어?"
         },
         {
-            "Title": "Added to Team With Black Swan",
-            "Voice": "My dear Memokeeper, are you bold enough to let me guard your back?"
+            "Title": "파티 편성•블랙 스완",
+            "Voice": "기억하는 자, 내게 뒤를 맡길 수 있겠어?"
         },
         {
-            "Title": "Added to Team With Sampo",
-            "Voice": "Shouldn't the \"Fool\" introduce himself to everyone?"
+            "Title": "파티 편성•삼포",
+            "Voice": "자, 「우인」의 이름으로 모두에게 인사하자고!"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Oops, did that hurt?"
+            "Title": "파티 편성•어벤츄린",
+            "Voice": "워후! 놀 줄 아는 녀석이 왔네. 너만 따라간다~?"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "The~ Game~ Is~ On~"
+            "Title": "전투 시작•약점 격파",
+            "Voice": "조금만 더 버텨보자~"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Why don't you stay and play for a while?"
+            "Title": "전투 시작•위험 경보",
+            "Voice": "쇼~ 타임~"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Don't worry, I'll go easy."
+            "Title": "턴 시작•1",
+            "Voice": "오늘은 나랑 더 놀자, 응?"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "You have 10 seconds — 10, 9...1!"
+            "Title": "턴 시작•2",
+            "Voice": "걱정 마, 살살할 테니까"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "I'll play the bad guy~"
+            "Title": "턴 대기",
+            "Voice": "딱 10초 줄게, 10, 9… 1!"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Don't move, okay?"
+            "Title": "일반 공격",
+            "Voice": "내가 악역 할게~"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Let's kick it up a notch."
+            "Title": "전투 스킬•1",
+            "Voice": "흔들리면 안 돼"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Ouch ouch ouch."
+            "Title": "전투 스킬•2",
+            "Voice": "좀 더 힘내볼까?"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Like that, huh?"
+            "Title": "약공격 피격",
+            "Voice": "아야야"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Let's play hide and seek."
+            "Title": "강공격 피격",
+            "Voice": "겨우 이 정도야?"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "A thousand faces in a thousand places... can you find the answer?"
+            "Title": "필살기•활성화",
+            "Voice": "숨바꼭질하자"
         },
         {
-            "Title": "Downed",
-            "Voice": "Done playing for today..."
+            "Title": "필살기•발동",
+            "Voice": "천의 얼굴, 우인의 유희 속에서… 넌, 답을 찾을 수 있을까?"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Can I finish my nap first?"
+            "Title": "전투 불능",
+            "Voice": "방심했어……"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "There's no power like team power~"
+            "Title": "전투 복귀",
+            "Voice": "조금만 더 잘래……"
         },
         {
-            "Title": "Technique",
-            "Voice": "Watch this~"
+            "Title": "HP 회복",
+            "Voice": "지금은 한 팀이라고~"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "That's what I call a good day~"
+            "Title": "비술",
+            "Voice": "이거 봐라~"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "That's it? Guess it'll have to do."
+            "Title": "전투 승리",
+            "Voice": "오늘 참 날이 좋아~"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Aw, isn't there more?"
+            "Title": "전리품 오픈•1",
+            "Voice": "에게, 겨우……? 됐어"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "That's more like it!"
+            "Title": "전리품 오픈•2",
+            "Voice": "힝, 좀만 더 주지"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Everyone likes a clever girl, right?"
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "이거지, 아주 만족해!"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Not too shabby — wanna teach me next time?"
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "다들 똑똑한 사람 좋아하잖아, 안 그래?"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Better surrender while you have the chance~"
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "좋아 좋아, 다음에도 가르쳐 줘!"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Wonder where I'm needed this time?"
+            "Title": "적 발견",
+            "Voice": "내 말대로 항복하는 게 좋을걸~"
+        },
+        {
+            "Title": "도시로 복귀",
+            "Voice": "내가 필요한 곳이 있나?"
         }
     ]
 }

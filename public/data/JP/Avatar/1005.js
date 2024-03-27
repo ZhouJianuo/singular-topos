@@ -493,23 +493,23 @@ var _story_ = {
     "1005": [
         {
             "_id": 1,
-            "Story": "On the Interastral Peace Corporation's wanted list, Kafka's record only shows her name and a note about her \"interest in collecting coats.\" Little is known about this Stellaron Hunter aside from her being one of \"Destiny's Slave\" Elio's most trusted members. In order to achieve Elio's envisioned future, Kafka gets to work."
+            "Story": "スターピースカンパニーの指名手配ファイルには、カフカの名前と「趣味はコートを集めること」としか記されていない。人々がこの星核ハンターについて知っているのは、彼女が「運命の奴隷」エリオの最も信頼する構成員の1人だということだけだ。<br>エリオが予見した「未来」に辿り着くため、カフカは行動を開始する。"
         },
         {
             "_id": 2,
-            "Story": "<i>\"Kafka, female human. Hails from New Babylon of Pteruges-V. Core member of the Stellaron Hunters, the next-in-command of 'Destiny's Slave.' Responsible for the following infractions: The Pier Point Incursion, two counts; The Pier Point Heist; The Trovys Disappearance; The Stellaron events of Jemorse, Bayjhana, Shilla-39C, Ulmora, 7-Midville, Loar-51, and Dro'a; Cyber attacks against Pier Point, four counts; Cyber attacks against Planet Screwllum; Cyber attacks against Herta Space Station; The Jepella Rebellion. Suspected to be related to the following infractions: The Stellaron events of Sich-Lala, Inupeis, Oun-G7, Zukov, Lidovia, Illily, Attouine, Buhayama.<br>Wanted Level: Highest. Dead or alive.\"</i><br><align=\"right\">— Wanted Order by the Interastral Peace Corporation</align>"
+            "Story": "<i>「カフカ。人類女性。プテルゲス-Vの新バビロン出身。星核ハンターのメンバーで『運命の奴隷』の助手。罪状：ピアポイント侵入、計2回。ピアポイント窃盗事件。トロヴェス星系失踪事件。ジェモス、ノースカナ、シーラ -39 C、ウルモラ、七中村、ロー -51 、トロワー星核事件。ピアポイントに対するハッキング攻撃、計4回。スクリュー星に対するハッキング攻撃。『ヘルタ』に対するハッキング攻撃。ヤペラー反逆事件。関与が疑われる罪状：シーツララ、インヌピース、ウェン-G7、祖寇、リタヴィア、イリー、アテューン、ブーハヤマ星核事件。<br>指名手配レベル：最高。生死を問わず」</i><br><align=\"right\">——スターピースカンパニーが公表した指名手配書</align>"
         },
         {
             "_id": 3,
-            "Story": "<i>\"...Due to the investigation's needs, the suspect's basic information is published as follows: Suspect Kafka (Wanted Serial No.: L933012000020002010004), female, outworld individual, age unknown; height about 170 centimeters, average body size. She had been spotted draped with a black jacket and wearing a white collared shirt inside, a pair of tight-fitting dark shorts, purple pantyhose, and a pair of sunglasses on her head.<br>The suspect has been reported to be connected to multiple non-natural disasters occurring on the Luofu in the recent past. She is currently at large, and is now publicly wanted on the Luofu. Any department and unit who detected said suspect are encouraged to contact the local Cloud Knights. At the same time, we encourage the suspect to turn herself in and to not take any chances.\"</i><br><align=\"right\">— Luofu Wanted Order (revoked)</align>"
+            "Story": "<i>「…事件の捜査のため、容疑者の基本情報を発表する。容疑者：カフカ（指名手配番号：L 933012000020002010004 ）女、殊俗の民、年齢不詳。身長およそ 170 cm、標準体型、目撃時は黒い外套、中には白いブラウス、黒のタイトなパンツに紫のタイツ、頭には黒いサングラスを着用。<br>同容疑者は近頃発生した人的災害の関連者として通報され、現在逃亡中のため、羅浮全域で指名手配されている。容疑者の拠点または本人を見かけた場合は速やかに雲騎軍に連絡するように。容疑者に伝える。逃げられるとは思わずに、速やかに自首し、重要な情報をこちらに引き渡すように」</i><br><align=\"right\">——羅浮が公表した指名手配書（撤回済み）</align>"
         },
         {
             "_id": 4,
-            "Story": "<i>\"...This woman's name is Kafka, a new Hunter without any information on file, and belongs to no particular organization. She has an ability called Spirit Whisper that allows her to hypnotically manipulate others through language. Recently, she has appeared in Riverland, New Babylon. She was seen communicating with its overchief, Shilde, and absconded with him in witness of 143 people. She then made an appearance at a clothing store and stole a black jacket, two white shirts, and a red dress with 6 witnesses. After that, she was seen by 28 people at an old music record store where she purchased nothing. Before she emerged at the Riverland Guard Station to claim her rewards, she was spotted at the central park with 2695 citizens present. We want Kafka's head, as her lethal crimes cannot go unpunished.\"</i><br><align=\"right\">— Wanted Order by the Pteruges-V Devils</align>"
+            "Story": "<i>「…この女は『カフカ』という。新人ハンターで登録情報がなく、所属組織もない。彼女には『言霊』と呼ばれる能力があり、言語を使って催眠術をかけることができる。前回は新バビロンのリバーランドで姿を現し、大領主シッドと話し合いをしたのち彼を連れ去った。現場にいた人数 143 人。その後、オーダーメイド服飾店に行き、黒いコート1着、白いブラウス2着、赤いワンピース1着を受け取った。現場にいた人数6人。その後、中古レコード店に行ったが、何も購入しなかった。現場にいた人数 28 人。彼女がリバーランド警備局へ懸賞金をもらいに行く前、最後に目撃されたのは中央公園である。現場にいた人数 2695 人。我々は『カフカ』の首を求めている。命の負債にはその血を持って償ってもらうのだ」</i><br><align=\"right\">——プテルゲス-Vの悪魔が公表した指名手配書</align>"
         },
         {
             "_id": 5,
-            "Story": "<i>\"...Go to Pteruges-V and locate an abandoned building at coordinates 135:7372124, 271:6372711. Enter it. There is an untouched canned drink under the window sill on the first floor. Take it. Wait until 11:12 AM on Wednesday and place the can at the entrance of the building. Kafka will appear 2 minutes later. There is a chance she will stop to investigate the can. Then, take the chance to throw this ball at her feet. I will take over and converse with her from there.<br>There is also a chance that Kafka will ignore the can. In that case, just throw the ball away. You will die, but death will come for everyone. As for the future that you yearn for - I will realize it.\"</i><br><align=\"right\">— Wanted Order by Destiny's Slave</align>"
+            "Story": "<i>「…プテルゲス-Vに行くと、 135 : 7372124,271 : 6372711 に廃棄されたビルがある。中に入ると、1階の窓台の下に手つかずの飲料缶がある。それを持って、水曜日の午前 11 時 12 分まで待ち、缶をビルの入り口に置く。カフカは2分後に現れ、缶を調べる可能性がある。その隙にこのボールを彼女の足元に投げるといい。その後のことは、私が彼女に直接話す。<br>カフカが缶を気にしない可能性もある。その場合は、ボールを投げるだけでいい。君たちは死んでしまう。でも、人は皆、いつか死んでしまうものだ。君たちが欲しい未来を私は現実にしてあげよう」</i><br><align=\"right\">——運命の奴隷が公開した指名手配書</align>"
         }
     ]
 }

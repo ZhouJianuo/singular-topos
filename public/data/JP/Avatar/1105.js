@@ -464,23 +464,23 @@ var _story_ = {
     "1105": [
         {
             "_id": 1,
-            "Story": "A fastidious doctor who always wears an enigmatic smile.<br>In the Underworld where medical resources are scarce, Natasha is one of the very few doctors whom the people can turn to.<br>Even the rambunctious Hook would politely greet her... \"Hi, big sis Natasha.\""
+            "Story": "何事に対しても慎重な医者。いつも掴みどころのない笑顔を浮かべている。<br>医療資源が乏しい下層部で、ナターシャは数少ない医者として老若男女問わず治療している。<br>おてんばなフックでさえ、彼女を見ると大人しく「ナターシャお姉ちゃん」と呼ぶ。"
         },
         {
             "_id": 2,
-            "Story": "<i>\"Quick, press down here! Press down hard to staunch the bleeding!\"</i><br><br>Natasha shoots a panicked look at her brother. Before her lay a man covered in bandages from head to toe, his torso twitching and twisting with severe pain as he muttered nonsense.<br><br><i>\"What are you waiting for!? Quick, hold it down!\"</i><br><br>There is anger in her brother's order and — she is sharp enough to tell — a hint of disappointment. Natasha hurries to hold onto the man's right arm, and musters all her strength to press down the cotton gauze onto his shoulder.<br><br>The man lets out a heart-wrenching moan, but she can't stop until her brother orders her to.<br><br>After who knows how long, the patient before her stops breathing, and she stares blankly at the lifeless body.<br><br><i>\"You did your best,\"</i> her brother says. His voice returning to its usual impassive tone. <i>\"Get some rest real quick. Some of them are still waiting to be patched up.\"</i><br><br>She turns over the man's red palm. His fingers are already stiff as the stench of blood fills the air. Natasha allows the smell to rile up her emotions — she know she must get used to this if she were to continue down this road."
+            "Story": "<i>「早く、ここ押さえろ！強く押さえて出血を止めるんだ！」</i><br><br>ナターシャは慌てながら兄を見た。彼女の目の前に横たわっている男は、全身に包帯が巻かれている。彼の体は耐え難い苦痛によって捩じれ、ピクピクと痙攣しており、その口からは不明瞭な言葉が次々と紡がれていた。<br><br><i>「…何をもたついている？早く、押さえるんだ！」</i><br><br>兄の命令には怒りと、それから——鋭い少女だからこそ気付くことができた——僅かな失望が含まれていた。ナターシャは慌てて男の右腕を掴み、全力で彼の肩に止血綿を押し当てた。<br><br>負傷した男の口から悲痛な呻き声が上がったが、兄の指示があるまで、彼女は少しも気を抜くことができなかった。<br><br>どのくらいの時間が経ったのかわからなくなった頃、彼女は負傷者の呼吸が止まったことに気付き、ぼんやりと目の前の命が失われた体を見つめた。<br><br><i>「ナターシャは全力を尽くした」</i>、兄は言った。口調はいつもの冷淡なものに戻っている。<i>「少し休むといい、まだ負傷者はいるんだ」</i><br><br>彼女は自分の手のひらを見た。指は強張り、血の匂いが鼻をつく。その匂いはナターシャの心を掻き乱したが——この道を進むには、それに慣れる必要があることを彼女は理解していた。"
         },
         {
             "_id": 3,
-            "Story": "<i>\"Excellent... excellent as always,\" </i>the professor says to herself as she flips through the notes, <i>\"With your grades and clinical performance... You'll be an outstanding candidate whether you're in the hospital or in the armed forces.\"</i><br><br>Natasha's pulse races, and her fingers subconsciously clench up. The professor notices her body language.<br><br><i>\"What's the matter, child? Have you got something to say?\"</i><br><br>Natasha composes herself — she wants to convey her decision with confidence and conviction.<br><br><i>\"I want to go back to the Underworld, Professor. I know I can help more people down there.\"</i><br><br>The old woman is stunned for a brief moment, before slowly pushing her glasses upwards. Then, she lowers her head and continues on reading the file she is holding.<br><br><i>\"I see. That's exactly what your mother said... I wish you all the best then, Natasha.\"</i><br><br>Natasha stands up and solemnly bows. As she walks through that white corridor at Belobog Medical Academy for the last time, her heart is filled with determination."
+            "Story": "<i>「素晴らしい…相変わらず素晴らしいわ」</i>教授は目の前の紙を何度も捲りながら、独り言のように言った。<i>「あなたの成績と臨床所見なら…病院でも部隊でも、間違いなく活躍できるでしょうね」</i><br><br>ナターシャが緊張から 10 本の指を握り締めると、教授も彼女の変化に気が付いたようだった。<br><br><i>「どうしたの？…何か言いたいことがあるのね？」</i><br><br>ナターシャは慌てて表情を整えた——自信に満ちた態度で自分の決断を伝えたいと思ったからだ。<br><br><i>「私は下層部に行きたいんです、教授。そこでなら、もっと多くの人の助けになれますから」</i><br><br>年配の女性は一瞬固まったが、ゆっくりとメガネに手を添えた。そして彼女は頭を下げ、手元の資料の続きを読み始めた。<br><br><i>「なるほど、あなたのお母様の言う通りね…幸運を祈るわ、ナターシャ」</i><br><br>ナターシャは立ち上がり、丁寧にお辞儀をした。最後にベロブルグ医学院の白い廊下を歩いた時、彼女の心は決意に満ちていた。"
         },
         {
             "_id": 4,
-            "Story": "Dearest mother and father,<br><br>How have you been?<br><br>Please forgive me for replying so late. There's been lots of trouble in the Underworld, and the orphanage is overcrowded with the injured, so I haven't had time to do anything apart from treating the wounded. I even had to send some of the younger children to foster families in town, because I didn't want them to see the carnage inside the orphanage.<br><br>As for your previous question — yes, I've heard rumors about the Supreme Guardian about to order a blockade between the Over- and Underworlds. I understand your concerns, but from my point of view, there is no way I can abandon the people down here right now. During this extraordinary state of panic, I can only hope to use my modest skills to bring a modicum of comfort to the needy.<br><br>Fortunately, I know you'll respect my decision. I still remember when I was fresh out of college and Dad told me, \"Anyone going into medicine to just get a decent job will come to regret their decision sooner or later.\" I think I understand more than ever what you meant back then.<br><br>I don't know when we'll ever be able to see each other again, but I hope you can be healthy and happy. Your daughter is a big girl now, and can take care of herself, so you don't have to worry about me.<br><br><align=\"right\">Your daughter, with love, </align><br><align=\"right\">Natasha</align>"
+            "Story": "お父さん、お母さんへ<br><br>元気にしてる？<br><br>すぐに返事ができなくてごめんなさい。最近は下層部で混乱が続いていて、孤児院も負傷者でいっぱいだったの。だから治療以外のことをする時間がなかなか取れなくて……孤児院の惨状を見せたくなかったから、幼い子供たちは町の里親のところに送ったわ。<br><br>この前の質問だけど——そうね、確かに噂で聞いた。大守護者が上層部と下層部を封鎖しようとしてるって。2人が私を心配してることもわかってる。でも私の立場からすれば、こんな時に下層部の人たちを見捨てることはできない。人々が不安がっている時期だからこそ、私は自分のささやかな力で人々に慰めを与えたいと思ってるの。<br><br>私はお父さんとお母さんが私の選択を尊重してくれることを知ってる。学院を卒業したばかりの頃、お父さんが言っていたことを今でも覚えてるわ。「もし医者の道に進んだ目的が立派な仕事を得るためだけだとしたら——その人は遅かれ早かれ自分の選択に後悔するだろう」ってね。私、この言葉の意味を理解できた気がするの。<br><br>次に会えるのはいつになるかわからないけど、2人とも元気でね。私はもう大人だし、自分の面倒だって自分で見られるから、そんなに心配しなくても大丈夫。<br><br><align=\"right\">2人を愛する娘</align><br><align=\"right\">ナターシャ</align>"
         },
         {
             "_id": 5,
-            "Story": "The man lying on the hospital bed is tanned and about fifty years old. His muscles are chiseled like a sculpture, but are now covered in layers of scars and bloody stains. He is breathing heavily, his chest heaving violently — he is right at death's door.<br><br>Natasha's eyes move quickly over to the patient, searching for anything fatal that could rob him of his life. She soon locates a wound on his lower left abdomen. Although it isn't large, the bleeding is constant and it's likely that his internal organs had been injured by some kind of sharp weapon.<br><br>She put on a new pair of gloves and tears a large piece of bandage off the roll. She skillfully and tightly wraps it tightly around the patient's waist, pressing down on the area that is bleeding. A dark red spreads through the surface of the bandage, but Natasha maintains her pressure without betraying the slightest hint of panic.<br><br>After a short while, the man's breathing is no longer rapid and the tense expression on his face eases. Natasha knows he is out of danger and has safely fallen asleep.<br><br>She slowly takes off her gloves and leans against the clinic's window sill in a brief repose.<br><br><i>\"Please don't die, Oleg...\"</i><br><br>She whispers to herself as she gazes at the bed.<br><br><i>\"...There're still a lot of duties we need to complete.\"</i>"
+            "Story": "ベッドには浅黒い肌をした男が横たわっている。年齢は 50 歳前後といったところだ。彼の筋肉の輪郭は彫刻のように整っているが、今は傷と血に覆われている。彼の呼吸は荒く、胸は激しく起伏していた——彼は生死の境にいるのだ。<br><br>ナターシャの視線は素早く負傷者の体の上を走り、彼の命を奪おうとしている致命傷を探している。そして、すぐに左の脇腹の傷口を見つけた。それは小さな傷だったが、血が止めどなく流れ出ている。恐らく鋭い武器によって内臓が傷つけられたのだろう。<br><br>彼女は新しい医療用手袋をして、傍にあったロールから大量の包帯を巻き取った。それを負傷者の腰と腹にきつく巻きつけた後、出血している部分を強く圧迫していく。黒ずんだ赤色が包帯の表面に広がったが、ナターシャは慌てる様子もなく、一定の力で圧迫を続けていた。<br><br>しばらくすると、荒かった男の呼吸は整い、強張っていた表情も和らいだ。ナターシャは負傷者が生命の危機を脱したこと、そして夢の世界に入ったことを悟った。<br><br>彼女はゆっくりと手袋を外して、診療所の窓枠に寄りかかりながら息をついた。<br><br><i>「死んじゃダメよ、オレグ……」</i><br><br>彼女は病床を見つめながら呟いた。<br><br><i>「…まだ果たさなきゃいけない使命がたくさんあるんだから」</i>"
         }
     ]
 }
@@ -488,208 +488,208 @@ var _story_ = {
 var _voice_ = {
     "1105": [
         {
-            "Title": "First Meeting",
-            "Voice": "Nice to meet you, I'm Natasha — an Underworld doctor. Feeling sick? Take a seat, let me take a look."
+            "Title": "初対面",
+            "Voice": "はじめまして、私はナターシャ。ベロブルグ下層部の医者よ。具合が悪いところはないかしら？座って、お医者さんが診てあげる。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "I'm in today. But that is not an excuse for misbehavior."
+            "Title": "挨拶",
+            "Voice": "今日は私がいるけど…だからといって、無茶はしないでちょうだい。"
         },
         {
-            "Title": "Parting",
-            "Voice": "Today feels fighting fit."
+            "Title": "お別れ",
+            "Voice": "今日も健やかに過ごせたわね。"
         },
         {
-            "Title": "About Self",
-            "Voice": "I see all kinds of patients. Some require a gentle touch, others need a stern talking to before they take things seriously... Haha, a doctor should always use the right cure for the right person."
+            "Title": "自分について",
+            "Voice": "色んな患者に対して、私はそれぞれ違う態度で接しているの。ある人には優しく、病気を軽く見ている人には少し厳しい言葉をかけるのよ…症状に応じて薬を処方するのが医者の責務でしょ？"
         },
         {
-            "Title": "Chat: Medicine",
-            "Voice": "A patient's medicine doesn't just reveal their illness. It also offers a window into their desires and needs."
+            "Title": "世間話・薬物",
+            "Voice": "薬は患者の病気だけでなく、彼らの願望や欲求をも明らかにするわ。"
         },
         {
-            "Title": "Chat: Wildfire",
-            "Voice": "People join Wildfire for themselves, for the newborn next door without a mother, for the elderly with no home to return to."
+            "Title": "世間話・地炎",
+            "Voice": "みんなが「地炎」に加入する理由は、自分のため、近所の母親を失った乳飲み子のため、街を流浪するお年寄りのためよ。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I still occasionally practice suturing on my old teddy bear, just like in the old days."
+            "Title": "趣味",
+            "Voice": "今でも時々、昔のようにクマのぬいぐるみで傷口を縫う練習をしているのよ。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "People in the Underworld have gotten used to making the best of a bad situation. That's why I have to keep reminding myself that we're nowhere near where we need to be."
+            "Title": "悩み事",
+            "Voice": "地下の人々は、苦しみの中に喜びを見出すことに慣れてしまっている。だから、私はいつも自分に言い聞かせているの。私たちは、本当に望む人生を送っているのだろうかってね。"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "Humans long for freedom. If they go for too long without seeing the sky, they get ill... Both in body and mind."
+            "Title": "シェア",
+            "Voice": "人は自由を求める生き物よ。もし長い間、空が見れなくなったら、病気になってしまう…それは、心の病。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "When the childrens' parents are away in the mines, the clinic becomes a kind of nursery... Haha, to be fair, it's me who invites them. Perhaps I need them more than they need me."
+            "Title": "見聞",
+            "Voice": "鉱夫たちが仕事をしている時、診療所は半分、託児所になるの…私から預かると言ったんだけどね。もしかしたら、私の方が子供たちに依存しているのかもしれないわ。"
         },
         {
-            "Title": "About Seele",
-            "Voice": "Seele's already become a capable adult — I can't treat her like a child anymore."
+            "Title": "ゼーレについて",
+            "Voice": "ゼーレはもうとっくに大人になっている。私も彼女を子ども扱いしないわ。"
         },
         {
-            "Title": "About Clara",
-            "Voice": "I heard she's been looking after the wounded vagrants. What a girl... When I first met Clara, she was replacing parts for her robots like a mechanic, but leaving her own wounds unattended. It was heartbreaking to watch."
+            "Title": "クラーラについて",
+            "Voice": "彼女が最近ずっと負傷した流浪者の世話を手伝っていると聞いて、申し訳ない気持ちになったわ…初めて会った時、クラーラはロボットの修理には長けていたけど、自分の傷は放置していて炎症を起こしていたの。見ていて胸が痛くなったわ。"
         },
         {
-            "Title": "About Svarog",
-            "Voice": "Svarog wants to preserve humanity, but he's not concerned about what humans truly think."
+            "Title": "スヴァローグについて",
+            "Voice": "スヴァローグは「人類」を守るけど、「人類」がどう考えるかについては無関心なのよね。"
         },
         {
-            "Title": "About Sampo",
-            "Voice": "If I know Sampo, the last thing he wants is to owe you a favor — he'll think of any way possible to pay you back... The longer you leave a favor, the harder it is to calculate its value."
+            "Title": "サンポについて",
+            "Voice": "サンポは人に借りを作るのが嫌いで、何とかして返そうとするのよ——人情というものは時間が経つにつれて、値段をつけるのが困難になるから。"
         },
         {
-            "Title": "About Hook",
-            "Voice": "Sometimes I stand at the door of the clinic and watch her running and jumping around... and my tiredness simply goes away."
+            "Title": "フックについて",
+            "Voice": "診療所の前に立って、外で騒いでいる彼女を見ていると、疲れが吹き飛ぶ気がするの。"
         },
         {
-            "Title": "About Oleg",
-            "Voice": "We both came from the Overworld. Maybe that's why we're so eager to turn back the clock — to return to when life below ground was no harder than life on the surface."
+            "Title": "オレグについて",
+            "Voice": "私たちは上層部から来ているから、「過去」に戻ろうと必死になるの——ベロブルグの「上下」が断絶される前にね。"
         },
         {
-            "Title": "About Luka",
-            "Voice": "That kid puts up a strong front, but under the surface he's afraid of becoming a burden — that's why he trains and fights so hard... I hope one day he's able to slow down and listen to his heart."
+            "Title": "ルカについて",
+            "Voice": "あの子は意志が強そうに見えるかもしれないけど、実は自分が足手まといになることを恐れているの。だからあんなに頑張って訓練して、戦っている…はぁ、いつの日か心を静めて、自分の声に耳を傾けてほしいわね。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "With this strength, I can save more lives."
+            "Title": "星魂覚醒",
+            "Voice": "この力で、もっとたくさんの命を救える。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "A doctor never stops learning."
+            "Title": "キャラクター昇格",
+            "Voice": "また医術の腕が上がったわね。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "I'll put this strength to good use."
+            "Title": "レベルMax",
+            "Voice": "この期待を裏切ったりしないわ。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Wise choice."
+            "Title": "軌跡覚醒",
+            "Voice": "聡明な判断ね。"
         },
         {
-            "Title": "Added to Team With Seele",
-            "Voice": "Has that wound fully healed, Seele?"
+            "Title": "パーティ編成・ゼーレ",
+            "Voice": "前回の傷は治ったの、ゼーレ？"
         },
         {
-            "Title": "Added to Team With Hook",
-            "Voice": "Room for an \"old witch,\" Hook?"
+            "Title": "パーティ編成・フック",
+            "Voice": "「ばばぁ」の手腕を見せてあげるわ、フック。"
         },
         {
-            "Title": "Added to Team With Sampo",
-            "Voice": "I've got my eye on you."
+            "Title": "パーティ編成・サンポ",
+            "Voice": "君の一挙手一投足を見ている人がいるってこと、忘れないでね。"
         },
         {
-            "Title": "Added to Team With Luka",
-            "Voice": "Take care of yourself, Luka."
+            "Title": "パーティ編成・ルカ",
+            "Voice": "もっと自分の体を大事にしなさい、ルカ。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "That'll take more than medicine."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "手の施しようがないわね。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Don't get careless."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "油断しちゃだめよ。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Naughty children don't listen."
+            "Title": "ターン・1",
+            "Voice": "言う事を聞かないのは悪い子よ。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Time for a shot."
+            "Title": "ターン・2",
+            "Voice": "お注射の時間よ。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Seems I've been waiting a while..."
+            "Title": "戦闘中待機",
+            "Voice": "ずいぶん待つのね…"
         },
         {
-            "Title": "Basic Attack 1",
-            "Voice": "You're in bad shape."
+            "Title": "通常攻撃・1",
+            "Voice": "重症ね。"
         },
         {
-            "Title": "Basic Attack 2",
-            "Voice": "Savor the vigor of life."
+            "Title": "通常攻撃・2",
+            "Voice": "生命の重みを味わいなさい。"
         },
         {
-            "Title": "Basic Attack 3",
-            "Voice": "Naptime."
+            "Title": "通常攻撃・3",
+            "Voice": "眠るといいわ。"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Here comes the medicine."
+            "Title": "戦闘スキル・1",
+            "Voice": "薬を飲みましょう。"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "All better now?"
+            "Title": "戦闘スキル・2",
+            "Voice": "痛くないでしょ。"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "I'm okay."
+            "Title": "攻撃を受ける",
+            "Voice": "平気よ。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "That hurt..."
+            "Title": "重撃を受ける",
+            "Voice": "いたっ…"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Just in time."
+            "Title": "必殺技・アクティブ",
+            "Voice": "間に合ったようね。"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Just a little something. Think nothing of it."
+            "Title": "必殺技・発動",
+            "Voice": "ほんの気持ちよ、気にしないで。"
         },
         {
-            "Title": "Downed",
-            "Voice": "But I'm a... doctor..."
+            "Title": "戦闘不能",
+            "Voice": "医者…失格ね…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "I have plenty of medicine at the ready."
+            "Title": "戦闘に戻る",
+            "Voice": "薬なら充分よ。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "I'll be more careful."
+            "Title": "HP回復",
+            "Voice": "気を付けるわ。"
         },
         {
-            "Title": "Technique",
-            "Voice": "Found you."
+            "Title": "秘技",
+            "Voice": "見つけた。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "A delicate operation."
+            "Title": "戦闘勝利",
+            "Voice": "見事な手術だったわね。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "If there's medicine, it'll come in handy."
+            "Title": "戦利品を開ける・1",
+            "Voice": "薬品は、いくらあっても足りないわ。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "This is enough for me — take the rest."
+            "Title": "戦利品を開ける・2",
+            "Voice": "これだけあれば十分。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "These will last us a long time."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "これで補給品は足りるわね。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Hm, that's a healthy brain."
+            "Title": "謎解きに成功・1",
+            "Voice": "ふふ、思考は好調なようね。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Cute little game~"
+            "Title": "謎解きに成功・2",
+            "Voice": "なかなか面白いミニゲームだったわ。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Victory means preparation."
+            "Title": "敵ターゲット発見",
+            "Voice": "奴らを倒すには準備が必要ね。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Hard work needs hard rest."
+            "Title": "町に戻る",
+            "Voice": "時間がある時はちゃんと休むのよ。"
         }
     ]
 }

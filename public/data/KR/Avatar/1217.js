@@ -554,23 +554,23 @@ var _story_ = {
     "1217": [
         {
             "_id": 1,
-            "Story": "While this Foxian girl may seem fragile and weak, she is actually a judge-in-training of the Ten-Lords Commission, responsible for capturing evil.<br>The judges sealed a heliobus named \"Tail\" onto her tail, making her a \"Cursed One\" with a tendency to attract evil beings.<br>Despite trembling at the sight of evil spirits, she is always entrusted with the arduous task of eradicating their presence.<br>She is well aware of her incompetence but lacks the courage to resign, so she forces herself to press on despite her fear."
+            "Story": "가련하고 연약한 여우족 꼬마 아가씨는 요괴를 무서워하지만, 요괴를 잡는 나부 시왕사의 견습 판관이다.<br>「꼬리」로 불리는 세양은 시왕사의 판관에 의해 그녀의 날렵한 꼬리에 봉인되었고, 그로 인해 그녀는 사악한 기운을 부르는 「불운의 명」이 되었다.<br>요괴를 두려워하지만, 항상 요괴를 잡으라는 명령을 받고 험난한 요괴 퇴치 임무를 완수한다.<br>자신의 능력이 부족하다고 생각하지만 사직할 용기가 없어서 묵묵히 벌벌 떨면서 일을 계속하고 있다."
         },
         {
             "_id": 2,
-            "Story": "When Huohuo awakes at the Ten-Lords Commission, she finds herself confronted not with novelty, but with an atmosphere that sends shivers down her spine.<br><br>Sensing her unease, a white-haired judge addresses her with gentleness.<br><br><i>\"Tell me, little girl, how did you come across that fire?\"<br>\"...It was along the roadside and about to extinguish, so I... I wished to help it.\"<br>\"So you put that fire on your tail? Why did you do that?\"<br>\"I... I don't know... It happened before I realized it... I'm so sorry.\"<br>\"You don't need to apologize, kind-hearted girl. However, you'll be under our custody from now onwards.\"<br>\"Th—Thank you, Madam.\"<br>\"Call me Hanya.\"<br>\"Ah, thank you, Madam Hanya. I... my name is Huohuo.\"</i><br><br>The thoughts of the judge named Hanya wanders back to a few days ago.<br><br>The Ten-Lords Commission received a distress call, and she took on the task of locating the Foxian girl who was about to be consumed by a heliobus. At the moment, Hanya couldn't repel the heliobus by force without causing harm to Huohuo, who was still a little girl. As a result, she had to seal the heliobus onto the girl's tail. Fortunately, the heliobus decided to start the possession from her tail, giving Hanya a chance to save her life.<br><br><i>\"...Was my decision right or wrong?\"</i><br>Hanya mutters to herself."
+            "Story": "의식을 잃었다 깨어난 곽향이 처음 시왕사로 끌려갔을 때, 시왕사의 모든 것은 신기한 게 아니라 오싹하고 공포스러웠다.<br><br>백발의 판관은 여자아이의 불안을 눈치채고 최대한 부드러운 말투로 물었다.<br><br><i>「꼬마 아가씨, 어쩌다가 『그 불덩어리』와 마주치게 된 거니?」<br>「…그게 외로이 길가에 떨어져 막 꺼지려는 거예요. 저… 저는 도와주고 싶었어요. 제가 기억하는 건 이게 전부예요」<br>「그래서 『그 불덩어리』를 꼬리에 둔 거니? 어째서?」<br>「저, 저도 몰라요. 정신을 차리고 보니 이렇게 돼 있더라고요…. 죄송해요」<br>「착한 아이구나, 사과할 필요는 없단다…. 하지만 넌 오늘부터 우리의 보살핌을 받아야 해」<br>「네… 감사합니다」<br>「난 한아란다」<br>「한아 님, 감사합니다. 저는… 곽향이에요」</i><br><br>한아라는 이름의 판관은 며칠 전 일을 떠올렸다——<br><br>시왕사에 들어 온 구조 요청에 그녀는 명을 받고 나가, 세양에 막 먹히려던 참인 여우족 소녀를 발견했다. 한아가 보니 소녀는 어리고 연약한 데다가 세양도 보통이 아니었다. 무리해서 제거하려다가는 소녀의 목숨이 위태로울 것이 뻔했다. 급한 나머지 한아는 부적을 써서 세양을 여우족 소녀의 꼬리에 가두었다. 세양이 소녀의 꼬리부터 삼키려 한 게 그나마 다행이었다.<br><br><i>「…이게 맞는 걸까?」</i><br>판관은 중얼거렸다."
         },
         {
             "_id": 3,
-            "Story": "While the heliobus is short-tempered and arrogant, he is not impossible to communicate with. He could not tolerate Huohuo's sobbing and wailing and didn't quite understand how Foxians socialize — for example, he didn't understand why the girl would be ostracized by her classmates due to \"her tail being on fire.\"<br><br><i>\"You! Tear off that talisman!\"<br>\"No! Madam Hanya said the talisman must not be removed under any circumstances...\"<br>\"Did you hear them? How dare they mock me!? I've never been humiliated like this before!\"<br>\"No... they're not mocking you... but me...\"<br>\"Then you go teach them a lesson yourself. If you can't avenge me for this insult, then don't talk to me anymore.\"<br>\"B—But... I'm scared...\"<br>\"Alright, fine. You know what? Just take a deep breath, make your mind go blank, and don't think about anything. I'll handle this problem for you.\"<br>\"B—But... Madam Hanya said... the talisman must not be removed...\"<br>\"Don't worry. Just do what I say.\"</i><br><br>...When she regained consciousness, the legend of \"the possessed demoness\" was already circulating.<br><br>After that, Huohuo went and found out a lot about the heliobus' past. Eons ago, a heliobus named Ignamar was defeated by a Luofu general and fragmented into numerous shards, then sealed in the Creation Furnace. This particular shard escaped, and he represents the arrogant side of Ignamar and wouldn't condescend to possessing anything, living as a vagabond for centuries... until Huohuo chanced upon him in his utter exhaustion.<br><br><i>\"Then I'll call you 'Tail' to avoid unwanted attention...\"</i><br>The heliobus said nothing, his silence being a sign of acquiescence."
+            "Story": "세양은 성질이 난폭하고 거만하지만, 말이 안 통하는 건 아니다. 그는 곽향이 징징대는 모습을 참을 수 없었고, 「꼬리가 불타고 있다」는 이유로 그녀가 여우족 친구들에게 따돌림을 당한다는 사실도 이해할 수 없었다.<br><br><i>「부적을 떼어내버려!」<br>「안 돼요. 한아 님이 떼지 말라고 했어요……」<br>「저것들이 감히 이 몸을 놀리는 소리를 들었잖아! 이런 굴욕은 처음이라고」<br>「…저들이 놀리는 건… 저예요……」<br>「그럼 네가 가서 처리해. 내 수모를 갚지 못하면 날 보러 올 생각도 하지 마」<br>「하, 하지만, 전 못 해요」<br>「휴, 이렇게 해. 심호흡을 하고 머리를 비워. 아무 생각도 하지 마. 내가 해결할게」<br>「…한, 한아 님이 이건 떼면 안 된다고……」<br>「신경 쓰지 말고 내가 시키는 대로 해」</i><br><br>…소녀가 정신을 차렸을 때는 「악귀가 붙은 마녀」라는 소문이 쫙 퍼져 있었다.<br><br>그 후 곽향은 세양의 과거에 대해 많이 알아봤다. 얼마나 오래전인지 알 수 없지만 「요원(燎原)」이라고 불리던 세양은 나부 장군에게 패한 후 여러 영혼 조각으로 나뉘어 창조 용광로에 봉인되었다. 이때 빠져나간 세양은 「요원의 고고함」이고, 누구에게도 들러붙지 않고 오랫동안 떠돌아다니며 몸을 숨기다가… 숨이 다하기 직전 곽향이 그를 주운 것이다.<br><br><i>「사람들의 이목을 끌지 않도록 『꼬리』라고 부를게요…」</i><br>세양은 대답하지 않았지만 이를 받아들인 듯했다."
         },
         {
             "_id": 4,
-            "Story": "When Huohuo was taken in by the Ten-Lords Commission, the judges initially wanted to ensure that Tail wouldn't cause any trouble.<br><br>Gradually, as she familiarized herself with her duties as a spiritfarer, she became acquainted with the various evil spirits documented by the Commission.<br><br><i>\"Madam Xueyi! H—How about the talismans I prepared last time?\"<br>\"They were great. Very effective against Astral Spirits.\"<br>\"Ha—Haha... Glad to know that. I was worried if it would work well.\"<br>\"Why didn't you try them yourself?\"<br>\"N—N—No... I'm too scared...\"<br>\"You know, Huohuo? Most of those 'evil spirits' are actually extraterrestrial creatures or malevolent sentient beings that exist in various forms.\"<br>\"I know what they are, but I'm still so afraid, Madam Xueyi. Maybe I'm not really cut out for this job...\"<br>\"...Well, only you know the answer to that.\"</i><br><br>Huohuo is not okay with her timidity. She struggled to muster the courage needed to confront the evil spirits.<br><br>She stayed up late watching horror-comedy films in an attempt to strengthen her nerves, but all she got were dark circles. She invested in the latest scientific exorcism tools to enhance her abilities, but it only left her with empty pockets. Tail sneered at the futility of her efforts, finding ways to make sarcastic remarks and mock her.<br><br><i>\"To be honest, Tail is the scariest of all...\"</i><br>However, in Xueyi's eyes, Huohuo has long ceased to fear Tail."
+            "Story": "곽향은 일찌감치 시왕사에 보내졌는데, 꼬리가 빠져나와 나쁜 짓을 하지 못하도록 하기 위해서였다.<br><br>명관 일에 점점 익숙해지면서 곽향은 시왕사에서 기록한 각종 「요물」들을 파악하기 시작했다.<br><br><i>「설의 님, 지, 지난번에 준비한 부적은 잘 듣나요?」<br>「좋아. 성령(星靈)에 대응하기 충분해」<br>「헤헤… 다행이네요. 효과가 어떨지는 몰라서……」<br>「직접 해볼래?」<br>「아니요. 저는 무서워서……」<br>「곽향, 『요물』이란 대부분 외계 생물이나 모종의 형태로 존재하는 해로운 지적 생명에 불과해」<br>「설의 님, 그건 알지만 그래도 무서워요. 전 이 일에 안 맞는 것 같아요……」<br>「…그건 스스로에게 물어보는 수밖에 없지」</i><br><br>곽향은 겁 많은 자신의 모습이 마음에 들지 않아서 「요물」을 이겨낼 용기를 키우려고 노력하기도 했다.<br><br>밤새 공포희극을 보며 담력을 키우려고 했지만, 다크서클만 얻었다. 전투력을 올리기 위해 새로운 과학 퇴마 도구를 구입하기도 했지만, 지갑만 얇아졌다. 꼬리는 헛수고라고 비웃으며 온갖 수작을 부려 일을 더 꼬이게 만들었다.<br><br><i>「제일 무서운 건 역시 꼬리예요……」</i><br>하지만 설의가 보기에 곽향은 이미 꼬리를 「두려워」하지 않았다"
         },
         {
             "_id": 5,
-            "Story": "Initially, Tail was no different from any other heliobi, intending to devour Huohuo and take possession of her name and identity, stealing all of her desires and emotions.<br><br>Later, Tail found pleasure in witnessing Huohuo's frustrations in her failures. \"Anyway, I'm not in a hurry to devour her at all. She can't escape me after all.\"<br><br><i>\"Tail, Tail! Help... Help me!\"<br>\"It's none of my concern. What did you say back then...? Oh, you've got to 'stand on your own feet.' Now this is the perfect chance, isn't it?\"<br>\"No! I'll stand on my feet next time! Please help me!\"<br>\"A reminder, once you die, I'll be free. But... well, I always finish what I start. I won't leave until I devour you.\"<br>\"You're a judge of the Ten-Lords Commission, but you've neglected your duty and allowed those monsters to wreak havoc on the Xianzhou. What a disgrace... Hey! What do you think you're doing, small fry!? I'm the only one who can scold her!\"<br>\"Roaaaarr!\"<br>\"You want to get physical, huh? Good, you asked for it!\"</i><br><br>Since being possessed by Tail, Huohuo has become highly sought-after by evil spirits, like moths to a flame.<br><br>Huohuo always blames Tail for her ominous title as the \"cursed one,\" and Tail finds having a host like Huohuo can be frustrating at times. However, years have passed, and Tail hasn't harmed Huohuo in the slightest. Although Tail never fails to help her after witnessing enough frustration, he denies any notion of friendship.<br><br><i>\"Issued by the Ten Lords, Huohuo the spiritfarer has performed extraordinarily during her tenure and has proven to be reliable for crucial tasks. She is hereby promoted to the position of 'Judge.'\"</i><br>The Ten-Lords Commission decreed her promotion, and thus begun Huohuo's new tenure as a trainee judge."
+            "Story": "꼬리도 처음엔 다른 세양과 마찬가지로 곽향을 「먹어 치우려」했고, 그녀에게 붙어 이름과 신분을 빼앗아 그녀의 욕망과 감정을 누리려고 했다.<br><br>그러나 꼬리는 곽향이 곤경에 처한 모습을 보는 것도 꽤 재밌다는 생각이 들었다. 어차피 언젠가 먹어 치울 테니 당장 급할 건 없었다.<br><br><i>「꼬리님! 구해주세요!」<br>「나랑 상관없는 일이야. 그때 뭐라고 했더라…. 그래, 『홀로서기』해야지. 지금 기회가 왔잖아?」<br>「다음에는 혼자 처리할 테니 지금은 좀 구해주세요!」<br>「먼저 말해두는데 네가 죽으면 이 몸이 자유를 얻는다고. 하지만… 난 뭔가를 시작하면 끝장을 보거든. 널 먹어 치우기 전에는 떠날 생각 없어」<br>「넌 시왕사 판관씩이나 돼서 요물들이 선주를 마구 헤집어 놓게 놔두다니, 너무 무책임하잖아…. 야! 뭐 하는 짓들이야? 이 조무래기들아, 이 녀석은 나만 괴롭힐 수 있다고」<br>「아아아악!」<br>「제대로 뒤엎어 주지!」</i><br><br>꼬리에 빙의된 후부터 마치 꿀에 나비가 모이고 촛불에 불나방이 몰려드는 것처럼, 곽향에게 온갖 요물들이 꼬였다.<br><br>곽향은 항상 이 「불운의 명」이 꼬리와 떼려야 뗄 수 없는 관계라고 불평했고, 꼬리는 곽향과 만난 게 불운이라고 여겼다. 하지만 오랜 시간이 지나고 꼬리는 곽향이 난처할 때면 그녀를 도와주게 되었다. 그러나 그는 여전히 그것이 우정임을 인정하지 않고 있다.<br><br><i>「시왕의 명을 받들라. 명관 곽향은 기량이 출중하고 성실하여 임무를 수행할 자질이 충분하니, 오늘부로 판관으로 임명한다」</i><br>시왕사에서 그녀의 승진 명령을 내렸고, 이때부터 곽향의 견습 판관 생활이 시작되었다."
         }
     ]
 }
@@ -578,220 +578,220 @@ var _story_ = {
 var _voice_ = {
     "1217": [
         {
-            "Title": "First Meeting",
-            "Voice": "Huohuo: H—Hello, I'm Huohuo, the newly appointed judge of the Ten-Lords Commission. Um... what else should I mention...<br>Tail: Ahem... Uh, Hello? Don't forget to introduce the most famous heliobus of all.<br>Huohuo: Ah, yes — Tail! This is Tail!"
+            "Title": "첫 만남",
+            "Voice": "곽향: 아, 안녕하세요…. 전 곽향, 새로 부임한 시왕사 판관이랍니다. 그 뭘 더 말해야 하죠…?<br>꼬리: 이봐, 난? 이 몸은 그 유명한 세양 일족이라고……<br>곽향: 꼬리! 그는 꼬리예요!"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Huohuo: H—Hello! Uh, I mean... Well, I... I guess I'll take my leave now. B—Bye...<br>Tail: You were supposed to say hi, not bye!"
+            "Title": "인사",
+            "Voice": "곽향: 아, 안녕하세요…. 저, 별일 없으면 전 가볼게요. 아, 안녕히 계세요……<br>꼬리: 작별 인사 하라는 게 아니잖아!"
         },
         {
-            "Title": "Parting",
-            "Voice": "F—Finally, time to go home. I hope no one notices me."
+            "Title": "작별",
+            "Voice": "드, 드디어 집에 갈 수 있다~! 아무도 눈치 못 채면 좋겠는데"
         },
         {
-            "Title": "About Self: Work",
-            "Voice": "I—I tried to turn this job down... It just doesn't feel fair — asking someone with heliophobia to hunt down heliobi with a heliobus? *sigh* They told me it was to \"conquer my fear...\""
+            "Title": "자신에 대해•업무",
+            "Voice": "저, 전 거절했어요…. 세양을 두려워하는 사람에게 세양을 이용해 세양을 잡으라니, 아무리 생각해도 말이 안 되잖아요…. 근데 이게 독으로 독을 잡는 법이랬어요…. 히잉"
         },
         {
-            "Title": "About Self: Tail",
-            "Voice": "Huohuo: My tail was consumed during a heliobus attack — the rest of me barely got away. It's a good job the Ten-Lords Commission sealed the demon in my tail before it had the chance to finish me off...<br>Tail: It's not my fault that Foxians have the most scrumptious tails... However, now that I'm a tail, I've realized all sorts of monsters want to have me for breakfast!"
+            "Title": "자신에 대해•꼬리",
+            "Voice": "곽향: 제 꼬리는 세양에게 먹혔어요. 저까지 먹힐 뻔했는데 시왕사 판관들이 봉인해서 그나마 살았죠……<br>꼬리: 여우족 꼬리가 제일 맛있으니까 그렇지…. 난 이제 꼬리가 됐어. 어떤 요괴든지 날 잡으려 들 거야!"
         },
         {
-            "Title": "Chat: Banner",
-            "Voice": "I can use this banner to dispel demons... but it also comes in handy when signaling my surrender..."
+            "Title": "잡담•깃발",
+            "Voice": "이 깃발로 남보다 빨리 병력을 이동시킬 수 있고, 한 발 먼저 투항할 수도 있어요……"
         },
         {
-            "Title": "Chat: Paper Dolls",
-            "Voice": "Huohuo: I make paper dolls whenever I get the chance. With so many little \"friends\" around, there's nothing to fear...<br>Tail: Don't get me started! Those things stress me out. The mere thought of seeing a smiling paper doll right in front of my face in the middle of the night..."
+            "Title": "잡담•종이 인형",
+            "Voice": "곽향: 틈만 나면 전 열심히 종이 인형을 접어요. 이렇게 많은 「친구」가 곁에 있다는 생각을 하면 무섭지 않거든요……<br>꼬리: 난 그 종이 인형이 제일 짜증나! 밤중에 눈을 뜨면 눈앞에서 웃고 있는데, 얼마나 소름 돋는지 알아?!"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I practice my bravery by watching horror-comedies late at night. When it gets to a scary part, I laugh it off like this... Hehehehehehehe! So, yeah..."
+            "Title": "취미",
+            "Voice": "밤새워 공포희극을 보면 담력을 키울 수 있어요. 아무리 무서운 장면이라도 웃고 넘어가면 무섭지 않죠. 「하하하하하하하!」 이렇게요"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "Huohuo: The owner of The Looking Bronze said I have a knack for attracting evil. I—I have a vague idea why that is...<br>Tail: Apparently, I am that \"vague idea\". Be that as it may, your tendency to trip over yourself is entirely your own fault."
+            "Title": "고민",
+            "Voice": "곽향: 「감효헌」의 주인장께서 전 「불운의 명」을 타고나서 액운이 따른댔어요. 그, 그건 아마도……<br>꼬리: 내 탓이지. 근데 길을 걷다가 자빠지는 건 내 탓이 아니야"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "How do I relax? I like to find a place in Starskiff Haven to lay back and watch the starskiffs come and go... although my colleagues say it works better for insomnia... A—Anyway, you should try it."
+            "Title": "공유",
+            "Voice": "별뗏목의 바다에 자리를 잡고 앉아서 별뗏목이 오고 가는 걸 보는 게 제가 피로를 푸는 방법이에요…. 시왕사의 판관들은 불면증 치료를 받는 게 낫다고 하지만… 아무튼 추, 추천할게요"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "I heard a lot of heliobi were sealed in the Artisanship Commission's Creation Furnace, but they all escaped when the furnace broke... That's why my workload is the way it is..."
+            "Title": "견문",
+            "Voice": "공조사 「창조 용광로」에 엄청 많은 세양이 갇혀있었는데, 용광로가 고장나는 바람에 탈출을 해버렸대요…. 그 뒤로 제 업무가 늘어났죠……"
         },
         {
-            "Title": "About Guinaifen",
-            "Voice": "Little Gui? She has a lot of yang energy — she dispels bad luck very easily. Even my tail goes quiet when she's around. The only drawback is I have to raise my voice around her if I wanted to be heard..."
+            "Title": "계네빈에 대해",
+            "Voice": "네비니 씨요? 불운을 쫓아버릴 만큼 기운이 넘치죠. 함께 있으면 꼬리도 얌전해진다니까요. 대화하다 보면 저도 모르게 목소리가 커지고 기가 빨려요……"
         },
         {
-            "Title": "About Xueyi",
-            "Voice": "Huohuo: The puppet judge? She really scared me at first... but when Tail threatened her, she didn't bat an eyelid. Madam Xueyi is amazing — I really want to be like her one day...<br>Tail: Amazing!? Let's see if she still has that smirk on her face when I burn the Ten-Lords Commission to the ground!"
+            "Title": "설의에 대해",
+            "Voice": "곽향: 처음엔 「인형 판관」이 너무 무서웠어요…. 하지만 꼬리님이 멋대로 날뛰어도 설의 님은 얼굴색 하나 안 변하고 의연하시죠. 이런 분이 판관 선배님이라니… 정, 정말 대단해요……<br>꼬리: 그래, 대단해, 대단하고 말고! 언젠가 이 몸이 시왕사를 잿더미로 만들고 말 거야!"
         },
         {
-            "Title": "About Hanya",
-            "Voice": "In order to differentiate between the sisters, I call her the rambling judge... *gasp* She hasn't found out, has she?"
+            "Title": "한아에 대해",
+            "Voice": "한아 님과 그 언니분을 구분하기 위해 저, 전 몰래 그분을 「수다쟁이 판관」이라고 불러요…. 설마 들킨 건 아니겠죠?"
         },
         {
-            "Title": "About Qingque",
-            "Voice": "It seems like Qingque is always on a break. When I'm relaxing, she's relaxing, and when I get swamped with work, guess what...? She's still relaxing! I guess the Divination Commission has a pretty light workload..."
+            "Title": "청작에 대해",
+            "Voice": "제가 멍하니 있을 땐 청작 씨도 쉬어요. 제가 바쁠 때도 쉬고요…. 대체 어떻게 그럴 수 있죠? 태복사 업무는 시왕사보다 널널한 게 분명해요……"
         },
         {
-            "Title": "About Tail",
-            "Voice": "Huohuo: B—Be more determined? I usually just want to run away... Still, every time I try, Mr. Tail sends me straight back to the enemies' doorstep. *sigh* Why can't he just leave me be...?<br>Tail: Hmph! Fine by me! If you get swallowed whole, I'll finally be able to break free!"
+            "Title": "꼬리에 대해",
+            "Voice": "곽향: 저, 전 의지 같은 걸 단련할 마음 없어요. 그냥 도망가고 싶은데, 매번 꼬리님이 절 적 앞으로 데려가죠. 정말 지긋지긋해요……<br>꼬리: 흥, 네가 완전히 잡아먹혀야 이 몸이 자유를 찾을 수 있다고!"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "People say that the general's portrait can be used to dispel evil. I tried but... useless... I—I mean the portrait, not the general. I shouldn't have believed in such superstitious nonsense."
+            "Title": "경원에 대해",
+            "Voice": "집에 나부 장군의 초상화를 붙여두면 사악한 기운을 누를 수 있대서 해봤는데 아무 소용 없었어요…. 아, 제 말은 장군이 소용 없다는 게 아니라, 초상화가 사악한 기운을 누른다는 말을 믿지 말라는 거예요"
         },
         {
-            "Title": "About Bailu",
-            "Voice": "I wonder if the Dragon Lady has any \"brave pills\" for sale... If not, \"play dead pills\" might do the trick..."
+            "Title": "백로에 대해",
+            "Voice": "용녀에게 「담력을 키우는 약」이 있을까요…. 없다면 「죽은 것처럼 보이는 약」도 괜찮은데……"
         },
         {
-            "Title": "About Yukong",
-            "Voice": "How come Madam Yukong has an air of authority, but I don't? I mean, we're both Foxians. Actually... I know why, but I can't help being a little envious."
+            "Title": "어공에 대해",
+            "Voice": "같은 여우족인데 어공 님에 비해 전 위엄이 딸려 보이죠…. 저도 알아요. 전 그냥… 어공 님이 부러울 뿐이에요"
         },
         {
-            "Title": "About Sushang",
-            "Voice": "Actually, we met a long time ago. I was outside getting some peace and quiet, when all of a sudden she dragged me before the Realm-Keeping Commission Chancery. She mistook me for a missing person..."
+            "Title": "소상에 대해",
+            "Voice": "사실 저희는 아주 오래전에 만난 적이 있어요…. 그때 전 멍하니 있다가 정신을 차려보니, 소상 씨의 손에 이끌려 지형사 관청에서 실종 인원을 조사하고 있더라고요……"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "So this is the life of a cursed one..."
+            "Title": "성혼 활성화",
+            "Voice": "「불운의 명」, 「불운의 명」이니……"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Promoted again? ...Is that good or bad...?"
+            "Title": "캐릭터 승급",
+            "Voice": "또 승진했네요? 이게 「오늘의 운세」에 나온 길일까요, 흉일까요……?"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "D—Do I have to spend my whole life in the Ten-Lords Commission...?"
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "서, 설마 전 시왕사에서 평생을 보내야 하는 걸까요……?"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Does a cure-all for exorcising evil really exist...?"
+            "Title": "행적 활성화",
+            "Voice": "한 번의 고생으로 영원히 편안해지고 액운을 쫓을 수 있는 방법이 진짜 있을까요……"
         },
         {
-            "Title": "Added to Team With Hanya",
-            "Voice": "Madam Hanya, did you also have a restless night...? If there's anything I can help with, just let me know..."
+            "Title": "파티 편성•한아",
+            "Voice": "한아 님을 보니, 어제도 제대로 못 주무신 것 같네요…. 제가 도울 일이 있으면 편히 말씀하세요……"
         },
         {
-            "Title": "Added to Team With Guinaifen",
-            "Voice": "You first, Little Gui! I—I'll be right behind you..."
+            "Title": "파티 편성•계네빈",
+            "Voice": "네비니 씨 먼저 가세요! 저, 전 뒤따라 갈게요……"
         },
         {
-            "Title": "Added to Team With Sushang",
-            "Voice": "Sushang, just a minute, let me give you this talisman..."
+            "Title": "파티 편성•소상",
+            "Voice": "소상 씨, 잠깐 기다리세요. 제가 부적 붙여줄게요……"
         },
         {
-            "Title": "Added to Team With Xueyi",
-            "Voice": "Huohuo: M—Madam Xueyi! You're here too!<br>Tail: Not good! Not good!"
+            "Title": "파티 편성•설의",
+            "Voice": "곽향: 다, 다행이다! 설의 님도 계시다니!<br>꼬리: 다행이긴, 개뿔!"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Huohuo: Maybe I can do this..."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "곽향: 할 수 있을지도 몰라요…"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Huohuo: I—I don't think I can do this...<br>Tail: You have me here — what're you afraid of?"
+            "Title": "전투 시작•위험 경보",
+            "Voice": "곽향: 이제 정말 끝이에요…<br>꼬리: 이 몸이 있는데 뭐가 무서워?"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Huohuo: D—Do we have to fight?<br>Tail: Why, of course!"
+            "Title": "턴 시작•1",
+            "Voice": "곽향: 꼭 싸워야 하나요?<br>꼬리: 그럼, 도망치지 마"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Huohuo: I'm gonna hold everyone back again..."
+            "Title": "턴 시작•2",
+            "Voice": "곽향: 전 또 방해가 될 텐데…"
         },
         {
-            "Title": "Basic Attack 1",
-            "Voice": "Tail: Get them.<br>Huohuo: Ahhhh—!"
+            "Title": "일반 공격•1",
+            "Voice": "꼬리: 가자<br>곽향: 아아아————"
         },
         {
-            "Title": "Basic Attack 2",
-            "Voice": "Huohuo: Ahh—! Somebody help me!"
+            "Title": "일반 공격•2",
+            "Voice": "곽향: 싫어요. 살려주세요——"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Tail: Fool! You can't play dead standing up!<br>Huohuo: Shh..."
+            "Title": "턴 대기",
+            "Voice": "꼬리: 뭐해? 서서 죽은 척이야?<br>곽향: 쉬, 쉿——"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Huohuo: Demons... depart..."
+            "Title": "전투 스킬•1",
+            "Voice": "곽향: 악귀야… 꼼짝 마…"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Huohuo: Give me... strength..."
+            "Title": "전투 스킬•2",
+            "Voice": "곽향: 목숨을… 지켜줘…"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Huohuo: *whimper* Ow..."
+            "Title": "약공격 피격",
+            "Voice": "곽향: 아야, 아파라…"
         },
         {
-            "Title": "Hit by Heavy Attack 1",
-            "Voice": "Huohuo: Tail, help!"
+            "Title": "강공격 피격•1",
+            "Voice": "곽향: 꼬리님 살려주세요!"
         },
         {
-            "Title": "Hit by Heavy Attack 2",
-            "Voice": "Tail: You dare attack me!?"
+            "Title": "강공격 피격•2",
+            "Voice": "꼬리: 감히 날 쳐!?"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Huohuo: D—Don't come any closer..."
+            "Title": "필살기•활성화",
+            "Voice": "곽향: 이, 이쪽으로 오지 마세요…"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Tail: Move aside, amateurs...<br>Fiends or devils, I'll crush them all!"
+            "Title": "필살기•발동",
+            "Voice": "꼬리: 이 자식들 다 저리 비켜…. 사악한 악귀들, 이 몸이 상대해주지!"
         },
         {
-            "Title": "Downed",
-            "Voice": "Huohuo: I... surrender..."
+            "Title": "전투 불능",
+            "Voice": "곽향: 항…복……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Huohuo: It's not over yet?"
+            "Title": "전투 복귀",
+            "Voice": "곽향: 왜 아직 안 끝난 거죠…"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Huohuo: Thank you, thank you!"
+            "Title": "HP 회복",
+            "Voice": "곽향: 고맙습니다, 감사해요!"
         },
         {
-            "Title": "Technique",
-            "Voice": "Tail: Flee—<br>Huohuo: *gasp*..."
+            "Title": "비술",
+            "Voice": "꼬리: 저리 꺼져——<br>곽향: 히익……"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Huohuo: Did I win? Did I win!?<br>Tail: Not even a thanks?"
+            "Title": "전투 승리",
+            "Voice": "곽향: 제가 이겼어요? 제가요?!<br>꼬리: 어때 고맙지?"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Huohuo: Wow⁓ Can I really keep it?"
+            "Title": "전리품 오픈•1",
+            "Voice": "곽향: 이렇게 좋은 걸 제가 받아도 되나요…?"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Huohuo: I didn't expect to find this here..."
+            "Title": "전리품 오픈•2",
+            "Voice": "곽향: 이걸 찾게 되다니…"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Huohuo: I should probably report this find...<br>Tail: You found it! It's yours!"
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "곽향: 윗선에 넘겨야 하나…<br>꼬리: 먼저 발견한 사람이 임자라고, 챙겨!"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Huohuo: I—I'm actually pretty good at these things."
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "곽향: 이런 게 제 적성인데…"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Huohuo: Hmm? So... did I do it?<br>Tail: Next."
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "곽향: 앗? 이럼… 이럼 되겠죠?<br>꼬리: 되겠지"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Huohuo: They can't see me, they can't see me...<br>Tail: Hey, knucklehead, look over here!"
+            "Title": "적 발견",
+            "Voice": "곽향: 못 봐라, 못 봐라…<br>꼬리: 거기 멍청이, 이쪽이다!"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Huohuo: Such a peaceful spot...<br>Tail: Woof!"
+            "Title": "도시로 복귀",
+            "Voice": "곽향: 이제 마음이 놓이네요<br>꼬리: 크앙!<br>"
         }
     ]
 }

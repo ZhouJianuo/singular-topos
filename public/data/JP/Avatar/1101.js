@@ -462,23 +462,23 @@ var _story_ = {
     "1101": [
         {
             "_id": 1,
-            "Story": "Heir to the Supreme Guardian of Belobog, she is the young and capable commander of the Silvermane Guards.<br>Bronya received a rigorous education from an early age, and as such, possesses the grace and affinity as expected of an heir.<br>However, after witnessing the abysmal conditions in the Underworld, seeds of doubt begin growing in the mind of Belobog's future leader. \"Can all the training I've received really help me lead the people to the lives they want?\""
+            "Story": "ベロブルグの「大守護者」の継承者、若く有能なシルバーメインのリーダー。<br>ブローニャは幼い頃から厳格な教育を受け、「継承者」に必要な気品と親しみやすさを身につけた。<br>しかし、下層部の劣悪な環境を目の当たりにした未来の指導者は、次第に疑問を抱くようになる……「私が受けた訓練は、本当に民が望む生活を与えられるものなの？」"
         },
         {
             "_id": 2,
-            "Story": "She learned to hide her thoughts from an early age. Every day, she'd walk the same paths with the other kids, play the same games, and gossip about the same hobbies. But she never felt taken over by the trivial and bland nature of life — she'd sit on a gray stone bench every time she was alone, looking up at the sky and imagining a perfect and complete sky unobstructed by that flat disc.<br><br>She could see the laborers dripping with sweat as they toil, the pressure of survival crushing their passion for life. Seeing the tired but earnest look in their eyes, she slipped into a quagmire of confusion: Is life really destined to be like this? Just as the vastness of the sky was dissected by that monstrous steel disc, perhaps the freedom she yearned for was also destined to be incomplete.<br><br>She struggled to break free from this quagmire, silently recording the ideals that she'd come to implement in her life on that dusty stone road.<br><br><i>\"Make the world a better place.\"</i>"
+            "Story": "少女は幼い頃から自分の考えを隠すことを学んだ。毎日、他の子供たちと同じ石畳の上を歩き、同じ遊びをして、同じ趣味を通して交流した。しかし、彼女は決して些細で平凡な生活に溺れることはなかった——1人になれる時間があると、彼女は灰褐色の石のベンチに腰掛け、頭上の円盤によって遮られていない完全な空を想像した。<br><br>少女は見た。働く人々の滝のように流れる汗を、そして生存の重圧が彼らの生活に対する情熱を砕くところを。その疲れてはいるが素朴な瞳を見て、彼女は困惑の沼に沈んだ。人生はこうなるように定められているのだろうか？広い空が巨大な鋼鉄の円盤に断絶されているように、彼女が憧れている自由も欠けているのだろうか？<br><br>彼女は懸命に沼から這い出ると、埃が積もった石畳の上に、自分が一生貫こうとする理想を書き留めた。<br><br><i>「この世界を…より良いものに変える」</i>"
         },
         {
             "_id": 3,
-            "Story": "Sitting on her mother's lap, cold arms wrapped around her neck, she felt an indescribable sense of security. Her mother's voice was gentle and deep as she told the girl an ancient folk tale — the ending of which is hardly satisfying, but nevertheless, the girl enjoyed it very much. Her mother knew what she liked, and those fairy tales with happy endings would just leave her feeling bored and arise far too many questions. Telling stories with bad endings is an excellent way to lure the girl into falling asleep at night.<br><br><i>\"Mother... Why can't Lord Grey live a happy life like Catherine?\"<br>\"Do you want him to be happy, Bronya?\"<br>\"Lord Grey is a kind man. Kind people deserve to live a happy life.\"</i><br><br>The conversation stopped there, but she remembered her mother's gentle smile. Years later, when she recalled that warm afternoon at Qlipoth Fort, she felt that her mother's smile might have hidden a sliver of regret."
+            "Story": "母親の膝に座っている時、彼女は少し冷たい腕で自分を優しく包み込んでくれる。それが少女に何とも言えない安心感を与えるのだ。母親は深く穏やかな声で、少女に遥か昔の民話を語り聞かせてくれた——その物語の結末は円満とは言えないが、少女はとても気に入っている。母親はとっくに彼女の好みを把握していた。円満に終わる童話は少女を退屈にさせるだけで、考えることを止めさせてしまう。そうなれば、彼女はすぐに眠ってしまうのだ。<br><br><i>「お母様…どうしてグラト卿はキャサリンのように幸せに暮らせないのですか？」<br>「彼に幸せになって欲しいのか、ブローニャ？」<br>「グラト卿は善良な人です。善良な人は幸せな生活を送るべきです」</i><br><br>その会話はそこで終わったが、彼女は母親が優しく笑ったことを覚えている。数年後、あのクリフォト城での暖かい午後を思い出して、彼女は当時の母親の笑顔には、無念という感情が隠されていたのかもしれないと思った。"
         },
         {
             "_id": 4,
-            "Story": "From the moment she donned her Silvermane Guard armor, she was already prepared. But the first funeral she ever attended was still far more heavy than she could ever have imagined.<br><br>It was her first time leading a campaign. In the northern ruins, the Silvermane Guards and Fragmentum monsters engaged in brutal combat. She led a crack squad of about a dozen soldiers deep behind enemy lines, fighting bravely until they ran out of ammo and food. As they made their way to the evac point, the terrifying Fragmentum creatures ambushed her — but the fatal attack was blocked by a brave private at the cost of his life. She didn't even have the time to see the face of her savior.<br><br>The prolonged wail of the funeral horn rang out. The young captain saw her grief, and came to her side.<br><br><i>\"The coffin's empty. I couldn't even manage to bring him back to Belobog...\"<br>\"Don't blame yourself, Miss Bronya. For you and the city... everyone here is willing to make the same sacrifice.\"<br>\"...I really wish I could swap places with him.\"<br>\"Learning to bear these heavy burdens is the only way to become a true leader.\"</i>"
+            "Story": "シルバーメインの制服を着た瞬間から、少女は一切の覚悟を決めた。しかし、彼女が初めて出席した葬儀は、想像を遥かに超える重々しいものだった。<br><br>それは彼女が初めて軍を率いた時のことであった。北方の廃墟の中で、シルバーメインと裂界の造物は残酷な殺し合いを行った。少女は数十名の兵士を率いて、武器も食糧も尽きるまで孤軍奮闘した。緊急避難の道中、恐ろしい裂界の幻影が彼女に突然襲い掛かった——致命的な攻撃は1人の兵士が身を挺して遮ってくれたが、彼女は命の恩人の顔を見る余裕もなかった。<br><br>葬儀のラッパが響き渡る。若い戍衛官は少女の悲しみを見て取り、彼女の傍に近づいた。<br><br><i>「棺には何も入っていない。彼をベロブルグに連れ帰る余裕もなかった……」<br>「ご自分を責める必要はありません。あなたのために、この都市のために、誰もが同じように犠牲になる覚悟を持っているのですから」<br>「…私が彼の代わりになれたら、どんなによかったか……」<br>「そのような重々しい考えを呑み込むことを学ぶのも、リーダーになるために必要なことでしょう」</i>"
         },
         {
             "_id": 5,
-            "Story": "The woman paces back and forth in the room, and a door separates her from the throngs of people. She is already very familiar with giving this kind of speeches, but the anxiety of the wait never abated despite the refinement of her oratory skills. Thinking back on the promise she is about to make and the words of consolation she'd crafted, she sinks into a child-like state of confusion and disbelief during those brief minutes.<br><br>A sudden breeze stirs the stale air in the room, brushing through her long hair. She turns around to see a familiar figure walking toward her — with delicate, quiet steps like a kaleidoscope of butterflies fluttering through the lifeless hall.<br><br><i>\"Over-thinking things again?\"</i><br><br>The woman looking like a butterfly asks, with a teasing smile on her face. She replies with an exasperation grin.<br><br><i>\"Same as always, you know — I'm nervous beforehand, but can play to my audience once on stage.\"<br>\"Hey, don't screw this up. Those old fossils want to play politics, and they're just waiting for an opportunity for you to slip up.\"<br>\"Haha... Then I'll have to ask you to keep an eye on them for me.\"<br>\"Hey, looks like time is up.\"</i><br><br>The dull sound of gears gnashing and turning echoes in the hall. She cast one last look back at the person beside her — who retreats into the shadows with a nod and a trusting smile.<br><br>The door creaks open and a beam of warm light shot into the hall, lighting up her face. What follows are deafening applause and cheers.<br><br><i>\"Let's go, Bronya.\"</i>"
+            "Story": "少女は部屋の中を行ったり来たりしている。強固な門が彼女と大勢の市民の間を隔てていた。彼女はこうしたスピーチには慣れていたが、どれだけ技術が向上しようと待ち時間の不安が消えることはない。これから自分が交わす約束や、人々の心を慰めるために丹精込めて考えた言葉を思い浮かべながら、ほんの数分の間、彼女は子供時代と同じ混乱と疑惑に陥った。<br><br>突然の風が室内の淀んだ空気を動かし、彼女の長い髪を揺らした。少女が振り返ると、見慣れた姿がこちらに向かって歩いてきた——彼女の足取りは軽く静かで、まるで色とりどりの蝶の群れのように、重苦しいホールの雰囲気を変えていく。<br><br><i>「また余計なこと考えてるんでしょ？」</i><br><br>蝶のような少女が意地の悪い笑顔で尋ねた。それに対して、彼女は何とも言えない笑みを浮かべる。<br><br><i>「いつものこと。あなたも知っているでしょう——事前に緊張しておけば、本番で実力を発揮できるって」<br>「ふっ、ドジしないでよね。最近は骨董品たちが何か企んでるみたいだけど、アンタの弱みが掴めないって悩んでたわ」<br>「ふふ…じゃあ、あなたに彼らの面倒を見てもらわないと」<br>「あ、そろそろ時間ね。ほら」</i><br><br>歯車が噛み合い、回転する鈍い音がホールに響く。少女は最後に傍にいる人を一瞥した——彼女は影の中に下がって、信頼を湛えた笑顔で頷いた。<br><br>門がゆっくりと開いていく。暖かい光がホールに射し込み、彼女の顔を照らした。次いで、耳をつんざくような歓声と拍手が聞こえてくる——<br><br><i>「行ってきなさい、ブローニャ」</i>"
         }
     ]
 }
@@ -486,196 +486,196 @@ var _story_ = {
 var _voice_ = {
     "1101": [
         {
-            "Title": "First Meeting",
-            "Voice": "My name is Bronya Rand, heir to Belobog's supreme guardian and acting commander of the Silvermane... Apologies, I'm used to introducing myself like that — you can call me Bronya."
+            "Title": "初対面",
+            "Voice": "私はベロブルグ「大守護者」の後継者、シルバーメインのリーダー、ブローニャ・ランドである…今のは格式を重んじた自己紹介に過ぎない。私のことはブローニャと呼べばいい。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "I had a nightmare last night... S—Sorry, I'm not fully awake yet."
+            "Title": "挨拶",
+            "Voice": "昨晩、悪夢を見た…ご、ごめんなさい。まだ少し眠いみたい。"
         },
         {
-            "Title": "Parting",
-            "Voice": "I'd like to walk around a bit more... Don't worry, I won't go far. See you tomorrow."
+            "Title": "お別れ",
+            "Voice": "もう少し散歩してもいい？…遠くまではいかないから、心配しないで。また明日。"
         },
         {
-            "Title": "About Self",
-            "Voice": "Sometimes I feel like I don't represent myself... that I'm a symbol in human form, and anyone could have been given the title of \"heir to the supreme guardian.\" I don't know where the feeling comes from, but I hope it doesn't become the truth."
+            "Title": "自分について",
+            "Voice": "時々、自分が自分ではなく、ある種のシンボルだと錯覚することがある——「大守護者」を継承するのは、他の人間でも問題ない。そんな風に考えるの。この気持ちがどこから来るのかわからないけど、このままではいけないと思う。"
         },
         {
-            "Title": "Chat: The Architects",
-            "Voice": "The Architects built us a fortress to keep the blizzards at bay, but we must never forget that those blizzards are still on the horizon."
+            "Title": "世間話・建創者",
+            "Voice": "建創者は城壁を築き、私たちから吹雪を遠ざけた。でも私たちは、吹雪がまだ吹き荒れていることを決して忘れてはならない。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "The faint singing that emanates from Golden Theater, the sound of hurried footsteps in the early morning, the night-time tranquility of Qlipoth Fort... I know they might seem contradictory, but I like all of them."
+            "Title": "趣味",
+            "Voice": "黄金シアターから微かに聞こえる歌声。早朝に響く慌ただしい人々の足音。夜の静かなクリフォト城。少し矛盾しているかもしれないけど、全部好ましいと思ってる。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "You have to suppress your anger during an interrogation, or you might find yourself using... indelicate vocabulary."
+            "Title": "悩み事",
+            "Voice": "悪を裁く時は、怒りを抑えて失言しないようにしている場合が多い。"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "When you've been on the front line for a while, you start to get an overwhelming urge to return to the guardian's residence and rest. But then as soon as you're lying in bed, all your worries about the front line come to the fore... Perhaps that's the \"responsibility\" that mother used to talk about."
+            "Title": "シェア",
+            "Voice": "前線で過ごす時間が長くなると、官邸でゆっくり休みたい願望が強くなる。でも、いざ官邸のベッドで横になると、前線の状況が心配になる…これがお母様が言う「責任」というもの？"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "I heard the Solwarm Festival was first established to celebrate the arrival of spring, but Belobog citizens these days just see it as a few days off... I want to bring the original meaning back again."
+            "Title": "見聞",
+            "Voice": "「太陽の日」は春分を祝うための祭日だった。でも、今のベロブルグの人々にとっては、ただの休暇に過ぎない…私は「太陽の日」の本来の意味を取り戻したいと思っている。"
         },
         {
-            "Title": "About Gepard",
-            "Voice": "Captain Gepard...? I think he could accurately be described as Belobog's iron wall. In this city, it's more difficult to defend than go on the offensive."
+            "Title": "ジェパードについて",
+            "Voice": "ジェパード戍衛官…彼は、ベロブルグの鉄壁と表現しても過言ではないと思う。ここでは、「守る」ことは「攻める」ことより遥かに難しい。"
         },
         {
-            "Title": "About Serval",
-            "Voice": "I remember I'd be there when mother and the rest of them would convene, and Serval would always patiently answer any questions I had... *sigh* I'm starting to feel like that was a long, long time ago."
+            "Title": "セーバルについて",
+            "Voice": "昔の話だけれど、お母様たちが会議を行う際は、私も出席を許されていたの。セーバルさんはいつも、私の疑問に対して丁寧に答えてくれた…あの日々はもう、遥か遠くの出来事のように思える。"
         },
         {
-            "Title": "About Pela",
-            "Voice": "Whenever I praise her, she does her utmost to keep a straight face and hide any trace of happiness she might be feeling... I can tell, because I've practiced the same thing."
+            "Title": "ペラについて",
+            "Voice": "彼女は私から褒められるたびに、必死に嬉しさを表情に出さないようにしている…理解出来て当然でしょ？私も同じような練習をしたことがあるもの。"
         },
         {
-            "Title": "About Cocolia",
-            "Voice": "I have deep respect for my mother, but she's no longer how I remember her. Perhaps I never realized who she truly was..."
+            "Title": "カカリアについて",
+            "Voice": "私はお母様を尊敬している。ただ、私の記憶にあるお母様とは違っていて……あるいは、私が勝手にお母様の姿を作り上げていたのかもしれない……"
         },
         {
-            "Title": "About Seele",
-            "Voice": "Our first encounter may have been a bit of a disaster, but it was also the start of a new future... Haha, if Seele heard this she'd probably say I was giving one of my Overworld princess speeches."
+            "Title": "ゼーレについて",
+            "Voice": "あの出会いは本来ならばある種の災難だったのかもしれないけど、新しい未来の始まりとなった…ゼーレに聞かれたら、また道理を説いていると言われるかもしれない。"
         },
         {
-            "Title": "About Lynx",
-            "Voice": "The third child of the Landau family, right? I've heard Gepard mention her before, but I've yet to meet her. From what I've heard, \"Lynxy\" — as they call her — is very smart for her age."
+            "Title": "リンクスについて",
+            "Voice": "ランドゥー家の末っ子…でしょ？ジェパードから話は聞いたことある。でも、まだ直接会ったことはない。彼の話だと、「リンたん」はずば抜けて聡明な子だとか。"
         },
         {
-            "Title": "About Topaz",
-            "Voice": "I'm sure Jarilo-VI won't be the only planet to have IPC visitors, but I bet not all of them will have a visitor like Topaz..."
+            "Title": "トパーズについて",
+            "Voice": "多くの星がヤリーロ-VIと同じような境遇に陥っている。でも、そこにやってくるカンパニーの代表が、みんなトパーズさんのような人だとは限らない……"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "The future of Belobog shines bright."
+            "Title": "星魂覚醒",
+            "Voice": "灯されたのは、ベロブルグの未来でもある。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Feeling good. I must stay focused."
+            "Title": "キャラクター昇格",
+            "Voice": "いい感じ、もっと集中しないと。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Thank you... I will stand firm for my people."
+            "Title": "レベルMax",
+            "Voice": "ありがとう…これまでにない強い信念を感じる。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "A brilliant strategy."
+            "Title": "軌跡覚醒",
+            "Voice": "いい戦略。"
         },
         {
-            "Title": "Added to Team With Seele",
-            "Voice": "No showing off, Seele! Listen to my orders."
+            "Title": "パーティ編成・ゼーレ",
+            "Voice": "ゼーレ、無理しないで、私の指揮に従って。"
         },
         {
-            "Title": "Added to Team With Pela",
-            "Voice": "I'll be needing a combat report, Pela."
+            "Title": "パーティ編成・ペラ",
+            "Voice": "ペラ、戦闘情報の整理をお願い。"
         },
         {
-            "Title": "Added to Team With Gepard",
-            "Voice": "Bring us another victory, Captain."
+            "Title": "パーティ編成・ジェパード",
+            "Voice": "今回も勝利を収めましょう、戍衛官。"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "I appreciate the help of the Astral Express."
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "星穹列車の支援に感謝を。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "There's always a weakness."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "どんな隙も見逃さないように。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Powerful enemy, time to change tactics."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "強敵ね、速やかに作戦を調整しなきゃ。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "This battle is unavoidable."
+            "Title": "ターン・1",
+            "Voice": "これは、避けられない一戦。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "You'll pay for this."
+            "Title": "ターン・2",
+            "Voice": "代価を払ってもらう。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "A decisive moment in the battle."
+            "Title": "戦闘中待機",
+            "Voice": "戦局を決める重要な一歩。"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Evildoer."
+            "Title": "通常攻撃",
+            "Voice": "悪党風情が。"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "The time is now. Lend me your strength!"
+            "Title": "戦闘スキル・1",
+            "Voice": "機は熟した、我に力を！"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "It's now or never. Fight with me!"
+            "Title": "戦闘スキル・2",
+            "Voice": "機は熟した、我と共に戦え！"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "How troublesome."
+            "Title": "攻撃を受ける",
+            "Voice": "厄介な連中。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "I mustn't fall..."
+            "Title": "重撃を受ける",
+            "Voice": "倒れるわけには……"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "We've entered the storm."
+            "Title": "必殺技・アクティブ",
+            "Voice": "我々は疾うに嵐に踏み入った。"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "To guard and defend, crush them!"
+            "Title": "必殺技・発動",
+            "Voice": "守るべきもののために、敵を打ち崩せ！"
         },
         {
-            "Title": "Downed",
-            "Voice": "We must... protect..."
+            "Title": "戦闘不能",
+            "Voice": "守り…抜かなければ…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "I won't waste this chance."
+            "Title": "戦闘に戻る",
+            "Voice": "この機を逃さない。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Your assistance is timely."
+            "Title": "HP回復",
+            "Voice": "適切な援助だった。"
         },
         {
-            "Title": "Technique",
-            "Voice": "Show your courage."
+            "Title": "秘技",
+            "Voice": "気迫を示せ。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "We shall take back what we lost."
+            "Title": "戦闘勝利",
+            "Voice": "我々が失ったものを、すべて取り戻す。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Ample supplies."
+            "Title": "戦利品を開ける・1",
+            "Voice": "補給は十分ね。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "This will keep us well-stocked."
+            "Title": "戦利品を開ける・2",
+            "Voice": "備えあれば憂いなし。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "First-rate supplies."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "この資源、悪くない。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "The design is exquisite."
+            "Title": "謎解きに成功・1",
+            "Voice": "精巧な仕掛けね。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Well done."
+            "Title": "謎解きに成功・2",
+            "Voice": "ええ、お疲れ様。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "The enemy situation has changed."
+            "Title": "敵ターゲット発見",
+            "Voice": "形勢に注意して。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "If there's nothing pressing, let's take a walk."
+            "Title": "町に戻る",
+            "Voice": "久々の余暇だし、散策しましょう。"
         }
     ]
 }

@@ -1161,23 +1161,23 @@ var _story_ = {
     "1307": [
         {
             "_id": 1,
-            "Story": "A Memokeeper of the Garden of Recollection. A mysterious and elegant soothsayer.<br>She often wears a warm smile and is willing to patiently listen to the words of others, thus using such means as a pretext to enter \"memories\" and gain omniscience over certain matters.<br>A lady passionate about collecting unique memories, yet the thoughts that guide her are hard to glean."
+            "Story": "「ガーデン・オブ・リコレクション」のメモキーパー。謎めいた雰囲気の優雅な占い師。<br>常に優しい微笑みを浮かべ、相手の言葉に辛抱強く耳を傾けることでその人の「記憶」に入り込み、全ての情報を把握する。<br>唯一無二の記憶を集めることに夢中になっているが、その真意は見通せない。"
         },
         {
             "_id": 2,
-            "Story": "<i>\"She's quite an unusual kid, and I could sense it from the day she was born. It felt like nature itself was celebrating her arrival: The birds chirped, the moon and sun were together in the sky. The cards in my hand seemed to hint at the emergence of a soul steeped in nostalgia. Right from her early years, she had a fascination with stories from the past. She would delve deep into contemplating our origins, our creators, and even the very beginning of the world. Her questions would leave even the most erudite scholars scratching their heads. Sure, some other kids might poke fun at her for asking such deep questions, but aren't those questions important? Life is akin to a winding labyrinth, where memories serve as our sole companions.\"</i><br><align=\"right\"> — A mother's memories</align><br><br>Afflicted with amnesia, her mother struggled with forgetfulness, making it difficult for her to recognize her family or recall recent events.<br>Clutching the diagnosis of amnesia, she held her mother tightly, attempting to read aloud from the latter's diary. Her mother was physically present, but where was she in the realm of consciousness?<br><br>She stayed by her mother's side until the end of her life, realizing that her mother had been fading away as her memories became fragmented. If her own memories of her mother were to ever become blurred as well, her mother would completely slip away from her.<br><br><i>\"Life is akin to a winding labyrinth, where memories serve as our sole companions.\"</i> For the first time, she comprehended the profound meaning behind these words."
+            "Story": "<i>「あの子は不思議な子だったの。そのことはずっと早くから分かっていたわ。あの子が生まれた日は、ヒバリが鳴いていて、月の淡い影と朝日が一緒になっている空が見えたわ。手の中のカードには過去を懐かしむ魂がこの世にやってくると書かれていた。そして小さい頃から、過去の物語を知ることに一番興味があったわ。私たちは誰に作られどこから来たのか、この世界がどのように生まれたのか。あんな質問、どんなに博学な人でも答えるのは大変でしょうね。あの子は周りの子供たちによく笑われていたけど、とても重要な質問じゃないかしら？生命は1つの迷宮、記憶以外私たちには何もないのよ」</i><br><align=\"right\">——ある母親の記憶</align><br><br>認知症を患った母は物忘れが多くなり、家族を見分けることができず、少し前に起きたことも思い出せなくなった。<br>彼女は診断書を手に、戸惑う母をしっかりと抱きしめながら、日記をもう一度読み聞かせようとした——母は確かにそこにいた、けれど、本当はどこにいたのだろうか。<br><br>彼女は母に、その最期まで付き添った。しかし母の記憶が支離滅裂になったあの日から、母自身の存在も曖昧となっていることに気付いていた。いつか彼女の記憶も支離滅裂なものになってしまったとき…母は、完全に彼女のもとからいなくなってしまうだろう。<br><br><i>「生命は1つの迷宮、記憶以外私たちには何もない」</i>この言葉の意味が、初めて分かった。"
         },
         {
             "_id": 3,
-            "Story": "<i>\"I arrived on this planet as an explorer. My usual tasks involved observing the flow of rivers, examining the materials of the city's bricks and tiles, analyzing the steepness of roads, and documenting the number and distribution of chimneys... These duties aligned with people's imagination of preserving a planet's 'memories.'\"<br><br>— However, such efforts were far from sufficient.<br><br>Once I started working in secrecy, I would often come across that girl. Sometimes, sunlight would dance through the leaves as she walked beneath them, disappearing around corners once the street lamps illuminated the surroundings. On other occasions, her gaze would follow a carrier pigeon, which left the High Priest's quarters every Wednesday night, only to return the following morning to the palace's chief of the guards — a known political adversary of the High Priest. Occasionally, she would quietly observe rain trickling into sewers scarred by artillery fired from the opposite shore. And sometimes, waves would dampen her skirts, while an elderly woman washing clothes by the river recounted the story of the previous sovereign and his five illegitimate children.<br><br>— Few individuals, apart from us, understand that a planet conceals and safeguards its \"memories\" in such a manner.<br><br>I trailed behind her until we reached a rock on the moor. I knew that it was the time to invite her.<br><br>\"What do you see?\" I asked, in a form visible to her.<br>She pointed at a patch of weeds and the lingering traces.<br>\"I see a stone, perhaps once part of a fireplace... But it must hold more significance.\"<br>I nodded and assisted her in removing the weeds and dirt from the crevices of the stone.<br>\"It was once a monument,\" she murmured, gently caressing the engravings adorning its surface.<br>\"Indeed, but the 'memory' holds more significance.\"<br><br>Thus, I revealed to her that the stone on the moor had once served as a fireplace, a monument before that, a flowerbed, and even an altar... And before all that, it had simply been a stone on the moor.<br><br>\"What price would I pay if I want to witness those 'memories'?\"<br>\"People will remain oblivious to your presence unless you are willing to reveal yourself.\"<br>\"Just as people fail to acknowledge the existence of black swans until they encounter one?\"<br>\"Yes, just like that.\"</i><br><br><align=\"right\">— An {RUBY_B#Memokeeper}Explorer's{RUBY_E#} memories</align><br><br>Memokeepers travel to numerous planets, collecting the memories of each city they encounter. They are careful not to leave any trace of their presence, ensuring that nobody remembers them, unless they come across someone with the potential to become a Memokeeper, whom they then take away from the city into the vast expanse of the stars."
+            "Story": "<i>「探検家としてこの星にやってきて、ずっと川の流れる方向や街のレンガの材質、一番急な坂の傾き、煙突の数と分布なんかを調べていた…こういう仕事は星の「記憶」を保存したいという人々の想像と一致している。<br><br>——でも、それだけでは足りない。<br><br>僕が本格的に仕事を始めてから、あの女の子を頻繁に見かけるようになった。ある時は陽光が木の葉を掠めて彼女の姿を追いかけるも、最後は街灯に照らされた角を曲がると消えていった。またある時は、毎週水曜の夕方に大祭司の住む城を出る伝書鳩を追いかけ、翌日の夜明けに政敵と知られている衛兵長のところに戻ってくる。対岸から発射された大砲の傷跡が残る下水道に、雨水が滴るのをじっと観察していた時もある。時には川で洗濯をしていた老婦人が、前の権力者とその五人の隠し子たちについて一人語っている間に、水しぶきでスカートを濡らしていることもあった。<br><br>——星がこんな風に「記憶」を隠していることを知っている人は、僕たちを除いてほとんどいない。<br><br>僕は彼女を荒野の岩の前まで追いかけ、そろそろ声をかける時だと思った。<br><br>『何が見えたんだ？』彼女に見える姿になって聞いた。<br>彼女は雑草が生えている所を指さして、磨かれた跡が見えると言った。<br>『石が一個、前は暖炉の一部だったんだと思う…でもそれだけじゃないみたい』<br>僕はうなずいて、岩の隙間にある雑草と土を取り除くのを手伝った。<br>『記念碑でもあったのね』石に刻まれた文字を指でなぞりながら言った。<br>『そうだよ。でも「記憶」はこれだけじゃない』<br><br>そして彼女に見せてあげた。荒野の石はかつて暖炉であり、その前は記念碑であり、花壇であり、祭壇でもあった…そしてさらにもっと前には、やはり荒野の岩だったということを。<br><br>『こういう「記憶」を見るためには、どんな対価が必要なの？』<br>『あなたが姿を現わすまで、誰もあなたの存在を知らなかった』<br>『黒鳥を見るまで、白鳥は白しかいないと思われていたように？』<br>『そんな感じ』」</i><br><br><align=\"right\">——ある{RUBY_B#メモキーパー}探検家{RUBY_E#}の記憶</align><br><br>メモキーパーは多くの星を行き来し、街に記憶されないために自分の痕跡は決して残さないよう、街のあちこちで記憶を掘り起こしている。そして、メモキーパーの資質を備えた人に出会うと街の記憶から連れ出して、より広い世界へと誘うのだ。"
         },
         {
             "_id": 4,
-            "Story": "<i>Many individuals obsess over the glory of the past and aspire to become Memokeepers, longing to live within their memories. Such individuals often degenerate into unbridled Cremators, distorting memories to suit their preferences. However, she is different... I've sensed her unwavering determination and profound respect for memories themselves. Following tradition, I asked her three questions before making her a Memokeeper.<br><br>\"Will you dedicate your whole life to the collection of memories?\"<br>\"I will.\"<br>\"Will you relinquish your physical form and embrace the transformation of self?\"<br>\"I will.\"<br>\"If one day you cease to exist, what legacy will you leave behind for the world?\"<br>\"My memories. They hold seeds from the past, destined for rebirth into the future.\"<br><br>Memories come in various forms. Some are trivial and heartwarming, while others are grand and expansive. Some are gentle and meek, while others are wild and untamed... When she became a Memokeeper, her memories became tranquil and serene, like the calm waves that finally found their destined harbor.</i><br><align=\"right\">— A Memokeeper's memories</align><br><br><i>\"What comes to your mind?\"</i> The Memokeeper asked.<br>As she opened her eyes, fragments of memories swirled around her.<br><i>\"People tend to believe they are facing the present and the future, yet fail to realize that we are all, in fact, moving toward the past.\"</i>"
+            "Story": "<i>「多くの人は、過去の美しい思い出に浸って生きたいがためにメモキーパーを志す。けど残念なことに、そういう人たちは欲望に負けて焼却人となり、好き勝手に記憶を変えてしてしまう。でも彼女は違った…記憶そのものに対する敬意と、強い決意を感じたんだ。だからお決まりのように三つの質問をすると、彼女はこう答えた。<br><br>『記憶を集めることに自分の人生を費やしてもいいか？』<br>『はい』<br>『そのために自分の肉体を捨て、姿を変えることを受け入れられるか？』<br>『はい』<br>『もしある日、自分が存在しなくなったら、世界に何を残すか？』<br>『私の記憶です。そこには未来に生まれ変わる過去の種があります』<br><br>小さくて温かい記憶、果てしなく大きい記憶、ペットのように飼いならされた記憶、猛獣のようにコントロールできない記憶…彼女がメモキーパーになったその時、彼女の記憶は静かで穏やかになった。まるで荒れ狂う波が、自分の港を見つけたように」</i><br><align=\"right\">——あるメモキーパーの記憶</align><br><br><i>「何を思いだしたのかしら？」</i>メモキーパーが尋ねた。<br>彼女が目を開けると、記憶のかけらが舞い上がる。<br><i>「人々は現在から未来に向かっていると思い込んでいるけど、実際は過去に向かっていると誰も気が付いていない」</i>"
         },
         {
             "_id": 5,
-            "Story": "<i>Location: Penacony<br>Date: ██/██/██<br>Guests: ██, ██, ██, and ██<br>\"A sorrowful memory from ██. This opulent memory, adorned with ostentation and longing, conceals an unknown sadness that will linger for years, influencing its owner for an extended period.\"<br>\"A joyous memory from ██. This dramatic memory is filled with vibrant hues of joy, confusion, and humor, but it can hardly be called true happiness. Such is the future it portrays.\"<br>\"A regrettable memory from ██. The fleeting happiness in this memory is beautiful yet short-lived, like a shooting spark from faded ashes. Cherish your limited moment, dear guest, for it informs me that it shall soon vanish.\"<br>\"A vague memory from ██. This memory is faint, chaotic, and disorienting, akin to an endless downpour with no respite in sight. I yearn to capture the future it points to, whether it be filled with rain or sunshine...\"</i><br><align=\"right\">— Black Swan's memories</align><br><br><i>\"I saw the figure of a woman, gracefully leaping and transforming amidst images and patterns. No... I'm not crazy, I did indeed see 'her.' I remember her voice, its velvety texture, and the colorful cards in her hands, imbued with some sort of magic... Oh, and she invited me to partake in fortune-telling. She said, 'Whether you want to foresee happiness or misfortune in the future, retrieve lost possessions, or seek unexpected gains... All I need is an honest story, for the past and the future are overlapped on the same point of a single circle.' My head spun, and she exuded such gentleness. I talked so much to her, and she patiently listened to my ramblings... And then, following her divination results, I retrieved a lost mirror for a guest of the hotel! Oh, you asked what I said to her? Oh, nothing important... Just some rumors about the past...\"</i><br><align=\"right\">— A native Penacony resident's memories</align><br><br>Currently, she journeys through various realms as a diviner, uncovering memories intertwined with her Path and Aeons. She believes that those memories are as enduring as gems, impervious to the eroding forces of oblivion.<br><br><i>\"Numerous Memokeepers have ventured to Penacony, only to discover it as a mere illusory mirage dancing upon the water's surface.\"<br>\"However, dreams... They represent a distorted form of memories. I shall delve into its depths and catch a fleeting glimpse of the buried memories before those Memosnatchers and Cremators arrive.\"</i>"
+            "Story": "<i>「場所：ピノコニー<br>時間：██年██月██日<br>お客様：██、██、██、██<br>『悲しい記憶、██より。この金色に輝く記憶は誇張と憧憬に満ちている。この先何年も悲しみを隠し、持ち主に影響を与え続ける運命にある』<br>『楽しい記憶、██より。この劇的な思い出は美しい色彩をまとい、喜び、混乱、滑稽をも含んでいる――しかし幸福とは言いがたく、その示す未来もまたしかり』<br>『残念な記憶、██より。つかの間の幸せな思い出は、死の炎から飛び出した流星のように美しく、瞬く間に消えた。うたかたの時を楽しむべきだ、楽しい時はすぐに過ぎ去るのだからと教えてくれた』 <br>『ぼんやりとした記憶、██より。このおぼろげな記憶は混沌としていて、終わりの見えない冷たい雨のよう。私はその指し示す明日を知りたい。それが雨だろうと、晴れだろうと……』」</i><br><align=\"right\">——ブラックスワンの記憶</align><br><br><i>「女の人の姿が見えた、映像と絵の間で、形を変えながら跳びはねてたんだ。いや…おかしくなったんじゃない。確かに『彼女』を見たんだ。あの声…ベルベットのような質感で、いかにも魔力が宿ってそうな手の中にあった色鮮やかなカード…ああ、そうだ、占ってみないかと誘われたんだ。『占うのが幸運、災難、なくした物、予期せぬ収穫、何であろうと…私に必要なのは真実の物語だけ』だと——『過去と未来は元々同じ円周上の、同じ点に重なっているのだから』と…頭はぼんやりしてたが、彼女は本当に優しくて、いろんなことを話してくれた。こっちのくだらない話にも辛抱強く耳を傾けてくれた…それから占いどおり、ホテルの宿泊客用の鏡を見つけたんだ！彼女に何を話したかって？——大したことじゃない。過去の噂についてさ……」</i><br><align=\"right\">——あるピノコニーの住民の記憶</align><br><br>今では占い師として異なる世界を旅しながら、自身にまつわる運命や星神の記憶を探している。これらの記憶はダイヤモンドのように硬く、忘れられたとしても完全に消えることはないと信じている。<br><br><i>「たくさんのメモキーパーたちがピノコニーにやって来たけれど、何の収穫もなかったと言っていたわ。あれは水に浮かぶただの派手な夢だって」<br>「でも夢は…記憶が形を変えたものよ。メモスナッチャーや焼却人がまだ来ないうちに、何か残っていないか見に行くわ」</i>"
         }
     ]
 }
@@ -1185,196 +1185,204 @@ var _story_ = {
 var _voice_ = {
     "1307": [
         {
-            "Title": "First Meeting",
-            "Voice": "Trailblazer? Intriguing name. Hmm... and a fate that's quite elusive..."
+            "Title": "初対面",
+            "Voice": "{NICKNAME}、面白い名前。ふふ、あなた、簡単には見抜けない運命にあるのね。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "How's the journey been? If there's something weighing you down, let me do a little divination for you..."
+            "Title": "挨拶",
+            "Voice": "最近はどう？悩みがあるなら、私が占ってあげるわ…「選択」は定まったかしら？"
         },
         {
-            "Title": "Parting",
-            "Voice": "Fear not, unless I wipe away your memories, forgetting me is not an option~"
+            "Title": "お別れ",
+            "Voice": "心配しないで。私があなたの記憶を消さない限り、あなたが私を忘れることはないから。"
         },
         {
-            "Title": "About Self: Existence",
-            "Voice": "Mortals are bound to the perception of the tangible, failing to comprehend that it is the spirit and the spiritual that form the true essence of the cosmos. Through the grace of \"Fuli,\" we may shed our perishable forms and attain closeness to the true essence of being."
+            "Title": "自分について・存在",
+            "Voice": "物質しか見ることのできない凡人は、精神と魂こそが宇宙の本質であることを理解していない。「浮黎」の恩恵を受け、私たちは壊れやすい実体から抜け出し、真の存在に近づくことができるようになったの。"
         },
         {
-            "Title": "About Self: Wishes",
-            "Voice": "Recover those cherished recollections and enshrine them in a land of purity. In doing so, all will be preserved from true oblivion."
+            "Title": "自分について・願い",
+            "Voice": "貴重な記憶を掬い上げ、浄土の中に封じ込める。そうすれば、何事も真の意味で過ぎ去ることはなくなるわ。"
         },
         {
-            "Title": "Chat: Divination Methods",
-            "Voice": "The dance of the stars, the silent whisper of numbers, the foretelling of cards... Mmm, I've heard that divination via app is all the rage these days. Yet, this is just a supplementary tool. To hear one's speech, to venture into their hearts, to glimpse their memories... that's where the most precise truths are revealed."
+            "Title": "世間話・占いの方法",
+            "Voice": "星の動き、数字の暗示、カードの予言…それから、最近はスマホ占いなんてものも流行っているようね。でも、これは全部補助的なもの。その人の言葉に耳を傾け、心の中に入り、記憶を覗き込んでこそ、本当に正確な結果が得られるの。"
         },
         {
-            "Title": "Chat: Light Cone",
-            "Voice": "Through the course of one's existence, only a scant number of impactful memories— pain, joy, rage, sorrow, can be harvested... The Garden of Recollection was conceived with the preservation of such memories in mind — yet it isn't immune to the corporation's endeavor to openly profit from it."
+            "Title": "世間話・光円錐",
+            "Voice": "力を持った記憶は、1人の人間の一生からほんの少ししか取り出せない。苦痛の記憶、喜びの記憶、怒りの記憶、悲しみの記憶…ガーデンは本来そういった記憶を残すことを目的としていたけれど、それに値段を付けるというカンパニーの企みから逃れることはできなかった。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "If I can identify and encapsulate a fragment of memory before it's unveiled to the world, those solitary moments of delight are my most favored and unique memories."
+            "Title": "趣味",
+            "Voice": "もし世間より先に記憶を感知、収集して、それを1人で観賞できたとしたら…その時間は、私が何より愛する唯一無二の思い出になるでしょう。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "It's undeniable, being without a physical body has its perks, but when moving through the world in the form of a memetic entity, the danger of forsaking one's \"self\" becomes apparent."
+            "Title": "悩み事",
+            "Voice": "肉体がないのは便利だけれど、「ミーム」として世の中を渡り歩いていると、どうしても「自我」を失うリスクが付き纏うのよね。"
         },
         {
-            "Title": "Sharing: Pure Land",
-            "Voice": "The most luminous and lavish memories are to be sheltered in the Pure Land of Recollection. In the tales whispered among the Memokeepers, \"Fuli\" will blend these recollections into the Eden of Blessed Insight, and they shall serve to reshape the entirety of the world after its annihilation."
+            "Title": "シェア・浄土",
+            "Voice": "最も絢爛な記憶は浄土に送られ保存される。メモキーパーの間に伝わる伝説では、「浮黎」はそうした記憶を{RUBY_B#ぜんけんてん}善見天{RUBY_E#}に織り込む…そして世界が滅びた後、それはすべてを再構築するためのテンプレートになると言われているの。"
         },
         {
-            "Title": "Sharing: Memetic Entity",
-            "Voice": "The day I became a memetic entity, I saw my own corporeal body dissolve, people's memories precipitating, crystallizing, and then shattering in the flow of time. They gleamed with such brilliance, as if they were crystals with boundless facets. It was in that moment I grasped, that everything is transient, but memories are eternal."
+            "Title": "シェア・ミーム",
+            "Voice": "「ミーム」になった日、私は自分の肉体が消え、人々の記憶が時間の中から析出され、沈殿して結晶になり、また砕ける様を見た。それは無数のカット面を持つクリスタルのように輝いていたわ。あの瞬間、私は理解したの。すべては過ぎ去るけれど、「記憶」は永遠に残るということをね。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "A few Memokeepers prefer to covertly penetrate others' thoughts capriciously reshaping their memories, but I harbor no liking for such deeds. Only the recollections that remain untouched by others carry true essence and are treasurable. Anything contrary is just the imposition of another's thought."
+            "Title": "見聞",
+            "Voice": "他人の頭の中に忍び込んで、勝手に記憶を改竄することを好むメモキーパーもいるけれど…私、そういうのは好きじゃないの。手を加えられていない記憶だけが真実であり貴重。そうでないものは、他人があなたの頭に差し込んだ思想に過ぎないわ。"
         },
         {
-            "Title": "About Trailblazer",
-            "Voice": "Perhaps, there will come a day when you'll willingly share your memories with me — I eagerly await such a time."
+            "Title": "{NICKNAME}について",
+            "Voice": "いつか、あなたは自分から私に記憶を共有してくれるかもしれない——その時が来ることを楽しみにしているわ。"
         },
         {
-            "Title": "About Acheron",
-            "Voice": "Avoid entering someone's past memories lightly, especially hers."
+            "Title": "黄泉について",
+            "Voice": "準備が整うまで、人の記憶には入らないほうがいい。特に彼女の記憶は、ね。"
         },
         {
-            "Title": "About Aventurine",
-            "Voice": "When exploring opportunities, one such as he, a gambler, will never reject your overtures. Gratify his whims, but also keep your defenses up."
+            "Title": "アベンチュリンについて",
+            "Voice": "チャンスを窺っている時、彼のようなギャンブラーは絶対にあなたの要求を断らない。好意に付け込むにしても、備えが必要よ。"
         },
         {
-            "Title": "About Sparkle",
-            "Voice": "Hmm, a fascinating young girl. She won't admit it, but I imagine she's always yearned to be noticed by others. Her mind is the most chaotic place I've ever witnessed, but it also possesses the strongest tool of all — intuition."
+            "Title": "花火について",
+            "Voice": "ふむ、面白い子ね。口には出さないけど、彼女は人に「見てほしい」と思っているみたい。彼女の心は私が見た中でも一番混沌としていたけど、強力な武器——直感を持っていたわ。"
         },
         {
-            "Title": "About March 7th",
-            "Voice": "Even if her past is a forgotten whisper, and she was once bewildered about her future, March's experiences will undoubtedly transform into unique memoria. It's exciting to think just what memories she might bestow upon the Garden of Recollection..."
+            "Title": "三月なのかについて",
+            "Voice": "過去を忘れ、未来に戸惑っていても、彼女の経験は唯一無二の憶質になるでしょうね。本当に楽しみだわ。その時が来たら、彼女はガーデンにどんな記憶を捧げるのかしら……"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "As fate dictates, dispersed memories begin to intertwine anew..."
+            "Title": "星魂覚醒",
+            "Voice": "散らばった記憶は、運命によって新たに繋がる。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "I recall some enchanting moments..."
+            "Title": "キャラクター昇格",
+            "Voice": "素晴らしい経験を思い出していたの。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Set forth, for countless memories shimmer in the distance..."
+            "Title": "レベルMax",
+            "Voice": "出発しましょう。遠くで多くの記憶が輝いている。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Grand tales stem from grand pasts..."
+            "Title": "軌跡覚醒",
+            "Voice": "偉大な物語は、偉大な過去から成る。"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "Rest assured, dear, I'll do all that I can to assist you."
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "お姉さんが助けてあげるわね。"
         },
         {
-            "Title": "Added to Team With Sparkle",
-            "Voice": "Little lady, make sure you don't go overboard this time."
+            "Title": "パーティ編成・花火",
+            "Voice": "夢中になり過ぎちゃだめよ。"
         },
         {
-            "Title": "Added to Team With March 7th",
-            "Voice": "What meaning does this journey hold for you?"
+            "Title": "パーティ編成・三月なのか",
+            "Voice": "今回の経験は、あなたにとってどんな意味があるの……？"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Destiny's course is becoming apparent."
+            "Title": "パーティ編成・黄泉",
+            "Voice": "今回はあなたに決めてもらいましょう…「あなた」はどんなダンスを踊りたい？"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Such an elusive foretelling..."
+            "Title": "パーティ編成・アベンチュリン",
+            "Voice": "今回は楽しく手を組みましょう。お互いに欲しいものを入手できるといいわね。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "The threads of destiny aren't chosen."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "定められた軌跡は顕現した。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "What would you like to know this time?"
+            "Title": "戦闘開始・危険予知",
+            "Voice": "紐解きがたい予言ね…"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Continue, or remain in the dark..."
+            "Title": "ターン・1",
+            "Voice": "運命は、選択ではない。"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Here, all yours."
+            "Title": "ターン・2",
+            "Voice": "今回は、私から何を知りたい？"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Again, the ill tidings manifest."
+            "Title": "戦闘中待機",
+            "Voice": "続けましょう？さもなくば答えは得られないもの。"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "The seal of ill fate descends!"
+            "Title": "通常攻撃",
+            "Voice": "ちゃんと、受け取ってね。"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Mind your manners."
+            "Title": "戦闘スキル・1",
+            "Voice": "凶兆よ、再び。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Retribution will find you!"
+            "Title": "戦闘スキル・2",
+            "Voice": "降臨せよ、災厄の誓い。"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Memories are ever-changing."
+            "Title": "攻撃を受ける",
+            "Voice": "礼儀がなってないわね。"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Beneath the silent waters lies an endless abyss."
+            "Title": "重撃を受ける",
+            "Voice": "償ってもらうわよ。"
         },
         {
-            "Title": "Downed",
-            "Voice": "Time's passage... is unkind..."
+            "Title": "必殺技・アクティブ",
+            "Voice": "記憶は移ろいゆく泡。"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Only memories remain eternal."
+            "Title": "必殺技・発動",
+            "Voice": "音のない水底で…終わりなき深淵を迎えなさい。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Destiny's hand has truly blessed me."
+            "Title": "戦闘不能",
+            "Voice": "巡り合わせが…よくないわ…"
         },
         {
-            "Title": "Technique",
-            "Voice": "Make a wish."
+            "Title": "戦闘に戻る",
+            "Voice": "記憶だけが、永遠に残る。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Another precious memory to hold onto."
+            "Title": "HP回復",
+            "Voice": "運命の導きに感謝を。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "A turn of fate."
+            "Title": "秘技",
+            "Voice": "願いましょう。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "A sincere heart prevails."
+            "Title": "戦闘勝利",
+            "Voice": "また大切な記憶が増えたわ。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Destiny gifts unexpected joys."
+            "Title": "戦利品を開ける・1",
+            "Voice": "いい運勢ね。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Exceptionally deciphered."
+            "Title": "戦利品を開ける・2",
+            "Voice": "願いが届いたみたい。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "The power of wisdom and memory..."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "運命の贈り物は、時に予想を超えるわね。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "A foreboding sign..."
+            "Title": "謎解きに成功・1",
+            "Voice": "すばらしい謎解きの手際だったわ。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "This place holds such fond memories... Care to reminisce?"
+            "Title": "謎解きに成功・2",
+            "Voice": "知恵と記憶の力…"
+        },
+        {
+            "Title": "敵ターゲット発見",
+            "Voice": "逆位置、不利ね…"
+        },
+        {
+            "Title": "町に戻る",
+            "Voice": "ここの過去はとても面白いの…どこかで、ゆっくり話さない？"
         }
     ]
 }

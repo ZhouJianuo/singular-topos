@@ -523,23 +523,23 @@ var _story_ = {
     "1210": [
         {
             "_id": 1,
-            "Story": "An outworlder who ended up residing on the Xianzhou by accident. She is now a passionate and vivacious street performer.<br>With her real name being Guinevere, Guinaifen is the Xianzhou name given to her by her good friend Sushang.<br>Faced with a whole new life on the Luofu and relying on her adoration of Xianzhou culture, Guinaifen quickly learned skills that would keep her clothed and fed — such as slurping noodles in a handstand, smashing slabs without harming the people it was placed upon, catching bullets with bare hands, and so on."
+            "Story": "인연이 닿아 선주에 머물고 있는 화외지민. 지금은 열정 넘치는 길거리 예술가다.<br>본명은 「귀네비어」고 「계네빈」은 친구인 소상이 지어준 선주 이름이다.<br>「나부」에서 새로운 삶을 마주한 계네빈은 선주 문화에 대한 사랑을 바탕으로 거꾸로 서서 국수 먹기, 가슴에 얹은 바위 깨기, 맨손으로 총알 받기 등 생계를 유지하기 위한 기술을 익혔다"
         },
         {
             "_id": 2,
-            "Story": "Hello~ Hello~ Can you hear me? Good evening fam! And welcome to Little Gui's stream~<br><br>Thank you BigFlowa_49886 for the super chat! \"Little Gui, you haven't streamed for more than half a month again. Are you not taking this seriously anymore?\" No way! I just have a lot going on IRL these days and yeah, I haven't streamed for quite a bit. I'm sowwy~ The stuff I ran into IRL is actually pretty fun. But that's a topic for another day.<br><br>As for today, just like what I wrote in the title of the stream, it's \"Music night! Little Gui singing Xianzhou folk songs!\"<br><br>Anyways, I feel stuff like acrobatics is better for offline stuff, so I'm gonna try streaming some folk music. Just testing the waters today~ If you like the stream, remember to LIKE, SUBSCRIBE, and SHARE! If you wanna send a gift or a super chat, you'll get to take part in the prize-draw for this stream!<br><br>Thank you MilkyPowderdurdar for the super chat! \"I love to watch everything you stream, Little Gui.\" Powderdurdar, you are the best! Don't you leave the stream until I'm done tonight! Mwah~!<br><br>*cough*... Lemme adjust the audio... One two three one two three pray on a tree... Alright! Now for some vocal exercises! I wrote all the lyrics for the doggerel tonight!<br><br>...<br><br><i>Long time no see, Aurum Alley glee. Changed so neat, what a feat!</i><br><i>Streets got fame, beauty is the same.</i><br><i>My neighbors be healthy, my friends be wealthy.</i><br><i>Here I am, my kuaiban clang, please check out my new song slam.</i><br><i>Gimme a cheer, and the coast gets clear. Toss me strales, and life never fails.</i><br><i>No time for gods and monsters, no talk of Reignbow Arbiters.</i><br><i>Only story here is the Little Gui, coming and going which way.</i><br><br>..."
+            "Story": "아~ 아~ 잘 들리시나요? 패밀리 여러분, 좋은 저녁이에요! 네비니의 라이브 방송에 오신 걸 환영합니다~<br><br>「꽃돌이_49886」 님의 댓글 감사합니다! 「네비니, 왜 또 보름이나 방송을 안 켜? 방송 접으려는 건 아니지?」 그럴 리가요! 네비니가 요새 좀 바빴어요. 근데 진짜 방송을 안 한 지 꽤 됐네요. 죄송해요~ 요새 참 재미있는 일이 많았는데, 기회 되면 들려드릴게요.<br><br>오늘은요, 방송 제목처럼——「민속 음악의 밤! 네비니가 선주의 민속 음악을 한 곡 뽑겠습니다!」<br><br>아무튼 요새 곡예는 방송보다 길거리에서 하는 게 더 알맞다는 생각이 들어요. 그래서 네비니는 민속 음악 방송을 해보기로 했어요. 오늘 이게 시험 방송인 셈이죠~ 마음에 드시면 구독과 공유 부탁드려요. 도네이션을 보내시면 방송 추첨에 참여하실 수 있답니다!<br><br>「괜찮아, 네비니가 뭘 하든 다 상관 없어」 「네빈빈빈」 님의 댓글 감사해요! 빈빈 님, 오랜만이에요~ 오늘 방송이 끝나기 전에 절대 나가면 안 돼요! 쪽~<br><br>아아… 사운드 좀 설정할게요…. 하나, 둘, 셋, 넷, 다섯… 됐습니다. 이제 목을 풀어야죠! 이번에는 네비니가 직접 작사한 장타령을 뽑아 볼게요~<br><br>……<br><br><i>이 금 조각상 거리, 참 오랜만입니다. 이곳은 뭐가 많이 달라졌군요.</i><br><i>확 달라진 것도 있고, 예전 그대로인 것도 있네요.</i><br><i>거리 이웃들은 다 건강하고, 다들 안색이 좋아요.</i><br><i>오늘 간만에 쾌판 소리가 경쾌하니, 다들 왕림해 주세요.</i><br><i>박수와 응원을 보내주시고, 순촉을 몇 개 던져주시면 시작해 볼게요.</i><br><i>오늘 공연은 신군이 적을 평정한 이야기도 아니고, 천궁이 멀드라실을 관통한 이야기도 아닙니다.</i><br><i>오늘은 이 금 조각상 거리의 아가씨, 네비니가 어디에서 왔는지 또 어디로 갈지에 대해 이야기해 볼게요</i><br><br>……"
         },
         {
             "_id": 3,
-            "Story": "As a child, Guinevere's entire world was the Lord Protector's mansion and the bustling streets before its doors.<br><br>Her teachers said that her family has a long and distinguished history, and even this mansion has stood for a few Amber Eras. However, time did not seem to leave any traces on its stones. As if it stood apart from the rules of time and space, it forever protected this family in eternal peace and joy.<br><br>Her father trained Guinevere's eldest brother, second-eldest brother, and eldest sister in politics. He wished to hand the future of this planet to one of the three. As for Guinevere and her younger siblings... He only wished they would have a quiet and happy life in this tranquil paradise.<br><br>Guinevere loved her father. He was as terrifying as a ridge-tailed python when facing his political enemies. Yet in her presence, he softened and became warm and cozy, like a big fuzzy mountain hare.<br><br>She remembered that her father would do anything for her. He would even willingly play the role of an earth spirit to be struck down by Guinevere, the heroine, at her birthday party. The birthday parties of upper-class children would often have the family's enemies turn up as well — However, her father didn't care at all about being a laughingstock for all the attendees. He was happy as long as she could be happy.<br><br>Then, Guinevere grew up a bit. She started to hear rumors — How her father made the king a puppet, persecuted the honest courtiers, and gluttonously gained riches... She was willing to believe that all these were lies spread by his enemies. However, she knew not all of them were lies.<br><br>Soon, however, these concerns ceased to matter.<br><br>Everything changed when the Antimatter Legion attacked. Her father led the army to protect the royal capital, refusing to back down. Guinevere fainted when she heard the news of his death. She was already sitting inside a space shuttle when she woke up again. Her younger siblings were sobbing next to her, while her eldest brother and eldest sister were bound tightly in ropes. Her second-eldest brother said to her in a despondent tone, \"Don't untie them just yet. They are still trying to go back.\"<br><br>Guinevere looked outside the window. Her mother was dressed in armor and had her back turned to the space shuttle slowly lifting off, taking command of servants who were still willing to fight. Further away, the Voidrangers were tearing apart the Lord Protector's mansion. Even further, entire streets were on fire, with charred corpses scattered everywhere like heaps of soil.<br><br>For little Guinevere, it was like her entire world had been erased from the cosmos.<br><br>...<br><br><i>My home world, Court Camelot. My siblings, a dozen lot.</i><br><i>Our days, peace and joy to boot. Until Ruin Author led woes afoot.</i><br><i>Nation breached, arms they took. Legion marched, defiant we stood.</i><br><i>We siblings escaped without a root, into an IPC mine all covered in soot.</i><br><i>Meager scraps are what we fetch, homeless and foodless at a stretch.</i><br><i>Eldest brother, timid once was. Back-breaking work, to piracy he was forced.</i><br><i>Mercantile he waylaid, genteel he relayed. Hero among bandits, loots for people's benefits.</i><br><i>Hundreds of poor he led, us siblings he fed.</i><br><br>..."
+            "Story": "어린 귀네비어에게는 호국공 저택과 그 앞 번화가가 세상의 전부였다.<br><br>선생님들은 그녀의 가문이 유서 깊은 명문가이며, 저택도 수 앰버기원의 역사를 간직하고 있다고 했다. 하지만 세월은 저택에 아무런 흔적을 남기지 않았고, 시간의 법칙에서 독립적으로 존재하여, 이 가족을 영원한 평온과 아름다움 속에 지키고 있는 것만 같았다.<br><br>아버지는 그녀의 큰오빠와 둘째 오빠, 큰언니에게 정치 수업을 들으라고 요구했다. 아버지는 이 아이 중 한 명에게 행성의 미래를 맡기고 싶어 했고, 귀네비어와 나머지 아이들은… 이 평화로운 낙원에서 안락하고 행복한 일생을 보내길 바랐다.<br><br>귀네비어는 아버지를 사랑했다. 정적 앞에서 그는 가시꼬리뱀처럼 두려운 존재였지만, 딸 앞에서 그는 거대하고 따뜻한 산토끼 같았다.<br><br>그녀가 기억하길, 아버지는 그녀를 위해 그 어떤 일도 마다하지 않았다. 그녀의 성대한 생일 연회에서 영웅 귀네비어에게 죽임을 당하는 정령 역할까지 했다. 이런 권신 가문 자제의 생일 연회에는 정적들도 참석하기 마련이다——그녀를 기쁘게 해주기 위해 아버지는 웃음거리가 되는 일 따위는 전혀 개의치 않았다.<br><br>조금 자라고 나서 귀네비어는 이런저런 소문을 듣게 됐다——아버지가 왕을 꼭두각시로 만들고, 충신들을 모해하고 탐욕스럽기 그지없다는…. 그녀는 이런 소문은 정적들이 지어낸 거짓말이라 믿고 싶었지만, 모든 소문이 거짓은 아니라는 것을 알았다.<br><br>그러나 머지않아, 이 모든 건 중요하지 않게 됐다.<br><br>반물질 군단의 대대적인 침입에 아버지는 군을 이끌고 수도를 지키며 한 치도 물러서지 않았다. 아버지의 부고가 날아들자, 귀네비어는 혼절해버렸다. 정신을 차렸을 때는 어느 비행선 안이었다. 동생들은 곁에서 울고 있었고, 큰오빠와 큰언니는 밧줄에 단단히 묶여 있었다. 둘째 오빠는 어쩔 수 없다는 듯 말했다. 「지금은 풀어주지 마. 안 가려고 할 테니까」<br><br>귀네비어는 창밖을 바라봤다. 어머니는 군복 차림으로 하늘을 향해 날아오르는 비행선을 뒤로한 채 저항을 멈추지 않는 하인들을 지휘하고 있었다. 그보다 조금 먼 곳에서 허졸들이 호국공 저택을 부수고 있었다. 그보다 더 먼 곳에서는 거리가 완전히 불타고, 검게 그을린 시체들이 진흙처럼 사방에 흩어져 있었다.<br><br>어린 귀네비어의 세계는 은하에서 지워지고 말았다.<br><br>……<br><br><i>전 역외의 왕국 카멜롯에서 왔고, 오빠와 언니, 동생이 12명 있어요.</i><br><i>평온하고 즐거운 나날을 보내고 있었는데 소멸 재앙신이 전쟁을 일으킬 줄 누가 알았겠습니까?</i><br><i>부모님은 나라를 위해 무기를 들었지만, 파죽지세로 밀고 들어오는 군단을 막지 못해 저희 가문과 나라는 멸망하고 말았죠.</i><br><i>큰 오라버니는 저희를 데리고 이리저리 떠돌다가 컴퍼니의 광산 행성에 의탁하게 되었답니다.</i><br><i>남은 음식을 쟁탈하며 되는 대로 살아가니 가난과 질병을 피하기 어려웠죠.</i><br><i>큰 오라버니는 성실하고 겉보기엔 강하지만 마음은 여린 사람이에요. 하지만 어쩔 수 없이 해적이 되어 은하에서 큰 명성을 떨치게 되었답니다.</i><br><i>그는 상선만 털고 민가를 습격하지 않아서 빈민과 약자를 돕는 영웅이라 불렸습니다.</i><br><i>그는 빈민 수백 명을 이끌고 무리를 지어 산을 점령하고 왕이 되어 동생들을 보살폈어요</i><br><br>……"
         },
         {
             "_id": 4,
-            "Story": "When Guinevere was young, her father always told her that humans should live with dignity. However, who could manage that on Hombert-σ?<br><br>It was a barren planet. Primitive algae, fungi, and lichen maintained an atmosphere barely able to support animal life. Among the endemic species that stubbornly proliferated in that world, almost all of them existed as genuine threats to humanity.<br><br>Had the Interastral Peace Corporation not discovered the mineral ores hidden in the heart of this planet, no humans would have wanted to move here anyways.<br><br>Guinevere passed all of her teenage years on this poverty-stricken planet.<br><br>She was good at making friends and was on good terms with the other kids. The son of the poor man, the daughter of the refugee, the brother of the gambler, or the sister of the murderer... Guinevere did not care about people's background. No matter what kind of families people are from, they were equally at risk of perishing before the arrival of tomorrow on this planet.<br><br>The IPC didn't keep a tight eye on this place. Except for those with debts or criminal charges, the IPC didn't limit the workers' freedom as long as they paid their taxes. However, if they did pay their taxes, they might not have enough money left to even buy a drink at the town's bar.<br><br>Her father was the most reliable backbone of the family back home. Now that both father and home were lost, the duty of looking after the family fell on the shoulders of the only senior in the group — the Stone-Wall Knight. Back when they had to flee their home, the mother sternly demanded that this loyal old knight escape with the children, while she stayed behind in their homeland to watch over the last speck of dust on their barren planet.<br><br>The old knight was once her father's closest playmate, then her father's most courageous comrade in battle, then her father's most loyal servant. And now... he became another \"father\" for the children. Guinevere didn't manage to remember his real name even till the end. She was more familiar with the knight's other name — Uncle Stone-Wall.<br><br>A dozen starving children made their dwindling finances even worse. After a night of arguments, Stone-Wall reluctantly agreed to have the three eldest children go to work in the mines with him. However, no matter how much Guinevere begged, he refused to let her go with them.<br><br>Night after night passed. Stone-Well grew old and withered. His lungs became full of incurable scars, and his spine no longer stood as tall as in years past. His hands, once able to swing a kinetic hammer majestically on the battlefield, have been deformed till he could no longer hold a spoon.<br><br>Soon, he died.<br><br>The stone wall fell. It fell before the dawn arrived, and it didn't make a single sound. It was like a sand castle receding as the tides swelled and fell, like the soft descent of winter's withered boughs in a breeze, like an ending doomed to arrive.<br><br>Only a world of hoarfrost exists beyond the stone wall.<br><br>Her elder brothers soon became interstellar pirates. Guinevere can fill her stomach again. However, she was also faintly aware that she had further strayed from her father's creed and embarked on a life even less respectable.<br><br>Therefore, when the IPC's soldiers put cuffs on Guinevere and handed her over to the Cloud Knights together with her younger siblings, she breathed a long sigh of relief.<br><br>People all claim the folks of the Xianzhou are very kind. She thought that the Cloud Knights would definitely allow her entire family to die together in dignity.<br><br>...<br><br><i>Folly befell my brother's mind. A Xianzhou ship, his raid entwined</i><br><i>Those of Xianzhou, just and upright. Thunder and storm, willed in their might.</i><br><i>To Xianzhou, my brother offered compliance. For us siblings, he pleaded forbearance.</i><br><i>Xianzhou knights, blessed with grace. Xianzhou fleet, we get to embrace.</i><br><i>Our brother pardoned, our burdens lessened.</i><br><i>To the school, our young'uns go. Teaching skills was my dear Ms. Yo.</i><br><i>A future elsewhere, brother urged me to prepare. Gratitude to pay, I chose here to stay.</i><br><i>In Aurum Alley I shine. Fame and fortune, I'm fine.</i><br><br>..."
+            "Story": "어린 시절, 아버지는 귀네비어에게 사람은 체면을 지키며 살아야 한다고 말하곤 했다. 하지만 「홈버트-σ」에서 체면을 지키고 살아갈 수 있는 사람이 있을까?<br><br>그곳은 척박한 행성이었다. 원시적인 이끼와 진균으로 동물이 생존할 수 있는 대기 환경이 간신히 유지됐다. 또한 그곳의 번식력 강한 고유종들은 대부분 인간에게 위협적인 존재였다.<br><br>스타피스 컴퍼니가 이 행성에서 광산을 발견하지 못했다면, 이곳으로 이주하려는 사람은 없었을 것이다.<br><br>귀네비어는 이 척박한 행성에서 소녀 시절을 보냈다.<br><br>그녀는 친구를 잘 사귀고 다른 아이들과 사이가 좋았다. 빈민의 아들, 망명자의 딸, 노름꾼의 남동생, 살인범의 여동생… 귀네비어는 출신을 개의치 않았다. 그 어떤 가문 출신이라도 이 행성에서 살아남는다는 보장이 없으니까.<br><br>채무자나 범죄자를 제외하고, 컴퍼니는 행성을 엄격히 관리하지 않는다. 세금만 제대로 납부한다면 인부들의 자유를 제한하지 않는다. 다만, 세금을 납부하고 나면 마을의 술집에서 술 한 잔 마시기 어렵지만 말이다.<br><br>고향에서 아버지는 가족의 가장 든든한 기둥이었다. 아버지와 고향이 없으니 가족을 돌보는 책임은 연장자인 「스톤월 기사」의 몫이 되었다. 고향에서 도망칠 때, 어머니는 이 충실한 노기사에게 아이들을 맡기고, 자신은 남아 고국의 마지막 순간을 함께했다.<br><br>노기사는 아버지의 가장 친한 친구이자 가장 용맹한 전우였고, 그 후에는 가장 충실한 가신이었다가… 아이들의 또 다른 「아버지」가 되었다. 훗날 귀네비어는 그의 이름까지 잊어버렸다. 그녀에게는 기사의 다른 이름인 스톤월 아저씨가 훨씬 익숙했다.<br><br>안 그래도 궁핍한 주머니 사정은 굶주린 아이 십여 명의 가세로 더욱 악화됐다. 어느 날 밤, 언쟁 끝에 스톤월은 광산 일을 함께하겠다는 언니와 오빠 셋의 제안을 받아들였다. 하지만 귀네비어가 아무리 애원해도, 그는 그녀의 동행을 허락하지 않았다.<br><br>그는 하루하루 늙고 초췌해져 갔다. 폐에는 아물지 않는 상처가 가득했고, 등은 예전처럼 곧게 펴지지 않았다. 파워 해머를 기세 좋게 휘두르던 두 손은 숟가락을 제대로 들 수 없을 정도로 구부러졌다.<br><br>얼마 후 그는 세상을 떠났다.<br><br>스톤월은 무너졌다. 여명이 비치기 전, 아무 소리도 없이 무너졌다. 마치 모래성이 파도에 쓸려 허물어지는 것처럼, 겨울철 마른 가지가 바람에 떨어지는 것처럼, 마치 운명적인 결말처럼.<br><br>그리고 스톤월 밖은 차디찬 세상뿐이었다.<br><br>오빠들이 우주 해적이 된 것은 그로부터 얼마 후의 일이었다. 귀네비어는 배불리 먹을 수 있게 됐다. 하지만 그녀는 자신이 아버지의 훈계에서 멀어져 체면을 지키지 못하는 삶을 향해 가고 있다는 것을 어렴풋이 느꼈다.<br><br>그래서 컴퍼니 병사들이 귀네비어의 손에 수갑을 채워 동생들과 함께 운기군에 인계했을 때, 그녀는 안도의 한숨을 내쉬었다.<br><br>귀네비어는 선주 사람들이 선량하다는 소리를 많이 들었다. 그녀는 운기군이라면 가족들의 체면을 지켜주며 함께 죽을 수 있게 해줄 것이라 생각했다.<br><br>……<br><br><i>누가 알았을까요? 큰 오라버니가 잠시 정신줄을 놓고 선주에서 온 상선을 약탈할 줄을.</i><br><i>선주 사람은 강직해서 악을 증오하고, 뇌전을 부리는 수단은 폭풍우와도 같았지요.</i><br><i>큰 오라버니는 체포당해서 군사 나리에게 동생들의 목숨만 살려달라고 빌었답니다.</i><br><i>해적을 소탕한 군사 나리는 마음씨가 너그러워 우리 가족 모두를 선주로 초청했지요.</i><br><i>그분은 덕을 베풀어 제 큰 오라버니의 목숨을 살려주고, 제 동생들의 생계를 챙겨주셨답니다.</i><br><i>동생들은 학당에 들어가 글을 배우고, 여기 유 언니는 제게 곡예를 가르쳐주셨지요.</i><br><i>큰 오라버니는 제게 곡예를 다 배우고 나서 멀리 떠나라 권유했어요. 하지만 은혜를 입고도 갚지 않으면 금수만도 못한 게 아닙니까?</i><br><i>누가 알았을까요? 이 금 조각상 거리에서 제가 재주를 선보이고, 가난에서 벗어나 돈과 명예를 거머쥐게 될 줄을</i><br><br>……"
         },
         {
             "_id": 5,
-            "Story": "<i>\"Sorry, sorry! I ran into someone who was injured, so I got here later than I thought — Ah. Little Gui, you're still singing? Then I'll shut up.\"<br><br>\"Yo! Shangshang is here! Fam, lemme introduce her to y'all. She's our surprise guest tonight! The Cloud Knights' genius newcomer — Ms. Sushang! C'mon fam, post in the chat 'welcome Ms. Sushang'~\"<br><br>\"H—Hello everyone. I'm Sushang... Stop with the 'genius newcomer' thing! Don't make me seem more than what I am. My boss is gonna give me an earful if they hear about it.\"<br><br>\"Just gimme a sec here, Shangshang. My doggerel is just missing its last bit. You're here right on time since it's all about you~\"<br><br>...<br><br><i>Then a thug crossed my path, a timely heroine dealt with his wrath.</i><br><i>You may ask, which heroine could it be? And I answer, Li Sushang, you see.</i><br><i>Ever since then, I'm no longer alone. With a heroine like her, I have a much livelier tone.</i><br><i>And I have fans in a throng, enjoying my awesome song.</i><br><i>My fans whom I adore, always ask for more.</i><br><i>But my story runs too long, I can't go on and on.</i><br><i>Let's wrap it up for now, if you allow, I'll save it for another wow.</i><br><br>...<br><br>\"Nice! Nice! Let's all give it up for Little Gui, everyone! But... I don't quite remember this heroic feat?\"<br><br>\"Mr. Xiyan told me that stories featuring damsel-in-distress scenarios are popular, hence my decision to write it this way. If it's not to your liking.... Thank you CatEmanator8190 for the Diting Storm gift! Thanks so much!\"<br><br>\"Thank you so much! ...It doesn't matter how you write it! The stuff you do are all fun anyways.\"<br><br>\"Alrighty. Now that Shang-Shang is here, let's do the Show-Show! We can now finally present the duo skit we've been practicing for a long time~ Here, Shangshang, gimme the chordophone. I, Little Gui, is now gonna sing <i>Teng Xiao Slaying the Serpent</i>!\"<br><br>\"This section isn't easy to perform.\"<br><br>\"True. Any expert here would know that <i>Teng Xiao Slaying the Serpent</i> has singing, music, and fight scenes. One person can't do it all.\"<br><br>\"And that is why I'm here! So how do you want to do this?\"<br><br>\"Simple~ Today I'm gonna play the role of Teng Xiao, the previous Luofu general. I'll bring peace to the nation and all shall bow before my majesty.\"<br><br>\"And me?\"<br><br>\"You'll play the serpent getting slain! Where are you going, puny snake? Take~ My~ Sword~\"<br><br>\"Ahh! It hurts... Guinaifen! I've had enough of you!\"</i>"
+            "Story": "<i>「미안 미안, 길에 다친 사람이 있어서 늦었어…. 아, 네비니, 아직 노래하고 있었구나. 그럼 입 다물게」<br><br>「와! 쏘쏘 왔구나! 소개해 드릴게요. 이쪽은 오늘의 깜짝 게스트, 운기군의 천재 신입, 소상입니다! 자, 여러분, 채팅창에 『환영해, 소상』이라고 쳐주세요~」<br><br>「아… 안녕하세요, 전 소상이에요…. 『천재 신입』이라니! 아무거나 갖다붙이지 말아줘. 위에서 알면 엄청 놀릴 거라고」<br><br>「쏘쏘, 좀 기다려줘. 아직 마지막 대목이 남았어. 마침 잘 왔어. 너에 관한 내용이 나오거든~」<br><br>……<br><br><i>그 후에 제게 나쁜 마음을 먹은 악당을 만났는데, 다행히 한 여협이 나타나 몽둥이 찜질을 놓았지요.</i><br><i>그 용감한 여협이 누구냐고요? 바로 제 절친이 된 이소상입니다.</i><br><i>그때부터 나부에서 전 혼자가 아니었죠. 친구가 생겼으니까요.</i><br><i>게다가 제 공연을 기다려주시는 여러분들까지 계시잖아요.</i><br><i>한 대목으로는 성이 안 차서 열렬하게 앵콜을 요청하시죠.</i><br><i>하지만 저 네비니의 이야기는 고약하고 길어서 3박 4일도 모자라답니다.</i><br><i>오늘은 여기까지 하고, 다음 내용이 궁금하시면 나중에 다시 이야기해 봐요.</i><br><br>……<br><br>「잘한다! 패밀리님들, 네비니에게 박수 주세요! 근데 이 영웅 이야기 말이야, 난 왜 생소하지?」<br><br>「서연 선생님이 그랬어. 다들 이런 영웅이 미녀를 구출하는 식의 만남을 좋아한다고. 그래서 이렇게 쓴 거야. 마음에 안 들면… 앗, 『고양이 사도 8190』 님! 선물 감사합니다! 정말 통이 크시네요!」<br><br>「감사합니다! …어떤 이야기라도 상관없어! 네가 쓴 건 뭐든 다 재밌으니까」<br><br>「알겠습니다. 자 이제 쏘쏘도 왔으니, 패밀리 여러분께 저희가 오랫동안 준비한 2인 공연을 보여드릴게요~ 자, 쏘쏘, 추자금 좀 줘. ≪등효가 뱀을 베다≫를 시작하겠습니다!」<br><br>「이건 공연하기 힘들잖아」<br><br>「맞아, 전문가들은 다 알지. 이 ≪등효가 뱀을 베다≫에는 연주와 노래, 싸우는 장면도 있어서 혼자 공연할 수 없다는 걸」<br><br>「그래서 날 불렀구나! 이제 어떻게 하면 돼?」<br><br>「간단해~ 난 오늘 이 전임 나부 장군 등효 역을 맡을 거야. 나라를 안정시키고 비범한 무예를 지닌」<br><br>「그럼 난?」<br><br>「너는 절단된 뱀 역할을 맡는 거지——뱀아, 도망치지 말고 내 검을 받아랏~」<br><br>「아야… 계네빈! 오늘 너 죽고 나 살자!」</i>"
         }
     ]
 }
@@ -547,200 +547,200 @@ var _story_ = {
 var _voice_ = {
     "1210": [
         {
-            "Title": "First Meeting",
-            "Voice": "My name is Guinaifen! \"Gui\" means wood, \"Nai\" means to exist, and \"Fen\" means fragrant — rolls right off the tongue, doesn't it? I usually do juggling performances on this side of Exalting Sanctum. Remember to come see the show when you have the chance~"
+            "Title": "첫 만남",
+            "Voice": "저는 계네빈이라고 해요! 계수나무 계자에, 긍정의 대답 「네」의 뜻을 가졌어요. 향기로우면서 듣기도 좋고 기억하기도 좋죠? 저는 주로 장낙천에서 묘기를 부리고 있으니 시간 있으시면 공연 보러오세요~"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Geez, why do I feel like I haven't seen you in a long time? What? You saw me yesterday? Ah — a day without seeing you feels like three years!"
+            "Title": "인사",
+            "Voice": "어라라, 왜 이렇게 오랜만에 보는 것 같죠? 네? 어제도 만났었나요? 헤헷—— 하루 못 봤다고 3년을 못 본 것 같네요!"
         },
         {
-            "Title": "Parting",
-            "Voice": "See you next time! I'll save you a front-row seat. Oh, uh, it's a makeshift outdoor stand, \"front-row\" sounds a little fancy..."
+            "Title": "작별",
+            "Voice": "다음에 봐요! 제일 앞줄 자리 남겨둘게요. 길바닥에서 공연하는 거라 「첫 번째 줄」이라고 할 수는 없겠지만요……"
         },
         {
-            "Title": "About Self: Name",
-            "Voice": "My real name is Guinevere. Guinaifen is the Xianzhou name Shangshang gave me. Who is Shangshang you ask? She's my best friend — Sushang the Cloud Knight. Have you met her?"
+            "Title": "자신에 대해•이름",
+            "Voice": "제 본명은 「귀네비어」이고 계네빈은 쏘쏘가 지어준 선주 이름이에요. 쏘쏘가 누구냐고요? 운기군의 소상이요~ 제 절친이거든요. 소상을 아시나요?"
         },
         {
-            "Title": "About Self: Family",
-            "Voice": "I've got more than a dozen siblings! One of them is my older brother — he's also living on the Xianzhou. His name is Langshile, but he seems to prefer being called \"Lancelot.\""
+            "Title": "자신에 대해•가족",
+            "Voice": "우리 집은 십여 명의 형제자매들이 있어요! 그중에 나부에서 살고 있는 오빠도 있는데 이름은 랑새록이죠. 하지만 오빠는 「란슬롯」이라고 불리는 걸 더 좋아하는 것 같아요"
         },
         {
-            "Title": "Chat: Juggling",
-            "Voice": "I learned my juggling skills on the street — my brothers taught me. It started out as a way to survive. Who'd have thought the performances would become so popular? It feels like fate is teasing us sometimes, hehe."
+            "Title": "잡담•묘기",
+            "Voice": "제 재주는 전부 거리의 형제들에게서 배운 거예요. 그냥 입에 풀칠이나 할 생각이었는데, 이렇게 성공할지 누가 알았겠어요. 약 오르죠? 헤헤"
         },
         {
-            "Title": "Chat: Doggerel",
-            "Voice": "This girl arrived on your Xianzhou ship and started juggling to earn her tips, melons and dates make a very nice meal, but to make my day needs at least ten strale, no need to waste time on idle chat, 'cause a real stage play is right where it's at!"
+            "Title": "잡담•장타령",
+            "Voice": "소녀가 귀한 자리에서 처음으로 재주를 선보이게 됐습니다. 돈이 적어도 좋고, 천금을 주신다면 마음이 더 닿겠지요. 잡담은 여기까지 하고, 여러분께 제 주특기를 보여드리겠습니다!"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Don't you think the poetry and songs of the Xianzhou people are enchanting? One time I asked Shangshang to teach me to write poetry, and she only wrote four words in three months... I don't think I'll be able to learn at this rate."
+            "Title": "취미",
+            "Voice": "선주 사람들의 시와 노래는 정말 아름답지 않나요? 예전에 쏘쏘한테 시 쓰는 법을 가르쳐 달라고 했었는데, 석 달 동안 네 글자만 알려주지 뭐예요…. 아마 평생토록 못 배울 것 같아요"
         },
         {
-            "Title": "Annoyances 1",
-            "Voice": "There's so much good food on the Luofu, but for juggling one has to stay light and nimble. How does that ancient saying go... It's hard to be both loyal and filial? You can't serve two masters? Something like that?"
+            "Title": "고민•1",
+            "Voice": "나부에는 맛난 게 엄청 많아요. 근데 공연을 하려면 몸매 관리도 해야 하죠…. 충과 효를 둘 다 잘하기는 어렵다는 옛말이 딱 맞네요! 네? 이 속담은 이렇게 쓰는 게 아니라고요?"
         },
         {
-            "Title": "Annoyances 2",
-            "Voice": "Sushang has been calling me \"Little Gui\" for a long time now, which is fine... But recently I've noticed that even my brothers on the street have started calling me \"Little Gui,\" and even audience members... At this rate, no one's gonna remember my real name!"
+            "Title": "고민•2",
+            "Voice": "쏘쏘는 계속 저를 「네비니」라고 불러요. 처음에는 아무렇지 않았는데, 최근에 거리의 형제들조차 저를 「네비니」라고 부르더라고요. 심지어 관중들도 저를 「네비니」라고 부르기 시작했어요…. 이제 계네빈이란 이름은 아무도 기억하지 못하겠죠!?"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "On the Xianzhou, short-life species like us have a fleeting existence, here one moment and gone the next. That's all the more reason to seize the moment while you still have it!"
+            "Title": "공유",
+            "Voice": "선주의 기준으로 봤을 때, 우리 같은 단명종의 세월은 눈 깜짝할 사이에 지나가겠죠. 하지만 그렇기에 우리는 더더욱 현재에 충실해야 하는 거라고요!"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "There's a crosstalk comedy duo in Exalting Sanctum — Forth and Back'n. They're a friendly couple of guys — they helped me to embellish a lot of my act. In fact, the doggerel portion of the performance was their idea."
+            "Title": "견문",
+            "Voice": "장낙천에는 와리랑 가리라는 두 명의 만담꾼이 있어요. 이 두 사람은 아주 열정적으로 제 대본을 윤색해 줬죠. 공연 시작 전의 장타령 같은 거 말이에요"
         },
         {
-            "Title": "About Sushang",
-            "Voice": "Shangshang is my best friend. Aside from my street-performing brothers, she's the person I've known the longest on the Luofu. I wanted to become sworn sisters with her, but she didn't seem interested."
+            "Title": "소상에 대해",
+            "Voice": "쏘쏘는 저의 가장 친한 친구예요. 나부에선 거리의 형제들을 빼면 가장 오래된 인연이죠. 예전에 쏘쏘한테 의자매를 맺자고 했는데 거절하더라고요"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "I heard that the general is interested in these street music performances. I wish I had the chance to perform at the Seat of Divine Foresight, then I could be famous."
+            "Title": "경원에 대해",
+            "Voice": "장군님께서 이런 거리 곡예에 관심이 많으시다면서요? 기회가 되면 신책부에 가서 공연하고 싶어요. 그럼 더 유명해질 수 있겠죠~"
         },
         {
-            "Title": "About Yanqing",
-            "Voice": "I've never spoken to the general, but I did meet his retainer once. He asked me if I was a \"woman of the sword,\" so you know what I did? I did a sword-swallowing performance right in front of him!"
+            "Title": "연경에 대해",
+            "Voice": "장군님과는 얘기를 나눠본 적이 없지만, 장군님의 호위무사와는 대화해 봤어요. 그때 제게 「검을 다루는 자」냐고 묻길래 바로 그 앞에서 검을 삼켜버렸죠!"
         },
         {
-            "Title": "About Qingque",
-            "Voice": "Qingque likes to play celestial jade in Exalting Sanctum, but sometimes she gets tired and comes to see me juggling. I can tell from her face if she's won or lost that day — red is a win, pale is a loss, and really pale means her boss is out looking for her."
+            "Title": "청작에 대해",
+            "Voice": "청작은 장낙천에서 자주 놀이를 하곤 하는데, 가끔 게임이 잘 안 풀릴 때면 제 공연을 보러와요. 지금은 얼굴만 봐도 그날의 승패를 알 수 있다니까요——얼굴이 붉게 상기됐으면 이긴 거고, 퍼렇게 질려있으면 진 거고, 새하얗게 질려있으면 상사한테 쫓기는 날이죠"
         },
         {
-            "Title": "About Huohuo",
-            "Voice": "Isn't Huohuo's laugh just the cutest? My performances aren't scary — they're uplifting! I can't wait to see her laugh some more~"
+            "Title": "곽향에 대해",
+            "Voice": "곽향 님은 웃을 때 정말 귀여워요. 제 공연은 사람들을 겁주는 공연이 아니라 기쁨을 주는 공연이죠. 곽향 님이 웃는 모습을 많이 보고 싶어요~"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "\"Living?\" that's all a big hustle and bustle. But life? Life's all about savoring the moment."
+            "Title": "성혼 활성화",
+            "Voice": "사는 건 다사다망해요. 인생은 천천히 느껴야 하죠~"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Spread those positive vibes, and watch the good luck follow~"
+            "Title": "캐릭터 승급",
+            "Voice": "엄지손가락을 누르면 행운이 따라요~"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Fresh face, fresh vibes — must be talking about me!"
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "신선한 얼굴, 신선한 느낌——이거 내 이야기잖아!"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "The more you can do, the easier life gets~"
+            "Title": "행적 활성화",
+            "Voice": "할 줄 아는 게 많으면 나쁠 거 없죠. 노력엔 성공이 따른다고요~"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "Trailblazer, did you check out my latest livestream? It was a show-stopper!"
+            "Title": "파티 편성•{NICKNAME}",
+            "Voice": "저기, {NICKNAME}. 제 최근 라이브 스트리밍 봤나요? 최고였다고요!"
         },
         {
-            "Title": "Added to Team With Sushang",
-            "Voice": "Sushang! We should totally team up for this performance, the fans will go wild~"
+            "Title": "파티 편성•소상",
+            "Voice": "쏘쏘! 이번에는 기다리고 기다리던 우리의 합동 무대야. 관객들이 엄청 좋아하겠지~?"
         },
         {
-            "Title": "Added to Team With Yanqing",
-            "Voice": "Hey little guy, wanna see some sword swallowing? I've added some new tricks to my act!"
+            "Title": "파티 편성•연경",
+            "Voice": "이봐, 꼬마무사! 검 삼키는 거 볼래? 요 며칠 또 새로운 트릭을 생각해 냈어!"
         },
         {
-            "Title": "Added to Team With Qingque",
-            "Voice": "Hey Qingque, you're looking chipper, did the cards fall in your favor?"
+            "Title": "파티 편성•청작",
+            "Voice": "와, 청작 너 오늘 기분 되게 좋아 보인다. 땄나 보네?"
         },
         {
-            "Title": "Added to Team With Huohuo",
-            "Voice": "Come get a better view, Huohuo. Don't worry, the fire won't bite you, you know~"
+            "Title": "파티 편성•곽향",
+            "Voice": "곽향 님, 가까이 와서 좀 보세요. 이 불은 안 위험하다고요~"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Don't throw the game!"
+            "Title": "전투 시작•약점 격파",
+            "Voice": "에휴, 봐주지 마세요"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "What's wrong? Everyone's a customer!"
+            "Title": "전투 시작•위험 경보",
+            "Voice": "당황하긴, 모두가 손님인걸요!"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Turn out your pockets!"
+            "Title": "턴 시작•1",
+            "Voice": "돈 있으면 내주세요"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Forget your wallet? Hmph..."
+            "Title": "턴 시작•2",
+            "Voice": "돈 없으면 다음에요!"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "No one's gonna pay you to stand still!"
+            "Title": "턴 대기",
+            "Voice": "그만 빈둥대세요. 빈둥대면 돈은 어디서 나요!"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Fame and fortune!"
+            "Title": "일반 공격",
+            "Voice": "부자 되세요!"
         },
         {
-            "Title": "Skill",
-            "Voice": "Wealth and wisdom!"
+            "Title": "전투 스킬",
+            "Voice": "돈 몰려와요!"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Glad I trained..."
+            "Title": "약공격 피격",
+            "Voice": "연습해서 다행이네요…"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Getting serious, huh!?"
+            "Title": "강공격 피격",
+            "Voice": "해보자는 거죠!?"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Come feast your eyes!"
+            "Title": "필살기•활성화",
+            "Voice": "자자, 한번 보고 가세요!"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "It's never too early... for a Happy New Year!"
+            "Title": "필살기•발동",
+            "Voice": "모처럼의 기회네요. 미리 새해 인사 올립니다!"
         },
         {
-            "Title": "Downed",
-            "Voice": "Uh-oh, dropped the ball..."
+            "Title": "전투 불능",
+            "Voice": "휴, 망쳤어…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "The show must go on!"
+            "Title": "전투 복귀",
+            "Voice": "앙코르 공연이 왔습니다!"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Here we go!"
+            "Title": "HP 회복",
+            "Voice": "가자!"
         },
         {
-            "Title": "Technique",
-            "Voice": "Tough crowd!"
+            "Title": "비술",
+            "Voice": "흥부터 돋우자!"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "That was a heck of a performance!"
+            "Title": "전투 승리",
+            "Voice": "이번 공연은 대성공!"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Ooh, extra tips!"
+            "Title": "전리품 오픈•1",
+            "Voice": "오오오, 뜻밖에 수확이네요!"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Quick, snatch it all up!"
+            "Title": "전리품 오픈•2",
+            "Voice": "빨리 돈 챙기세요!"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Wooh, looks like we've struck gold!"
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "축하축하, 대박났어요!"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Think fast and work faster~"
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "날렵한 손발, 명석한 두뇌~"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Want to know the secret? Well, my lips are sealed~"
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "요령이 궁금해요? 안 알려줄래요~"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Maybe this one's not a customer..."
+            "Title": "적 발견",
+            "Voice": "으, 앞에 있는 저거… 꼭 건드려야 해요?"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Busier places mean fizzier business."
+            "Title": "도시로 복귀",
+            "Voice": "번화한 곳이라 손님이 많네요"
         }
     ]
 }

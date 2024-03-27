@@ -417,23 +417,23 @@ var _story_ = {
     "1013": [
         {
             "_id": 1,
-            "Story": "Herta space station's true master.<br>As the human with the highest IQ on the Blue, she only does what she's interested in, dropping projects the moment she loses interest — the best example being the space station.<br>She typically appears in the form of a remote-controlled puppet.<br>\"It's about seventy percent similar to how I looked as a child.\" — Herta"
+            "Story": "우주정거장 「헤르타」의 실질적 주인.<br>더 블루에서 IQ가 가장 높은 인간으로서 관심 있는 일만 하고 흥미가 떨어지면 떠나버린다——이 우주정거장이 바로 그 산물이다.<br>평소엔 원격 조종 인형으로 등장한다. \"내 어릴 적 모습과 70% 정도 닮았다고 해두지\"——헤르타"
         },
         {
             "_id": 2,
-            "Story": "Madam Herta's manuscripts are extremely valuable assets.<br><br>Its core rarity is not in how Madam Herta rarely pens to paper, but because to a genius like her, nothing is ever worth recording.<br><br>Scientific research that would take normal researchers ten years — or even a lifetime — to achieve may be able to shed light on an entirely new domain of research, but they are to Herta as ordinary as turning on a LED light. Who would waste time trying to systematically record such trivial matters?<br><br>It's not just Madam Herta — any documentation written by a Genius Society member is a priceless treasure. However, Herta is more generous and more understanding toward normal people like us. She leaves her handwritten drafts behind in random places around the space station with as much generosity as she allows researchers to study the Curios she collected.<br><br>Of course, we all firmly understand that Madam Herta isn't being lazy and just discarding incomplete drafts around the place. It's so she can claim to investors with plausible deniability that <i>\"I've finished writing that paper, but can't find it anywhere.\"</i>"
+            "Story": "헤르타 님이 직접 쓴 원고는 아주 귀한 자산이다<br><br>원고가 귀한 이유는 헤르타가 종이에 기록하는 것에 잉크를 쓰려하지 않는 따위가 아니다. 최고의 천재인 헤르타는 이 세상 그 어떤 존재에게서도 기록의 필요성을 느끼지 못하기 때문이다<br><br>일반 연구원들은 미지의 과학 분야의 불 하나를 밝히기 위해 수십 년, 심지어 평생 연구에 몰두해야 하지만 헤르타에게 이런 일은 스위치로 방의 조명을 켜는 것보다 더 쉬울 뿐이었다. 이런 사소한 일을 긴 문장으로 풀어내 기록하는 사람이 몇 명이나 될까?<br><br>헤르타 님뿐만 아니라 「지니어스 클럽」의 다른 멤버들이 작성한 창작 문헌은 모두 그 가치를 헤아릴 수 없는 보물로 여겨진다. 하지만 헤르타님은 다른 멤버들보다 마음이 훨씬 넓고 일반인들의 마음을 훨씬 잘 이해하는 분이시다. 헤르타 님은 「호탕」하게도 그녀가 수집한 기물을 연구용으로 모든 연구원들에게 나누어줬듯이 작성한 글을 아무렇게나 우주정거장에 남겨두었다<br><br>물론 우리 모두 알고 있다. 헤르타 님이 미완성 원고를 남긴 이유는 그 작품을 완성할 능력이 없어서가 아니라 대충 아무 곳에나 처박아 두고——<i>「이미 완성했지만 어디에 뒀는지 모르겠어」</i> 같은 말로 투자자들을 상대하기 위함이라는 것을 말이다"
         },
         {
             "_id": 3,
-            "Story": "Everybody knows that qualifying as a researcher on the Herta space station is a cherished goal of the wider scientific community. Today, we're interviewing its owner, Madam Herta. First of all, can you please tell us what was your motivation for setting up a scientific research oasis like this?<br><br><i>\"I have so much stuff, and nowhere to put it.\"</i><br><br>Ah, truly an unforeseen outcome! Even unintentional acts from the brilliant Madam Herta can benefit millions of ordinary people. However, evil will always strive in vain to destroy such a wondrous place. Madam Herta, what are your thoughts about the Antimatter Legion's last invasion?<br><br><i>\"Don't come back.\"</i><br><br>Oh... such a severe warning. This must form an indispensable part of Madam Herta's illustrious achievements. The mere Antimatter Legion dares to invade this space station — but you don't even deserve Madam Herta's attention! Let's move on to the next question, then!"
+            "Story": "우주정거장 「헤르타」의 연구 자격을 얻는 건 모든 연구자들의 목표가 되었습니다. 그렇다면 오늘은 우주정거장의 주인 헤르타 님을 인터뷰해 보도록 하죠. 헤르타 님, 오아시스를 만들게 된 계기는 무엇인가요?<br><br><i>「가지고 있는 물건이 너무 많아서. 따로 둘 곳이 필요했거든」</i><br><br>아, 무심결에 심은 나무가 자라 좋은 그늘을 만들어내는 법, 헤르타 님이 별생각 없이 한 행동이 수많은 일반인들을 구원한 셈이 되었습니다. 하지만 이런 아름다운 땅을 파괴하려는 사악한 세력들이 있죠. 헤르타 님, 저번 반물질 군단의 침입에 대해 하시고 싶은 말씀 있을까요?<br><br><i>「다시는 오지 마」</i><br><br>와… 굉장히 무시무시한 경고였는데요. 이런 강단 덕분에 지금의 헤르타 님이 있을 수 있는 거겠죠? 반물질 군단 따위가 헤르타 님의 우주정거장을 침입하려 하다니! 정작 헤르타 님은 반물질 군단을 굳이 적으로 인지하고 있지도 않은데 말이죠! 그런 다음 질문으로 넘어가겠습니다"
         },
         {
             "_id": 4,
-            "Story": "Recent research progress on the space station has been hampered by the impact of the accident. Several researchers have been blaming themselves for betraying Madam Herta's trust and preference. May I ask: Do you have anything you'd like to say to everyone?<br><br><i>\"Nope. Keep up the great work.\"</i><br><br>Everyone wishes to contribute to your scientific research, Madam Herta...<br><br><i>\"No thanks.\"</i><br><br>Indeed, no researcher could ever hope to match Madam Herta's scientific ability, which is why we're deeply impressed by your wisdom and insights. Could you please tell us, Madam Herta, whether you have any research recommendations for everyone? We'd love to learn from you!<br><br><i>\"No.\"</i><br><br>Madam Herta, your intellect and talents are obvious to all, but normal people like us could never hope to be like you... Could you please give us any pointers, such as in what domain we might devote our limited cognitive resources to?<br><br><i>\"You should go home and sleep.\"</i>"
+            "Story": "최근 일어난 사고로 인해 우주정거장의 연구 프로젝트 진도가 늦춰졌는데요. 많은 연구원들은 헤르타 님의 신뢰를 져버렸다고 자책하고 있습니다. 이에 대해 하고 싶은 말씀 있을까요?<br><br><i>「그런 적 없어. 힘내」</i><br><br>연구원들도 헤르타 님의 연구에 조금이라도 도움이 되기 위해 열심히 하는 건데요……<br><br><i>「그럴 필요 없어」</i><br><br>하긴, 연구원들이 대단하긴 하지만 헤르타 님과 비교할 순 없죠. 그래서 저희가 항상 헤르타 님의 지혜와 탁월한 안목에 감탄하는 것 아니겠습니까? 그렇다면 헤르타 님, 과학 연구 분야에 있어 연구원들에게 하고 싶은 조언 같은 건 없을까요?<br><br><i>「없어」</i><br><br>헤르타 님의 지능 수준과 천부적인 재능에 대해서는 저희 모두가 아주 잘 알고 있습니다. 하지만 저희 같은 평범한 인간들은 아무리 노력해도 헤르타 님처럼 될 수 없죠… 그러니 뭐라도 가르쳐주세요. 저희의 지능은 한정적이니 어느 한 분야에 집중을 하라든가… 뭐 이런 말이요<br><br><i>「그냥 집에 가서 자」</i>"
         },
         {
             "_id": 5,
-            "Story": "Madam Herta, you are so considerate. Indeed, the research that Genius Society members conduct are so complex that ordinary people may not even be able to understand the papers' titles. So, let's talk about something else: The space station is filled with your loyal supporters. Everyone is curious about your personal situation. For example, the manuscript that you're writing — when are you planning on publishing the latest chapter?<br><br><i>\"I don't think it really matters, but more importantly — Elias Salas once said that the most challenging thing of all is self-improvement. So, let's examine this question more carefully: When writing a paper, the key question is how to write that paper —\"</i><br><br>Um... err... I see. But Madam Herta, we all love your book <i>How I Joined the Genius Society</i>...<br><br><i>\"I don't think it really matters, but more importantly — Zandar once said that even those who have made it to the top still need to practice self-improvement. So, let's examine this question more carefully: When considering joining the Genius Society, the question is how does one go about joining the Genius Society —\"</i><br><br>Are you in... auto-answering mode?<br><br><i>\"I don't think it really matters, but more importantly — Yu Qingtu once said that being an academic is a matter of ambition. So, let's examine this question more carefully: When considering what is called auto-answering mode, the question is how to automate the answers —\"</i>"
+            "Story": "헤르타 님은 정말 친절하시네요. 하긴, 평범한 사람들은 「지니어스 클럽」의 멤버분들이 연구하는 프로젝트명 조차 이해하지 못하겠죠. 저희 우주정거장의 모든 연구원들은 헤르타 님의 충실한 팬입니다. 그래서 헤르타 님의 개인적인 정보에 대해서도 궁금한 게 많은데요. 예를 들어 요즘 계속 쓰고 계신 그 원고 말이죠. 새 챕터는 언제쯤 출판될까요?<br><br><i>「그게 중요한가? 엘리야 살라스는 이렇게 말했지. 이 세상에서 가장 어려운 도전은 스스로를 성장시키는 것이다. 그러니까 질문을 다시 생각하는 게 좋겠어. 원고가 언제 완성되는 것보다 더 중요한 건 원고를 어떻게 쓰냐는 거니까——」</i><br><br>음… 음… 그렇군요. 헤르타 님, 헤르타 님이 직접 쓰신 ≪내가 지니어스 클럽에 가입한 방법≫에도 관심이 굉장히 많은데요……<br><br><i>「그게 중요한가? 잔다르는 이렇게 말했지. 정상에 오른 뒤에도 스스로를 갈고 닦는 걸 멈추지 말아야 한다. 그러니까 질문을 다시 생각하는 게 좋겠어. 중요한 건 지니어스 클럽에 어떻게 가입하면 되는가니까——」</i><br><br>혹시 지금… 자동 응답 모드신가요?<i><br><br>「그게 중요한가? 여청도는 이렇게 말했지. 배우려는 자만이 의지를 가질 수 있다. 그러니까 질문을 다시 생각하는 게 좋겠어. 중요한 건 어떻게 자동응답을 하냐는 거니까——」</i>"
         }
     ]
 }
@@ -441,200 +441,200 @@ var _story_ = {
 var _voice_ = {
     "1013": [
         {
-            "Title": "First Meeting",
-            "Voice": "This is Herta. I'm busy right now. This is my ranged puppet's automated-response mode: Hello everyone. Hope you have a wonderful day. Goodbye."
+            "Title": "첫 만남",
+            "Voice": "난 헤르타야, 지금 엄청 바쁘고 이건 원격 인형의 자동 응답 모드지. 안녕, 안녕, 모두들 안녕. 즐거운 하루가 되길 바랄게, 이만"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Why not come around today and help me with my research? You'll be the subject, by the way."
+            "Title": "인사",
+            "Voice": "오늘 나랑 같이 연구하자——내가 널 연구하는 거지"
         },
         {
-            "Title": "Parting",
-            "Voice": "*sigh* I've lost interest in your research potential for today. See you tomorrow."
+            "Title": "작별",
+            "Voice": "오늘은 너한테 흥미가 안 생기네, 내일 다시 보자"
         },
         {
-            "Title": "About Self: Puppet",
-            "Voice": "What do you make of it? It's about seventy percent similar to how I looked as a child."
+            "Title": "자신에 대해•인형",
+            "Voice": "예뻐? 어릴 적 모습의 70% 정도 닮았다고 해두지"
         },
         {
-            "Title": "About Self: True Form",
-            "Voice": "Best not to ponder, you'll be scratching your chin all day."
+            "Title": "자신에 대해•본체",
+            "Voice": "밤에 잠 못 잘 테니까 상상은 안 하는 게 좋아"
         },
         {
-            "Title": "Chat: Genius Society",
-            "Voice": "The good thing about this club is that it doesn't ask me for anything. In fact, it doesn't even care if I'm a member."
+            "Title": "잡담•지니어스 클럽",
+            "Voice": "지니어스 클럽의 장점은 나한테 아무것도 바라지 않는다는 거야, 심지어는 나의 존재 여부조차 신경 쓰지 않아"
         },
         {
-            "Title": "Chat: Visiting an Aeon",
-            "Voice": "Why do I get to visit an Aeon? I'm Herta, that's why."
+            "Title": "잡담•에이언즈 알현",
+            "Voice": "에이언즈를 알현할 수 있는 이유? 난 헤르타잖아"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "If you're not solving problems or writing up contributions, then don't blame me if your life is boring."
+            "Title": "취미",
+            "Voice": "문제도 안 풀고 원고도 안 쓰면서 인생이 재미없다고 하면 안 되지"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "I'm perfect enough already. What else do I need to prove? Of course, I could write a few more books... but what would I get out of that? Why should I bother?"
+            "Title": "고민",
+            "Voice": "난 충분히 완벽한데 여기서 뭘 더 하겠어? 물론 책 몇 권 더 쓸 수는 있지만… 그게 다 무슨 소용이고 왜 그런 헛수고 해야 하지?"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "The Intelligentsia Guild is always able to find a way to support their case, writing enough \"scholarship\" in one night to fill a library... This is a problem."
+            "Title": "공유",
+            "Voice": "박학다식한 사람들은 그럴듯한 해결 방안이 있으시더라고, 하룻밤 사이에 쓴 책장들로 도서관이라도 지을 기세야. 그게 문제라는 거지"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "The Lord of Silence erased the eyes from the portrait, but drew everyone's attention in the process."
+            "Title": "견문",
+            "Voice": "「적막의 영주」는 초상화의 눈을 지웠지만, 모든 이의 시선을 사로잡았어"
         },
         {
-            "Title": "About Arlan",
-            "Voice": "Asta provided financial assistance to a few exceptional children — I assume Arlan was one of them."
+            "Title": "아를란에 대해",
+            "Voice": "아스타는 특별한 아이들을 후원한 적이 있어, 아를란도 그중 한 명일 거야"
         },
         {
-            "Title": "About Asta",
-            "Voice": "If my other collections had people like Asta watching over them, I could take a hands-off approach."
+            "Title": "아스타에 대해",
+            "Voice": "다른 소장실에도 아스타 같은 관리인을 찾는 날이 언제쯤 오려나. 그럼 손을 뗄 텐데"
         },
         {
-            "Title": "About Himeko",
-            "Voice": "I give her the most boring things, and then she gives them back to me and they're suddenly interesting."
+            "Title": "히메코에 대해",
+            "Voice": "아무리 시시한 물건을 선물해도, 내 손에 들어오면 흥미로운 물건으로 탈바꿈해"
         },
         {
-            "Title": "About Ruan Mei",
-            "Voice": "Ruan Mei is a genius among geniuses — I won't deny that. I don't always get along with her, but I do admire her... Maybe the admiration is mutual."
+            "Title": "완•매에 대해",
+            "Voice": "완•매가 천재 중의 천재라는 건 인정해. 나와 잘 안 맞긴 하지만, 난 그녀를 높이 평가하지…. 천재가 천재를 알아본 거 아닐까?"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Define inspiration? Tsk, it's only the several thousand ideas racing through my mind every minute."
+            "Title": "성혼 활성화",
+            "Voice": "누가 나한테 영감이 뭔지 묻더라고. 그건 분당 수천 번씩 두뇌에 전해지는 파동일 뿐이잖아?"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "You call that a build update?"
+            "Title": "캐릭터 승급",
+            "Voice": "버전 업데이트? 영 별로네"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Finally. Clocking off. Bye."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "자자, 이제 이 신체는 그만 내버려 둬"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Happy? Word of advice: Don't expect too much from a puppet."
+            "Title": "행적 활성화",
+            "Voice": "이쯤 해. 인형일 뿐이니까 너무 큰 기대는 하지 말고"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "You better be good. My time is precious."
+            "Title": "파티 편성•{NICKNAME}",
+            "Voice": "내 시간은 소중하니 네 실력을 뽐내봐"
         },
         {
-            "Title": "Added to Team With Arlan",
-            "Voice": "Why the long face? I'm not going to eat you."
+            "Title": "파티 편성•아를란",
+            "Voice": "왜 날 볼 때마다 그런 표정인데? 내가 널 잡아먹기라도 해?"
         },
         {
-            "Title": "Added to Team With Asta",
-            "Voice": "Asta! Here's the key. Gotta go now — bye."
+            "Title": "파티 편성•아스타",
+            "Voice": "아스타구나…! 그럼 안심하고 너한테 맡길래, 안녕~"
         },
         {
-            "Title": "Added to Team With Himeko",
-            "Voice": "You know the drill — send me all your new toys, and I'll return them later."
+            "Title": "파티 편성•히메코",
+            "Voice": "여전하네. 처음 보는 물건이 있으면 우선 나한테 빌려줘 봐"
         },
         {
-            "Title": "Added to Team With Ruan Mei",
-            "Voice": "I don't usually get to see you outside the Simulated Universe. Who do you want to experiment on this time?"
+            "Title": "파티 편성•완•매",
+            "Voice": "시뮬레이션 우주 밖에서 널 만나다니, 이번엔 누구로 실험하려고? 내 도움이 필요하면 말해"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Oh, poor you..."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "그러면… 안 돼"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "And you're supposed to be stronger?"
+            "Title": "전투 시작•위험 경보",
+            "Voice": "조금 더 강할 뿐이야"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "What are you looking at?"
+            "Title": "턴 시작•1",
+            "Voice": "보긴 뭘 봐?"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "You must be honored to meet me?"
+            "Title": "턴 시작•2",
+            "Voice": "날 만나서 영광이지?"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Idle mode... *yawn* How boring."
+            "Title": "턴 대기",
+            "Voice": "대기 중… 나 심심해"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "This is gonna hurt."
+            "Title": "일반 공격",
+            "Voice": "아플걸?"
         },
         {
-            "Title": "Skill",
-            "Voice": "Maybe you can keep it down!?"
+            "Title": "전투 스킬",
+            "Voice": "조용히 좀 할 수 없을까!?"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "I won't break."
+            "Title": "약공격 피격",
+            "Voice": "망가질 수 없지"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "I'm breaking!"
+            "Title": "강공격 피격",
+            "Voice": "망가지겠어!"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Do you know who I am?"
+            "Title": "필살기•활성화",
+            "Voice": "내가 누군지 알아?"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Ever see a diamond this big? It's all yours~"
+            "Title": "필살기•발동",
+            "Voice": "이렇게 큰 다이아는 처음이지? 너 줄게~"
         },
         {
-            "Title": "Talent 1",
-            "Voice": "Time to twirl~"
+            "Title": "특성•1",
+            "Voice": "빙글뱅글~"
         },
         {
-            "Title": "Talent 2",
-            "Voice": "Time to twirl!"
+            "Title": "특성•2",
+            "Voice": "떼굴떼굴~"
         },
         {
-            "Title": "Downed",
-            "Voice": "Connection... lost..."
+            "Title": "전투 불능",
+            "Voice": "연결… 단절……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Rebooting..."
+            "Title": "전투 복귀",
+            "Voice": "재… 가동……"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "How appropriate."
+            "Title": "HP 회복",
+            "Voice": "재치 있네"
         },
         {
-            "Title": "Technique",
-            "Voice": "Upgrade configured."
+            "Title": "비술",
+            "Voice": "사양 업그레이드"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "How am I gonna get that time back!"
+            "Title": "전투 승리",
+            "Voice": "시간을 낭비했잖아!"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "That's it?"
+            "Title": "전리품 오픈•1",
+            "Voice": "겨우 이거야?"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Meh, acceptable quality."
+            "Title": "전리품 오픈•2",
+            "Voice": "응? 괜찮네"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Awesome. Cool. Can we go now?"
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "좋아 좋아"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "It took you that long?"
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "이렇게 오래 생각한다고?"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "I can do this in my sleep."
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "이 정도는 눈 감고도 풀지"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Now, how should I dispose of you?"
+            "Title": "적 발견",
+            "Voice": "어떻게 할지는 내 기분에 달렸어"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Is there anything interesting here? I doubt it."
+            "Title": "도시로 복귀",
+            "Voice": "이곳에 내가 흥미를 느낄 수 있는 게 있다고? 그럴 리가"
         }
     ]
 }

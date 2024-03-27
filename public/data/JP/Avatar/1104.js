@@ -448,23 +448,23 @@ var _story_ = {
     "1104": [
         {
             "_id": 1,
-            "Story": "The honorable and upstanding captain of the Silvermane Guards who bears the noble Landau family name.<br>In the frost-whipped city of Belobog, life can still go on in normality...<br>This is in no small part thanks to Gepard and his Silvermane Guards who protect the peace of everyday life."
+            "Story": "高潔で実直なシルバーメインの戍衛官、高貴なる血脈のランドゥー家の者。<br>常に吹雪で覆われたベロブルグで、人々が衣食住に困らないのは——<br>ジェパードと彼の率いるシルバーメインが、その日常を守っているからである。"
         },
         {
             "_id": 2,
-            "Story": "The young captain stands atop the northern rampart.<br><br>He surveys the pale wastelands before him, and watches the strange beings from the Fragmentum forming a broiling swarm in the distance amid the snow. He sees the fearless Silvermane Guards lining up in formation to guard the city, like a defensive parapet.<br><br>That was his original position. Back when he was still a humble private, he'd sworn to serve as Belobog's strongest shield and pledged to live and die with his comrades. This hasn't changed when he became a captain. This isn't some fireside joke of the Silvermane Guards, because Qlipoth is testimony to this oath.<br><br>However, right at this time, he isn't where he should be — and this is at the request of the Supreme Guardian.<br><br>What exactly is the Supreme Guardian thinking? The young captain has no idea. But he soon forces himself to focus on the conflict at hand.<br><br><i>\"Remember, Gepard Landau.\"<br>\"Doubt breeds arrogance, and doubt breeds evil. As a model for Belobog, you shouldn't overthink.\"</i><br><br>The young captain stands atop the northern rampart."
+            "Story": "若き戍衛官は北の稜堡の上に立っている。<br><br>彼は真っ白で果てしない大地を見下ろした。彼は裂界の異形が広がる雪線の中で逆巻く暗雲になるのを見た。そしてシルバーメインが恐れずに、まるで強固な胸壁のように並んでいるのを見た。<br><br>そこは彼がいるはずだった場所だ。まだ彼がしがない兵卒だった頃、ベロブルグで最も堅固な盾になり、戦友と生死を共にすることを誓った——戍衛官になった今でも、それは変わらない——これはシルバーメインが焚火を囲んだ夜に語った戯言ではない。あのクリフォトが見届けた真の誓いなのだ。<br><br>しかし、この時の彼は本来いるべき場所にいなかった——なぜなら、そう大守護者に要求されたからである。<br><br>大守護者様は一体何を考えているんだ？若い戍衛官には理解できなかったが、彼は目下の戦いに集中するよう自分の気持ちを切り替えた。<br><br><i>「忘れるな、ジェパード・ランドゥー——」<br>「疑いは傲慢と邪念を生む。ベロブルグの模範として、余計なことを考えてはいけない」</i><br><br>若き戍衛官は北の稜堡の上に立っている。"
         },
         {
             "_id": 3,
-            "Story": "After the most epic of battles, the few surviving Silvermane guards made their way back to Belobog. The Supreme Guardian ordered an immediate parade to celebrate this hard-earned victory. For more than three days and nights, the whole city reveled in a carnival with great laughter and joy. The celebration reached its climax at an awards ceremony for the Silvermane Guards.<br><br>Under the watchful gaze of the crowds, the Supreme Guardian presented an award to the greatest soldiers for outstanding military service. This young captain from a noble house quietly puts on the arm armor forged out of Geomarrow — Light, flexible, and strong, while radiating a light reminiscent of auroras — That's the only impression he had of this treasure.<br><br>How many of his comrades' lives had been exchanged for such a glorious medal? He forces himself not to think about it. For now, he could only meet the expectations of the Supreme Guardian and all of Belobog with a smile — because this is what a loyal soldier must do.<br><br>The moment the captain finishes putting on the arm armor, a brilliant beam of light shoots out from the joints between the plates. The crowd erupts into a spontaneous and prolonged applause.<br><br>Nobody sees the weary faces beneath the helmets of those Silvermane Guards — they merely thought this is a triumphant victory."
+            "Story": "壮絶な戦いの後、僅かに残ったシルバーメインはベロブルグに帰還した。大守護者はこの容易ではない勝利を祝して、直ちに祝典を開くよう命じた。都市は3日間にわたって歓喜の声に包まれ、祝典の雰囲気はシルバーメインの勲章授与式で最高潮に達した。<br><br>群衆が見守る中、大守護者は今回の兵役で最も優れた軍功をあげた者に奨励を与えた。ベロブルグの名家に生まれた若き戍衛官は、ただ静かに地髄を鍛えて作られた腕甲を身につけようとする——軽く、動きやすく、強靭で、オーロラのような輝きを放っている——これが彼がこの宝に対して抱いた印象だった。<br><br>この名誉ある勲章のために、どれだけの戦友の命が引き換えになったのだろう？そのことについては考えないよう、彼は自分に言い聞かせた。今は大守護者とベロブルグの期待に笑顔で応えるしかない。なぜなら、それが忠実な兵士がやるべきことだからだ。<br><br>戍衛官が腕甲を完全に装着した瞬間、激しい光が甲冑の連結部分から飛び出した。そして次の瞬間、式典の観客席から鳴りやまぬ拍手の音が聞こえた。<br><br>人々はシルバーメインの兜の下にある疲れた相貌を知らない——彼らはこれを凱旋だと思っている。"
         },
         {
             "_id": 4,
-            "Story": "The Supreme Guardian made the correct choice.<br><br>After the war, many residents of Belobog could finally let out a sigh of relief and pick up the pieces of their simple lives. However, not even the Captain himself could have imagined that after this facade for peace, they would face an ever more tragic all-out war. Without outside help, this protracted war would usher in the demise of all Belobog.<br><br>Right now, he is checking whether his shield, Earthwork, is still functioning as before. This heavy force field device was hand-crafted by his sister out of an instrument case — and if anything is broken, the poor captain would have to rely on his rockstar of a sister to help fix it.<br><br><i>\"Gepard, if — and I do mean, if — \"</i> he thinks back to her words, <i>\"If one day, the Supreme Guardian orders you to abandon the people of Belobog to complete some goal of hers... What would you do?\"</i><br><i>\"She would never do that. She is the Supreme Guardian.\"</i> He was resolute.<br><i>\"I'm speaking hypothetically.\"</i> She looked at him.<br><i>\"I'm not sure why you're asking, but I've pledged an Oath of Preservation to Qlipoth. I will protect Belobog and her people at any cost — including my own life, of course.\"<br>\"If one day, protecting the people means disobeying the Supreme Guardian's orders — and if either choice would land me in danger — then I'd still choose the former, because that is what I'm supposed to do.\"</i><br>They both fell silent, before she laughed out loud.<br><i>\"Gepard, oh Gepard...\"<br>\"You really are a Landau, aren't you?\"</i>"
+            "Story": "大守護者の決定は正しかった。<br><br>戦いが終わった後、ベロブルグの多くの人々はようやく一息つき、また新たに不完全で簡素な日常を始めた。しかし、戍衛官を含めた人々は知らなかった——偽りの平和の後に彼らが直面するのは、さらに悲惨で長い戦いであることを。外界からの干渉がなければ、この長い戦いはベロブルグの陥落で終わっていただろう。<br><br>この時、彼は寝室で自分の盾である「砦」のメンテナンスをしていた。この重い力場防御装置は、彼の姉がギターケースを改造したものである——もし本当に「砦」に問題があれば、哀れな戍衛官は一貫して自分を解き放っているロックスターに助けを求めなければならない。<br><br><i>「ジェパード。もしも、もしもだよ…」</i>彼は彼女の言葉を思い出した。<i>「もしある日、大守護者が自分の目的を果たすために、ベロブルグの市民を見捨てるよう命じたら…あんたはどうする？」</i><br><i>「彼女はそんなことは言わない。彼女は大守護者だから」。</i>彼はきっぱりと答えた。<br><i>「もしもって言ったじゃん」。</i>彼女は彼を見つめた。<br><i>「なぜそんなことを聞くのか理解できないが、僕はクリフォトに存護の誓いを立てた。ベロブルグと彼女の人民を守るためなら、どんな代価でも支払うつもりだ——もちろん、それには僕の命も含まれている」<br>「もしある日、人々を守ることが大守護者様の命令に背くことになり、どのような選択をしても危機的状況になる時がきたら、僕は前者を選ぶ。なぜなら、それが僕のやるべきことだからだ」</i><br>2人は沈黙したが、やがて彼女は声を上げて笑い出した。<br><i>「ジェパード、あんたって奴は……」<br>「さすがランドゥー家の人だよ」</i>"
         },
         {
             "_id": 5,
-            "Story": "The young captain stands atop the northern rampart.<br><br>He glances out the corner of his eye at the esteemed Guardian. He sees her head held high as she gazes into the blizzard, as if nothing in the city below has anything to do with her. Her people could not make her happy or angry, sad, or scared. There is only emptiness in those eyes.<br><br>What exactly is the Supreme Guardian thinking? The young captain racks his brains, but could not find any answer.<br><br>The cacophony of elegant bagpipes explodes in the air to signify the beginning of the assault, instantly shredding the snow curtain — and those brave warriors in blue uniform respond to the call, lifting up their halberds one after the other and pointing the tips at the swarming hordes of alien monsters. Beneath the cover of artillery, they commence their charge to the death.<br><br>Gepard Landau, what should you think about this? The young captain racks his brains.<br><br><i>\"Remember, Gepard Landau — \"<br>\"You will defend Belobog and her people at any cost — you will never let down the people you're supposed to protect... Never bring the Landau name into shame!\"</i><br><br>This time, the young captain finally finds his answer<br>— as he strides out towards the battlefield."
+            "Story": "若き戍衛官は北の稜堡の上に立っている。<br><br>彼は大守護者を横目で見た。まるで城下のすべてなど無関係だとでも言うように、彼女は顔を上げて吹雪の奥を見つめている。彼女の民は彼女を喜ばせることも、怒らせることも、悲しませることも、驚かせることもない。彼女の瞳の中には果てしない虚無しかなかった。<br><br>大守護者様は一体何を考えているんだ？若い戍衛官は考えたが、答えは得られなかった。<br><br>進攻を知らせるバグパイプの音が響き渡り、一瞬にして雪のカーテンを切り裂いた——青い衣を身に纏った勇敢な戦士たちは、音楽の呼びかけに応じて次々と長戟を掲げ、嵐のように集まってくる異界のモンスターに銃の照準を合わせる。砲火の援護を受けながら、彼らは命を懸けた突撃を始めた。<br><br>ジェパード・ランドゥー、お前は今何を考えている？若い戍衛官は思案に耽った。<br><br><i>「忘れるな、ジェパード・ランドゥー——」<br>「ベロブルグと彼女の人民を守るんだ。如何なる代価を払っても——守っている人々を裏切るな…ランドゥー家に恥をかかせるな！」</i><br><br>今回、若き戍衛官は内心で答えを求めた。<br>——そして、彼は戦場に向かった。"
         }
     ]
 }
@@ -472,188 +472,188 @@ var _story_ = {
 var _voice_ = {
     "1104": [
         {
-            "Title": "First Meeting",
-            "Voice": "My name is Gepard Landau, I'm a captain of the Silvermane Guards. If you discover anything suspicious in the city, you can always report it to me."
+            "Title": "初対面",
+            "Voice": "ベロブルグのシルバーメイン戍衛官、ジェパード・ランドゥーだ。街で何か異変に気づいたら、報告してくれ。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "You're here. I just finished training."
+            "Title": "挨拶",
+            "Voice": "君か。ちょうど鍛錬が終わったところだ。"
         },
         {
-            "Title": "Parting",
-            "Voice": "My apologies, I still have an assignment to attend to. I'll have to see you off from here."
+            "Title": "お別れ",
+            "Voice": "すまない、僕はまだ任務があるから、ここで君を見送らせてもらう。"
         },
         {
-            "Title": "About Self",
-            "Voice": "As a Silvermane Guard, I observe the oath not because I fear to go against it, but because I am obliged to uphold it."
+            "Title": "自分について",
+            "Voice": "シルバーメインとして、誓いを厳守しているのは僕たちに裏切りはないと信じているからだ。誓いを破ることを恐れているわけではない。"
         },
         {
-            "Title": "Chat: Belobog",
-            "Voice": "Belobog is far from buried in the snow curtain. This city is the planet's last bastion against the ferocity of the Eternal Freeze."
+            "Title": "世間話・ベロブルグ",
+            "Voice": "ベロブルグは風雪に隠れているだけではない。この星の吹雪に抗う最後の砦として機能しているんだ。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I grow flowers, *sigh* ...It's just that I'm not very good at it."
+            "Title": "趣味",
+            "Voice": "花を育てることだが、あまり得意とは言えないんだ。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "My sister's songs are very popular among the Guards — there's always someone singing one when we're off duty. Recently I've found myself humming them without realizing, even when I'm on duty... *sigh*"
+            "Title": "悩み事",
+            "Voice": "姉さんの歌がシルバーメインで流行っているんだ。休憩中にずっと聞こえてくるから、巡回の時に無意識のうちに口ずさんでしまっていた。はあ……"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "The Landau family has had the honor and responsibility of serving the supreme guardians for generations. Only by becoming a shield for the people is one worthy of the title \"Architect.\""
+            "Title": "シェア",
+            "Voice": "ランドゥー家は代々大守護者様に仕えているんだ。これは名誉なことであり、果たすべき責任でもある。人々の頼れる盾となることで、ようやく安心して、ランドゥー家に与えられた「建創者」の称号という名誉を手にすることができるんだ。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Lately, many children have come to ask me how to become a captain... *sigh* To be honest, the best advice I can give is to keep training and have a balanced diet."
+            "Title": "見聞",
+            "Voice": "最近、よく子供たちから、どうすれば戍衛官になれるかと聞かれるんだ…正直なところ、運動とバランスの取れた食事を心がけること以外、有益なアドバイスが思いつかない。"
         },
         {
-            "Title": "About Bronya",
-            "Voice": "Lady Bronya has ventured deep into the most dangerous regions of the front line with us — many times for that matter."
+            "Title": "ブローニャについて",
+            "Voice": "ブローニャ様は幾度も危険な前線に赴き、僕たちと一緒に戦っている。"
         },
         {
-            "Title": "About Serval",
-            "Voice": "Many people seem to like talking about how my sister changed since she left the Guards, but in reality... she's exactly the same person."
+            "Title": "セーバルについて",
+            "Voice": "多くの人は姉さんが退職した後の変化に興味があるようだが、実を言うと…彼女は少しも変わっていない。"
         },
         {
-            "Title": "About Pela",
-            "Voice": "I heard my sister started asking Pela to look after my flowers when I'm away... I hope it's not too much trouble for her."
+            "Title": "ペラについて",
+            "Voice": "僕が家にいない間、姉さんは花の世話をペラ士官に任せているらしい…彼女の負担になっていないといいんだが。"
         },
         {
-            "Title": "About Cocolia",
-            "Voice": "I've always firmly believed that no one knows this city better or loves it more than the supreme guardian."
+            "Title": "カカリアについて",
+            "Voice": "大守護者様ほど、この町を知り尽くし、愛している者はいないと断言できる。"
         },
         {
-            "Title": "About Sampo",
-            "Voice": "He's very... cunning. According to leads provided by citizens, he's got his hands on a number of ancient relics. He sold off most of them, but it seems he's using others to commit various frauds."
+            "Title": "サンポについて",
+            "Voice": "彼は狡猾な男だ。一般人からの情報によると、彼はどこからか古代遺物を手に入れ、それを全部売らず、人を騙すためにいくつか手元に残しているらしい。"
         },
         {
-            "Title": "About Lynx",
-            "Voice": "My little sister has a... peculiar streak. No, no, I don't mean a bad temper... *sigh* Let's just say she reminds me more of Serval than me."
+            "Title": "リンクスについて",
+            "Voice": "うちの妹は少し…変わった子なんだ。いや、性格が悪いという意味ではない——ただ、あの子には健康で、たくましく育ってほしい。だから、姉さんと同じ回り道を歩ませたくないんだ。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "The Silvermane Guards stand ready to defend Belobog."
+            "Title": "星魂覚醒",
+            "Voice": "シルバーメインとベロブルグが永屹であらんことを。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "One bridgehead at a time."
+            "Title": "キャラクター昇格",
+            "Voice": "着実に、一歩ずつ進もう。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Medals of the past won't win the battles of tomorrow."
+            "Title": "レベルMax",
+            "Voice": "輝かしい実績は過去のもの、自惚れてはならない。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Essential to a Silvermane Guard's progression."
+            "Title": "軌跡覚醒",
+            "Voice": "これはシルバーメインに必要な素養だ。"
         },
         {
-            "Title": "Added to Team With Pela",
-            "Voice": "The troops are counting on your intel, Officer Pela."
+            "Title": "パーティ編成・ペラ",
+            "Voice": "今回も君の分析を頼りにしている、ペラ士官。"
         },
         {
-            "Title": "Added to Team With Serval",
-            "Voice": "Stay alert, sis. This is a different kind of arena."
+            "Title": "パーティ編成・セーバル",
+            "Voice": "姉さん、戦場はステージじゃない。油断はしないように。"
         },
         {
-            "Title": "Added to Team With Lynx",
-            "Voice": "Don't run ahead, Lynx."
+            "Title": "パーティ編成・リンクス",
+            "Voice": "リンクス、僕の後ろに立っていろ。あまり前に出るな。"
         },
         {
-            "Title": "Added to Team With Bronya",
-            "Voice": "I will fight alongside you, Lady Bronya."
+            "Title": "パーティ編成・ブローニャ",
+            "Voice": "ブローニャ様、私も共に戦います。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "This ends here."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "そこまでだ。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Strengthen our defenses."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "守りを固めろ。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "I hope you're prepared."
+            "Title": "ターン・1",
+            "Voice": "覚悟しろ。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "You will know justice."
+            "Title": "ターン・2",
+            "Voice": "正義はここにあり。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "*Ahem* We have a situation at hand."
+            "Title": "戦闘中待機",
+            "Voice": "状況は切迫している。"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "The die is cast."
+            "Title": "通常攻撃",
+            "Voice": "勝負ありだ。"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Is that all?"
+            "Title": "攻撃を受ける",
+            "Voice": "この程度か。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "It'll heal."
+            "Title": "重撃を受ける",
+            "Voice": "かすり傷だ。"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "In the name of Landau."
+            "Title": "必殺技・アクティブ",
+            "Voice": "ランドゥーの名の下に。"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Years of cold hardens the will. We shall never fall!"
+            "Title": "必殺技・発動",
+            "Voice": "氷雪を越え、築きしこの志、朽ちることはない！"
         },
         {
-            "Title": "Talent",
-            "Voice": "I'm here to the end."
+            "Title": "天賦",
+            "Voice": "最後まで付き合おう。"
         },
         {
-            "Title": "Downed",
-            "Voice": "I... can't..."
+            "Title": "戦闘不能",
+            "Voice": "僕はっ…まだ…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "I'm still needed."
+            "Title": "戦闘に戻る",
+            "Voice": "まだ幕切れの時じゃない。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "You have my gratitude."
+            "Title": "HP回復",
+            "Voice": "感謝する。"
         },
         {
-            "Title": "Technique",
-            "Voice": "I'm with you."
+            "Title": "秘技",
+            "Voice": "僕がいる。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "We caught them unawares."
+            "Title": "戦闘勝利",
+            "Voice": "想定外の反撃だったな。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "A little goes a long way."
+            "Title": "戦利品を開ける・1",
+            "Voice": "少しずつ貯めていこう。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Allocate these resources appropriately."
+            "Title": "戦利品を開ける・2",
+            "Voice": "この資源は慎重に分配しなければ。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "We should put these to good use."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "うまく活用しよう。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Well done."
+            "Title": "謎解きに成功・1",
+            "Voice": "よくやったな。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Practice makes perfect."
+            "Title": "謎解きに成功・2",
+            "Voice": "習うより慣れろ、だな。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Seize the initiative."
+            "Title": "敵ターゲット発見",
+            "Voice": "チャンスを掴め。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "If we're not on patrol, we should get some rest."
+            "Title": "町に戻る",
+            "Voice": "見回りの合間に少し休んだらどうだ？"
         }
     ]
 }

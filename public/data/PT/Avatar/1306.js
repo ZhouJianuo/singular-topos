@@ -1036,7 +1036,7 @@ var _voice_ = {
         },
         {
             "Title": "Something to Share",
-            "Voice": "So, we've got this arrogant Aeon named \"Nanook\" out there in the cosmos, and they genuinely believe that, without them, the entire universe <i>wouldn't</i> be headed straight for \"Destruction!\" Not funny? Okay, wanna hear my \"Preservation\" version?"
+            "Voice": "So, we've got this arrogant Aeon named \"Nanook\" out there in the cosmos, and THEY genuinely believe that, without THEM, the entire universe <i>wouldn't</i> be headed straight for \"Destruction!\" Not funny? Okay, wanna hear my \"Preservation\" version?"
         },
         {
             "Title": "Knowledge",
@@ -1081,6 +1081,10 @@ var _voice_ = {
         {
             "Title": "Added to Team With Sampo",
             "Voice": "Shouldn't the \"Fool\" introduce himself to everyone?"
+        },
+        {
+            "Title": "Added to Team With Aventurine",
+            "Voice": "Look who's graced us with their presence! Guess I'll be in your shadow now."
         },
         {
             "Title": "Battle Begins: Weakness Break",

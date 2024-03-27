@@ -401,23 +401,23 @@ var _story_ = {
     "1008": [
         {
             "_id": 1,
-            "Story": "The inarticulate head of the Herta space station's Security Department.<br>While scientific research is beyond his understanding, Arlan is willing to risk his life to protect the staff who value research so very much. He is used to pain and wears his scars like badges of honor.<br>Only when holding Peppy does the boy let down his guard and show a rare smile."
+            "Story": "口下手な宇宙ステーション「ヘルタ」の防衛課責任者。<br>研究についての知識はないが、それを何よりも大切にしているスタッフたちが各々の研究を成し遂げられるよう、彼らを守ることに命を懸けている。<br>ペペを抱っこしている時だけ、少年は警戒心を解いて滅多に見せない笑みを浮かべるのだ。"
         },
         {
             "_id": 2,
-            "Story": "How is Arlan's work in the Security Department?<br>— Brother Arlan is the beacon that guides the Security Department, the core support for everyone's battles! Without him, the space station would fall to pieces in a day. Without him, people's lives would be ruined in ten days. Without him, the station would be hellish in just one hundred days!<br>— But he plays holodisc with Peppy during work hours.<br>— Because he's finished all daily security tasks ahead of schedule! His mere presence is an inspiration to us all.<br>— But he plays holodisc with Peppy during work hours.<br>— How do you know that playing holodisc with Peppy isn't actually part of his job description...<br><br><i>\"You're not allowed to play with your phone while out on patrol. Give it to me.\"<br>\"No, brother Arlan! People are talking smack about you in the group chat! Don't you care?\"<br>\"Nope. Too busy.\"<br>\"Huh, have you got an urgent mission? Let me go with you. What happened?\"<br>\"I'm taking Peppy to do rehab through play holodisc.\"</i>"
+            "Story": "防衛課でのアーランの仕事ぶりをどう思うか？<br>——アーランさんは防衛課を導く光であり、俺たちの戦いを支える核です！アーランさんが1日いなかったら宇宙ステーションは被災者で溢れ、アーランさんが 10 日いなかったら誰も安心して過ごせなくなる。そしてアーランさんが 100 日いなかったら、宇宙ステーションは煉獄と化すでしょう！<br>——でも彼は勤務時間内にペペと電子フリスビーで遊んでいる。<br>——それはアーランさんが防衛課の日常訓練を早めに終わらせたからですよ！アーランさんの姿を見ることは、俺たちの励みにもなるんです。<br>——でも彼は勤務時間内にペペと電子フリスビーで遊んでいる……<br>——なんでペペと電子フリスビーで遊ぶことがアーランさんの仕事じゃないと……<br><br><i>「巡回中にスマホをいじるな。没収だ」<br>「違うんです、アーランさん。グループであなたの悪口を言っている人がいて…このままでいいんですか？」<br>「そんなことを気にしている時間はない」<br>「え、緊急任務ですか？俺も一緒に行きます。何が起きたんですか？」<br>「ペペをリハビリに連れて行く。電子フリスビーで遊ぶつもりだ」</i>"
         },
         {
             "_id": 3,
-            "Story": "There are countless strange and valuable things around Miss Asta's house, but it's the dog at death's door that attracts the most attention.<br><br>What's more, her forlorn cries only increase in volume as her parents attempt to comfort her — telling her that this dog she picked up won't live for very long, and they are better off buying her another one.<br><br>That filthy pup just lies there without the strength to even lift up its head and look around the people surround it. The crying, arguing, and the silence... None of this has anything to do with it.<br><br>At one point, he thinks it had already stopped breathing, so he bends down to check its nose. Just then, the dog suddenly licks his fingers — which is about the farthest distance it can stretch.<br><br>— Its tongue is wet.<br><br><i>\"Wanna play holodisc?\"</i><br><br>Its lifeless eyes suddenly light up."
+            "Story": "アスターの家には奇妙で貴重なものが数え切れないほどあるが、今は1匹の瀕死の子犬が注目を集めていた。<br><br>彼女は悲しみのあまり泣いている。拾ってきた犬は長生きできない。代わりに別の犬を買ってこようと両親が彼女を慰めるが、それを聞いた彼女はさらに大きな声で泣き喚いた。<br><br>薄汚れた子犬はただそこに横たわっている。頭を持ち上げ周りを見る力すら残っていないのだ。泣き声も、口論も、沈黙も、すべてが子犬とは無関係だった。<br><br>彼は子犬の呼吸が止まったのではないかと思い、しゃがみ込んで子犬の鼻先で呼吸を確かめようとする。すると突然、子犬が彼の指を舐めた。これは子犬が力を振り絞って触れることのできる、最も遠い距離だ。<br><br>——子犬の舌は、湿っていた。<br><br><i>「電子フリスビーで遊ぶか？」</i><br><br>虚ろな目に光が宿った。"
         },
         {
             "_id": 4,
-            "Story": "He stops pacing in the corridor and gazes out of the window into the tranquility of deep space, the dark circles around his eyes reflecting back at him.<br><br>Another pair of bloodshot eyes appears at the window. Their owner looks more relaxed than she usually does before the researchers, and absentmindedly lets out a huge yawn.<br><br><i>\"You're up late. Not going to bed?\"<br>\"I'm feeling anxious, so I'm just out for a patrol...\"<br>\"I just updated the firmware for the defense shield, and security systems are all operating smoothly.\"<br>\"Maybe I'm overthinking things, but...\"<br>\"I understand. You're the head of security, and I trust your instincts.\"</i><br><br>The space station remains brightly lit and operates without a stop. They each return to their respective posts.<br><br>They both know that regardless of the protection of Madam Herta's fame, the defensive measures around the space station, and the round-the-clock vigilance of the Security Department — if a disaster was to occur...<br><br>It would only take seconds."
+            "Story": "彼は廊下で足を止め、窓の外を眺めた。宇宙は静かで、彼の目の下のクマを映している。<br><br>窓に別の充血した目が映った。その目の主は普段スタッフの前にいる時よりもリラックスしているようで、何も気にすることなく大きなあくびをした。<br><br><i>「こんな時間なのに、まだ寝ないの？」<br>「なんだか落ち着かなくて、少し巡回しようと思いまして……」<br>「シールドのコードは更新したばかりだし、セキュリティシステムも正常に作動してるのに？」<br>「俺の考えすぎかもしれませんが……」<br>「わかった。貴方は防衛課の責任者だから、私は貴方の直感を信じるわ」</i><br><br>宇宙ステーションは依然として明るく、昼夜を問わず運行している。彼らは各自の持ち場に戻った。<br><br>彼らは理解している。ミス・ヘルタの光に包まれていようと、宇宙ステーションの防衛措置に守られていようと、防衛課が日夜眠らずにいようと、もし危機が訪れたとすれば……<br><br>それは一瞬の出来事であると。"
         },
         {
             "_id": 5,
-            "Story": "<i>\"Everyone's evacuated. Arlan. Hurry up!\"<br>\"There may still be survivors inside.\"<br>\"No... There aren't any more life signs in there.\"</i><br><br>He thought he could trust Asta until the moment when countless Antimatter Legion pawns pour towards him like a tsunami. The signal from the watcher zone is faint. Asta won't be able to see this situation.<br><br>He is now standing, alone, in the elevator. He has to make a decision, even if he has to disobey Asta's orders — No matter the cost, he has to block access to the elevator to save everyone. He cannot allow these monsters to get to the master control zone.<br><br><i>\"Sorry, Miss Asta...\"</i><br><br>The Antimatter Legion strikes him down from behind before he can explain himself. He falls, and his remote communications disconnects.<br><br>He had never hesitated, whether working in Miss Asta's home or after becoming Herta Space Station's head of Security Department. He had always taken for granted that, since Miss Asta decided to head in one direction, he has to follow her.<br><br>Arlan raises his head with great difficulty, and the monsters move closer to him. He had never disobeyed an order from Miss Asta before. This is the first time.<br><br><i>\"Hopefully it won't be the last time.\"</i><br><br>This thought pops up in his head.<br><br>Propping himself up with his greatsword, he slowly and firmly stands up."
+            "Story": "<i>「みんな避難したわ！アーラン、貴方も早く避難して！」<br>「まだ生き残っているスタッフがいるかもしれません」<br>「いないわ…もう他に生命シグナルはないの」</i><br><br>アーランはアスターを信じるべきだと理解していた――反物質レギオンが彼のもとに押し寄せてくるまでは。監察区からの信号は微弱で、アスターにはこの画面が見えていないのだ。<br><br>この時、彼はエレベーターの前に立っていた。ここにいるのは彼だけで、アスターの命令に逆らってでも、自分で判断するしかない——彼らを守るためには、どんな犠牲を払ってでもエレベーターの権限を遮断し、これ以上モンスターを主制御部分に近づけないようにしなければならない。<br><br><i>「申し訳ありません。お嬢様……」</i><br><br>アーランは説明する間もなく、反物質レギオンに背後から襲われ、倒れた。それに伴い、遠距離通信も途切れてしまった。<br><br>アスターの家で働いていた時も、宇宙ステーション「ヘルタ」で防衛課の責任者になった時も、「躊躇」したことがなかったことを彼は思い出した。なぜなら、お嬢様が進む方向を決めた以上、自分も当然のようにそれについていくからである。これは当たり前のことだった。<br><br>アーランが何とか顔を上げると、モンスターが近づいてきて彼を取り囲んだ。今まで彼がお嬢様の命令に逆らったことはない。これが初めてだった。<br><br><i>「これが最後にならなければいいが……」</i><br><br>ふと、そんな考えが頭を過ぎった。<br><br>彼は大剣で自分の身体を支え、ゆっくりと、しかし確実に身体を起こした。"
         }
     ]
 }
@@ -425,168 +425,168 @@ var _story_ = {
 var _voice_ = {
     "1008": [
         {
-            "Title": "First Meeting",
-            "Voice": "Hello, Trailblazer. I'm Arlan, I head up the Security Department on Herta Space Station. I'll be in charge of your safety during your time here."
+            "Title": "初対面",
+            "Voice": "俺は宇宙ステーション「ヘルタ」防衛課の責任者アーランだ。宇宙ステーションにいる間は、全力で貴様を守ろう。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Seed Isle's latest flavors of dried earthworm hit the shelves today — we should head over before the queue starts. The early bird catches the... anyway."
+            "Title": "挨拶",
+            "Voice": "今日はシードアイランドの新フレーバー、ミミズ干し味の発売日だ。今行けば、並ばずに買えるぞ。"
         },
         {
-            "Title": "Parting",
-            "Voice": "You should have some mixed vegetable juice before bed — it helps you sleep. Well, I'm on night duty tonight. See you tomorrow."
+            "Title": "お別れ",
+            "Voice": "寝る前には野菜スムージーを飲むといい。よく眠れる。俺は夜勤があるから、明日また会おう。"
         },
         {
-            "Title": "About Self: Looking for Peppy",
-            "Voice": "We've held the Space Station Peppy-Finding Contest nine times so far, and I've... I've won it nine times in a row."
+            "Title": "自分について・ペペを見つけろ",
+            "Voice": "「宇宙ステーション『ペペを見つけろ』大会」はもう9回も開催されている。俺は…毎回優勝しているが。"
         },
         {
-            "Title": "Chat: On Patrol",
-            "Voice": "I try to be inconspicuous when I'm on patrol. That way, I can avoid disturbing the researchers while they work and observe their utmost concentration."
+            "Title": "世間話・見巡り",
+            "Voice": "巡回をしている時は、できるだけ目立たないようにしている。スタッフの邪魔にならずに済むし、彼らが仕事に最も打ち込んでいる姿を見ることができるからな。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "You should keep your sword sharp at all times."
+            "Title": "趣味",
+            "Voice": "大剣は常に清潔に保たなければならない。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "Oh, man! The phone case shipping location is too far from the space station — you have to buy 5000 units for them to deliver... Wait, please don't tell Lady Asta that."
+            "Title": "悩み事",
+            "Voice": "スマホケースの出荷場所は宇宙ステーションからは遠く、 5000 個以上買わないと発送されないんだ…やめろ、お嬢様には言わないでくれ。"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "There are some sword fragments housed here on the space station, but I can't find them in the pictographic index... They must be pretty special."
+            "Title": "シェア",
+            "Voice": "図鑑では、宇宙ステーションに収容されている大剣の破片を確認できない…きっと特殊なものなんだな。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "I heard the researchers say that there are some curios that actively requested to come to the space station."
+            "Title": "見聞",
+            "Voice": "スタッフが言うには、これらの奇物は、自ら宇宙ステーションに来ることを望んだそうだ。"
         },
         {
-            "Title": "About Asta",
-            "Voice": "*sigh* ...I don't know why, but it seems like I manage to annoy Lady Asta fairly regularly."
+            "Title": "アスターについて",
+            "Voice": "…なぜかは分からないが、時々お嬢様を怒らせてしまうんだ。"
         },
         {
-            "Title": "About Herta",
-            "Voice": "I'm different from the researchers — I'm not what you'd call a \"follower\" of Madam Herta — but she still lets me work here."
+            "Title": "ヘルタについて",
+            "Voice": "他のスタッフと違い、俺はミス・ヘルタを追い求めてここに来たわけではない。だが、彼女は俺がここで働くことを黙認してくれた。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "I've found a home to protect."
+            "Title": "星魂覚醒",
+            "Voice": "俺は守るべき「家」を見つけたんだ。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "I can't afford to be complacent."
+            "Title": "キャラクター昇格",
+            "Voice": "いついかなる時も油断してはならない。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "The fruits of my training. I'll keep it up."
+            "Title": "レベルMax",
+            "Voice": "ああ、これは鍛錬の成果だ…みんなを守るために、これからも頑張ろう。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "You can learn new things by going back to the basics."
+            "Title": "軌跡覚醒",
+            "Voice": "日常の鍛錬でも、多少は新たな収穫がある。"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "Combat is an unavoidable risk, but be careful."
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "厳しい戦いになる。用心しろ。"
         },
         {
-            "Title": "Added to Team With Asta",
-            "Voice": "You should leave the fighting to me, Lady Asta."
+            "Title": "パーティ編成・アスター",
+            "Voice": "お嬢様、戦闘はお任せください。"
         },
         {
-            "Title": "Added to Team With Herta",
-            "Voice": "Madam Herta! A—Awaiting your orders!"
+            "Title": "パーティ編成・ヘルタ",
+            "Voice": "ミス・ヘルタ、ど…どうぞ、ご指示を！"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Your number is up."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "貴様ら、もう長くはない。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Nothing can stop me."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "俺を止められるものはない。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Fight to win."
+            "Title": "ターン・1",
+            "Voice": "戦うことで勝利は得られる。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Haven't learned your lesson?"
+            "Title": "ターン・2",
+            "Voice": "まだ教訓を得てないのか？"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "We have to go on the offensive."
+            "Title": "戦闘中待機",
+            "Voice": "早く攻勢に転じなければ。"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "As you wish."
+            "Title": "戦闘スキル・1",
+            "Voice": "望みを叶えてやる。"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Be silent."
+            "Title": "戦闘スキル・2",
+            "Voice": "全員黙れ！"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Hmm?"
+            "Title": "攻撃を受ける",
+            "Voice": "ん？"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Barely felt it."
+            "Title": "重撃を受ける",
+            "Voice": "もっと力を入れたらどうだ？"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Is that all you got?"
+            "Title": "必殺技・アクティブ",
+            "Voice": "これくらい、造作もない。"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Let me pay you back — tenfold!"
+            "Title": "必殺技・発動",
+            "Voice": "貴様らに、万倍の苦痛を与える！"
         },
         {
-            "Title": "Downed",
-            "Voice": "I can't protect you anymore..."
+            "Title": "戦闘不能",
+            "Voice": "みんなをっ、守れなかった…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "You can't fight from the grave."
+            "Title": "戦闘に戻る",
+            "Voice": "生きてこその戦いだ。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "I'm fine... thank you."
+            "Title": "HP回復",
+            "Voice": "俺なら大丈夫…ありがとう。"
         },
         {
-            "Title": "Technique",
-            "Voice": "You're in the way."
+            "Title": "秘技",
+            "Voice": "邪魔。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Even a little strength comes in useful."
+            "Title": "戦闘勝利",
+            "Voice": "この力、まだ少しは役に立つか。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "You keep it."
+            "Title": "戦利品を開ける・1",
+            "Voice": "貴様が持っておけ。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "I think I've seen these in our inventory..."
+            "Title": "戦利品を開ける・2",
+            "Voice": "倉庫で見たことがあるような……"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Did we get it all?"
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "ちゃんと納めたか？"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "That'll do it."
+            "Title": "謎解きに成功・1",
+            "Voice": "こんな感じだ。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Just like my days at the Security Department."
+            "Title": "謎解きに成功・2",
+            "Voice": "防衛課で練習したことがあるんだ。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Look up ahead."
+            "Title": "敵ターゲット発見",
+            "Voice": "前方に注意しろ。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "If there's no danger here, then I'm needed elsewhere."
+            "Title": "町に戻る",
+            "Voice": "戦わないのなら、何をすればいい？"
         }
     ]
 }

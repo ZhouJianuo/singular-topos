@@ -621,23 +621,23 @@ var _story_ = {
     "1212": [
         {
             "_id": 1,
-            "Story": "Former Sword Champion of the Luofu, and the reason behind the Cloud Knights' mythical reputation of implacable might.<br>Now, her name has been wiped from the records, and she is a traitor of the Xianzhou walking on the fine line between sanity and mara-struck."
+            "Story": "かつての羅浮の剣首、雲騎常勝の伝説を築いた者。<br>しかし今、その名は抹消され、魔陰の境を歩く仙舟の裏切り者となっている。"
         },
         {
             "_id": 2,
-            "Story": "A sword, 3 feet and 7 inches in length, that weighs nothing.<br>It was not forged from any ordinary iron, but condensed from a shaft of sharp ice. It glowed with a dim light, as if it were a sliver of moonlight held in the wielder's hand.<br><br><i>\"A sword, 3 feet and 7 inches in length, weighing about 7 catties. Hold it in your hand, and stab the sharp end towards the enemy.\"</i><br>With a gentle flip of her hand, the woman in armor called her sword. As if alive, the sword lept out of the weapon rack, sliding into her grasp and out of its sheath in one fell swoop. The blade then stabbed into the air beside the girl, humming intently.<br><i>\"You got that yet? If so, go fight the most common war beasts the borisin use in their ground forces. Once you've killed ten Bloodshot War Wyverns, I'll consider your first lesson completed.\"</i><br>She remained silent, her eyes darting left and right. This was her first time stepping out of the ward since being rescued, and the first time ever in her life she had touched a weapon known as a sword.<br><i>\"I have dismissed the healers and helpers. They won't come to you without my orders.\"</i><br><i>\"The calamity in Cangcheng left few survivors. I don't know what you've been through before the rescue arrived... But I don't want to see you wallow in past horrors like this for the rest of your life.\"</i><br><i>\"It's okay if you don't wanna talk. You can speak with this.\"</i><br><i>\"You can use this to vanquish the monsters that took everything from us. There are now few things as wondrous as this left in the world.\"</i><br>The woman in armor remained composed, her gaze cast onto the long sword by the girl's side.<br><br>The mirror-like blade showed her reflection. Then, a swarm of razor shards swirled up in a tempest, dragging the girl into her past — <br>In the dimly lit sky, the demonic planet named Rahu was wailing and singing, hurling towards everyone with lands and mountains ablaze.<br>On the streets, people were screaming, writhing and rolling in apocalyptic despair, as the golden tendrils sprouted and grew feverishly in every orifice of theirs.<br>She watched everything unfold, paralyzed. Her organs felt like they were boiling. Something suddenly surged and churned in her Core Esse, like a ripe wheat grain about to burst out of its husk and swell to infinity.<br>The mountains hurling towards her face made her realize, she was but a mayfly, about to perish at the mere flick of an Emanator's fingertip.<br><br>In that split moment before death claimed her, she grabbed the only thread she could hang by.<br>A sword, 3 feet and 7 inches in length, weighing about 7 catties."
+            "Story": "剣、長さ三尺七寸、この上なく軽い。<br>それは普通の鉄で鋳造されたものではなく、堅い氷を凝集させたものである。淡い光を放ち、まるで一筋の月の光を握っているかのようだ。<br><br><i>「剣、長さ三尺七寸、重さ七斤余り。手に持ち、鋭利な先端で敵を突き刺す」</i><br>軍装の女性が軽く手を振ると、剣は魂が宿ったかのように武器の棚から飛び上がった。そして女性の手の中で収まると同時に鞘から抜かれ、少女の横に突き立てられる。辺りには衝撃で剣が震える音が響いた。<br><i>「覚えた？覚えたなら、歩離人の陸戦で最もよく使われる戦獣を相手にしてみよう。血眼の睚眦を 10 体倒せば、最初の授業は終わり」</i><br>彼女は口を閉じたまま、ただ左右を見回す。これは彼女が救助されてから初めて病室を離れ、生まれて初めて剣という武器に触れた瞬間だった。<br><i>「医士と助手には席を外してもらったわ。私の命令がなければ、彼らはあなたを探しにこない」</i><br><i>「蒼城の災禍を生き延びた人は多くない。救援が到着するまで、あなたが一体どんな経験をしたのかはわからないけど…あなたがこのまま過去の恐怖に溺れながら人生を送っていくところは見たくないの」</i><br><i>「口が利けなくても大丈夫、それを使って話すといいわ」</i><br><i>「それを使えば、私たちのすべてを奪った怪物を完全に消し去ることができる。それほど素晴らしいものは、この世に多くは存在しない」</i><br>軍装の女性は表情を変えることなく、少女の横にある長剣を見つめる。<br><br>鏡のような刃が彼女自身の姿を映し出している。無数の鋭い破片が嵐のように巻き上げられ、少女を引きずり込む――<br>暗く深い空の中、羅睺という名の妖星が悲鳴を上げ、歌を歌いながら、燃え盛る山脈と大地を伴い、人々に襲いかかってきた。<br>大通りにいた人々は叫び声を上げ、終末の絶望の中で藻掻き、転げ回っていた。金色の枝や蔓が口や鼻の中で成長することに構うこともできずに。<br>すべての出来事を目の当たりにした彼女は、身動きを取ることができなかった。体の内側が沸騰するように熱い。何かが彼女の体の中心で勢いよく転がっている。熟した穀物が殻を破って飛び出そうとするかのように、それは無限に膨張していく。<br>しかし、目の前に迫った山脈を見た彼女は、自分はただのカゲロウであり、まもなく死神の指先によって捻り潰される運命なのだと悟った。<br><br>溺れ死ぬ直前、彼女は傍にあった唯一の浮草を掴んだ。<br>剣、長さ三尺七寸、重さ七斤余り。"
         },
         {
             "_id": 3,
-            "Story": "A sword, 6 feet and 5 inches in length, weighing 14 catties.<br>This is a Cloud Knight greatsword that must be wielded with both hands. Its edge contains enchanted fire that can split open the mechabeast's inert armor at the moment of contact.<br>There are 12 Flying Swords providing support, connected into her spinal meridian from the acupuncture points of Dazhui to Yaoyangguan. She needed only to think for these swords to instantly span out like a blistering storm.<br>She was still unfamiliar with the way of the sword. She still had lots to learn.<br><br>The woman in armor had no time to teach her more before the woman was tasked with leading the army on the field. Therefore, the girl's second lesson is to be learned on the battlefield, taught by the enemies she would fall.<br>\"Stab\" is easy, but swift monsters won't run into the sword's tip on their own or let the girl execute them. That is how she learned \"slash.\"<br>\"Entangle\" is next. Against monsters with overwhelming strength, the girl learned how to parry with the back of the sword to deflect enemy attacks.<br>She believed she had learned enough of the sword and therefore leapt onto the mechabeast war pawn \"Gigantes\" that dwarfed her at least ten times over.<br>She broke all the swords she brought with her and only managed to leave a few dozen cuts on the opponent's gigantic body.<br>She was whacked away by an enormous hand. Lying in the blood-soaked mud of the battlefield, she was once again swallowed by horror. In that split moment before death claimed her, she finally understood that even the art of swordplay had its limits.<br>An arrow filled with blazing fire blew off the Gigantes' head. \"Get up.\" The woman in armor looked at her.<br><br><i>\"I don't want to learn the sword anymore. It's... useless.\"</i><br><i>\"Useless? It's pretty useful in my hands. It is the wielder who was useless.\"</i><br><i>\"...\"</i><br><i>\"If you don't learn the sword, what do you want to learn? The alchemical arrows on the pilots' starskiffs? The blazing fire flung by divine crossbows? Or... The artillery of the Zhuming Xianzhou? Such instruments would also be enough to destroy that demonic planet. You want to learn about them? Fine. Those things can kill the enemy even from beyond visual range.\"</i><br><i>\"...I just don't understand why you insist on teaching me the sword!?\"</i><br><i>\"From the general to the smallest pawn, every Cloud Knight starts by learning the sword.</i><br><i>\"The various constructs provided by the Artisanship Commission can certainly kill the enemy for you, but those deeds are to the merit of the material rather than the person. If there comes a day that the quivers run empty, that the starskiffs crash, that the aurumatons freeze — Who will protect you and I, then? Who will protect the Xianzhou?</i><br><i>\"Hold this sword. Remember, it would not be a true fight for humanity if Cloud Knights didn't wield swords and march onto the battlefield themselves. Rather than letting ingenia do the work for us, we will show our final victory to those inhuman abominations by our own blood and prowess!\"</i><br><br>The woman in armor turned and departed, leaving the girl and the broken sword in the training room.<br>A sword, 2 feet and 1 inch in length, only its broken fragments remained."
+            "Story": "剣、長さ六尺五寸、重さ十四斤。<br>これは雲騎軍の大剣の形に作られているため、両手で握らなければならない。その刃には離火が秘められており、敵に接触した瞬間、器獣のイナート外殻を切り裂くことができる。<br>また、戦闘を支援するための飛剣が 12 本あるのだが、「大椎」から「陽関」までのツボに繋がっているため、激しい嵐のように一瞬で展開することができる。<br>彼女は剣術のことをよく理解しておらず、まだ多くのことを学ぶ必要がある。<br><br>軍装の女性にそれ以上を教える時間はない。まもなく軍を率いて出征しなければならないからだ。そして少女の2回目の授業は戦場で行われ、倒れた敵から学ぶことになった。<br>「突き刺す」は確かに簡単でわかりやすいが、敏捷な怪物は彼女に処刑されるべく、自ら剣先に向かってきたりはしない。そこで彼女は「斬る」ことを覚えた。<br>次は「絡む」ことだ。驚くべき力を持った怪物を前にして、少女は剣の背で攻撃を受け流すことを覚えた。<br>彼女は、自分は完璧に剣術を習得したと考え、自分の 10 倍の大きさはある器獣戦士「龍伯」に飛び乗った。<br>しかし、持っていたすべての剣を折っても、相手の巨体には浅い傷しか残らない。<br>大きな手で弾き飛ばされ、戦場の血に染まった泥の中に倒れた彼女は、再び恐怖に溺れた。溺死する瀬戸際で、彼女は剣術にも限界があるのだと理解した。<br>その時、炎を纏った弩の矢が龍伯の頭を吹き飛ばした。「立ちなさい」軍装の女性は彼女を見つめていた。<br><br><i>「もう剣術の修行はやめる。こんなもの…何の役にも立たない」</i><br><i>「役に立たない？私には大いに役立っているけど。結局のところ、扱う人間が役立たずなだけでしょう」</i><br><i>「……」</i><br><i>「剣術を学ばないなら、何を学びたいの？飛行士の星槎にある煉石矢？神腕営に標準装備されている熾火弩？それとも…仙舟『朱明』の朱明火？あの妖星を滅ぼすだけなら、それがあれば十分ね。それを学びたいの？問題ないわ。それらを使えば顔を合わせて戦わなくても相手を殺せるもの」</i><br><i>「…私はただ、なぜあなたが剣術を学ばせようとするのかわからないだけだ！」</i><br><i>「将軍から兵卒に至るまで、雲騎軍は全員が剣術から学び始める</i><br><i>「工造司の様々な兵器は、確かに自分の代わりに敵を倒してくれる。でも、そうした兵器はいずれも自動で動いているだけ。ある日、矢が尽きて、星槎が墜落して、金人の動きが止まったら、誰が私たちを守るの？誰が仙舟を守るの？」</i><br><i>「この剣を握って、心に刻みつけなさい。雲騎軍が自ら剣を握って出陣してこそ、人間たちの戦いになる。私たちは自分の肉体と技を使い、あの人ならざる忌み物たちに証明するの。機巧に私たちの代わりを任せるのではなく、私たちの手であいつらに勝つということをね！」</i><br><br>軍装の女性は背を向けると、鏡流と折れた剣だけを残して演武室から立ち去った。<br>剣、長さ二尺一寸、折れて柄と鍔しか残っていない。"
         },
         {
             "_id": 4,
-            "Story": "A sword, 5 feet in length, weighing as heavy as three thousand catties. The ebony blade shimmers with a sanguine sheen.<br>The sword was forged from the nonstop tempering of extraterrestrial ores, a complete deviation from conventional weaponry. Untamed and unyielding, the sword mirrored the defiance and hubris of its short-life species creator.<br><br>Once, she had only swords as her companions, but now she found herself with many friends.<br><br>The day she was crowned as the Sword Champion, the craftsman attended the ceremony in a black garb and cast out the sword he bore. The sword sank deep into the ground, leaving only its hilt above the soil. All attendees were shocked.<br><i>\"Only the Sword Champion of the Luofu Cloud Knights can tap into the full potential of this sword I have crafted.\"</i> He gave a toothy grin.<br><br>The high elder of the Luofu, as haughty and detached as the high moon in the sky, felt an irresistible temptation to duel with her upon witnessing her peerless martial prowess with just one simple glance.<br>The spear and the sword sparred for many years without a conclusion, until she cleaved ocean tides in twain with a single slash in the Dragonvista Rain Hall, and finally won the high elder's concession.<br><br>A well-traveled Nameless who had flown across the cosmos had steered vessels for her, bringing divine nectar from the other side of the universe to share with her, and gazed upon the scintillating stars by her side.<br><br><i>\"I will cut down even the stars in the sky.\"</i><br>She still vaguely remembers the boasts she made in moments of inebriation. That burning planet rushing towards her in childhood memories, that horrible nightmare that wouldn't let her go — those scenes are no longer so terrifying.<br>This is the first time she understands what \"wanting to live\" means in all her years of wielding a sword. Before this moment, she was simply someone ready to die.<br><br>And there was her student.<br>She recalled the first time they met. This young but devious child had asked the same questions as she did.<br><i>\"Master, why do you insist on wielding a sword? There are thousands of weapons out there that can kill an enemy. If you want to destroy that planet, the Zhuming can probably do it with its artillery.\"</i><br><i>\"This is like asking a poet why they wrote poems. There are many ways to express oneself, but this is the only way for me.\"</i><br>Now, he has also become a shining star amongst the Cloud Knights.<br><br>She doesn't have a master anymore. The woman in armor perished on the battlefield and can instruct her no longer.<br>Nor does she need a master anymore. She knows everything there is to know about swords. They are a part of her body. They are the intake and release of her breath as she walks and sleeps.<br>People call her the Transcendent Flash, the pinnacle of swordmasters, a once-in-ten-millennia hero. However, she knows that her sword is still not enough to \"cut down the star in the sky\" —<br><br>Even if she is holding the greatest sword in all the Xianzhou...<br>A sword, 5 feet in length, weighing as heavy as three thousand catties. The ebony blade shimmers with a sanguine sheen."
+            "Story": "剣、長さ五尺、非常に重く、黒い刃には血の色が浮かんでいる。<br>この剣は天外の金石を使い、何度も精錬して作られたもので、通常の武器の規則からは外れている。この剣を鍛えた短命種の職人のように、それは手がつけられないほど横暴で、極めて誇り高かった。<br><br>これまで剣だけを友人としてきた彼女に、多くの友人ができた。<br><br>彼女が剣首の名を獲得した日、その職人は黒ずくめの服装で式典に現れると、後ろ手に剣を放り投げた。剣は地面に数尺ほど埋まり、ほぼ柄しか見えなくなってしまった。人々は騒然となった。<br><i>「俺が鍛えた剣の真価を発揮できるのは、羅浮雲騎軍の剣首だけだ」</i>彼は歯を見せて笑った。<br><br>月のように孤高で不遜な羅浮の龍尊は、彼女の神技を目の当たりにして闘争心を抱いた。<br>剣と槍は何年にもわたって戦い続けていたが、勝敗が決することはなかった。最終的に、彼女は顕龍大雩殿で剣を使って海を断ち切ることで、龍尊の敬服を勝ち取った。<br><br>星海を飛び回る見識の広いナナシビトは、彼女のために船の舵を取り、星海の向こう岸で作られた美酒を持ち帰った。彼女と酒を飲みながら語らい、共に輝く空の星々を見つめた。<br><br><i>「天の星々であろうと、我は斬り落とす」</i><br>ぼんやりと、彼女は酒の勢いで口にした大言を思い出した。子供の頃の記憶にあった、突如として現れた燃え盛る星宿、そして彼女を悩ませ続けていた恐ろしい悪夢も、もう怖いものではなくなっていた。<br>これまで剣を振るい続けてきた彼女だったが、今、初めて生きる望みとは何かを知ったのだ。それまで彼女が抱いていたものは、死の志に過ぎなかった。<br><br>そして彼——彼女の弟子。<br>彼女は彼との出会いを思い出した。彼は幼いくせに悪知恵だけはよく働く子供で、昔の自分とまったく同じ質問をしたのだ。<br><i>「師匠はなぜ剣を使うことにこだわるのですか？敵を殺せる武器はたくさんあるでしょう。あの星を消滅させたいなら、仙舟の朱明火を使えば可能だと思いますが」</i><br><i>「その質問は詩人になぜ詩を書くのか問うのと同じこと。自分を表現する方法はたくさんあるが、我の方法はこれだけなのだ」</i><br>今では彼も雲騎軍の俊才となっている。<br><br>もう彼女に師はいない。軍装の女性は戦の中で命を落とし、これ以上彼女に何か教えることはできなくなった。<br>しかし、もう彼女に師匠は必要ない。彼女は剣のすべてを会得した。今の彼女にとって剣は体の一部、所作の一つになっている。<br>人々は彼女を「無罅の飛光」と呼ぶ。それは到底手の届かないような剣士の頂点を意味している。しかし、彼女は理解していた。「天の星々を斬り落とす」には、彼女の剣でも力不足であることを——<br><br>たとえ彼女の手に握られているのが仙舟一の宝剣と称えられるものであったとしても……<br>剣、長さ五尺、非常に重く、黒い刃には血の色が浮かんでいる。"
         },
         {
             "_id": 5,
-            "Story": "A sword, 5 feet in length, weighing as heavy as three thousand catties. The ebony blade is covered in cracks and the tip is broken and lost.<br>Amid the countless wars, she wielded this sword and, alongside her comrades and disciple, battled her way into the vast ship, decapitating the wolf-like head of the borisin Warmuhtar. She also climbed the sky-piercing flying citadel, clipping the wings of the Feather Guards. She fought the iron cavalry of the Houyhnhnm, sealing all the riders of the six-legged steeds into prison... Whichever way her sword swung, no abomination could escape death or imprisonment.<br>She had never expected she would point this sword at her lifelong friend.<br><br>She gasped, barely holding her wounded body together. Far away, deeper in the delve, there came the anguished roar of a dragon, as if pleading for death.<br>She watched as the arrogant craftsman fell into the mud, and walked up to him like a wraith.<br><i>\"I should kill you first... but you will have your own torment to bear for all eternity...\"</i><br>She pointed the broken sword at the high elder.<br><i>\"Impossible. The Preceptors said... The blood of my race and the soul of my ancestor should have created another high elder. All this... It shouldn't be like this.\"</i><br><i>\"If your death can return everything to how it was, I would do it... But you need to tell me right now where that dragon's weak point is.\"</i><br><i>\"The top of its head...\"</i><br><br>The half-draconic abomination swam through the air in blasts of lightning. Its body, enough to swallow the very horizon, sundered yet another floating isle. Its wails were as loud as the clamors of a thousand clashing swords.<br>She felt her Core Esse boiling, like a ripe wheat grain about to burst out of its husk and swell to infinity.<br>She saw herself trapped in childhood nightmares again. The ominous planet is swallowing her overhead, and she, but an insect, cannot even struggle.<br>The woman tore off a spread of black silk from the edge of her skirt and covered her eyes.<br>The thunder struck. She leapt up with her sword towards the draconic abomination.<br>In a dreamlike illusion, she felt her flesh surpass its limits, beginning to disintegrate. It was as if innumerable silken threads bound her, taut across every limb and bone, each one slicing through the last vestiges of her consciousness, bit by bit.<br>Suddenly, she heard those words:<br><i>\"I will cut down even the stars in the sky.\"</i><br><br>At that moment, she finally grasped the sword she had been seeking all this time.<br>It was a sword that can transcend all restrictions. It was a sword she had been familiar with for years.<br>It was not forged from any ordinary iron, but condensed from a shaft of sharp ice. It glowed with a dim light, as if it was a strand of moonlight held in the wielder's hand.<br>A sword, 3 feet and 7 inches in length, and weighs nothing."
+            "Story": "剣、長さ五尺、非常に重く、黒い刃にはいくつもの亀裂が入っている。<br>混乱した戦いの中で、彼女はその剣を手に、戦友や弟子と共に歩離の旗艦に攻め入り、戦首の頭を斬り落とした。また、空高くそびえる飛空城に登り、羽衛たちの羽を切り落としたこともある。彼女は慧駿の執綱者と戦い、六足駿馬の精鋭をことごとく牢獄へ送った…ひとたび彼女の剣が向けられれば、その先にいる忌み物は死ぬか敗れるかの二者択一で、逃れられることはない。<br>彼女は、生死を共にしてきた友人に剣を向けることになるとは思いもしなかった。<br><br>彼女は息を切らしながら傷ついた体を何とか支えていた。遠くの洞天からは悲痛に満ちた龍の咆哮が聞こえてくる。それはまるで束縛からの解放を求めているようだった。<br>誇り高き匠が泥の中に倒れるのを見て、彼女は彷徨う魂のように彼の横を通り過ぎる。<br><i>「先にお前を殺すべきだった…だが、お前には背負うべき別の罪がある。永遠の罪が……」</i><br>彼女は折れた剣を龍尊に向けた。<br><i>「馬鹿な、龍師たちは言っていた…我が一族の血、我が祖先の魂は、別の龍尊を創るはずだと。何もかも…こうなるはずではなかった」</i><br><i>「お前を殺してすべてが元に戻るなら、我はそうしよう…だが今は……あの龍の逆鱗の場所を教えてくれ」</i><br><i>「頭頂部だ……」</i><br><br>半分は龍の姿をした厄獣が稲妻のように空を駆け抜けていく。水平線を呑み込むほどの巨体で浮島を砕き、千本の剣がぶつかり合うような声で泣き叫ぶ。<br>彼女は自分の体の中心が燃えているように感じた。熟した穀物が殻を破って飛び出そうとするかのように、それは無限に膨張していく。<br>彼女は再び子供時代の悪夢に囚われる自分を見た。凶星が降り注ぎ、カゲロウは無力に藻掻く。<br>女性は服の裾から黒い布を破り取り、それで両目を覆った。<br>雷が轟く。彼女は剣を持って高く跳躍し、邪悪な龍に立ち向かった。<br>夢とも現実ともわからない幻覚の中で、彼女は自分の肉体がついに限界を超え、崩れ始めたことに気がついた。まるで糸のような束縛が体中を締め付け、少しずつ彼女の最後の意識を切り裂いていくかのようだ。<br>その時、突然あの言葉が耳元で響いた。<br><i>「天の星々であろうと、我は斬り落とす」</i><br><br>その瞬間、彼女は夢にまで見た宝剣を握り締めた。<br>それはあらゆる束縛を断ち切れる剣。それは長年慣れ親しんできた剣。<br>それは普通の鉄で鋳造されたものではなく、堅い氷を凝集させたものである。淡い光を放ち、まるで一筋の月の光を握っているかのようだ。<br>剣、長さ三尺七寸、この上なく軽い。"
         }
     ]
 }
@@ -645,216 +645,216 @@ var _story_ = {
 var _voice_ = {
     "1212": [
         {
-            "Title": "First Meeting",
-            "Voice": "To the Xianzhou, I am but an abandoned pawn — a wandering swordmaster. If you wish to avoid trouble, pretend we never met."
+            "Title": "初対面",
+            "Voice": "鏡流という人物は一介の羅浮の棄兵、流浪の剣士に過ぎぬ。面倒を嫌うなら、我々に面識はないことにしてもよい。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Let's forgo the pleasantries — what do you want?"
+            "Title": "挨拶",
+            "Voice": "挨拶は不要だ、来意を言え。"
         },
         {
-            "Title": "Parting",
-            "Voice": "The universe is vast... Will we meet again as friend or foe, dead or alive...?"
+            "Title": "お別れ",
+            "Voice": "寰宇は広い。次に相まみえた時…我々は敵か味方か、生きているのか死んでいるのか、どちらだろうな？"
         },
         {
-            "Title": "About Self: Sword Champion",
-            "Voice": "Fame is like the clouds — fleeting and elusive. I am viewed as a sinner in the eyes of the Ten-Lords Commission, and the Xianzhou has erased my name from its memory. So be it. A sword cuts with its edge, not its name."
+            "Title": "自分について・剣首",
+            "Voice": "この身以外は無価値だ。我は十王司の掟に触れ、仙舟は我に関するすべてを抹消した。だが、それがどうした？良剣が物を断てるか否かは、その切先にかかっているのであって、名声ではない。"
         },
         {
-            "Title": "About Self: Blindfold",
-            "Voice": "I have already surpassed my limits and may soon succumb to the influence of mara... but given the choice between staring into the abyss with a troubled mind and marching forward blindfolded, I choose the latter."
+            "Title": "自分について・目の前の黒い紗",
+            "Voice": "我はとうに己の限界を超え、魔陰の身の境界を彷徨っている。過去を思い、遺恨の炎で身を焼くよりも、黒い紗で目を覆い、足の赴くままに進んだほうがよい。"
         },
         {
-            "Title": "Chat: Cangcheng",
-            "Voice": "The Cangcheng was once the most bustling of Xianzhou ships, a place I called home. But when it was devoured by an incarnosphere bred by the Plagues Author, the long-life species had to face the truth that their lives were but a grain of sand in the river of time."
+            "Title": "世間話・蒼城",
+            "Voice": "我の故郷は仙舟の中で最も栄え、人々が「蒼城」と呼ぶ景勝の地であった。その後、「蒼城」は{RUBY_B#寿瘟禍祖}寿禍の王{RUBY_E#}によって生み出された生体惑星に飲み込まれた…たとえ天人を自称する長命種だろうと、ただのひとすくいの星塵に過ぎぬのだ。"
         },
         {
-            "Title": "Chat: The Florephemeral Sword",
-            "Voice": "Techniques relying solely on the physical form are but second-rate disciplines. Similarly, swords forged with mortal steel don't serve me well. I have stolen a sliver of moonlight that can shine over the earthly world — a \"sword\" I control with ease."
+            "Title": "世間話・曇華剣",
+            "Voice": "型にはまった技術は三流のそれだ。今や我は平凡な武器を捨て、一筋の月光を手にし、この世のすべてを照らし出すことができる。これこそ、我の手の中にある生滅自在、無処不在の「剣」なのだ。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Let me think... In the beginning, most of my time was spent on swordsmanship and defeating my enemies. Later, I found myself indulging in all manner of wines that Baiheng brought to me from different planets. And now, watching my enemies suffer has become my newfound passion. Strange pastimes, no?"
+            "Title": "趣味",
+            "Voice": "少し考えさせてほしい…初めは剣術を磨き、強敵に打ち勝つことを最も好んでいた。その後は、白珠が星々から持ち帰った美酒を味わうのが楽しみだった。そして、今の趣味は…仇敵の心を痛めつけ、生きているより死んだほうがマシだと思わせることだろうか。どうだ、我の趣味は奇怪だろう？"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "This sword in my hand... naught but a needle compared with the heavenly bodies. How can I use it to cut open a star?"
+            "Title": "悩み事",
+            "Voice": "手の中の剣は、天地に比べて針ほどの大きさしかない。いかにすれば星を斬ることができるのだろうか？"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "I, too, once drew the gaze of an Aeon. The only difference was, it was a path I chose for myself — through the deep recesses of the Ten-Lords Commission on the Xuling, through the Gate of Wonders, and onto a path of redemption."
+            "Title": "シェア",
+            "Voice": "お前と同様、我も見つめられたことがある。だが、それは我が望んで進んだ道——仙舟「虚陵」の十王司の深部に入り、衆妙の門をくぐり、解脱の道に足を踏み入れたのだ。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Hmph, Exalting Sanctum has seen little change in the past millennium — a little dull, I would say. However, Starskiff Haven has grown on me since it was rebuilt after the war."
+            "Title": "見聞",
+            "Voice": "羅浮の長楽天の景色は 1000 年経っても変わらぬな。大戦で破壊された後に再建された星槎海の美しさには劣る。"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "I wouldn't say he's a natural swordmaster... but being gifted shouldn't be a determining factor when choosing an apprentice. Mentors who place importance on natural talent either lack the skills to teach, or seek to take credit for their apprentices' easy success. Fame, background... none of those matter. I will teach my techniques to anyone willing to put their heart into them."
+            "Title": "景元について",
+            "Voice": "景元は武の才能があるとは言い難い。だが、弟子を取るのに天分の有無など重要ではないだろう？そこを重視する者がいるとすれば、それは師として怠け、労力を半分に抑えたがっているか…弟子の力を借りて名を残したいと考えている者だろうな。名声、伝承…そんなものはどうでもよい。我の剣術を学びたい者がいれば教える、それだけだ。"
         },
         {
-            "Title": "About Blade",
-            "Voice": "I put him under great pain and suffering when I taught him. On the day his skills are perfected, he vows to return the favor. I look forward to it."
+            "Title": "刃について",
+            "Voice": "かつて、我は「骨と心に刻みつける」という方法で彼に剣術を伝授した。剣術をものにした日、彼は我に剣の教えを返すと誓ったが…ふはは、その日が来るのが楽しみだ。"
         },
         {
-            "Title": "About Dan Feng",
-            "Voice": "To take the throne, the high elder of the Vidyadhara needs to pass a series of trials during which their physical features slowly transform to resemble that of their predecessors. I see that loss of identity as a curse, rather than a gift. He managed to break free eventually, but should have done it in a different way..."
+            "Title": "丹楓について",
+            "Voice": "持明族の龍尊は秘法を受け身を造る、ゆえに 1000 代を経ても変化がない。我に言わせれば、それは天賜ではなく枷だ。彼は最終的にその枷から脱した。あってはならない方法でな……"
         },
         {
-            "Title": "About Baiheng",
-            "Voice": "We talked about the stars we flew past, the views we saw together, and the dangers we escaped. But... I can't remember the details. The things we said and did together have all been shrouded in a layer of mist... a mist I cannot see through..."
+            "Title": "白珠について",
+            "Voice": "彼女は我に行ったことがある星、旅路の奇観、脱することができた危地について話してくれた気がする……だが、何も思い出せぬ。それらの記憶は我の頭の中で渦巻き…どうやっても掴めぬのだ。"
         },
         {
-            "Title": "About Yanqing",
-            "Voice": "He is still a fledgling, but I see great potential. Still, one cannot truly understand swordsmanship without sustaining injury and drawing blood in the thick of battle..."
+            "Title": "彦卿について",
+            "Voice": "まだ頭角を現したばかりだが、あの成長ぶりは見ていて非常に喜ばしい。ただ、剣術は血の雨を降らし、無数の殺生を経なければ、その真髄に触れることはできぬ。"
         },
         {
-            "Title": "About Luocha",
-            "Voice": "He is just like me — there is a hole in his heart. No matter what he does to fill it, the hole remains. The harder he tries, the more exhausted he becomes."
+            "Title": "羅刹について",
+            "Voice": "彼は我と同じで心に穴が空いている。何をしても、それを埋めることはできぬ。埋めようと努力すればするほど、疲れ果ててしまうのだ。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "The blade's reflection illuminates the past."
+            "Title": "星魂覚醒",
+            "Voice": "剣の刃は多くの過去を映している。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "If I am to cut through the heart of a star, more time is needed."
+            "Title": "キャラクター昇格",
+            "Voice": "星を切り落とすには、まだまだ時間がかかりそうだ。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Pushing my limits is what made me who I am today. I will not stop here."
+            "Title": "レベルMax",
+            "Voice": "剣術を修めた時から、我は限界を超えることを目標にしてきた。この旅の終点も、そこにあるのだろう。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "There is a story in every scar."
+            "Title": "軌跡覚醒",
+            "Voice": "昔日の数々は、この身に刻んだ傷痕のようだ。"
         },
         {
-            "Title": "Added to Team With Yanqing",
-            "Voice": "Young man, show me your progress."
+            "Title": "パーティ編成・彦卿",
+            "Voice": "小僧、剣術が上達したか見てやろう。"
         },
         {
-            "Title": "Added to Team With Jing Yuan",
-            "Voice": "Break the enemy's strategy, Jing Yuan — that's what you always did best."
+            "Title": "パーティ編成・景元",
+            "Voice": "懐かしい。戦略はお前に任せたぞ、景元。"
         },
         {
-            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
-            "Voice": "Imbibitor Lunae... It feels like an age since we stood shoulder to shoulder."
+            "Title": "パーティ編成・丹恒・飲月",
+            "Voice": "飲月…肩を並べて戦うのは、いつぶりだろうな。"
         },
         {
-            "Title": "Added to Team With Blade",
-            "Voice": "That broken sword... You don't want to let go of the past, do you, Blade?"
+            "Title": "パーティ編成・刃",
+            "Voice": "その剣に固執するのは、過去を忘れたくないからか…「刃」？"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Unworthy of my time."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "取るに足らぬ。"
         },
         {
-            "Title": "Battle Begins: Weakness Break (Spectral Transmigration)",
-            "Voice": "Blade fodder!"
+            "Title": "「転魄」戦闘開始・弱点撃破",
+            "Voice": "剣下の草芥！"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Another soon to be departed."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "亡霊が1体増えるだけ。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Tedious."
+            "Title": "ターン・1",
+            "Voice": "くだらない。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Stand down and I'll spare you."
+            "Title": "ターン・2",
+            "Voice": "今退けば、見逃そう。"
         },
         {
-            "Title": "Turn Begins 1 (Spectral Transmigration)",
-            "Voice": "Nowhere to run!"
+            "Title": "「転魄」ターン・1",
+            "Voice": "どこにも逃げられぬ！"
         },
         {
-            "Title": "Turn Begins 2 (Spectral Transmigration)",
-            "Voice": "Ready for death...?"
+            "Title": "「転魄」ターン・2",
+            "Voice": "死出の準備をしろ…"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "An endless lifespan is just a bitter wait for insanity."
+            "Title": "戦闘中待機",
+            "Voice": "無尽形寿とは、狂うまで待つということか。"
         },
         {
-            "Title": "Turn Idling (Spectral Transmigration)",
-            "Voice": "Can't stop... Can't stop now!"
+            "Title": "「転魄」戦闘中待機",
+            "Voice": "止まっては…ならぬ！"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Swordward!"
+            "Title": "通常攻撃",
+            "Voice": "切先は戻らぬ！"
         },
         {
-            "Title": "Skill",
-            "Voice": "Fleeting light, roaring flood!"
+            "Title": "戦闘スキル",
+            "Voice": "飛光よ、差せ！"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Try harder."
+            "Title": "攻撃を受ける",
+            "Voice": "支障ない。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "You can't kill me!"
+            "Title": "重撃を受ける",
+            "Voice": "我は殺せぬぞ！"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "All will be revealed..."
+            "Title": "必殺技・アクティブ",
+            "Voice": "この月華で…"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "...in lunar flame!"
+            "Title": "必殺技・発動",
+            "Voice": "すべてを照らさん！"
         },
         {
-            "Title": "Talent",
-            "Voice": "A blade of moonlight."
+            "Title": "天賦",
+            "Voice": "月光を剣とせん。"
         },
         {
-            "Title": "Downed",
-            "Voice": "Finally, the end of it..."
+            "Title": "戦闘不能",
+            "Voice": "遂に、解脱か…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Did you think my lifespan would be cut short?"
+            "Title": "戦闘に戻る",
+            "Voice": "無尽形寿が、これで死ぬとでも？"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Save it for your own skin..."
+            "Title": "HP回復",
+            "Voice": "この身体に治療はいらぬ……"
         },
         {
-            "Title": "Technique",
-            "Voice": "The moon shines on the truth."
+            "Title": "秘技",
+            "Voice": "{RUBY_B#じょうげつへんしん}乗月返真{RUBY_E#}。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Do not concern yourself with the outcome."
+            "Title": "戦闘勝利",
+            "Voice": "勝負事など、気にする必要なし。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Mere worldly possessions."
+            "Title": "戦利品を開ける・1",
+            "Voice": "虚しいものにすぎぬ。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "These trifles are of no use to me."
+            "Title": "戦利品を開ける・2",
+            "Voice": "我には無用だ。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "These are nice trinkets — but nothing more."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "玩ぶ以外に使い道はない。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "It worked."
+            "Title": "謎解きに成功・1",
+            "Voice": "これでいい。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Same old tricks."
+            "Title": "謎解きに成功・2",
+            "Voice": "いつものやつだな。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "I taste malice in the air..."
+            "Title": "敵ターゲット発見",
+            "Voice": "殺意か…"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Where there are people, there is noise."
+            "Title": "町に戻る",
+            "Voice": "人の声があるところは、騒々しい。"
         }
     ]
 }

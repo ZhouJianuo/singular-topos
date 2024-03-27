@@ -419,23 +419,23 @@ var _story_ = {
     "1305": [
         {
             "_id": 1,
-            "Story": "A candid and self-assured Intelligentsia Guild member, who often conceals his appearance with a strange plaster sculpture.<br>He demonstrated unparalleled intelligence and talent since his youth, but now refers to himself as a \"Mundanite.\"<br>Firmly believing that intellect and creativity are not confined to geniuses, he seeks to distribute knowledge to the entire universe to cure the persistent disease named ignorance."
+            "Story": "솔직하고 자기 중심적인 지식학회 학자. 항상 기괴한 석고상을 써 얼굴을 가린다.<br>어릴 때부터 남다른 두각을 보였으나 지금은 「범인(凡人)」을 자처하고 있다.<br>지혜와 창의력이 천재의 전유물이 아니라고 믿으며, 우둔함이란 고질병을 치료하기 위해 온 우주에 지식을 퍼뜨리는데 전념하고 있다"
         },
         {
             "_id": 2,
-            "Story": "Veritas Ratio, who calls himself \"Dr. Ratio,\" is as contentious as his research. In Ratio's homeworld, there are no less than eight documentaries detailing his legendary exploits, and over a dozen memoirs about him. However, despite the plethora of commentaries, none of them seems to provide a compelling perspective. To fill this void, I personally visited Professor Rond, who had a significant influence on Ratio's upbringing. Though advanced in years and unable to speak coherently, Professor Rond couldn't contain his excitement at the mention of Ratio's name. With the help of his family and students, I obtained a yellowed yet remarkably well-preserved letter of recommendation.<br><br><i><br>\"To the respected admission committee of the University of Veritas Prime:<br><br>I am Rond, Professor Emeritus of the Department of Mathematics at the Cosmos Liberty University. Given your institution's reputation for valuing talents and education, I would like to recommend a student named Ratio to advance his studies at your university. Although Ratio is a middle school student at the moment, his mastery of math, physics, and even philosophy has far exceeded the requirements for an undergraduate degree in many universities.<br><br>While he was under my tutelage, Ratio managed to solve complicated mathematical equations at an unexpectedly staggering speed. The undergraduates in my class struggled to even comprehend the concepts. Out of curiosity, I shared a manuscript about an equation named Rond's Conjecture in private. Although I'm the one who proposed the equation, I've been unable to prove it. After days of discussion, Ratio came up with a brilliant and stunning idea that managed to finally prove the equation in one strike. The paper will be published shortly, and you will see that I am speaking the truth.<br><br>Ratio showed remarkable perception, curiosity, and creativity during the time we spent together. He wakes up early every morning to exercise before diving straight into the sea of knowledge afterward. Perhaps, he is exactly what everyone would picture a genius to be — passionate, profound, fervent, and inherently dominating.<br><br>Due to the lack of more advanced science programs at local schools, I sincerely hope that your esteemed institution will accept Ratio's enrollment. I can vouch for him on my reputation that he will definitely achieve accomplishments that transcend this era and bring glory to your widely-renowned institution.<br><br>Best wishes,<br>Rond<br>██ ██ ██, Philosopher Calendar\"</i><br><br>Extracted from page 9, <i>Wisdom as a Privilege: Decoding Dr. Ratio</i>"
+            "Story": "베리타스•레이시오, 자칭 「Dr. 레이시오」에 대해서는 그의 연구만큼이나 논란이 많다. 레이시오의 고향에는 그의 전설적인 행적에 대한 다큐멘터리가 최소 8편, 그에 대한 회고록이 10편 넘게 있다. 그에 대한 평론은 많지만, 설득력이 충분한 관점은 없다. 그 공백을 메울 생각으로 레이시오의 성장에 중요한 영향을 미친 론드 교수를 직접 찾아갔다. 나이가 지긋한 론드 교수는 정상적인 의사소통이 어려운 상태였지만, 레이시오란 이름을 언급하자 흥분을 감추지 못했다. 그리고 필자는 그의 가족과 학생들의 도움으로 색은 누렇게 바랬지만 보존 상태가 양호한 추천서 하나를 입수했다.<br><br><i>「<br>존경하는 제1진리대학 입학 위원회 여러분께:<br><br>저는 은하자유대학의 수학과 명예 교수 론드입니다. 귀교가 인재와 교육을 중시한다고 들었습니다. 하여 레이시오라는 학생이 귀교에 진학할 수 있게 추천하고 싶습니다. 레이시오는 아직 중등교육기관에 다니고 있지만, 수학과 물리학뿐만 아니라 철학 사상에서 대학 학부에서 요구하는 것보다 뛰어난 역량을 지니고 있습니다.<br><br>지도를 받는 동안, 레이시오는 저희 학부생이 개념조차 이해하지 못하는 복잡한 수학 방정식을 예상을 훨씬 뛰어넘는 속도로 풀어냈습니다. 호기심이 생긴 저는 사적으로 그와 론드 가설에 관한 원고를 공유했습니다. 제가 제시했음에도 불구하고 전 이 가설을 증명하지 못했습니다. 며칠 밤낮으로 논의한 끝에 그는 절묘하고 기발한 아이디어를 제시해 단숨에 마지막 논증을 끝냈습니다. 해당 논문을 곧 발표할 예정이니, 그때가 되면 제 말이 사실이라는 것을 알게 될 겁니다.<br><br>함께하는 동안 레이시오는 비범한 인지력, 호기심, 창의력을 보여줬습니다. 그는 매일 아침 일찍 일어나 운동을 한 후 바로 지식의 바다에 뛰어듭니다. 아마 그는 보편적인 천재 이미지에 가장 부합하는 사람일 겁니다. 격정적이고 심오하며 뜨겁고… 선천적으로 우월합니다.<br><br>현지 학교에 더 높은 수준의 과학 과정이 없는 관계로 귀교가 레이시오의 입학을 허가해 주시길 진심으로 바랍니다. 제 명예를 걸고 레이시오가 시대를 뛰어넘는 업적을 거둬 학술적으로 은하에서 명성을 누리고 있는 귀교에 영광을 더해줄 것이라 보장합니다.<br><br>축복을 보내며,<br>론드<br>철인력 ██년 ██월 ██일<br>」</i><br><br>——≪특권으로서의 지혜: Dr. 레이시오 파헤치기≫ 9페이지 발췌"
         },
         {
             "_id": 3,
-            "Story": "After acquiring his eighth doctoral degree, Ratio was awarded the First Class Honors Degree that had been left vacant for two Amber Eras in the University of Veritas Prime. Even many years later, this achievement remained unparalleled in the history of the university and was likely to remain unmatched for generations to come. At that time, Ratio was already a prominent figure in society, but there were varying opinions about him among his teachers and peers. This is the electronic copy of some valuable information I gathered:<br><br>\"<br><b>Campus Highlights:</b><br><b>1. #First Class Honors Degree Awarded to Veritas Ratio#</b><br>Views (2500), Comments (145)<br>Details:<br>The First Class Honors Degree of our university that has been vacant for two Amber Eras will soon be awarded to Veritas Ratio in recognition of his outstanding achievements in the fields of biology, medicine, natural theology, philosophy, mathematics, physics, engineering, etc. Given his remarkable contribution to the subject of energy sources on this planet, Veritas Ratio will be granted direct eligibility for teaching.<br><br><b>Professor Velita, Department of Mathematics</b>:<br>Congratulations to Ratio! He deserves all the glory for his diligence and intelligence! Do you still remember how he put on a headgear to keep away all external distractions and completely focus on thinking? Who else in the world could manage that? Although Ratio was my student for some time, I'm afraid I actually learned more from him than what I taught him. Ratio was a breath of fresh air at the University of Veritas Prime with his honesty and straightforwardness. We should all be grateful to him!<br>Agree (1000+), Disagree (2)<br><b>Philosophy_Delinquent</b>:<br>Shouldn't he be a member of the Genius Society already?<br>Agree (850), Disagree (5)<br><b>Physics_Is_Beautiful</b>:<br>Rumor has it that some congressman's son attended a class where Ratio was the TA. The guy tossed some cash on Ratio, trying to bribe him for a pass. Ratio came down hard on the guy and threw him out of the classroom. That's right — he literally THREW him... What a god among men.<br>Agree (550), Disagree (112)<br><b>BearMarket_Loser</b><br>I once went to a class where he was the TA and couldn't wrap my head around what he was saying. I held on to the end and scored 0. I count myself lucky that my score wasn't negative...<br>Agree (448), Disagree (37)<br><b>Cosmos_Walker</b><br>Give me a like if you've ever cried because of his scolding!<br>Agree (330), Disagree (110)<br><b>BoredomKillledTheCat</b><br>Is it true that he showers with his headgear on?<br>Agree (220), Disagree (10)<br><b>Follow-My-Lead</b><br>He's not that great, is he? I can do the same if I just work harder...<br>Agree (1), Disagree (1000)<br>...<br>You might like:<br>2. #The 8th Doctoral Degree Under Ratio's Belt#<br>3. #Ratio Featured in College Textbooks#<br>4. #Is Veritas Ratio Crazy?#<br>\"<br><br>According to statistics, Ratio has taught 52 courses during his tenure. The courses, known to be harsh and challenging, have a completion rate of no more than 3%. Almost all the students who made it to the end have become experts in certain fields.<br>...<br>Extracted from page 82, <i>Wisdom as a Privilege: Decoding Dr. Ratio</i>"
+            "Story": "여덟 번째 박사 학위를 취득한 후, 레이시오는 제1진리대학에서 두 앰버기원 동안 공석이었던 1등 명예 학위를 받았다. 많은 세월 후에도 이는 이전에도 없었고, 앞으로도 없을 업적일 것이다. 이 무렵 레이시오는 사회의 유명 인사였으나, 그의 주변 스승과 동료들의 의견은 다양했다. 필자는 이에 관하여 귀중한 전자 자료를 입수했다:<br><br>「<br><b>캠퍼스 하이라이트: </b><br><b>1. #베리타스•레이시오에게 1등 명예 학위 수여#</b><br>조회(2500) 댓글(145)<br>상세 내용:<br>본교는 베리타스•레이시오에게 두 번의 앰버기원 동안 공석이었던 1등 명예 학위를 수여하여 생물학, 의학, 자연 신학, 철학, 수학, 물리학, 공학 등의 분야에 크게 기여한 공을 치하할 예정입니다. 또한 행성 에너지원 연구에서 탁월한 성과를 거둠에 따라 베리타스•레이시오는 바로 임용 자격을 얻을 것입니다.<br><br><b>벨리타-수학과 교수</b>:<br>축하합니다, 레이시오! 그의 성실함과 지혜라면 그 어떤 영예도 받을 자격이 있습니다! 그가 생각에 더 집중하기 위해 가면을 쓰고 외부의 모든 간섭을 차단했던 것이 아직도 기억납니다. 이 세상에 이렇게 할 수 있는 사람이 몇 명이나 될까요? 한동안 레이시오를 가르쳤지만, 제가 가르친 것보다 그에게서 배운 게 더 많을 겁니다. 우린 특유의 성실함과 솔직함으로 제1진리대학에 새로운 활력을 불어넣은 레이시오에게 감사해야 합니다!<br>좋아요(1000+) 싫어요(2)<br><b>철학과 문제아</b>:<br>근데 아직도 지니어스 클럽엔 안 들어갔어?<br>좋아요(850) 싫어요(5)<br><b>물리는 아름답다</b>:<br>어떤 의원 아들이 레이시오가 조교인 수업에 와서, 수업을 수료하게 해 달라고 돈을 건넸다가 욕만 잔뜩 먹고 교실 밖으로 내던져졌다던데, 진짜로 「내던져」졌다고… 진정한 신계 남자라고 생각함……<br>좋아요(550) 싫어요(112)<br><b>펀드에 투자한 개미</b>:<br>그가 조교인 수업을 들었는데, 전혀 못 알아들었지만 끝까지 버텨서 간신히 0점을 받았어. 마이너스가 아닌 게 다행이지……<br>좋아요(448) 싫어요(37)<br><b>천국 여행자</b>:<br>레이시오한테 욕먹고 울어본 사람 좋아요 부탁!<br>좋아요(330) 싫어요(110)<br><b>죽어 가는 고양이</b>:<br>그 가면을 목욕할 때도 안 벗는다며?<br>좋아요(220) 싫어요(10)<br><b>형님만 믿어</b>:<br>그저 그런 것 같은데? 나도 열심히 하면……<br>좋아요(1) 싫어요(1000)<br>……<br>추천 게시물:<br>2. #베리타스•레이시오 8번째 박사 학위를 취득하다#<br>3. #베리타스•레이시오 대학 교재에 실리다#<br>4. #베리타스•레이시오는 미치광이인가#<br>」<br><br>통계에 따르면, 레이시오는 부임해 교단에 선 후 총 52개의 과목을 개설했는데, 엄격하고 까다롭기로 유명한 교육 스타일 때문에 수료율이 3%가 되지 않았으며, 끝까지 버틴 학생들은 거의 대부분 어떤 분야의 전문가나 학자가 되었다.<br>……<br>——≪특권으로서의 지혜: Dr. 레이시오 파헤치기≫ 82페이지 발췌"
         },
         {
             "_id": 4,
-            "Story": "It is widely speculated that Ratio aspires to join the Genius Society, though he has never spoken about the subject. No matter how amazing Ratio's accomplishments are in the eyes of the ordinary folks, Nous has never batted an eye at him. This issue has become a much-discussed mystery in the academic community over time. I reached out to Margaret, a former assistant of Ratio, and gathered some valuable testimony from her.<br><br><i>\"Mr. Ratio has never talked about the Genius Society with me, but there's something I remember well, even till today... It happened when I was still Mr. Ratio's academic assistant. I'm mainly responsible for managing his correspondences to and from all over the cosmos and handling his interactions with the outside world.\"</i><br><br><i>\"One day, I received a letter from Interastral Peace Corporation. I think... it was during the successful test-firing of the anti-planetary weapon Mr. Ratio had worked on for years. I could tell the solemnity of the invitation, so I excitedly passed it on to Mr. Ratio. Yet, he said nothing. I could sense his heavy silence even through the headgear. He then politely asked me to leave. The moment I closed the door, I heard a grim sigh followed by a self-deprecating laughter... Perhaps, he realized he would never be accepted into the Genius Society...\"</i><br><br><i>\"The rest is history. In my view, Mr. Ratio is a genius in the truest sense of the word, as his inventions have propelled many worlds forward. Is a scholar who heals the universe destined to be worthless than a genius who is confined to their own ivory tower? Sorry, I'm getting a little worked up. Please remove that statement.\"</i><br><br>From my observation, many of Dr. Ratio's supporters feel sorry for him like Margaret. In their opinion, the Society's failure to admit someone like Ratio is a manifestation of the eccentricity and narrow-mindedness of \"geniuses.\"<br><br>Extracted from page 150, <i>Wisdom as a Privilege: Decoding Dr. Ratio</i>"
+            "Story": "사람들은 레이시오가 지니어스 클럽 가입을 갈망한다고 추측했지만, 정작 본인은 이에 대해 아무런 반응도 보이지 않았다. 그러나 레이시오가 아무리 세상을 놀라게 하는 업적을 거둬도 누스는 전혀 눈길을 주지 않았다, 시간이 한참 흐르면서 이 일은 학계의 흥미로운 미스터리가 되었다. 필자는 레이시오의 조교였던 마거릿과 연락이 닿아 귀중한 증언들을 입수했다.<br><br><i>「레이시오 선생님이 제게 지니어스 클럽에 대해 말씀하신 적은 한 번도 없지만, 아직도 기억나는 사건이 하나 있어요…. 선생님의 조교가 되었을 때였어요. 제 주요 업무는 은하 각지와 편지를 주고받고, 선생님의 대외 접촉 관련 일을 처리하는 것이었어요」 </i><br><br><i>「그날 저는 스타피스 컴퍼니로부터 온 편지를 받았습니다. 아마… 레이시오 선생님께서 수년간 연구한 대행성 무기 시험 발사에 성공한 때였을 거예요. 컴퍼니의 초청은 굉장히 정중했어요. 흥분한 저는 얼른 편지를 전달했는데, 선생님은… 아무 말씀도 없으셨어요. 석고상 너머로 무거운 침묵이 느껴졌죠. 그분은 정중하게 제게 나가달라고 부탁하셨는데, 제가 문을 닫는 순간 무거운 한숨과 자조 섞인 웃음소리가 들리더군요. …제 생각엔 아마 더는 지니어스 클럽에 들어갈 수 없다고 판단하신 것 같았어요……」 </i><br><br><i>「그 후의 이야기는 아시는 대로예요. 하지만 제가 보기에 선생님은 진정한 천재시고, 그분의 업적으로 많은 세계는 진보했어요. 우주를 치료하는 학자가 독선적인 천재보다 가치가 없냐고요! …죄송해요, 제가 좀 흥분했네요. 방금 한 말은 편집해주세요」 </i><br><br>필자가 관찰한 바로는, Dr. 레이시오의 지지자들 중 마거릿처럼 안타까워하는 이들이 적지 않았다. 그들은 클럽에서 레이시오 같은 인재를 받아들이지 않은 것이야말로 「천재」들의 기이하고 고집스러운 면모를 보여주는 사례라고 생각하는 것 같았다.<br><br>——≪특권으로서의 지혜: Dr. 레이시오 파헤치기≫ 150페이지 발췌"
         },
         {
             "_id": 5,
-            "Story": "Many believe that after joining the Intelligentsia Guild, Ratio will learn to smooth out his sharp personality to adapt to the Guild's practical and simplistic academic environment. But I must say Ratio is still his old self. Below is the original excerpt from the internal records that I have transcribed:<br><br><i>\"<br>Respondent: Veritas Ratio<br>Subject: Logical Epistemology<br>Chairman of the Committee: Roseth<br>Transcriber: Morriway<br>Defense Transcript:<br>Roseth: Mr. Ratio, your paper is exceptional. Thank you for your presentation. Now, we will open the floor for questions.<br>There was a silence.<br>Roseth: Well, I'll do the honor then.<br>Roseth: I fully concur with your main ideas, but there's a detail that I find slightly confusing.<br>Veritas Ratio: Whenever someone agrees with me, I feel like I must be wrong.<br>Roseth: My question is, why do you think knowledge is a privilege?<br>Veritas Ratio: Dear Professor Roseth, your question indicates that you haven't fully grasped the content of my paper and do not understand the deductive methods I employed.<br>Veritas Ratio: To put it simply, you would be a great example. Your inability to comprehend my ideas shows precisely that knowledge is not for everyone.<br>Veritas Ratio: If ignorance is an ailment, it is the duty of scholars to weed it out and heal the universe.<br>Veritas Ratio walked to the podium, facing the crowd. Veritas Ratio: So, ladies and gentlemen, turning a blind eye to the folly of others is not an etiquette, but a wicked worldly practice. To spread knowledge, we must first make people realize their folly. The same surely applies to the scholars of the Guild.<br>Roseth shrugged and smiled bitterly.<br>...<br>Veritas Ratio left amid the commotion.<br>Remark: A passionate hand holding an icy sword — that is probably the best way to describe Mr. Veritas Ratio. By blending logic, passion, and the art of criticism into one, Ratio presents to us how a great thinker perceives and reacts to ignorance. We strongly believe that the addition of Mr. Veritas Ratio will bring immeasurable benefits to the Intelligentsia Guild.<br>Committee Decision: Approved unanimously.<br>\"</i><br><br>There are words about a mysterious organization within the Intelligentsia Guild called the \"Council of Mundanites\" that houses the brightest minds of the Guild. The fact that Ratio calls himself a Mundanite seems to affirm the rumor. It is hard not to read something into the organization's name, given Ratio's entangled history with the Genius Society. The mundane, as opposed to the ingenious, often has to make enormous efforts and sacrifices just to catch up with the latter. Is Ratio calling himself mundane a form of submission, mockery, or declaration of war? Anyway, he does live up to his name of Dr. Ratio with his dedication to curing ill minds with knowledge.<br>...<br><br>Extracted from page 230, <i>Wisdom as a Privilege: Decoding Dr. Ratio</i>"
+            "Story": "많은 사람은 레이시오가 지식학회에 들어간 후 실질적이고 소박한 평화를 추구하는 학회의 분위기에 맞춰 성향이 유해질 것이라 여겼다. 하지만 필자는 레이시오는 역시 레이시오였다고 말할 수밖에 없다. 다음은 필자가 녹취한 내부 기록 원본이다:<br><br><i> 「<br>심사 대상: 베리타스•레이시오<br>제목: 논리 지식론<br>위원회 의장: 로제스<br>기록인: 모리웨이<br>심사 녹취:<br>로제스: 『레이시오 선생님, 논문이 아주 훌륭하군요. 설명해주셔서 감사합니다. 그럼 이제 문답 시간을 갖겠습니다』<br>현장은 고요했다.<br>로제스: 『그럼… 레이시오 선생님, 제가 먼저 질문하겠습니다』<br>로제스: 『당신의 주요 관점에 동의합니다만, 이해가 되지 않는 게 하나 있습니다』<br>베리타스•레이시오: 『다른 사람이 제 의견에 동의할 때마다 전 제가 틀린 게 분명하다는 생각이 듭니다』<br>로제스: 『제 질문은 이겁니다. 당신은 왜 지식이 특권이라고 생각하는 겁니까?』<br>베리타스•레이시오: 『존경하는 로제스 교수님, 그런 질문을 하신다는 것 자체가 제 논문을 전혀 이해하지 못했고, 제가 사용한 추론 방법도 이해하지 못했다는 것을 의미합니다』<br>베리타스•레이시오: 『그래도 간략히 대답하자면, 교수님께서 방금 또 다른 사례를 제공하셨습니다. 당신이 저의 관점을 이해할 수 없다는 것은 지식이란 게 모든 사람이 누릴 수 있는 것이 아님을 말해주고 있습니다』<br>베리타스•레이시오: 『우둔함이 고질병이라면, 학자에게는 그것을 뿌리 뽑고 우주를 치료하는 책임이 있습니다』<br>베리타스•레이시오는 강단으로 걸어가 청중을 바라봤다: 『그러니 여러분, 다른 이의 무지를 못 본 체하는 것은 예의가 아니라 부도덕한 일입니다. 지식을 전파하려면 먼저 사람들이 자신이 어리석다는 것을 깨닫게 해야 합니다. 물론 학회 학자들 스스로에게도 마찬가지입니다』<br>로제스는 어깨를 으쓱하며 씁쓸하게 웃었다.<br>……<br>베리타스•레이시오는 술렁이는 사람들을 뒤로하고 현장을 떠났다.<br>심사 평가: 뜨거운 열정의 손으로 얼음같이 차가운 검을 쥔 자, 어쩌면 이것이 베리타스•레이시오 선생에 대한 가장 직관적인 평가일 것입니다. 베리타스•레이시오는 논리, 열정, 비평 예술을 한데 결합하여 무지를 대면하는 뛰어난 사상가의 사고와 행동을 보여줬습니다. 우리는 레이시오 선생의 지식학회 가입이 엄청난 이익을 가져다줄 것이라고 확신합니다.<br>심사 위원회 의견: 만장일치로 가결<br>」</i><br><br>지식학회 내부에는 학회에서 가장 뛰어난 자들만 모아놓은 「범인원(凡人院)」이란 신비한 조직이 있다고 한다. 레이시오가 「범인(凡人)」을 자처하는 것이 은연중에 소문이 사실이라고 인정하는 것일지도 모른다. 그와 지니어스 클럽 간의 갈등을 생각하면, 이 조직 이름은 많은 것을 떠올리게 한다. 천재와 대비되는 개념인 범인은 천재의 뒤를 쫓기 위해 많은 노력과 대가를 치러야 한다. 레이시오가 범인을 자칭하는 것은 굴복일까, 도발일까? 아니면 선전포고일까? 어쨌든 지식으로 사상의 병을 치료한다는 집념을 지닌 그는 진리의 「Dr. 레이시오」라는 이름에 걸맞다.<br>……<br><br>——≪특권으로서의 지혜: Dr. 레이시오 파헤치기≫ 230페이지 발췌"
         }
     ]
 }
@@ -443,188 +443,196 @@ var _story_ = {
 var _voice_ = {
     "1305": [
         {
-            "Title": "First Meeting",
-            "Voice": "I am Dr. Ratio, a scholar and teacher of the Intelligentsia Guild, and one of the mediocres. If one day your brain shows symptoms of dullness, then please give the doctor a call."
+            "Title": "첫 만남",
+            "Voice": "난 베리타스•레이시오야. 지식학회의 학자이자 선생이고, 평범한 사람이기도 하지. 언젠가 머리가 「우둔」해지는 증상이 나타나면, 그때는 날 「Dr. 레이시오」라고 불러줘"
         },
         {
-            "Title": "Greeting",
-            "Voice": "You look distressed. Is something troubling you? If so, you can figure it out for yourself."
+            "Title": "인사",
+            "Voice": "골치 아픈 모양이군, 무슨 문제라도 생겼나? 그렇다면——스스로 해결하도록 해"
         },
         {
-            "Title": "Parting",
-            "Voice": "Another day has passed. If your problem still hasn't been solved, is it possible that the problem is you?"
+            "Title": "작별",
+            "Voice": "또 하루가 지났어. 아직도 네 문제가 해결되지 않았다면, 그건 너 자신이 문제라서가 아닐까?"
         },
         {
-            "Title": "About Self: Headpiece",
-            "Voice": "First, with the headpiece on, isolated from my five senses, I can think without interference. And second, I don't have to set eyes on stupid people. Of course, they don't want to see me either."
+            "Title": "자신에 대해•석고상",
+            "Voice": "첫째, 석고상을 쓰면 오감이 차단돼서 방해받지 않고 생각할 수 있어. 둘째, 난 바보들을 보기 싫거든. 물론 그들도 내가 보고 싶지 않겠지"
         },
         {
-            "Title": "About Self: True Appearance",
-            "Voice": "I don't mind revealing my true colors if it helps me teach students and treat patients. But in my experience, it's usually counterproductive."
+            "Title": "자신에 대해•진짜 모습",
+            "Voice": "강의와 치료에 도움이 된다면, 얼굴을 노출하는 건 꺼리진 않아. 하지만 그간의 경험으로 보면 대부분 백해무익이더군"
         },
         {
-            "Title": "Chat: Intelligentsia Guild",
-            "Voice": "The Intelligentsia Guild is often seen as a vendor of knowledge, but the right to set a price is always in the hands of the buyer. When someone is willing to listen to knowledge that is being disseminated and circulated, a price is created."
+            "Title": "잡담•지식학회",
+            "Voice": "지식학회는 늘 지식의 판매자라고 여겨지지만, 가격을 결정할 권리는 언제나 구매자에게 있었어. 누군가가 원한다면 지식은 보급 및 유통되고, 가격이 매겨지지"
         },
         {
-            "Title": "Chat: Genius Society",
-            "Voice": "They dedicate themselves to truth... And it's right to say so — after all, everything they do is for the sake of Nous."
+            "Title": "잡담•지니어스 클럽",
+            "Voice": "그들은 진리에 자신을 바쳤다…. 틀린 말은 아니야. 그들의 모든 건 다 「누스」를 위한 것이니까"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I can't stay away from books and bathtubs, especially the former. When one's head is stuffed with filth, one's body is no cleaner."
+            "Title": "취미",
+            "Voice": "난 책, 욕조와는 떼려야 뗄 수 없어. 책은 더더욱 그렇지. 머리가 더러운 것들로 가득 차 있다면, 몸도 깨끗해질 수 없어"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "The most annoying thing about idiocy is that you can't explain it to an idiot."
+            "Title": "고민",
+            "Voice": "바보한테는 뭐가 「바보」인지조차 설명할 수 없어"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "Before you ask a question, why don't you consider whether the answer has already been determined? It is better for everyone if such questions are not asked."
+            "Title": "공유",
+            "Voice": "묻기 전에 이미 답을 정하고 묻는 게 아닌지 먼저 생각해 봐. 그런 질문은 입 밖에 내지 않는 게 모두한테 좋아"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "The beauty of truth is that it never changes, even when no one understands it. Well, that's true for me, at least."
+            "Title": "견문",
+            "Voice": "진리의 묘미는 이해하는 사람이 없어도 변하지 않는다는 점에 있어. 나 자신도 그렇고"
         },
         {
-            "Title": "About Herta",
-            "Voice": "Herta is a quintessential genius — a natural wonder who sees no one as her equal. I have no doubt that she is talented, but I doubt whether her talent is always helpful to others."
+            "Title": "헤르타에 대해",
+            "Voice": "헤르타는 가장 전형적인 지니어스야——하늘이 내린 기재를 지녔고, 안하무인이지. 그녀의 재능을 의심하진 않지만, 그 재능이 타인에게 도움이 될지는 의심스러워"
         },
         {
-            "Title": "About Screwllum",
-            "Voice": "In his field, Screwllum is trying to establish new laws. I prefer to call such a person a monarch, rather than a genius."
+            "Title": "스크루룸에 대해",
+            "Voice": "스크루룸은 자신의 영역 안에서 새로운 법칙을 세우려 하고 있어. 난 이런 사람을 지니어스라기보단 군왕이라고 부르고 싶어"
         },
         {
-            "Title": "About Ruan Mei",
-            "Voice": "How many people have been fooled by her claim to fame as a hermetic genius? It seems to me that she wants to explore much more than just life. Just wait and see — the Genius Society member with all the real ambition is her."
+            "Title": "완•매에 대해",
+            "Voice": "「은둔자」를 자칭하는 그녀에게 얼마나 많은 사람이 속고 있는 줄 알아? 내가 보기에 그녀가 연구하려는 건 생명만이 아니야——두고 봐. 그녀야말로 지니어스 클럽의 진정한 야심가니까"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Thought is the only means available through which to know ourselves."
+            "Title": "성혼 활성화",
+            "Voice": "생각을 통해서가 아니면, 자신을 알 수 있는 다른 수단은 없어"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "The faster the progress, the greater the chance of errors."
+            "Title": "캐릭터 승급",
+            "Voice": "성장이 빠를수록 실수가 많아지는 법이지"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "If this day I have not gained the recognition of Nous, it stands to reason that I never will at any point in the future."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "난 지금까지 누스의 인정을 받지 못했으니, 앞으로도 그러지 못할 거라는 근거가 생긴 셈이지"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "You may choose to do the same as everyone else, but you are bound to get a completely different result."
+            "Title": "행적 활성화",
+            "Voice": "타인과 같은 일을 해도 넌 완전히 다른 결과를 얻을 걸"
         },
         {
-            "Title": "Added to Team With Herta",
-            "Voice": "Can ordinary men still manage to believe in themselves under the scorn of a genius?"
+            "Title": "파티 편성•헤르타",
+            "Voice": "지니어스의 멸시를 받고도 평범한 사람이 자신을 믿을 수 있을까?"
         },
         {
-            "Title": "Added to Team With Ruan Mei",
-            "Voice": "Harnessing and tempering the instincts of life... you know more of such things than myself."
+            "Title": "파티 편성•완•매",
+            "Voice": "생명의 본능을 제어하고 자극하는 건… 나보다 더 잘 알겠지?"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Call that defense?"
+            "Title": "파티 편성•어벤츄린",
+            "Voice": "나한텐 신경 끄고 너나 잘 챙겨, 도박꾼"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Need I... teach someone a lesson?"
+            "Title": "어벤츄린에 대해",
+            "Voice": "그 녀석은 늘 심연에서 빠져나올 방법이 있지. 그건 단순히 「운이 좋다」는 말로 설명할 수 없어. 모두 그가 실수하길 기다리고 있고… 어쩌면 본인 역시 그럴지도 모르지. 하지만 난 시간이 지날수록 진짜 그런 날이 올까 의구심이 들더군"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "I'm asking the questions."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "그걸 방어라고 하는 건가?"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Do you have answers?"
+            "Title": "전투 시작•위험 경보",
+            "Voice": "엄격한 지도가… 필요한 건가?"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "No need to rush. Patience breeds success."
+            "Title": "턴 시작•1",
+            "Voice": "내가 질문하지"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Let's test your knowledge."
+            "Title": "턴 시작•2",
+            "Voice": "모두의 대답이 기대되는군"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Never stop thinking."
+            "Title": "턴 대기",
+            "Voice": "천천히 잘 생각하고 결정해"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Think!"
+            "Title": "전투 스킬•1",
+            "Voice": "내가 한번 시험해보지"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Mediocre!"
+            "Title": "전투 스킬•2",
+            "Voice": "생각을 멈추지 마"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "You fool!"
+            "Title": "일반 공격",
+            "Voice": "머리를 써!"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Esse est percipi..."
+            "Title": "약공격 피격",
+            "Voice": "경솔하군!"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Knowledge is the measure of all things. It reveals truth... and falsehood."
+            "Title": "강공격 피격",
+            "Voice": "우매하긴!"
         },
         {
-            "Title": "Talent 1",
-            "Voice": "Zero points... Next!"
+            "Title": "필살기•활성화",
+            "Voice": "이미 감지됐어——"
         },
         {
-            "Title": "Talent 2",
-            "Voice": "Fail... Get out!"
+            "Title": "필살기•발동",
+            "Voice": "지식은 만물의 척도이자, 진리를 파헤치고, 오류를 근절하지"
         },
         {
-            "Title": "Downed",
-            "Voice": "Mere flesh..."
+            "Title": "특성•1",
+            "Voice": "0점, 다음!"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Well done... ten points."
+            "Title": "특성•2",
+            "Voice": "마이너스, 퇴출!"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Not bad... five points."
+            "Title": "전투 불능",
+            "Voice": "「평범한 자」라니… 윽……"
         },
         {
-            "Title": "Technique",
-            "Voice": "For the theater of the mediocre."
+            "Title": "전투 복귀",
+            "Voice": "잘했어, 플러스 10점"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Just as my calculations predicted."
+            "Title": "HP 회복",
+            "Voice": "나쁘지 않군, 플러스 5점"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Since when were knowledge and wealth mutually exclusive?"
+            "Title": "비술",
+            "Voice": "평범한 자의 연극을 감상하시죠"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Wealth shouldn't be a hindrance to pursuit of truth."
+            "Title": "전투 승리",
+            "Voice": "계산 범위 내의 결과야"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "I accept, as would any man."
+            "Title": "전리품 오픈•1",
+            "Voice": "누가 지식은 속세에서 벗어나야 한다고 했지?"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Hardly a work of genius..."
+            "Title": "전리품 오픈•2",
+            "Voice": "부는 진리를 방해하지 않아, 오히려 도움이 되지"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "An interesting test of intellect."
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "「평범한 사람」으로서 기꺼이 받지"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "You learn to know yourself before your enemy."
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "이거 참… 「훌륭」하군"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Ready to squander the remainder of your days?"
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "지능계발 장난감 수준으론 나쁘지 않군"
+        },
+        {
+            "Title": "적 발견",
+            "Voice": "사람은 「자신을 아는 법」을 배워야 해"
+        },
+        {
+            "Title": "도시로 복귀",
+            "Voice": "인생을 낭비할 준비됐나?"
         }
     ]
 }

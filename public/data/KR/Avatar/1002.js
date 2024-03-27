@@ -447,23 +447,23 @@ var _story_ = {
     "1002": [
         {
             "_id": 1,
-            "Story": "A cold and reserved young man who wields a spear known as Cloud-Piercer. He acts as the Express' guard on its long trailblazing expedition.<br>Dan Heng never talks much about his past. In fact, he joined the Express Crew to escape from a past of his own making.<br>But can the Express really help him outrun his past?"
+            "Story": "「격운」이라는 이름의 장창을 든 차가운 분위기의 과묵한 청년. 기나긴 열차의 개척 여정에서 경호를 맡고 있다.<br>단항은 과거를 깊이 숨긴 채 자신이 손수 만든 모든 것으로부터 벗어나기 위해 열차와 동행한다.<br>그러나 열차는 과연 그를 「과거」에서 벗어나게 할 수 있을 것인가?"
         },
         {
             "_id": 2,
-            "Story": "A new dawn begins.<br><br>It's just another extremely average day aboard this giant ship. The markets have just opened and the morning dew is still fresh, but the young man crossing the street has never seen such a sight. Before he manages to notice all the differences between the actual city and its descriptions in books, he is immersed in savoring the warmth of the sun on the back of his neck.<br><br>It is his first time seeing his own body clearly. This body belongs to him. It belongs to this current name.<br><br>When he arrives at the port, the escorting soldier removes the last of his shackles. He walks forward without looking back. He can feel, ever so faintly, several pairs of eyes gazing at him from within the city. Eyes filled with hatred.<br><br>It isn't until the spaceship takes off that he turns his head and takes one final look at this place. It really is a magnificent and grand spaceship — just like the books say.<br><br>He only glances at it once, then turns his head away to where the stars shimmer dimly and an uncertain future lies.<br><br>He looks out in silence."
+            "Story": "새로운 하루가 시작되었다<br><br>이건 거함의 극히 평범한 하루에 불과했다. 시장은 막 열렸고 잎끝에 스며든 이슬은 채 마르지도 않은 시간이었다. 그러나 길목을 가로지르는 소년은 예전에 이런 광경을 직접 본 적이 없었다. 이 도시의 구석구석이 책에서 묘사된 것과 어떻게 다른지 관찰하기도 전에 그는 목덜미 사이로 비치는 햇살의 따뜻함을 느끼고 있었다<br><br>그는 처음으로 자신의 몸을 똑똑히 보았다. 이 몸은 자신의 것이었고 지금 이 이름의 소유였다<br><br>소년이 항구에 도착하자 그를 압송하는 병사들이 마지막 족쇄를 풀어주었다. 그는 뒤돌아보지 않은 채 앞으로 걸어갔고, 도시에서 자신을 노려보는 몇몇 증오의 시선을 어렴풋이 느낄 수 있었다<br><br>우주선이 이륙할 때가 돼서야 그는 고개를 돌려 마지막으로 그쪽을 보았다. 책에 묘사된 것처럼 이것은 웅장하고 아름다운 거함이었다<br><br>소년은 단지 한 번 그쪽을 쳐다본 뒤 다시 고개를 다른 쪽으로 돌렸다. 그곳에는 어두운 빛을 발하는 수많은 별들이 있었고 미래가 어디로 향할지는 알 수 없었다<br><br>그러나 그는 여전히 아무런 소리도 내지 않고 응시할 뿐이었다"
         },
         {
             "_id": 3,
-            "Story": "A new dawn begins.<br><br>He steps off one IPC spaceship, then boards another. He'd never even heard of the ship's destination, but that doesn't matter. There is nowhere he particularly wanted to go. His only goal is to get as far away as possible from his past, from his \"home.\"<br><br>On these spaceships, people come and go all the time. None of the IPC crews care who he is, so long as he can work.<br><br>He has changed his appearance and might no longer be recognized, but he knows that same power still lurks within him, unable to be shaken off no matter where he goes. This power drags him down, slows him, tries to overwhelm him, and makes him unable to escape his past. He has to be careful.<br><br>But he still can't shake off the man with the beastly eyes.<br><br>If others in his homeworld felt hatred toward him, then that man only has a killing intent toward him — even the spaceships he had traveled on were all annihilated. That man had died before him, but would reappear soon after.<br><br>Outside his homeworld, there's a larger world where anything is possible."
+            "Story": "새로운 하루가 시작되었다<br><br>그는 컴퍼니의 우주선에서 내려 다른 우주선에 올라탔다. 그 목적지에 대해 들어본 적은 없지만 그건 중요하지 않았다. 특별히 가고 싶은 곳이 없는 그에게 있어 유일한 목적은 과거에서 멀리 떨어져 「고향」을 벗어나는 것이었다<br><br>우주선을 오가는 컴퍼니 직원들은 그가 누구인지 전혀 신경 쓰지 않았다. 그저 일을 할 수 있으면 그걸로 된 거였다<br><br>사람들은 이미 모습을 바꾼 그의 정체를 쉽게 알아볼 수 없었다. 하지만 그는 그 힘이 아직 자신의 몸속에 숨어 있다는 것을 알고 있었고, 그 힘은 어디를 간다 해도 벗어날 수 없었다. 그의 발목을 잡고 걸음을 느리게 하며 억누르는 그 힘으로 인해 그는 과거로부터 벗어날 수 없었다. 그는 반드시 조심히 행동해야만 했다<br><br>그럼에도 그는 야수 같은 두 눈을 지니고 있는 남자의 시선을 벗어날 수 없었다<br><br>「고향」의 다른 사람들이 그에 대해 품고 있는 감정을 「증오심」이라고 한다면 그 남자가 가지고 있는 감정은 오직 「살의」뿐이었다. 그가 탔던 우주선은 전부 남자에 의해 섬멸되었다. 남자는 예전에 그의 눈앞에서 죽었지만 얼마 지나지 않아 그 남자가 다시 나타났다<br><br>「고향」 밖은 무슨 일이든 발생할 수 있는 더욱 드넓은 세계였다"
         },
         {
             "_id": 4,
-            "Story": "A new dawn begins.<br><br>He boards another spaceship, and the passengers are all wearing different masks. He nearly has his memory stolen, and is forced to listen to a lecture that sounded like mad ramblings.<br><br>He knows that huge monsters prowl upon this route, but he could only find a way toward survival by traveling along the most dangerous of roads.<br><br>He defeats the huge monsters and disembarks at the next port. He thinks he could remain undetected among the countless ships, but he is stopped by a redhead woman. She salutes him in thanks, saying she is with one of the ships he had rescued.<br><br>He is about to turn and leave when he sees a parked train beside the redhead woman.<br><br><i>\"Where's your next stop?\"<br>\"...Haven't decided yet.\"<br>\"Then would you like to board our Express?\"<br>\"...\"<br>\"We're retracing our previous journey. There's so much to see all over again. We need a guard... And an archiver.\"<br>\"...\"<br>\"You can get off any time once you made up your mind on where to go.\"<br>\"Alright.\"</i>"
+            "Story": "새로운 하루가 시작되었다<br><br>그는 다른 우주선에 올라탔는데 그 우주선의 사람들은 각자 저마다의 가면을 쓰고 있었다. 그는 하마터면 기억을 빼앗길 뻔했고 억지로 허튼 소리 같은 연설을 들어야만 했다<br><br>그는 이 루트의 항로에 괴수가 도사리고 있다는 것을 알고 있었지만 가장 위험한 길로 들어서야만 비로소 살 길을 구할 수 있는 것이 그의 처지였다<br><br>그는 괴수를 물리치고 다음 항구에서 하선하였다. 별처럼 헤아릴 수 없는 수많은 함선 속에 숨어 있으면 눈치채지 못할 거라 생각했던 그를 붉은 머리의 한 여인이 불러 세웠다. 그녀는 그에게 구조된 함선 중 하나에 탑승했었다면서 그에게 공손히 경의를 표했다<br><br>그냥 돌아서려던 그는 빨간 머리 여자의 옆에 열차 한 대가 정해 있는 것을 보았다<br><br><i>「이제 어디로 갈 생각이죠?」<br>「… 아직 결정하지 못했어」<br>「그럼 이 열차로 오시겠어요?」<br>「……」<br>「우리는 과거의 항로를 다시 이동하고 있답니다. 너무 많은 내용들을 다시 되밟아야 하기에 경호원 한 명… 과 서기가 필요해요」<br>「……」<br>「어디로 갈지 결정하게 되면 언제든지 하차할 수 있어요」<br>「알겠어」</i>"
         },
         {
             "_id": 5,
-            "Story": "A new dawn begins.<br><br>He rubs his eyes, realizing it had been too long since he had such a good night's sleep. He considers himself as only staying temporarily and refused the room specially prepared for him, making a simple bed on the floor of the Archives. However, he stayed up all night reading the data bank. At some point, he'd drifted off to sleep.<br><br>He opened the door to find the conductor standing there, reprimanding him for staying up late — Otherwise he'd miss out on a piping hot breakfast and would've wasted the care put into it. He nods and the conductor quietens down in satisfaction, wobbling as they lead him into the passenger car.<br><br>The redhead woman — who he now knows is named Himeko — flashes him a smile. The brunet man to the other side — Mr. Yang — remains silent despite appearing to have many questions on his mind.<br><br>Before he knew it, he'd spent many a morning just like this.<br><br>The process of re-visiting the route is not easy, mostly due to the numerous roadblocks caused by Stellaron. Sometimes, they would encounter the huge monsters he'd defeated before. They even found an enormous chunk of floating ice — encased in which was a living girl.<br><br>That's why he wasn't very surprised when he detected that the {M#boy}{F#girl} named Trailblazer has an actual Stellaron sealed inside {M#his}{F#her} body.<br><br>The Express' journey will continue on. Is there anything beyond the realm of possibility?"
+            "Story": "새로운 하루가 시작되었다<br><br>눈을 비비며 잠에서 깬 그는 자신이 아주 오랫동안 이렇게 편안하게 잠에 든 적이 없다는 것을 발견했다. 잠시간만 머물 것을 고려해 특별히 그를 위해 준비한 방을 거절한 그는 자료실에서 간단히 바닥을 깔고 밤새 아카이브를 검색하다 어느새 잠에 빠져들었던 것이었다<br><br>그가 방문을 열자 열차장은 문밖에 서서 밤을 새워서는 안 된다며 그를 따끔한 어조로 질책했다. 아니면 자신이 직접 준비한 김이 모락모락 나는 아침 식사를 놓치게 될 거라면서 말이다. 그가 고개를 끄덕이자 열차장은 흐뭇한 표정으로 입을 다물고는 뒤뚱거리는 발걸음으로 그를 데리고 객차로 향했다<br><br>빨간 머리 여자——그는 이제 그녀의 이름이 히메코라는 것을 알고 있다. 그녀가 그를 향해 미소를 보였다. 반대편의 갈색 머리 남자——웰트 씨는 궁금한 게 많아 보였지만 끝내 아무 말도 하지 않았다<br><br>자신도 모르게, 그는 수많은 이런 아침을 보내게 되었다<br><br>항로를 다시 되밟는 과정은 결코 쉽지 않았다. 대분의 스텔라론이 막혀 있어 예전에 그가 물리친 괴수들과 다시 마주치기도 했다. 그들은 심지어 부유하는 거대 얼음 운석을 포획하기도 했는데 그 얼음 운석 속에는 아가씨 한 명을 발견할 수 있었다<br><br>그래서 그는 {NICKNAME}이라는 이름의 {M#소년}{F#소녀}의 몸속에 스텔라론이 봉인되어 있음을 알아차렸을 때 그다지 놀라워하지 않았다<br><br>열차의 여정은 계속된다. 앞으로 또 무슨 일이 발생할까?"
         }
     ]
 }
@@ -471,184 +471,184 @@ var _story_ = {
 var _voice_ = {
     "1002": [
         {
-            "Title": "First Meeting",
-            "Voice": "I should reintroduce myself. My name is Dan Heng — I'm the guard on the Express. I also administer the train's data bank."
+            "Title": "첫 만남",
+            "Voice": "다시 한번 소개하지. 난 단항이라고 해, 열차의 경호원이지. 열차의 아카이브도 내가 관리하고 있어"
         },
         {
-            "Title": "Greeting",
-            "Voice": "I updated the data bank entries today if you wanted to look anything up."
+            "Title": "인사",
+            "Voice": "오늘 아카이브의 표제어를 업데이트해 뒀으니까 언제든지 찾아봐"
         },
         {
-            "Title": "Parting",
-            "Voice": "Time to turn in already...? Thanks for the reminder. It's easy to lose track of time in the archives — before you know it, a whole day's gone by... See you tomorrow."
+            "Title": "작별",
+            "Voice": "벌써 취침 시간이야…? 알려줘서 고마워. 자료실에 있으면 시간 가는 걸 몰라서 밤새도록 앉아있게 되거든…. 내일 보자"
         },
         {
-            "Title": "About Self: Past",
-            "Voice": "I come from an alliance, and was born on a grand and beautiful ship that I barely had the chance to see... I can never return."
+            "Title": "자신에 대해•과거",
+            "Voice": "난 연맹에서 태어나 웅장하고 아름다운 거함에서 자랐지만, 그 거함의 외관을 본 건 손에 꼽을 정도야. 이젠 돌아갈 수도 없지"
         },
         {
-            "Title": "About Self: Reason for Boarding the Express",
-            "Voice": "At that time, I had nowhere to go but the Express."
+            "Title": "자신에 대해•열차에 오른 이유",
+            "Voice": "그때 열차를 제외하곤 몸을 의탁할 곳이 없었어"
         },
         {
-            "Title": "Chat: Cloud-Piercer",
-            "Voice": "Cloud-Piercer is always with me. For my safety, and the safety of everyone else."
+            "Title": "잡담•격운",
+            "Voice": "격운을 몸에서 떼어놓지 않는 건 내 안전뿐만 아니라 다른 사람을 위한 일이기도 해"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "It's not really a hobby, but I used to read a lot..."
+            "Title": "취미",
+            "Voice": "독서… 취미까진 아니고, 과거의 습관이랄까"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "If you're not there to look something up, then please don't enter the archives. It's not a place for chitchat."
+            "Title": "고민",
+            "Voice": "아카이브를 열람하려는 목적이 아니면 자료실에는 멋대로 들어가지 마. 자료실의 기능엔 대화가 포함되어 있지 않거든"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "As vast as the universe is, it cannot change its past."
+            "Title": "공유",
+            "Voice": "우주처럼 광활한 그 과거는, 스스로 결정할 수 있는 게 아니겠지"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Once there are sufficient records in the data bank, the flow of individuals will link together seemingly independent events."
+            "Title": "견문",
+            "Voice": "아카이브의 기록이 충분해지면, 독립된 것처럼 보이는 「사건」도 움직이는 「사람」에 의해 관계가 생기게 돼"
         },
         {
-            "Title": "About March 7th",
-            "Voice": "March's weakness is that she likes to get involved in other people's business. ...Perhaps that's also her strength."
+            "Title": "Mar. 7th에 대해",
+            "Voice": "Mar. 7th의 단점은 오지랖이 넓다는 거야. 그게 장점일 수도 있어"
         },
         {
-            "Title": "About Himeko",
-            "Voice": "If you have questions about the Express, Himeko can give you the best answer."
+            "Title": "히메코에 대해",
+            "Voice": "열차와 관련된 문제라면, 히메코의 판단을 따르는 게 가장 현명한 판단이지"
         },
         {
-            "Title": "About Welt",
-            "Voice": "Mr. Yang is a very compassionate person, but thankfully he doesn't pry."
+            "Title": "웰트에 대해",
+            "Voice": "웰트 씨는 다른 사람들한텐 관심이 많은데 내 일에 대해선 한 번도 물어본 적이 없어"
         },
         {
-            "Title": "About Pom-Pom",
-            "Voice": "My intuition tells me that it would be unwise to provoke the conductor."
+            "Title": "폼폼에 대해",
+            "Voice": "이건 내 직감인데, 폼폼은 건드리지 마"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "We mustn't cling to the past."
+            "Title": "성혼 활성화",
+            "Voice": "과거에 연연하지 마"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Just as a data bank requires updating, so I must keep evolving."
+            "Title": "캐릭터 승급",
+            "Voice": "아카이브는 항상 업데이트해야 해. 나도 마찬가지지"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Leave the past behind. The future beckons my thoughts."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "과거에 매이지 않고 미래를 생각할 거야"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "I will choose my own path..."
+            "Title": "행적 활성화",
+            "Voice": "이제 난 나의 길을 선택하겠어……"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "Tread carefully, Trailblazer."
+            "Title": "파티 편성•{NICKNAME}",
+            "Voice": "{NICKNAME}, 너도 조심해서 움직여"
         },
         {
-            "Title": "Added to Team With March 7th",
-            "Voice": "March, stay with the group, don't rush off."
+            "Title": "파티 편성•Mar. 7th",
+            "Voice": "Mar. 7th, 너부터 챙겨. 우린 신경 쓰지 말고"
         },
         {
-            "Title": "Added to Team With Himeko",
-            "Voice": "Himeko, you can leave any contingencies to me."
+            "Title": "파티 편성•히메코",
+            "Voice": "히메코 씨, 돌발 상황은 제가 처리할게요"
         },
         {
-            "Title": "Added to Team With Welt",
-            "Voice": "Mr. Yang, do you have any advice on this matter?"
+            "Title": "파티 편성•웰트",
+            "Voice": "웰트 씨, 이런 문제에 대해선 어떻게 생각하세요?"
         },
         {
-            "Title": "Added to Team With Blade",
-            "Voice": "You... Keep your distance."
+            "Title": "파티 편성•블레이드",
+            "Voice": "당신… 내 동료한테 가까이 오지 마"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "It's too late to repent."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "이제 와서 후회해봤자 늦었어"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Move carefully."
+            "Title": "전투 시작•위험 경보",
+            "Voice": "충동은 금물이야"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Clemency? Never heard of it."
+            "Title": "턴 시작•1",
+            "Voice": "싸움은… 무의미하다"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Step aside, I have no interest in stoking conflict."
+            "Title": "턴 시작•2",
+            "Voice": "비켜. 분쟁을 일으킬 생각은 없어"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Don't hesitate."
+            "Title": "턴 대기",
+            "Voice": "망설이지 마"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "The time is now."
+            "Title": "일반 공격",
+            "Voice": "바로 지금이야"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Hmph."
+            "Title": "약공격 피격",
+            "Voice": "흥"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Careless."
+            "Title": "강공격 피격",
+            "Voice": "방심했군"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "The truth of life and death, revealed in an instant."
+            "Title": "필살기•활성화",
+            "Voice": "생과 사, 허와 실은 한 끗 차이지"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "This sanctuary, is but a vision... Break!"
+            "Title": "필살기•발동",
+            "Voice": "동천환화, 기나긴 꿈…"
         },
         {
-            "Title": "Downed",
-            "Voice": "This... can't be..."
+            "Title": "전투 불능",
+            "Voice": "이럴… 수가"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "This body isn't that frail."
+            "Title": "전투 복귀",
+            "Voice": "이 몸뚱이는 그렇게 약하지 않아"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Don't worry about me."
+            "Title": "HP 회복",
+            "Voice": "안심해"
         },
         {
-            "Title": "Technique",
-            "Voice": "This will strengthen our position."
+            "Title": "비술",
+            "Voice": "이 정도면 완벽해"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Past victories don't guarantee future ones."
+            "Title": "전투 승리",
+            "Voice": "지나간 과거는 중요하지 않아"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Worth our while."
+            "Title": "전리품 오픈•1",
+            "Voice": "헛수고는 아니었군"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Hmm... There is knowledge of this in the data bank."
+            "Title": "전리품 오픈•2",
+            "Voice": "아카이브에 관련 기록이 있어…"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "This should be securely stored."
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "응, 잘 챙겨 둬"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "That wasn't too difficult."
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "다행히 어렵지는 않군"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Seamless."
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "잘 풀렸으니 됐어"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "That enemy certainly isn't friendly."
+            "Title": "적 발견",
+            "Voice": "좋은 상대는 아니야"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Mm... I'll need to record today's notes in the data bank."
+            "Title": "도시로 복귀",
+            "Voice": "오늘 본 모든 것은 아카이브에도 기록될 거야"
         }
     ]
 }

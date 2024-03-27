@@ -429,23 +429,23 @@ var _story_ = {
     "1215": [
         {
             "_id": 1,
-            "Story": "One of the judges of the Ten-Lords Commission on the Luofu. She is in charge of \"interrogation\" among the four judges of detention, interrogation, incarceration, and punishment.<br>She is in charge of discerning the sins of criminals and using her Oracle Brush to write down karmic punishments to be meted out.<br>Since her daily work relies heavily on oneiromancy, she has been constantly struck by a tremendous influx of mara-tainted karmic information and grown detached from worldly matters.<br>Only when in the presence of her sister, Xueyi, does she reveal a glimpse of her tender nature."
+            "Story": "仙舟「羅浮」十王司の判官の1人。拘、鎖、刑、問のうちの「問」を担っている。<br>罪人の因果や罪を読み取り、「冥兆天筆」を用いて業を書き、判決を下す。<br>毎日夢占いの形式で仕事を行い、大量の魔陰の身の因果情報を浴びているため、世の中の万事に対して何も感じなくなっている。<br>同じ判官である姉の雪衣と一緒に行動する時だけ、本心を露わにする。"
         },
         {
             "_id": 2,
-            "Story": "The colossal coffin, resembling a desolate vessel adrift in a tempest, sways amidst the tumultuous currents of the ocean of consciousness. Waves of anger, longing, hatred, fear, and exhaustion crash upon her like colorless surges, propelling her from one turbulent realm to another.<br><br>Like a drowned soul, she finally lets go of her individuality and dissolves into the boundless ocean of chaos...<br><br><i>There was a time when she held the role of an officer in the Realm-Keeping Commission, constantly dealing with mountains of mundane duties, yearning for a promotion. Eventually, after a sharp snap that echoed deep within her mind, she started wandering the streets like a mindless corpse...</i><br><br><i>In the next moment, burdened with immeasurable grief, she submerged her baby with birth defects in a vessel brimming with starskiff culture medium, despite her and her husband's eager anticipation for their newborn baby...</i><br><br><i>Once a Cloud Knight, she was ruthlessly struck down by a wolf's twisted paw, her face maimed by its sharp claws, carving a twisted \"smile.\" Whenever she smiled, the wound induced excruciating pain in the years that followed...</i><br><br><i>Her divination revealed that her life teetered on the verge of oblivion. In despair, she overhauled the Matrix of Prescience's calculation terminal, attempting to access its core to utilize its full power. However, the Matrix's power ravaged her mind mercilessly...</i><br><br><i>She smashed her meticulously crafted contraption, as well as the foreman who had intentionally made things difficult for her. At that moment, she realized she would never achieve her dream of becoming a craftsman, but what else could she do...?</i><br><br>She became every one of them, all of them. Yet, at that moment, like an ink droplet descending upon her vision, an image swirled and dissipated.<br><br><i>Beneath azure skies, undulating waves of wheat surged and seethed around her. A nimble pair of hands gently crowned her head with a wreath. She allowed the foliage, leaves, and fragrant blooms to encircle her, just as the tender hands had embraced her...</i><br><br>That familiar warmth jolts her from the deluge poised to consume everything.<br><br>She realizes that she is not any of them, nor the sum of their forms. In that fleeting instant, she dwindles into a minuscule droplet within the ocean of consciousness. She recalls her name and her duty...<br><br>She is a judge of the Ten-Lords Commission, bearing the code name, \"Hanya.\"<br><br>Observing her awakening, the aurumaton stationed beside the coffin commenced a rapid flurry of writing, its movements too swift for the naked eye to discern.<br><br>The verdict of her judgment has been revealed, and the names that materialized within her dreams are transcribed onto a jade abacus token. As twilight melds into night within the delve, countless souls will bid their final farewell to the mortal realm, unaware that the precise moment of their demise had been recorded by someone within the innermost recesses of the Xianzhou ship. And within a few hours, the woman will no longer retain any recollection of them."
+            "Story": "巨大な棺は嵐の中で揺れる小舟のようで、荒れ狂う意識の海の中で今にも沈みそうになっている。彼女は人々の怒り、願望、憎しみ、恐怖、疲労に己の体を晒している。それは無色の波が彼女を1つの流れから別の波頭に投げつけるようなものだ。<br><br>溺れて死んだ者のように、彼女はついに小さな自分を捨て、その混沌とした大海原に溶け込んでいった——<br><br><i>ある時の彼女は地衡司で忙しなく働く執行人で、山のような雑務をこなしながら、上へ行くため歯を食いしばって耐えていた。しかし、ついに頭の奥で弦が切れるような音が響き、そのまま幽霊のように街中を彷徨い始める……</i><br><br><i>次の瞬間、彼女は深い悲しみを堪え、生まれながらに天欠のある子供を星槎培養液で満たされたカプセルの中に沈めた。彼女も夫も、その子供が生まれてくることをずっと待ち望んでいたはずなのに……</i><br><br><i>かつて雲騎軍の兵士だった彼女は、鋭いオオカミの爪に激しく踏みつけられたことがある。冷たい爪が顔の皮膚を引っ張り、歪んだ「笑顔」を作り出した。それからというもの、彼女は微笑むたびに痛みを感じるようになった……</i><br><br><i>占いの結果を見て、自分の命が尽きようとしていることを知った彼女は、信じられない思いで窮観の陣の演算端末を点検する。自分自身を陣の中枢に繋ぎ、そのすべての力を使おうとしたが、窮観の陣の力は容赦なく彼女の精神を引き裂いた……</i><br><br><i>彼女は自分が丹精込めて設計した機巧を砕くと、それと共に彼女にあれこれ難癖をつけていた師匠も破壊した。彼女は自分が職人になれる望みがないことを理解している。しかし、職人以外に自分に何ができるのかもわからなかった……</i><br><br>彼女は彼ら全員になり、彼らのすべてになった。しかし、まるで滴り落ちた1滴の墨汁のように、ある光景が彼女の目の前に広がっていく……<br><br><i>彼女は青空の下に座っていた。周りでは麦の穂が波打ちながら成長している。器用な手が彼女の頭に花冠を載せた。彼女は枝や葉、花の香りに包まれ、まるで温かい両手に抱き締められているかのようだ……</i><br><br>その懐かしい温もりによって、彼女は溺れる寸前で情報の海から目を覚ました。<br><br>彼女は自分が彼らではないことに気がついた。彼らの中の誰でもなく、彼らのすべてでもない。その瞬間、彼女は意識の海の中で取るに足らない一滴の水滴となり、自分の名前、自分が担っている仕事を思い出した——<br><br>彼女は十王司の判官の1人、代名は「寒鴉」。<br><br>彼女が目を覚ましたことに気づき、棺の傍に控えていた金人が素早く筆を動かし始める。その動きは肉眼では追えないほどだ。<br><br>業判の結果はすでに出ていた。夢の中に現われた名前が玉兆の令牌に書き込まれ、送り出される。洞天の陽が落ち夜が更けると、また多くの人がこの世を去るだろう。彼らは仙舟の最奥の片隅で、自分たちの命が尽きる瞬間を決めている人物がいることなど知る由もない。そして数時間後には、その人物は彼らのことを忘れているのだ。"
         },
         {
             "_id": 3,
-            "Story": "On the opposite side of the coffin, a white-robed judge stared at her with an unwavering gaze. In the absence of smiles, that once familiar face now looked particularly alien. The judge extended their hand, and a golden jug sat in their palm.<br><br>Enclosed within the jug is a liquor as green as jade, an emerald eye that glares unblinkingly at her within the dark vaults of the Hall of Karma.<br><br><i>\"Is it time to drink again? I almost forgot.\"</i> She rose from the coffin. <i>\"Why are you bringing me the wine instead of Yepo, sister?\"</i><br><br><i>\"Yepo... You don't remember, do you?\"</i> Her sister's eyelids close halfway. That is how her sister expresses concern — However, the ingenium forming her sister's body lacks the finesse to convey this expression, rendering it instead akin to a gesture of drowsiness.<i>\"Yepo pursued the Disciples of Sanctus Medicus and suffered fatal injuries. The Ten Lords have granted her permission for demise.\"</i><br><br>She hurriedly changed the subject.<i>\"How was the target you pursued today? Were they difficult to deal with?\"</i><br><br><i>\"Very difficult. He broke one of my hands and shattered my patella as soon as we met. The scoundrel seems to have knowledge over the composition of ingenia, indicating that he is indeed the skilled craftsman from the Zhuming all those years ago. I have recorded his moves. Through studies and contemplation, I will one day find a way to counter him.\"</i><br><br>She watched her sister recount that narrow escape from death with apparent indifference, as if discussing the breaking of an inanimate object. <i>\"We will have to bother Huohuo again to repair you.\"</i><br><br><i>\"Well, Huohuo... She was promoted to judge about a dozen days ago. Currently, Shouling is in charge of maintaining the ingenia.\"</i><br>With a smooth and precise motion, her sister placed the golden jug on the edge of the coffin beyond her reach. The wine within the jug sat still, without a ripple.<br><br><i>\"Drink this Wine of Oblivion, and you'll forget everything. You don't have to go this far, my dear sister. I should atone for my faults through my own efforts alone.\"</i> Just like how it is in her dream, her sister's hands were placed on her head in a gentle caress, but she cannot feel even the faintest trace of warmth.<br><br><i>\"It's only a minor side effect of drinking the Wine of Oblivion. If I end up forgetting everything about you, then both of us can finally embrace our demise without any burdens. By the benevolence of the Ten Lords, this promise has been recorded in the depths of the Hall of Karma.\"</i><br><br><i>\"And at that moment, we shall relinquish all and enter eternal slumber.\"</i> She leans forward slightly, pressing her sister's cold hand against her cheek.<br><br>She takes the wine jug from the edge of the coffin and, with effort, consumes the viscous liquid sip by sip. Though called \"wine\", it lacks all pungent and invigorating flavor. Instead, it tastes like oil drained into the body of an aurumaton.<br><br><i>\"But before that fateful moment, please allow me to carry out a few more tasks for you, for the Ten Lords, and for that general.\"</i>"
+            "Story": "棺の反対側で、白い服を着た判官が彼女をじっと見つめていた。見慣れた顔のはずなのに、笑顔がないため少し違和感を覚える。判官は手を伸ばすと、金の杯を渡された。<br><br>杯の中には翡翠のような緑色の酒が注がれている。それは因果殿の薄暗い室内で彼女を見つめる碧眼のようだった。<br><br><i>「またお酒を飲む時間？忘れるところだった」</i>彼女は棺桶の中から身を起こした。<i>「なんで夜魄じゃなくて、お姉ちゃんがお酒を届けに来てくれたの？」</i><br><br><i>「夜魄…覚えていないようですね？」</i>姉は目を半分閉じた。それは不安を表現する時の彼女の仕草だ——残念ながら、彼女が体としている機巧は精巧ではないため、その表情はどこか眠そうに見える。<i>「彼女は薬王秘伝の妖人を追っている最中、不幸にも重傷を負った。そして、十王は彼女の入滅を認めました」</i><br><br>彼女は慌てて話題を変える。<i>「今日の敵は手強かったの？」</i><br><br><i>「はい。会敵した瞬間に片腕を潰され、膝の骨も砕かれました。あの者は機巧の構造を熟知していた…それは彼が仙舟『朱明』のあの名匠だという何よりの証明です。ただ、彼の技は記録しましたので、何度か見返せばきっと見破れるでしょう」</i><br><br>彼女は姉が自分の生死の危機について語るのを聞きながら、まるでどうでもいい機械が壊れた話をしているようだと思った。<i>「またフォフォにお姉ちゃんの修理をお願いしないとね」</i><br><br><i>「フォフォは… 10 日くらい前に判官に昇任しました。今、機巧整備を担っているのは守霊です」</i><br>姉は金の杯を彼女の手が届かない棺の端に置いた。その流れるような動作は正確で、杯の中の酒はまったく揺れなかった。<br><br><i>「忘川の酒、飲み干せば皆無に帰す…そこまでする必要はありません。私の罪は私の手で償うべきですから」</i>夢の中と同じように、姉は彼女の頭を優しく撫でる。しかし、触れ合ったところからは少しの温もりも感じられなかった。<br><br><i>「忘川酒のちょっとした副作用でしかないよ。もし私が本当にお姉ちゃんのことを忘れたら、その時は私もお姉ちゃんも気兼ねなく入滅できる。十王の厚意で、この約束は因果殿の奥深くに記録されているでしょ？」</i><br><br><i>「それは私たちがすべてを捨て、永遠の眠りにつく時だよ」</i>彼女は身を乗り出して、温もりのない手を握って自分の頬に当てた。<br><br>彼女は棺の端から酒の入った杯を取ると、その濃い液体を苦しそうに、少しずつ飲み下していく。酒とは言っても、辛さや刺激的な香りはまったく感じられず、まるで金人の体に注入される油を飲んでいるかのようだった。<br><br><i>「その前に、お姉ちゃん、十王、そして…あの将軍のために、もう少し働かせて」</i>"
         },
         {
             "_id": 4,
-            "Story": "The wine she imbibes transforms into a dense pill of mercury, coursing through her limbs and bones. Memories she refuses to recall, fragments of her human existence from millennia past, resurface momentarily before gradually fading away...<br><br><i>She saw the crimson star known as \"Rahu\" suspended high amidst the clouds atop the Xianzhou Cangcheng, pulsating like a beating heart. Slowly, it cracked open, revealing a core composed of rocks, tendons, and branches. It voraciously consumed and gave birth to countless offspring, resembling a ravenous predator feasting or a mother on the verge of delivering.</i><br><br><i>Beneath the nightmarish moonlight, she witnessed the Foxians of the Xianzhou Yaoqing futilely maneuvering their starskiffs, resembling powerless flies attempting to take down an invincible behemoth, only to be crushed and reduced to flickering sparks in the air by borisin beast ships.</i><br><br><i>A colossal, walking tree approached her amidst the chaos of the battlefield. Extending its myriad branches, it impaled all who stood in its path, including her comrades. As she gripped her fractured sword for a desperate struggle, she suddenly saw a smiling face blossoming upon the tree — a reflection of her sister's face.</i><br><br><i>\"It's me, my dear sister. Don't you recognize me?\"</i><br><br><i>The branches and leaves rustled, and the faces of her companions sprouted like fruits from the treetops, emanating raucous laughter. \"Do not succumb to death. Do not grow accustomed to it. Embrace me... become a part of me...\"</i><br><br><i>Flowers burst forth upon her sword, which then disintegrated into rust within a few heartbeats. Nimble branches gently crowned her head with a wreath. She allowed the foliage, leaves, and fragrant blooms to encircle her, just as the tender hands had embraced her...</i><br><br><i>A colossal, blazing sword pierced through her visions, scorching away the sweet yet putrid atmosphere, almost suffocating her. A towering figure in formidable armor crashed onto the battlefield like a meteor, bellowing at the towering tree with the valor that defined his name. However, not even that valorous warrior could sever the suffocating entanglement wrought by the colossal tree...</i><br><br>Yes, it's that dream again, that recurring dream. No matter how many drafts of the Wine of Oblivion she consumes, she simply cannot escape the nightmare.<br><br>She gulps down the wine with visible effort, desperately, until the dream finally transforms into an enigmatic wisp of smoke. All that remains is the solitary thought of a restful slumber, bidding farewell to wakefulness."
+            "Story": "飲んだ酒はずしりと重い水銀のようになり、体の隅々にまで回っていった。思い出したくない秘密、人間だった千年前のあらゆる記憶が呼び起こされ、そしてまた徐々に色褪せていく——<br><br><i>彼女は「羅睺」と呼ばれる深紅の星が仙舟蒼城の上空に昇り、心臓のように絶えず脈打つ様を見た。その後、岩、腱、蔦からなる外殻がゆっくりと引き裂かれていき、無数の子供を呑んだり吐いたりしているところも。それは満ちるを知らない獣が暴食を繰り返しているようでも、出産を控えた母親のようでもあった。</i><br><br><i>悪夢のような月明かりの下で、彼女は曜青の狐族たちが無意味に星槎を操っているのを見た。まるで鬱陶しい蚊が動かざる巨神を刺しているかのようだ。やがてそれは歩離人の巨獣艦に駆逐され、空中で星の光のように消えていった。</i><br><br><i>歩く巨木が戦場にいる彼女にゆっくりと近づいてきた。その巨木は無数の腕を広げ、行く手を遮る人々、そして彼女と共に戦う友人たちを突き刺していく。彼女は恐怖と戦いながら折れた剣を握り締めたが、突然、その木に笑顔が浮かんだ——それは姉の顔だった。</i><br><br><i>「寒鴉、私です！わからないのですか？」</i><br><br><i>枝や葉がガサガサと音を立て、戦友たちの顔が枝に生った実のように大きくなっていき、鋭い笑い声を上げる。「死に屈してはなりません。死に慣れてはいけません。さあ、私の中に入って、私を抱き締めてください——」</i><br><br><i>彼女の剣に花が咲き、心臓が数回鼓動する間に錆びて朽ちてしまった。器用に動く枝が花の冠を彼女の頭に載せる。彼女は枝や葉、そして花の香りに包まれ、かつて温かい両手に抱き締められていた時のことを思い出した……</i><br><br><i>燃え盛る大剣が彼女の幻覚を貫き、空気中の甘ったるい腐臭を焼き払う。彼女は息ができなくなりそうだった。重い甲冑を身に纏った巨漢が流星のように戦場に落ち、雄叫びを上げながら巨木に向かって突進する。その勇敢さはまさに彼の名に相応しい。しかし、彼も窒息しそうなほど纏わりついてくる巨木を払い切ることはできなかった……</i><br><br>ああ、またこの夢だ。忘川酒を何度飲んでも、彼女はこの夢から逃れることができないでいる。<br><br>彼女は懸命に、必死になって飲み下し…やがて夢は捉えどころのない煙となって消え去った。これでようやく眠りにつける。それが意識のあるうちに彼女の頭に浮かんだ、唯一の考えだった。"
         },
         {
             "_id": 5,
-            "Story": "On one side of the coffin, a white-robed judge fixes her gaze upon the sealed coffin. Observing her sister's slumber had been routine during her human days.<br><br>She can no longer feel pain or any regrets. The consciousness residing within her skull informs her that observing her sister's sleep is an arduous duty, similar to what she once did to herself.<br><br>Making karmic judgments and delivering sentences are profound tasks, and such responsibilities must be exclusively entrusted to judges who have detached from the mortal world yet remain attuned to the emotions of people, unlike aurumatons. While she can discern subtle shifts in the tones of human words and detect the tightening of muscles upon sorrowful countenances, none of these can stir even the faintest ripple within her heart of forged steel, and no magic can bring back her emotions as a human. That is why her sister is needed for the Ten-Lords Commission.<br><br>An Aurumaton Spectral Envoy approaches her. <i>\"A new task?\"</i> The white-robed judge turns to the envoy.<br><br><i>\"If you wish to remain and attend to Madam Hanya, I can ask other judges to undertake the task instead.\"</i><br><br><i>\"That won't be necessary. I don't wish to disappoint her. Furthermore, I've reached an agreement with the Ten Lords. For every malefactor I apprehend, I shall be granted the freedom to return to the mortal realm for half a day. She's been inside the coffin for too long, and I'd like to bestow such a chance for her to bask in the sun.\"</i><br><br><i>\"Then, please prepare your sacred vessels and commence the exorcism, Madam.\"</i> The aurumaton bows in deference.<br><br>The white-robed judge remains emotionless as she peers into the darkness. Within her heart that no longer beats, there resides a simple aspiration, that her sister will dream a tender and blissful dream...<br><br>That she will dream of nimble hands gently crowning her head with a wreath."
+            "Story": "棺の傍らでは、白い服を着た判官が閉じられた棺を見つめていた。眠る妹を見守るのは、人間だった頃の習慣だ。<br><br>彼女は痛みを感じることも、後悔の念を抱くこともない。眠りにつく妹を見守ることは重要な使命であり、自分のためにしているのだと、頭の中に封じられた意識が彼女に訴えかけている。<br><br>判決を推察して生死を決める、それは重要なことだ。こうしたことは、世間から遠ざかりながらも人の心を持った判官に委ねるしかない。金鉄は所詮金鉄だ。彼女は人間の言葉の微妙な声の変化や表情の強張りを捉えられるが、それが彼女の金属の意識の中で波紋を起こすことはない。生身の肉体の喜怒哀楽を鋼鉄に共有させる魔法は存在しない。しかし、それこそ妹が十王司に捧げられるすべてだった。<br><br>1体の金人·勾魂が近づいてくる。<i>「新しい任務ですか？」</i>白い服を着た判官は顔を上げた。<br><br><i>「もし寒鴉様の傍に残りたいのなら、他の判官に任務遂行を伝えますが」</i><br><br><i>「その必要はありません、寒鴉の気持ちを裏切りたくはありませんから。それに、十王と交わした約束で、私は重罪人を1人捕まえるたびに、半日還陽する自由が与えられる。寒鴉はずっと棺の中にいるので、私は…この経験を、陽の光を見ることのない彼女に贈りたいのです」</i><br><br><i>「それでは、法器を用意して伏魔を始めてください」</i>金人は下を向いて礼をした。<br><br>白い服を着た判官は、表情を変えることなく暗闇を見つめている。もう動じることのない心には1つの想いしかなかった。妹に温かく優しい夢を見てもらいたい——<br><br>青空の下にいる自分が、器用な手つきで彼女の頭に花冠を載せる夢を。"
         }
     ]
 }
@@ -453,196 +453,196 @@ var _story_ = {
 var _voice_ = {
     "1215": [
         {
-            "Title": "First Meeting",
-            "Voice": "I am Hanya, envoy of the Ten Lords. Out of the four duties of a judge — detention, lock-up, execution, and interrogation — I am in charge of interrogation. Held in high esteem by the Ten Lords, I am the wielder of the Oracle Brush, recording crimes and punishments."
+            "Title": "初対面",
+            "Voice": "私は十王の使者、寒鴉。拘、鎖、刑、問のうち、最後を担当する判官。十王に認められ、天筆を執り、罪を記録して罰を判断してる。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "It's been a while. How have you been? I can't say I've been doing well lately myself, but that's normal for me."
+            "Title": "挨拶",
+            "Voice": "久しぶり、元気だった？私はあんまり元気じゃない。でもずっと元気じゃないから、特に問題はないかな。"
         },
         {
-            "Title": "Parting",
-            "Voice": "See you next time... no, it's better if there is no next time. It's never a good thing to run into me."
+            "Title": "お別れ",
+            "Voice": "また今度…ううん、やっぱりもう会わないほうがいいかもしれない。私に会うとよくないことが起きるから。"
         },
         {
-            "Title": "About Self: Sister",
-            "Voice": "\"Hanya\" and \"Xueyi\" are our code names as the envoys of the Ten Lords. Our previous names... are already in the past. But I've always had only one family member, my sister, and I won't let her leave a second time."
+            "Title": "自分について・姉妹",
+            "Voice": "「寒鴉」と「雪衣」は十王の使者としての私たちの呼び名で、前の名前は…もう過去のもの。でも、私の家族は今も昔もお姉ちゃんだけ。もう二度とお姉ちゃんを離したりしない……"
         },
         {
-            "Title": "Chat: Work",
-            "Voice": "Using dreams to analyze the sins of the mara-struck is like touching a vine with thorns — it doesn't hurt as much when your fingers become numb. Or maybe it's the mind that becomes numb first..."
+            "Title": "世間話・仕事",
+            "Voice": "夢で魔陰の身の罪を判読するのは、荊棘に触れるようなもの。触れれば触れるほど痛みを感じなくなる。もしかしたら…私は痛いのが怖くて、先に自分を鈍感にしたのかもしれない……"
         },
         {
-            "Title": "Chat: Ten-Lords Commission",
-            "Voice": "No one knows how the Ten-Lords Commission selects its talent, and many of its members don't remember how they got in or even what their previous occupation was. But since they don't need to show their faces to the outside world, it's not a bad state of affairs."
+            "Title": "世間話・十王司",
+            "Voice": "十王司が人材を選抜する方法は誰も知らない。ほとんどの人は自分がどうやって十王司に入ったのかも、過去に何をしていたのかも覚えてないの。世の中の人が彼らに会う必要がなくなったのは、お互いにとっていいことかもしれない。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Sometimes I record my daily experiences in a book... that way when I see my sister, I can tell her about them."
+            "Title": "趣味",
+            "Voice": "時々、日常の出来事を冊子に書き留めておくの…そうすれば、お姉ちゃんに会った時に聞かせてあげられるから。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "Xueyi and the Ten-Lords Commission came to an agreement that for every villain she arrested, she can go back to the world of the living for half a day. That is the best time in the world. But the good times are always so short, like holding water in your fist — the tighter you clench your fingers, the faster the water escapes..."
+            "Title": "悩み事",
+            "Voice": "お姉ちゃんは十王司と、犯人を捕らえるたびに半日還陽できるという取り決めを交わした。あれは世界で最も素晴らしい時間…でも、そういう時間はいつも短い。まるで水を掴んでいるみたいに、いくら強く握り締めても流れ出ていく……"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "The longer one works as a judge, the more they understand one fact — of all the people in this world, none is without blemish."
+            "Title": "シェア",
+            "Voice": "判官を長く続ければ続けるほど、ある事実がわかってくる——それは、この世に生きる人々は誰もが罪を背負っているということ。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Have you ever observed how the sky in the delve changes? Even knowing it's an artificial scenery, whenever you walk out of the Hall of Karma after days and nights of dream divinations and gaze at those bright and flickering stars, you will still feel a great calmness in your heart."
+            "Title": "見聞",
+            "Voice": "洞天の空がどうやって変化するか観察したことはある？たとえ偽りの景観だとわかっていても、何日か夢占をした後に因果殿を出て、あの明滅を見ると…少し心が落ち着くんだ。"
         },
         {
-            "Title": "About Xueyi",
-            "Voice": "Have you ever been to The Shackling Prison? The whole place is pitch black, except for the light cast by the occasional spiritfarer's lamp. To me, this mortal world is the prison, and my sister is the lamp."
+            "Title": "雪衣について",
+            "Voice": "幽囚獄に行ったことはある？あそこはどこもかしこも真っ暗で、冥差の近くにだけ灯りがあって、得難い光をもたらしてくれる。私にとって、この世が幽囚獄で、お姉ちゃんが灯りなの。"
         },
         {
-            "Title": "About Huohuo",
-            "Voice": "The judges of the Ten-Lords Commission are all people who suffer from some affliction or another, and this child is no exception. She might be timid, but she is very capable at work. It would be unwise to underestimate her."
+            "Title": "フォフォについて",
+            "Voice": "十王司の人たちは大抵どこか欠けている。フォフォも例外じゃない。彼女は臆病だけど、間違いなく実力がある。甘く見ていると損をするから、気を付けて。"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "The general has experienced many hardships, any one of which would be enough to break the spirit of an ordinary Xianzhou citizen... but he seems to handle it all with grace. He must have his own way of coping."
+            "Title": "景元について",
+            "Voice": "将軍はあまりにも多くのことを経験してきた。そのどれを取っても、普通の仙舟人の精神を打ち砕くには十分なのに…彼の状況は悪くない。たぶん自分なりの方法があるんだと思う。"
         },
         {
-            "Title": "About Blade",
-            "Voice": "This man has violated every statute in the Xianzhou Legal Code. It is rare to find a long-life individual who carries such a crime-ridden history and still maintains his sanity... Once my sister catches him, I'll examine his crimes in detail."
+            "Title": "刃について",
+            "Voice": "彼は自分の記憶に『仙舟律』を書き写して、それを手当たり次第に犯してるみたい。これだけの罪を背負いながら、正気を保っていられる長命種は珍しい…お姉ちゃんが彼を捕まえたら、罪業を詳しく判読しないと。"
         },
         {
-            "Title": "About Bailu",
-            "Voice": "The ability of the Vidyadhara to cast their memories and past sins to the Lunarescent Depths before reincarnating is truly enviable. But the Dragon Lady seems to be different from other Vidyadhara... She carries a heavy burden that has been passed down since long, long ago, and getting just a glimpse of it can be suffocating."
+            "Title": "白露について",
+            "Voice": "持明族の肉体は輪廻するうえに、逝く時に記憶と罪を古海に委ねることができるなんて、本当に羨ましい。でも龍女だけは他の持明族と違う…彼女は遥か遠い昔から受け継いだ重荷を背負っていて、見ているだけで息苦しくなる。"
         },
         {
-            "Title": "About Yukong",
-            "Voice": "The Foxian lifespan is only 300 years, but that is better than the Xianzhou natives who spend nearly a thousand years bumbling around... When one has forgotten the concept of death, life also becomes meaningless. Such is the curse placed by the Plagues Author."
+            "Title": "御空について",
+            "Voice": "狐族の寿命は 300 年くらいしかないけど、何もしないで 1000 年近く生きている仙舟人より凄いと思う…死の認識が薄れると、生命は意義を失うと言っても過言じゃない。これが、寿禍が生命にもたらした災いなの。"
         },
         {
-            "Title": "About Luocha",
-            "Voice": "Why does someone carry a coffin around? Is it to remind yourself of constantly being chased by death? This is similar to the judges of the Ten-Lords Commission — we enter the land of the dead to bring the dignity of life to the Xianzhou people."
+            "Title": "羅刹について",
+            "Voice": "棺を背負っているのは、自分は死に追われていると言い聞かせるため？その点に関しては十王司と似ているかもしれない。私たちが死地に入るのは、仙舟人の生きる威厳を手に入れるためだから。"
         },
         {
-            "Title": "About Tail",
-            "Voice": "The technique for sealing a heliobus inside Huohuo's tail, though seldom seen on the Luofu, is not so uncommon on other Xianzhou ships... though I really shouldn't divulge too many details."
+            "Title": "シッポについて",
+            "Voice": "歳陽をフォフォの身体に封じた術は、羅浮では珍しいけど、他の仙舟ではそうでもない…詳しいことは、私からは言えない。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "In the obscure prophecy of dream, a star from the heavens has enlightened my path."
+            "Title": "星魂覚醒",
+            "Voice": "ぼんやりとした夢兆の中で、1つの星が私を照らした。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "While devotion to public tasks is a must, this fatigue is somewhat... overwhelming..."
+            "Title": "キャラクター昇格",
+            "Voice": "公務に精進するのは当然だけど、疲れるものは疲れる……"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Wait, wait, wait... That's too much information to process..."
+            "Title": "レベルMax",
+            "Voice": "待って待って…こんなにたくさんの情報は耐えられない……"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Every stroke penned by a judge is tied to infinite karmic outcomes — one must proceed with great care..."
+            "Title": "軌跡覚醒",
+            "Voice": "判官の一筆はたくさんの業報に関わる。慎重にならざるを得ない……"
         },
         {
-            "Title": "Added to Team With Xueyi",
-            "Voice": "Sister, once you've passed down your judgments, why not join me for a stroll?"
+            "Title": "パーティ編成・雪衣",
+            "Voice": "お姉ちゃん、罪業の判決が終わったら散歩しよう？"
         },
         {
-            "Title": "Added to Team With Bailu",
-            "Voice": "Ah, Dragon Lady... If you have any energizing potions at hand, could you set aside some for me? Thank you..."
+            "Title": "パーティ編成・白露",
+            "Voice": "龍女様…頭をすっきりさせる薬がほしい……"
         },
         {
-            "Title": "Added to Team With Huohuo",
-            "Voice": "Huohuo, you're here... How is work? Under control...? And Tail... not causing trouble I hope?"
+            "Title": "パーティ編成・フォフォ",
+            "Voice": "フォフォもいるんだ…仕事は順調？シッポはおとなしくしてる？運勢は好転した？"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Give it up."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "抵抗は無駄。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Ugh, the smell of sin is thick..."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "罪業の気配が濃い…"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "You don't know how serious this is..."
+            "Title": "ターン・1",
+            "Voice": "事の重大さに気づいてないんだ…"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "You still deny your sins? They're clear as day."
+            "Title": "ターン・2",
+            "Voice": "あなたの罪は全部知ってる。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "It's so good to stand here and do nothing. The mere thought of having to return to mountains of criminal reports in the Hall of Karma makes me wish I could stand here for ever and ever and ever..."
+            "Title": "戦闘中待機",
+            "Voice": "ああ、ここでぼーっとしてるのってすごくいい。因果殿に戻って山のように積まれた罪業帳なんて読みたくない、この時間がずっと続けばいいのに……"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "I shall judge you for the Ten Lords."
+            "Title": "戦闘スキル・1",
+            "Voice": "十王に代わり罰を下す。"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Recount your sins."
+            "Title": "戦闘スキル・2",
+            "Voice": "自分の罪に向き合うといい。"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Sinful."
+            "Title": "攻撃を受ける",
+            "Voice": "罪を認める？"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "New crimes..."
+            "Title": "重撃を受ける",
+            "Voice": "重罪に値する……"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "By the will of the Ten Lords..."
+            "Title": "必殺技・アクティブ",
+            "Voice": "幽府が定めし処罰、援護を命じる……"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "The Ten Lords decree — hereby ordained!"
+            "Title": "必殺技・発動",
+            "Voice": "十王の勅、ここに書と成る。"
         },
         {
-            "Title": "Downed",
-            "Voice": "Sister, I..."
+            "Title": "戦闘不能",
+            "Voice": "お姉…ちゃん…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "There's unfinished business... Back to the world of the living."
+            "Title": "戦闘に戻る",
+            "Voice": "仕事が終わってないから…戻ってきた。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "I will remember your kindness."
+            "Title": "HP回復",
+            "Voice": "あなたの善行は覚えておく。"
         },
         {
-            "Title": "Technique",
-            "Voice": "Yield."
+            "Title": "秘技",
+            "Voice": "群邪退散。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "The Ten Lords' favor grants victory."
+            "Title": "戦闘勝利",
+            "Voice": "十王の勅を以て、向かうところ敵なし。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "This doesn't intrigue me."
+            "Title": "戦利品を開ける・1",
+            "Voice": "興味ない。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Quick, take it."
+            "Title": "戦利品を開ける・2",
+            "Voice": "早く片付けて。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Sister would love this."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "お姉ちゃんが好きそう。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Done. Let's keep going."
+            "Title": "謎解きに成功・1",
+            "Voice": "終わった、先に進もう。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Let us not waste time here... Onward."
+            "Title": "謎解きに成功・2",
+            "Voice": "もうここに留まる必要はない。次に行こう。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "We cannot let such a sinful creature be."
+            "Title": "敵ターゲット発見",
+            "Voice": "これほどの悪を見逃すわけにはいかない。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "No, no, no — must I return to the Hall of Karma so soon? I can't — I can't do it unless... unless sister is with me."
+            "Title": "町に戻る",
+            "Voice": "もう因果殿に戻らないといけないの…お姉ちゃんがいないなら戻りたくない。"
         }
     ]
 }

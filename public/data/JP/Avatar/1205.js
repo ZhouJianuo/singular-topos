@@ -635,23 +635,23 @@ var _story_ = {
     "1205": [
         {
             "_id": 1,
-            "Story": "A swordsman who abandoned his body to become a blade. Birth name unknown.<br>He pledges loyalty to \"Destiny's Slave,\" and possesses a terrifying self-healing ability.<br>Blade wields an ancient sword riddled with cracks, just like his body and his mind."
+            "Story": "己が身を顧みず、刃に晒す剣客。本来の名前は不明。<br>「運命の奴隷」に忠誠を誓い、恐ろしいほどの自己治癒力を持つ。<br>彼は古びた剣を使って戦う。ひびが入った刀身は、その体と心のようだ。"
         },
         {
             "_id": 2,
-            "Story": "The only thing he could sense was a splotch of crimson in his sight and the taste of iron in his mouth. His limbs were unresponsive.<br>— He must have died.<br><br><i>\"Do you remember?\"</i><br>He opened his mouth, lost, his voice as coarse as a savage beast's.<br>The sound from his throat stopped abruptly as the cold, hard object penetrated his torso.<br>Again and again, this repeated for thousands of times.<br><br>How marvelous. When his muscle fibers tore open, he could hear the tiny sounds of tendons bridging and reconnecting.<br>How marvelous. The monster in his body was being nourished, but he would let it grow into a massive beast.<br>How marvelous. He had already lost all will to live, but his body regenerated without any consideration for his preferences.<br>How marvelous.<br><br>Before the sword pierced his body once more, he grabbed it with his bare hands and slowly stood up.<br><i>\"Do you remember now?\"</i><br>He met the woman's blood-red eyes, his mind still empty.<br>— He was run through by the sword once again.<br><i>\"Remember the feeling of death, and bring it to them.\"</i><br><br>Crimson resurfaced in his vision. He stared at the sword that killed him. The blade was broken in half and lying on the ground.<br><i>\"Rise, and let me kill you once more.\"<br></i>"
+            "Story": "視界が赤黒く染まっている。口の中は血生臭く、四肢には力が入らない。<br>——自分は死んだのだろう。<br><br><i>「覚えたか？」</i><br>彼は呆然としながら口を開いたが、その声は野生の獣のようだった。<br>喉で鳴っていた音が止まり、冷たく硬い何かが彼を貫く。<br>こうしたことを、少なくとも千回は繰り返している。<br><br>実に奇妙なことだった。肉が切断された時、彼には筋骨が結合するような微かな音が聞こえた。<br>実に奇妙なことだった。彼は己の内にいる怪物に養分を与え、それをより巨大なものへ成長させようとした。<br>実に奇妙なことだった。彼は生きる信念を失っていたのに、体は元通りに復元した。<br>実に奇妙なことだった。<br><br>剣が再び体を貫く前に、彼はそれを掴んでゆっくりと立ち上がった。<br><i>「覚えたか？」</i><br>彼は血のように赤い女の眼を見た。しかし、頭の中は空白だ。<br>——彼は再び刺し貫かれた。<br><i>「死の感覚を覚え、奴らにも味わわせるのだ」</i><br><br>視界が再び赤黒く染まる。彼は自身を殺した剣を見つめた。その刃は半分砕けている。<br><i>「起きろ、もう一度お前を殺させてくれ」<br></i>"
         },
         {
             "_id": 3,
-            "Story": "The only thing he could sense was a splotch of crimson in his sight and the taste of iron in his mouth. His limbs were unresponsive.<br>— He must have died.<br><br>The black-haired young man shivered violently all over, but still clutched onto the spear in his hands.<br>He had no dragon horns, and his reaction was slightly less mature than he remembered...<br>But he would never forget this spear, these eyes, and how cruelty burst out from beneath the mirror-like emerald calmness.<br>His wounds began to heal. His irises flickered and fixed their gaze at the boy once more.<br>Without hesitation, the boy made another flourish with the spear...<br><br><i>\"That's it.\"</i><br>The one who showed no mercy to enemies - was you.<br>The one who single-handedly buried the beloved - was you.<br>The one who almost led the place called home to its destruction - was also you.<br><br>He fell down again.<br>The teen pressed his hand against his own wounds and retreated, until he was no longer in the man's sight.<br><i>\"Before I witness your death in person, we will meet again, ███.\"</i>"
+            "Story": "視界は赤黒く染まり、口の中は血生臭く、四肢には力が入らない。<br>——自分は死んだのだろう。<br><br>黒髪の少年は全身を震わせながらも、手に持った槍をしっかりと握った。<br>少年に龍の角は生えておらず、反応も記憶にあるものと比べると、いくらか拙かった——<br>だが、彼があの槍を、あの双眸を見間違えるはずがない。あの湖面のように静かな青緑の下にあるものが、どれだけ残酷なのかを忘れるはずもなかった。<br>傷口が癒え始め、彼は少年を見た。<br>少年は躊躇うことなく、再び槍を振るう——<br><br><i>「つまり、こういうことだ」</i><br>敵を皆殺しにしたのは、貴様だ。<br>愛する者を葬ったのも、貴様だ。<br>故郷を滅ぼしかけたのも、貴様だ。<br><br>彼は再び倒れる。<br>少年は傷口を抑え、彼の視界から外れるまで後退した。<br><i>「███、貴様の死期をこの目で確かめる前に、俺たちはまた再会するだろう」</i>"
         },
         {
             "_id": 4,
-            "Story": "The only thing he could sense was a splotch of crimson in his sight and the taste of iron in his mouth. His limbs were unresponsive.<br>— He must have died.<br><br>The monster swallowed him again, but this time, his enemy is not another person.<br>The imposing armor stayed quiet. He was grappled and imprisoned within those pair of arms. The speaker was the woman with sunglasses.<br><br><i>\"<u>Listen</u>, I can always kill you again, otherwise I can't bring you back.\"</i><br>Her voice was very gentle, and even the monster inside his body stayed silent to listen to her.<br><i>\"But I don't want to.\"</i><br>The woman leaned down and whispered in his ear. It was a deal he couldn't refuse. <br><i>\"What do you people want?\"<br>\"Is there anything more satisfying than seeing how the undying die? That's what 'he' said.\"</i><br><br>The giant armor loosened its arms. \"Destiny\" was ahead, and he will be leaving with them.<br><i>\"<u>Listen</u>, Bladie, loosen up.\"<br>\"<u>Listen</u>, don't think about anything at all.\"</i> He nodded. The woman walked to his side, smiling. Yet he thought her smile looked very sad.<br><i>\"Maybe someone left her before they could listen to everything she had to say,\"</i> he thought."
+            "Story": "視界は赤黒く染まり、口の中は血生臭く、四肢には力が入らない。<br>——自分は死んだのだろう。<br><br>化け物は再び彼を呑み込んだ。しかし今回彼が見ているのは他の者ではない。<br>大きな甲冑は沈黙を保っている。彼はその腕にがっちりと拘束されていた。話しているのはサングラスをしている女だ。<br><br><i>「<u>聞いて</u>、私はもう1度君を殺すことができる。じゃないと、君を連れ帰れないもの」</i><br>彼女の声は優しく、身体の中の化け物も静かになり、話を聞き始めた。<br><i>「でも、私はそんなことをしたくないわ」</i><br>女は身をかがめ、彼の耳元で話し始めた。内容は、彼が断われないような取引だった。<br><i>「何を望んでいる？」<br>「死なない人間がどうやって死ぬのかを、目の当たりにすることより楽しいことはない。『彼』はそう言っているわ」</i><br><br>大きな甲冑は彼の腕を離した。「運命」は既に前方にある、彼はこの者たちと共に歩み始めた。<br><i>「<u>聞いて</u>、刃ちゃん、リラックスしてちょうだい」<br>「<u>聞いて</u>、何も考えなくていいのよ」</i><br>彼は頷き、女の傍に歩み寄った。彼女は笑っていたが、彼にはその笑顔が悲しそうに見えた。<br><i>「誰かがこの女の話を聞き終える前に、去ったのかもしれない」</i>そう、彼は考えた。"
         },
         {
             "_id": 5,
-            "Story": "He could no longer see anything.<br><br>He remembered that, decades ago, he came to the Xianzhou with a merchant vessel and was impressed by the superb craftsmanship of this place. <br>The young man was obsessed to the point of forgetting to eat or drink, and spent his inspiration like he was running out of time. He forged hundreds of marvels, four of which were the most famous.<br><br>The sword named Shard Sword was flawless in its make, its inky body glimmered with a sheen of sanguine. Only the strongest swordmaster on the Xianzhou could demonstrate the true meaning of this blade.<br>The Foxian girl once loosened three arrows simultaneously with her recurve bow in a dire situation, while still continuing to navigate the starskiff and laughing with the others.<br>The black-haired man with dragon horns used his water manipulation abilities to rejuvenate his allies, and in the next moment he bound the water upon his spear and used it to run his enemies through.<br>There was also the boy who kept bickering with him. Yet the moment the youth saw the Devastator Glaive, he grabbed it and never wished to part with it.<br><br>Now, ██ had died. His first — and only — death.<br>However, he was still here, his youth-like brain churning and thinking - thinking for all eternity.<br>He thought about his hands that were no longer dexterous. The hands that could no longer forge another weapon.<br>— But none of this mattered to him.<br>From this moment on, that body will be the one and only \"Blade.\""
+            "Story": "彼は何も見えなくなった。<br><br>数十年前、彼は商船と共に仙舟に来て、この地の神工鬼斧に感服したことを思い出した。<br>少年は飲食の時間も惜しんで、自身の霊感を思う存分に発揮し、百もの奇物を鍛造した。その中の4つは非常に有名である。<br><br>「支離」という名の剣は瑕一つなく、血が光るような色であり、仙舟の最強の剣士だけがこの剣の神髄を引き出すことができる。<br>狐族の少女は窮地の時に、3本の弓を同時に射たが、星槎を運転しながら人々と談笑することを忘れなかった。<br>黒髪に龍の角を持つ男子が、水を操る術で仲間の傷病を癒した次の瞬間、水を槍に纏わせ、敵を刺し貫いた。<br>彼とよく口喧嘩をしていた少年は、この陣刀を見た時、すぐに奪い取り、二度と手放そうとしなかった。<br><br>今や██は死んだ。最初で唯一の死である。<br>しかし、彼は未だにここにいる。その少年のような頭で考える。永遠に考えている。<br>彼はもう器用に動かなくなった両手について考えた。この両手はもうどんな武器も造り出せない。<br>——だがそれは、彼とは無関係だ。<br>これからは、この身体が唯一の「刃」になるのだから。"
         }
     ]
 }
@@ -659,216 +659,216 @@ var _story_ = {
 var _voice_ = {
     "1205": [
         {
-            "Title": "First Meeting",
-            "Voice": "Trailblazer... I don't know you. Consider that a good thing."
+            "Title": "初対面",
+            "Voice": "ふん…俺がお前を知らないのは、お前にとってもいいことだ。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Back again...? The fate of those I remember is never a good one."
+            "Title": "挨拶",
+            "Voice": "またお前か？…俺に覚えられると、いいことなんてないぞ。"
         },
         {
-            "Title": "Parting",
-            "Voice": "Go. When the mara strikes, you don't want to be next to me."
+            "Title": "お別れ",
+            "Voice": "ふん、去れ。「魔陰の身」が発作を起こした時は、俺のそばから離れた方がいい。"
         },
         {
-            "Title": "About Self: Name",
-            "Voice": "To whittle oneself away, to tear your enemies apart — that is the power of a blade."
+            "Title": "自分について・名前",
+            "Voice": "己を摩耗し、敵を切り裂く、それ即ち兵刃。"
         },
         {
-            "Title": "About Self: Mara-struck",
-            "Voice": "We are all mara-stricken in different ways, but my situation is unusual. Although the mara haunts me, memories of it seldom cross my mind, be they of remorse, hatred, fear, or reflection."
+            "Title": "自分について・魔陰の身",
+            "Voice": "誰もが魔陰を宿している、症状が異なるだけでな。そして、俺の場合はより特別だ——魔陰の影響を受けながらも、寥々たる記憶を持っている。後悔も、憎悪も、懐古や不安さえもだ……"
         },
         {
-            "Title": "About Self: Demons",
-            "Voice": "When the mara strikes... I become something else."
+            "Title": "自分について・狂魔",
+            "Voice": "魔陰が発作を起こすと、俺は…フッ…別人になる。"
         },
         {
-            "Title": "Chat: Stellaron Hunters",
-            "Voice": "By banding together, we reach our goals."
+            "Title": "世間話・星核ハンター",
+            "Voice": "俺たちは互いの手を借りて、目的を果たしている。"
         },
         {
-            "Title": "Chat: Immortality",
-            "Voice": "The hope that \"this will be the last time\" always vanishes in bitter healing of the flesh."
+            "Title": "世間話・不死身",
+            "Voice": "「今回こそ最期だ」という期待は、肉体が癒える苦痛の中でいつも泡となり消えていく。"
         },
         {
-            "Title": "Chat: Sacrifice",
-            "Voice": "Of five people, three must pay a price... These words are carved into my every wound..."
+            "Title": "世間話・代価",
+            "Voice": "…人は5人、代価は3つ——この言葉は、俺の傷口の一つ一つに刻まれている…"
         },
         {
-            "Title": "Blade's Hobbies",
-            "Voice": "Only in the brief moments of its wielding can a blade truly disappear."
+            "Title": "刃の趣味",
+            "Voice": "「刃」の存在は、剣を振るう刹那にのみ、暫し消えてなくなる。"
         },
         {
-            "Title": "Blade's Annoyances",
-            "Voice": "When will death come for me? My patience is wearing thin."
+            "Title": "刃の悩み事",
+            "Voice": "死はいつ訪れる？俺は、それが待ち遠しい。"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "There are countless weapons sharper than mine, but after a thousand clashes, what does it matter?"
+            "Title": "シェア",
+            "Voice": "俺より鋭い武器は数多とある。だが、千回打ち合った後はどうだろうな？"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "The dead know no fear."
+            "Title": "見聞",
+            "Voice": "死した者に恐れはない。"
         },
         {
-            "Title": "About Kafka",
-            "Voice": "The mara's tether is firmly in her grasp. She will not pull upon it before the designated time, but nor shall she relinquish it."
+            "Title": "カフカについて",
+            "Voice": "魔陰を縛る縄はあの女が持っている。約束の刻が訪れるまで、あの女は決して縄を引くことも、放すこともない。"
         },
         {
-            "Title": "About Silver Wolf",
-            "Voice": "Within that world she calls a \"game,\" she will never give up, nor yield to death."
+            "Title": "銀狼について",
+            "Voice": "彼女が「ゲーム」と呼ぶ世界では、彼女が諦めない限り死ぬことはない。"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "He always... He always understood the price better than any of us, yet he never spoke up — never did anything!"
+            "Title": "景元について",
+            "Voice": "奴はずっと…俺たちの中で一番「代価」を弁えていた。だが奴は何も言わず、何もしなかった！"
         },
         {
-            "Title": "About Dan Heng",
-            "Voice": "Imbibitor Lunae... When will our retribution come? How can our debt be repaid?"
+            "Title": "丹恒について",
+            "Voice": "飲月よ…俺たちの業報はいつ訪れる？俺たちが作った借りは、どう返せばいい！"
         },
         {
-            "Title": "About Jingliu",
-            "Voice": "As she brandished her sword, phantom pain surged through every part of my body... all because of her!"
+            "Title": "鏡流について",
+            "Voice": "剣を振るう時、体に幻痛が走る——どこが致命の一撃となり、どこが死に至らず苦痛を与えるだけなのか——すべて、あの女の「おかげ」だ！"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Life itself is punishment."
+            "Title": "星魂覚醒",
+            "Voice": "生きることは、もはや懲罰になっている。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "There is no shortcut to destruction."
+            "Title": "キャラクター昇格",
+            "Voice": "破滅への旅路に近道はない。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "...Tell me this is the end."
+            "Title": "レベルMax",
+            "Voice": "すべてが…ここで終わればいい。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "One of the lesser sufferings I've endured."
+            "Title": "軌跡覚醒",
+            "Voice": "数万回の苦痛の中で、最も取るに足らない1つにすぎない。"
         },
         {
-            "Title": "Added to Team With Kafka",
-            "Voice": "Those who can't bury us, are waiting to be buried, Kafka."
+            "Title": "パーティ編成・カフカ",
+            "Voice": "カフカ…俺たちを殺せないものは、いずれ俺たちに殺される。"
         },
         {
-            "Title": "Added to Team With Silver Wolf",
-            "Voice": "I don't understand your games and tricks, but suit yourself."
+            "Title": "パーティ編成・銀狼",
+            "Voice": "…お前の技はいつも不可解だ…好きにするといい。"
         },
         {
-            "Title": "Added to Team With Jingliu",
-            "Voice": "Jingliu... witness my every move, my suffering."
+            "Title": "パーティ編成・鏡流",
+            "Voice": "鏡流…俺の苦しみを、俺の技を見届けろ。"
         },
         {
-            "Title": "Added to Team With Jing Yuan",
-            "Voice": "Your new-found enthusiasm is amusing, Jing Yuan."
+            "Title": "パーティ編成・景元",
+            "Voice": "昔はここまで干渉してこなかっただろう、景元。"
         },
         {
-            "Title": "Added to Team With Dan Heng",
-            "Voice": "Need me to watch your back?"
+            "Title": "パーティ編成・丹恒",
+            "Voice": "来たか。俺には隙を見せないことだ。"
         },
         {
-            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
-            "Voice": "Need me to watch your back?"
+            "Title": "パーティ編成・丹恒・飲月",
+            "Voice": "来たか。俺には隙を見せないことだ。"
         },
         {
-            "Title": "About Sam",
-            "Voice": "I live in an eternal purgatory. And Sam — he is good at creating purgatory."
+            "Title": "サムについて",
+            "Voice": "俺は煉獄に生きているが、サムは煉獄を作り出すことに長けている。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "You impede me."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "邪魔だ。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "What surprises do you hold?"
+            "Title": "戦闘開始・危険予知",
+            "Voice": "お前が俺の死か。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "I will dispatch you by my sword."
+            "Title": "ターン・1",
+            "Voice": "この剣で、送ってやろう。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "A blade's edge knows no mercy."
+            "Title": "ターン・2",
+            "Voice": "剣に憐憫など不要だ。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Waiting drains one's vigor."
+            "Title": "戦闘中待機",
+            "Voice": "機を窺いすぎれば、殺気が枯れる。"
         },
         {
-            "Title": "Enhanced Basic Attack",
-            "Voice": "Make good... the loss!"
+            "Title": "強化通常攻撃",
+            "Voice": "余さず…返そう！"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "The fight... is set!"
+            "Title": "戦闘スキル・1",
+            "Voice": "勢は成した…"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Your end... approaches!"
+            "Title": "戦闘スキル・2",
+            "Voice": "死兆よ…来たれ！"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Too little..."
+            "Title": "攻撃を受ける",
+            "Voice": "まだ足りない…"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Well timed."
+            "Title": "重撃を受ける",
+            "Voice": "いい、なかなかだ。"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "That paradise may be unreachable for me ..."
+            "Title": "必殺技・アクティブ",
+            "Voice": "この佳景、俺には届かぬが…"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Savor it in my place... Hmph!"
+            "Title": "必殺技・発動",
+            "Voice": "皆を招こう……はぁ！"
         },
         {
-            "Title": "Talent",
-            "Voice": "A vale... to send you!"
+            "Title": "天賦",
+            "Voice": "彼岸…葬送！"
         },
         {
-            "Title": "Downed",
-            "Voice": "Is there a chance...?"
+            "Title": "戦闘不能",
+            "Voice": "今度こそ成就するだろうか……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "I live? *sigh*"
+            "Title": "戦闘に戻る",
+            "Voice": "残念だ、まだ生きている。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Unnecessary."
+            "Title": "HP回復",
+            "Voice": "余計な。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "This sword needs sharpening."
+            "Title": "戦闘勝利",
+            "Voice": "切れ味が落ちたようだ。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "That's all."
+            "Title": "戦利品を開ける・1",
+            "Voice": "大したものはないな。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Hmph."
+            "Title": "戦利品を開ける・2",
+            "Voice": "ふん。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Take them."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "ふん、受け取れ。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Done."
+            "Title": "謎解きに成功・1",
+            "Voice": "終わったな。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "As expected."
+            "Title": "謎解きに成功・2",
+            "Voice": "俺の予想通りだったな。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "We can get closer."
+            "Title": "敵ターゲット発見",
+            "Voice": "もう少し近づいても構わないぞ。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Are there other matters?"
+            "Title": "町に戻る",
+            "Voice": "まだやることが残っていたのか？"
         }
     ]
 }

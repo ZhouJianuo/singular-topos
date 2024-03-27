@@ -706,7 +706,7 @@ var _voice_ = {
         },
         {
             "Title": "Downed",
-            "Voice": "I... couldn't find them..."
+            "Voice": "I... couldn't find THEM..."
         },
         {
             "Title": "Return to Battle",

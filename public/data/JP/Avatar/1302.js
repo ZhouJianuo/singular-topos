@@ -529,23 +529,23 @@ var _story_ = {
     "1302": [
         {
             "_id": 1,
-            "Story": "A paragon knight of the Knights of Beauty.<br>He embodies righteousness and honor, possessing an admirable nobility. As a solitary wanderer in the cosmos, he wholeheartedly embraces the principles of \"Beauty.\"<br>Upholding the honor of beauty in the universe has been Argenti's sacred duty. From the very beginning, he approached this duty with piety and unwavering conviction."
+            "Story": "「純美の騎士団」の古典的な騎士。<br>正直で堂々とした性格をしており、天性の高貴さによって人々に尊敬されている——宇宙を1人で渡り歩き、揺るぎない意志で「純美」を実践している。<br>宇宙で「純美」の名誉を守ることがアルジェンティの責務だ。この責務を遂行するためには、敬虔であり、相手を心から承服させなければならない。"
         },
         {
             "_id": 2,
-            "Story": "His hometown was ravaged by war for years, and the memories of his early childhood were tainted by the horrors of bloodshed and relentless shelling. Amidst the chaos, he sought refuge underground and, by chance, discovered an ocarina beneath a stone tile.<br>With trembling hands, he attempted to coax a melody from the instrument.<br>However, his \"music\" proved to be terrible.<br><br>Yet, the ethereal notes emanating from his ocarina became his sanctuary, a spiritual escape from the harsh reality.<br><br>Over time, the melodic strains faded into the recesses of his memory, becoming a mysterious and elusive moment. It was only years later, during a bard tour, when he saved a child from the flames of war and received a precious ocarina as a token of gratitude, that the melodies of his past resurfaced.<br>Holding the exquisite instrument in his hands, he examined its flawless and noble craftsmanship. Once again, the melodies of his childhood converged, evoking a flood of emotions and memories.<br>However, his \"music\" remained terrible.<br><br><i>\"I'm too clumsy to master this instrument...\"</i><br>He murmured in self-deprecation. Yet, after a profound moment of contemplation, a resolute courage ignited within him. He resolved to try once more, to weave a melody.<br>The music remained unchanged, but this time, he laughed wholeheartedly.<br><br><i>\"Despite the terrible music, I love it. I believe it to be beautiful.\"</i><br>Carefully stowing away his ocarina, he once again embarked on his journey without hesitation."
+            "Story": "彼の故郷は何年もの間戦火に晒されていた。砲火が飛び交う中、彼の子供時代の記憶は、常に血と煙が付き纏っている。ある時、砲火を避けて地下に隠れていた彼は、瓦礫の下から陶器の笛を見つけた。<br>彼は流れる空気をメロディに変えようと試みたのだが——<br>その音楽は間違いなく災いだった。<br><br>ただ、その時の陶器の笛の音は、彼にとって唯一の「精神の逃避先」だった。<br><br>音の旋律は時間と共に彼の記憶の中に溶け、「神秘」の瞬間となった。数年後、ある場所で吟遊していた時、彼は塔の砲火の中から子供を救い出した。そして貴重な陶器の笛を贈られた時、その記憶が再び蘇った。<br>彼は笛を手に考えを巡らせる。白くて完璧で高貴な質感をしており、笛の穴を空気が通ると気圧によって音階を作り出す。音階が組み合わさることで、記憶の中の感情を呼び覚ましていく——<br>しかし、それでも彼の音楽は災いだった。<br><br><i>「僕はなんと愚かなのでしょう。ここまでこれとの関係を上手く築けないなんて……」</i><br>彼は困惑と不安に苛まれたが、しばらく考えていると、再び不気味とも思える勇気が芽生えた。彼は流れる空気で再びメロディを作ろうとした——<br>音階は昔と同じだったが、彼は大きな声で笑った。<br><br><i>「しかし、僕はこれを愛している——本当に愛しているのです。そして、これが『美しい』と信じています」</i><br>彼はその陶器の笛を大切にしまうと、躊躇うことなく旅を続けた。"
         },
         {
             "_id": 3,
-            "Story": "After leaving his hometown, he became the apprentice of an elderly master.<br>Alongside physical and mental training, he would often listen to his master's tales of bygone eras — stories of transcendent beauty and mystical phenomena witnessed by the Minstrels.<br><br><i>\"It was a world bathed in amber, draped in undisturbed stillness, where every being shed tears for the magnificent wonders veiled beneath its surface.\"<br>\"Rumor has it that Idrila, after embarking on a journey spanning numerous cycles of Thirteen Amber Eras, will make a triumphant return to the universe during the elusive thirteenth month.\"</i><br><br>Day after day, his master imparted the essence of beauty to him. He learned to go beyond mere poetic recitation and embrace devotion as the embodiment of beauty, truly upholding its philosophy.<br><br>He understood that beauty was not just a code to follow but a way of life, an existence known as a knight.<br><br>However, his master departed from this world, and he once again set out on his lonely journey. He contemplated his existence, pondering the nature of his being. Instead of lamenting his solitude, he focused on becoming a true knight.<br><br>During his stay in an old city, he labored to restore its dilapidated streets.<br>He vanquished nightmarish monsters, and with the arrival of spring, rabbits frolicked once again in the woods.<br>He also briefly found companionship in the presence of another knight, who professed his faith in the blessings of the goddess residing within his armor.<br><br><i>\"To give one's soul requires understanding that each encounter might be one's last, yet retreating is never an option.\"<br>\"Carry these words of courage with you, my dear friend.\"</i><br><br>He contemplated on his lance, which bore the stains of countless battles fought in the name of Beauty.<br>With solemn reverence, he wiped away each mark, a testament to his tireless odyssey toward the pursuit of Beauty."
+            "Story": "故郷を離れた後、彼は年老いた師匠と旅をした。<br>日々の肉体的な鍛錬や精神的な修行に加え、昼の休憩時間になると、師匠は時折自分が見たことのない時代の話をしてくれる——それは古い時代の星間の吟遊詩人たちが、「純美」の瞬間を目撃したと主張する内容だった。<br><br><i>「それは静止した瑪瑙の世界、その中に封じられた奇妙で壮大な現象に人々は涙を流した」<br>「イドリラは亡くなった後、 13 琥珀紀の輪廻を経て、 13 番目の月に宇宙のどこかに戻ってくると言われている」</i><br><br>その歳月の中で、師匠は毎日彼に「純美」の精神を教え授けた。<br>いかに「詩」を詠む代わりに敬虔に「戦い」、「純美」の精神を貫くかといったものだ。<br><br>——彼は理解した、それが「騎士」たる者の掟と品格なのだと。<br><br>しかし、師匠は彼に多くを話す前に世を去ってしまった。そして再び1人で旅を続けることになった彼は、かつて故郷を離れたばかりの頃と同じように、自分の存在について深く考えるようになった。しかし、もう孤独の「憂い」は感じない。彼が考えていたのは、どうすれば「騎士」になれるのかということだ。<br><br>彼は歴史のある町に滞在した時、汚れた大通りを陽の光を浴びる赤ん坊のように綺麗にしたことがある。<br>彼は悪夢のような怪物を打ち払い、翌年の春には、ウサギたちが再び森の中を飛び跳ねていた。<br>彼は短い間ではあるが、もう1人の「騎士」と世界を旅したことがある。その騎士は、自分の鎧には女神の祝福があると信じていた。<br><br><i>「常に帰ってこられない可能性があるが、それでも決して引き下がらない。魂を捧げるとは、こういう意味だ」<br>「共に励もう、友よ」</i><br><br>彼は槍の斑点を見つめる。それは「純美」を守る証である。<br>彼は槍の斑点を拭く。それは「純美」の道に足を踏み入れる証である。"
         },
         {
             "_id": 4,
-            "Story": "Since embarking on the Path of Beauty, a path of asceticism, he had faced numerous trials. Some presented themselves as prayers, others as opportunities for repentance, and still others as the seductive whispers of the Triple Demons.<br><br>Fearlessly, he confronted these temptations with an unwavering lance and an indomitable spirit. With each victory, his weaknesses, greed, and distractions dissolved into oblivion. He pledged to offer his soul and life at the feet of the Aeon of Beauty.<br><br>The profane words of the Triple Demons resembled fragmented ravings, morphing into manifestations of human desires.<br>They embodied the crass pursuit of personal gain, shameless indulgence in sin, the allure of power, and the enticement of battle and worldly pleasures.<br>Their aim was to erode repentance and replace it with the banality of common sense.<br><br>His blood mingled with his flowing locks on the battlefield, with each crimson droplet intertwined with honor. His lance stood resolute at his side, blessed by the divine to retain its everlasting sharpness.<br>The echoes of his esteemed master and comrades transformed into whispers. His spear would never yield, even if his master had succumbed to evil temptations.<br><br>Drenched in blood, teetering on the precipice of consciousness, he finally discerned a faint murmur that seemed to emanate from the very fabric of existence.<br><br><i>\"You defy infamy. You proclaim glory. You are the Knights of Beauty.<br>With each triumph, you must confront yourselves anew, peering into the depths of your hearts and acknowledging the potential for malevolence.\"<br><br>\"Congratulations! Once again, you have triumphed in the Trial of Reflection.\"</i>"
+            "Story": "「純美」の運命に足を踏み入れてから、苦行の道を行く彼の前に、次第に様々な「試練」が現れるようになった——<br>それには祈願からくるものもあれば、懺悔からくるものもある。あるいは、三重の悪魔の形で密かに囁き、混乱させようとするものもあった。<br><br>彼が恐れることなく「槍」を使い、心に誇りを抱きながら三重の悪魔の誘惑を切り裂くと、弱さ、欲望、雑念のすべてが消えていく。<br>彼は魂と命を純美の星神の足下に捧げることを決めた。<br><br>三重の悪魔の囁きは形の異なる寝言のように、混沌とした霧の中で人間の様々な欲望に変化していく。<br>それは単なる利益追求であり、恥知らずな罪であり、権力の冠であり、魅惑的な言葉でもある。<br>それは戦いの頂点であり、食欲を満たすことであり、後悔を忘れることであり、単なる普通の感情でもある。<br><br>彼の血は栄誉と共に戦場に流れ、深紅の滴と長い髪が絡み合った。彼の槍はそこに置かれ、神はそれが永遠に鋭くあるようにと祝福している——<br>亡き師匠、そして同行者の声が夢の囁きとなって彼の耳に届く。彼の主が頭を下げない限り、その槍が折れることはない。<br><br>彼が血に浸かり、ほぼ意識を失いかけた時、ついにどこからともなく響く夢の囁きを聞いた。<br><br><i>「あなたは悪名を拒み、栄誉を宣揚した。あなたたちは『純美の騎士団』。<br>あなたたちは勝利するたびに自分を見つめるべきです。悪事を働こうとする自分の心を見つめるのです」<br><br>「おめでとう、あなたはまた『鏡の試練』を乗り越えました」</i>"
         },
         {
             "_id": 5,
-            "Story": "The knights embraced diverse approaches in their pursuit of Beauty.<br>Some fervently embodied their beliefs until their final days, while others grappled with assumptions and defied heresies that could lead them into despair.<br>Some adorned themselves in armor and waged battles, while others saw themselves as unworthy, considering themselves the \"ugly ones\" unable to don the robe of beauty.<br><br>Yet, the unchanging truth remained in their collective quest to unravel the enigma of Idrila in the vast universe.<br>He vowed to uphold humility, mercy, and justice, remaining steadfast in honoring his oaths along the arduous path.<br><i>\"Those freaks!... The Knights of Beauty are a bunch of freaks!\"</i><br><br>As rumors of Idrila's demise spread throughout the cosmos, their perplexity deepened.<br>Piety intermingled with doubt, and laughter intertwined with lunacy.<br>Notions of honor, reputation, and infamy dissolved into nothingness.<br><br>This marked the end of everything.<br><br>When he finally encountered his former comrade, he found a knight who had become a fanatic, lost in a blind pursuit of power.<br>The former hero who had wielded a legendary weapon and vanquished the sky devourer had degenerated into a beast. His armor transformed into the scaly hide of the behemoth he had slain, his weapon into unyielding claws and fangs, and his blood into a viscous and restless flame. His eyes, once filled with wisdom, now burned with untamed wildness. The voice that had once addressed him as \"my dear friend\" had dwindled to a hissing cry.<br><br>The words spoken during the trial carried the weight of the Finality's impending prophecy, signaling the looming end.<br>Will he, himself... succumb to the clutches of the Omen of Evil?"
+            "Story": "騎士団の「純美」の態度を保つ方法は様々だ。<br>ある者は一生涯かけて自らの信念を貫く。ある者は仮説を立て続け、絶望を繰り返して仮説を覆す。<br>ある者は勲章を授かり戦場で戦う。ある者は自らを時計台の隠居人と認め、「純美」の華やかなローブを受け入れることを恥じる。<br><br>変わらないのは、誰もが宇宙の中で苦心しながら「イドリラ」の真の姿を探し続けていることだ。<br>彼は謙虚、慈愛、公平を忘れないと誓い、これまでにその誓いを破ったことはない。彼は「純美」の掟を胸に刻み、ますます信仰に固執するようになっていた。<br><i>「変人…純美の騎士は本当に変人の集まりだ！」</i><br><br>「イドリラ」が逝去したかもしれないという噂が宇宙に広まってから、彼らの戸惑いは一層激しくなった。<br>これまで以上に信仰心を強めながらも、疑問は増えていった。これまで以上に笑顔を見せるようになりながらも、さらなる変人ぶりを見せるようになった。<br>太古を振り返ってみると、あらゆる「名誉」、「美名」、「悪名」は等しく長い年月の中で消えている。<br><br>最後に。<br><br>かつて共に旅をした「騎士」と彼が再会した時、相手はすでに力を求める道に迷い込んでいた。<br>伝説の武器を手に、天をも呑み込む巨獣を倒した英雄…その鎧は巨獣の鱗と化し、その武器は取り外せない爪や牙となり、その血は粘性のある炎となっている。その瞳は野性的で理性などなく、以前は「友」と彼を呼んでいた声も、今では掠れた咆哮にしか聞こえない。<br><br>試練の言葉は「終末」の予言に変わり、目の前に迫っている。<br>自分も…同じように「凶兆」に落ちてしまうのだろうか？"
         }
     ]
 }
@@ -553,204 +553,204 @@ var _story_ = {
 var _voice_ = {
     "1302": [
         {
-            "Title": "First Meeting",
-            "Voice": "My name is Argenti, I belong to the Knights of Beauty. May this rose convey my heartfelt salutations."
+            "Title": "初対面",
+            "Voice": "僕は「純美の騎士団」所属のアルジェンティと申します。1輪のバラの重さを以って、ご挨拶させてください。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Should misfortune befall you, do not hesitate to call upon me. I will protect you."
+            "Title": "挨拶",
+            "Voice": "もしトラブルに遭遇したら、絶対に僕に知らせてください。必ずやお守りいたします！"
         },
         {
-            "Title": "Parting",
-            "Voice": "Forgive me, here we must part ways. It is my duty and destiny to traverse the universe alone. I'm sure our paths will converge again, somewhere."
+            "Title": "お別れ",
+            "Voice": "ああ…僕は責任を負い、宇宙を独りで歩む定めにある…お傍にいられない僕をお許しください。僕たちは、いつかまた宇宙のどこかで巡り会えるでしょう。"
         },
         {
-            "Title": "About Self: Origin",
-            "Voice": "Among the Knights of Beauty, I am one of the Honorclad — we are distinguished by our engraved armor."
+            "Title": "自分について・身の上",
+            "Voice": "僕は純美の騎士団の「{RUBY_B#じょくん}叙勲{RUBY_E#}騎士」です。精巧な彫刻が施された鎧は僕たちの象徴と言えましょう。"
         },
         {
-            "Title": "Chat: The Knights of Beauty",
-            "Voice": "The Knights tend to operate in solitude, spreading the grace of the Goddess far and wide across the universe. Nevertheless, we follow the same code of chivalry."
+            "Title": "世間話・純美の騎士団",
+            "Voice": "純美の騎士団の団員は滅多に顔を合わせません。しかし、僕たちは同じ「騎士道」のもと、それぞれ異なる星を渡り歩き、宇宙の隅々までかの女神の美名を広めているのです。"
         },
         {
-            "Title": "Chat: The spaceship \"One and Only\"",
-            "Voice": "\"One and Only\" is the name of my spaceship. I must admit, keeping her in good order can be a chore. Perhaps I shouldn't have etched such intricate patterns into the fuselage."
+            "Title": "世間話・プライスレス",
+            "Voice": "宇宙船には「プライスレス」という名前を付けました。掃除するのが本当に大変で…外形をここまで複雑に彫る必要はなかったかもしれません。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I have a preference for thick, crusty baguettes. Slice them thinly so they're easier to store — a crucial snack for extended voyages."
+            "Title": "趣味",
+            "Voice": "僕はバゲットが好きです。ランスでスライスすれば、保存して持ち歩けます。長旅には欠かせない良いものなんですよ。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "The dazzling array of entertainment and gourmet delights offered by the IPC is quite staggering, but I regularly struggle with making sense of it all. Perhaps one day someone with experience will show me the ropes."
+            "Title": "悩み事",
+            "Voice": "スターピースカンパニーの様々な娯楽や美食は、どれもカラフルでインパクトがありますが、僕はあまり詳しくないのです。いつか、詳しい方からご教示いただきたいですね。"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "I've heard tales of warriors on a certain planet passing book pages over artificial limbs in order to infuse knowledge directly into their neural systems. It sounds so outlandish, and yet I find the idea quite inspired."
+            "Title": "シェア",
+            "Voice": "ある星の風習では、本のページで改造した義肢を拭くことによって、知識を直接神経に送り込むそうです。これにはとても衝撃を受けましたが、同じくらい素晴らしいとも思いました。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Did you ever hear tell of a planet where there is no concept of grotesquery? Even more intriguing — the people there have no concept of beauty, either."
+            "Title": "見聞",
+            "Voice": "「醜悪」が存在しない星について聞いたことはありますか？面白いのは、その星の人々には「美麗」という概念も存在しないということです。"
         },
         {
-            "Title": "About March 7th",
-            "Voice": "Miss March possesses a pure heart, and such purity is rare and precious — there are far too many people who are inherently vulgar, profit-driven, and adept at flattery. I wish to extend more compassion and esteem towards people like her."
+            "Title": "三月なのかについて",
+            "Voice": "三月さんは純粋な心を持っています。あのように善良な性格を持ち、行動できる方は非常に貴重です――銀河には、低俗で利益しか考えていないような本性を持ち、口先ばかりの人間があまりにも多い。僕は彼女の天性を守り、尊重を捧げようと思います。"
         },
         {
-            "Title": "About Himeko",
-            "Voice": "This lady's spirit is admirably noble: Despite the challenges and hardships that Trailblazing entails, she has retained her poise and bravery — qualities that I profoundly admire. It is these qualities that I strive to embody and use against evil."
+            "Title": "姫子について",
+            "Voice": "ああ、彼女の魂はなんと高貴なのでしょう。長く危険な開拓の旅は、彼女の落ち着きと勇気を摩耗するには至らなかった。僕はその事実を高く評価しています。僕もそのように理想的な品性を持てるように、今後は更に自身に厳しくし、邪悪に対抗する決心を貫くつもりです。"
         },
         {
-            "Title": "About Dan Heng",
-            "Voice": "While Mr. Dan Heng consistently maintains a sense of wariness towards others, his conduct remains unwaveringly honorable, and his expectations of himself are as stringent as the chivalric code. He possesses a unique form of beauty, I must say."
+            "Title": "丹恒について",
+            "Voice": "丹恒さんは常に周囲の人を警戒しているのですね。彼の行いは常に正しく、騎士道のように自身にも厳しいのです。ああ！彼のことも「美しい」と思うことを、どうかお許しください。"
         },
         {
-            "Title": "About Welt",
-            "Voice": "Despite the things he has endured, Mr. Yang stays true to his heart and knows how to appreciate the small joys of everyday life. A man whose wisdom and maturity I find admirable."
+            "Title": "ヴェルトについて",
+            "Voice": "流れゆく時の中で、彼は依然として清らかな心を持ち、生活の中で最も純粋な喜びを大切にしている——ヴェルトさんの最たる魅力は、その成熟しているところです！"
         },
         {
-            "Title": "About Pom-Pom",
-            "Voice": "Such a fascinating ball of fluff. I imagine them to be exceptionally fitting perched atop a knight's shoulder, serving as a symbol of honor."
+            "Title": "パムについて",
+            "Voice": "なんと「魅力」に満ちたフワフワなのでしょう。パムさんは騎士の肩鎧に座り、「栄誉」の象徴になるべきです！"
         },
         {
-            "Title": "About Wubbaboo",
-            "Voice": "Haha, such an adorable little creature."
+            "Title": "ウーウーボについて",
+            "Voice": "ああ、なんと「魅力」に満ちたポヨポヨなのでしょう！"
         },
         {
-            "Title": "About Trailblazer",
-            "Voice": "Trailblazer's inherent qualities, are as beguiling and engaging now as they were on the day we first met."
+            "Title": "{NICKNAME}について",
+            "Voice": "{F#貴女}{M#貴方}の性格は、終始、知り合った日のように不思議で面白いですね。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "The Beauty is universal — they exist within our grasp and beyond the grand expanse of the galaxy."
+            "Title": "星魂覚醒",
+            "Voice": "「純美」はどこにでも存在します――目と鼻の先にも、壮麗な星河の外にも。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "One solid stride at a time. Fear not the peril of descent."
+            "Title": "キャラクター昇格",
+            "Voice": "一歩ずつ進めば、窮地に陥る心配はありません。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "I vow to make the grand name of \"the Beauty\" echo throughout the universe, till I draw my last breath."
+            "Title": "レベルMax",
+            "Voice": "僕が死しても消えぬほど、「純美」の盛名を宇宙に轟かせてみせると誓いました。その誓いも永久に残るでしょう。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Though as knights we may tread different paths, destiny will bring us together at journey's end."
+            "Title": "軌跡覚醒",
+            "Voice": "騎士団の皆さんと異なる道を歩んでいたとしても、僕たちは終点で出会うでしょう。"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "To stand side by side with a noble soul like you, Trailblazer, is a great honor."
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "{F#貴女}{M#貴方}とご一緒できるとは、友よ。実に光栄です。"
         },
         {
-            "Title": "Added to Team With March 7th",
-            "Voice": "If I may, Miss March, allow me to use my modest power to get rid of the gloom!"
+            "Title": "パーティ編成・三月なのか",
+            "Voice": "三月さん、貴女のために戦うことをお許しください！"
         },
         {
-            "Title": "Added to Team With Dan Heng",
-            "Voice": "Combat is a contest of wits. Dan Heng, I am honored to fight by your side."
+            "Title": "パーティ編成・丹恒",
+            "Voice": "丹恒さん、貴方と知恵を競う場で共闘でき、光栄です。"
         },
         {
-            "Title": "Added to Team With Himeko",
-            "Voice": "Miss Himeko, with your courage ablaze, the stars seem to shine even brighter."
+            "Title": "パーティ編成・姫子",
+            "Voice": "姫子さん、やはり、貴女の勇気の及ぶ場所には、星海が広がっているのですね。"
         },
         {
-            "Title": "Added to Team With Welt",
-            "Voice": "Lend me your aid, Mr. Yang, with your intricate tactics and far-reaching vision."
+            "Title": "パーティ編成・ヴェルト",
+            "Voice": "貴方の遠略で——力を貸してください、ヴェルトさん。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Embrace virtue."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "これより善を抱くのです。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "This storm shall pass."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "しばしの陰りに過ぎません。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "My oath is to a solitary rose."
+            "Title": "ターン・1",
+            "Voice": "一輪のバラに誓います。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "The Knights' duty is my guiding light."
+            "Title": "ターン・2",
+            "Voice": "純美の騎士たる役目を果たしましょう。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "You who wander, what do your eyes seek?"
+            "Title": "戦闘中待機",
+            "Voice": "彷徨う者よ、そのまなざしはいずこに？"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "The Beauty... is eternal."
+            "Title": "戦闘スキル・1",
+            "Voice": "純美は、朽ちません。"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Wretched... fleeting."
+            "Title": "戦闘スキル・2",
+            "Voice": "卑劣を、抹消する。"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Flesh wound."
+            "Title": "攻撃を受ける",
+            "Voice": "取るに足りませんね。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "A test..."
+            "Title": "重撃を受ける",
+            "Voice": "これも試練…"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Until I see that light once more..."
+            "Title": "必殺技・アクティブ",
+            "Voice": "あの光と再会するまで…"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "...I will protect all beauty in the universe."
+            "Title": "必殺技・発動",
+            "Voice": "宙にあるあらゆる美しさは、僕が護り抜きます。"
         },
         {
-            "Title": "Enhanced Ultimate: Unleash",
-            "Voice": "...For Idrila."
+            "Title": "強化必殺技・発動",
+            "Voice": "…すべてを、イドリラ様に。"
         },
         {
-            "Title": "Downed",
-            "Voice": "I... couldn't find them..."
+            "Title": "戦闘不能",
+            "Voice": "見つけられ…なかった……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "My faith is unbreakable."
+            "Title": "戦闘に戻る",
+            "Voice": "信念は揺らぎません。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "My gratitude is yours."
+            "Title": "HP回復",
+            "Voice": "恩に着ます。"
         },
         {
-            "Title": "Technique",
-            "Voice": "Glory above all."
+            "Title": "秘技",
+            "Voice": "栄光あれ。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "The darkness ends here."
+            "Title": "戦闘勝利",
+            "Voice": "闇を、足止めしましたね。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Oh? I do like surprises."
+            "Title": "戦利品を開ける・1",
+            "Voice": "おや？サプライズは好きですよ。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "I offer you the captivating aroma of a rose."
+            "Title": "戦利品を開ける・2",
+            "Voice": "返せるのは、バラの香りだけですね。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "A lustrous beauty that sets the heart and soul astir..."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "きらめく美しさに、心を奪われました…"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "The consequence of wise deliberation."
+            "Title": "謎解きに成功・1",
+            "Voice": "賢明な判断です。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Worry not, for I shall shoulder this responsibility."
+            "Title": "謎解きに成功・2",
+            "Voice": "ご安心を、僕にお任せください。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Care to test your skills?"
+            "Title": "敵ターゲット発見",
+            "Voice": "手合わせは、いかがでしょう？"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "This familiar wind... a call to sweet remembrance."
+            "Title": "町に戻る",
+            "Voice": "この風…懐かしいですね。"
         }
     ]
 }

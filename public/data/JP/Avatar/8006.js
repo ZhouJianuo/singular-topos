@@ -402,15 +402,15 @@ var _story_ = {
     "8006": [
         {
             "_id": 11,
-            "Story": "A {F#girl}{M#boy}, Trailblazer, decides to travel with the Astral Express to eliminate the threat of the Stellaron."
+            "Story": "星核がもたらす危機を回避するため、{F#少女}{M#少年}——{NICKNAME}は星穹列車への乗車を選んだ。"
         },
         {
             "_id": 12,
-            "Story": "You don't remember much.<br>You're not from around here, nor did you come from elsewhere. You're not really going anywhere—<br>Just then, that indistinct voice whispers into your ear. That sorrowful and tender persuasion, that deceptive goading...<br>The seeds take root. You open your eyes, and the speaker is no longer there.<br><br>But there are more and more voices, and they are getting clearer and clearer.<br>Some give easygoing care, some calmly provide advice, some speak firm support, and some gift gentle direction...<br>You see the silken thread being woven to form tomorrow.<br><br>A huge beast descends from infinity,<br>golden pupils stare down from the darkness,<br>and you are no longer abandoned by the past.<br>You will also set upon a long journey,<br>and the thorns you have stepped on have become your path.<br><br>The train whistles, wishing you a successful journey to the coming future<br>...by your own will."
+            "Story": "あなたが覚えていることは多くない。<br>あなたはどこから来たわけでも、どこかに向かうわけでもなかった——<br>微かな声が耳を撫でるまでは。それは悲しそうに言い聞かせるような声で、催促とは似て非なるものだった…<br>種が根を張る。あなたは目を開けた。声の主はもういない。<br><br>ただ声はどんどん増え、さらに明瞭になった。<br>安らげる心がけがある、冷静な忠告がある、毅然とした態度がある、優しい後押しがある……<br>あなたは糸が明日を紡ぐのを見た。<br><br>巨大な獣が無限から降臨し、<br>金色の瞳が夜闇からあなたを見下ろす、<br>あなたはもう過去から見捨てられたりはしない。<br>あなたは長い開拓の旅を始める、<br>踏みしめた苦難はやがて道になるだろう。<br><br>列車の汽笛が鳴る。あなたが自分の意志で——<br>未来にたどり着けることを願う。"
         },
         {
             "_id": 13,
-            "Story": "You have arrived at the \"City of Preservation.\"<br>Behind the snow curtain, the wind lashes like steel blades, but the kindling burns on.<br>Distant lands won't hear them, and the earth trembles in kind, with only the wailing crowds braving the wind.<br><br>After facing foreign enemies, the Eternal Freeze, and reality's fissures, a rot begins to fester within the fort.<br>You try lending a helping hand, but are forsaken.<br>Some once looked down on you and misunderstood you, but still you stood by their side and helped them find their way.<br>More care about you and worry about you. They face their suffering, and find the cure for the distressed.<br>Eventually, they come to your side.<br><br>In the ice and snow, you are like a fire, protecting the soul of this world<br>...Even though you must scorch yourself day and night."
+            "Story": "あなたは「存護の城」に来た。<br>降る雪の後ろで、風は剣のようで、火種は未だ残っている。<br>遠くからは聞こえぬ、大地は震え、人々の慟哭だけが風に乗る。<br><br>外敵、寒波、裂界による混乱の後、崩壊は砦の中から始まった。<br>あなたは援助の手を差し伸べたが、それは振り払われた。<br>あなたを軽視する人、誤解した人がいた。それでもあなたはその人たちに歩み寄り、一緒に進むべき道を探した。<br>それよりも多くの人があなたを気にかけ、苦難と向き合い、苦悩している人のために解決方法を探した。<br>最終的に彼らはあなたに歩み寄ってくれた。<br><br>氷雪の中、あなたは炎のように、この世界の魂を存護した<br>——たとえ、それが日夜自分を焼くことになろうとも。"
         }
     ]
 }
@@ -418,244 +418,244 @@ var _story_ = {
 var _voice_ = {
     "8006": [
         {
-            "Title": "Memory: About Self",
-            "Voice": "When there is the chance to make a choice, make one that you know you won't regret..."
+            "Title": "思い出・自分について",
+            "Voice": "選択の機会があるのなら、自分が後悔するような道は選ばない……"
         },
         {
-            "Title": "Memory: The Express",
-            "Voice": "What kind of a life would I have lived if I didn't choose to board the Express... No, there is no such possibility."
+            "Title": "思い出・列車",
+            "Voice": "もし列車に乗ることを選ばなかったら、私はどんな人生を送っていたんだろう…いや、そんな未来は存在しないか。"
         },
         {
-            "Title": "Memory: Pom-Pom",
-            "Voice": "They may sound annoyed, but their body language is more honest. I should visit Pom-Pom more often."
+            "Title": "思い出・パム",
+            "Voice": "口では嫌がっても、体の反応は正直なんだよね…よし、もっとパムに会いに行く回数を増やそう！"
         },
         {
-            "Title": "Memory: Herta Space Station",
-            "Voice": "My weapon is also one of the Curios of the space station. I don't know where it came from, but it must be important if it appeals to Madam Herta."
+            "Title": "思い出・宇宙ステーション「ヘルタ」",
+            "Voice": "たしか、私の武器も宇宙ステーションの奇物だったんだよね。どこから持ってきたものか分からないけど――ミス・ヘルタが気に入って収集したものなら、きっと特別な何かがあるはず……"
         },
         {
-            "Title": "Memory: Destruction",
-            "Voice": "Just where did the will of Destruction come from? Was it really because of the Stellaron within me...?"
+            "Title": "思い出・「壊滅」",
+            "Voice": "「壊滅」の意志は一体どこから来たんだろう。本当に体の中にある星核が原因なのかな……？"
         },
         {
-            "Title": "Memory: Belobog",
-            "Voice": "Just like me, the people of Belobog are also seeing the native sky of this planet for the first time."
+            "Title": "思い出・ベロブルグ",
+            "Voice": "ベロブルグの人たちも私と同じように、あの星の本当の空を初めて目にしたんだよね……"
         },
         {
-            "Title": "Memory: Preservation",
-            "Voice": "The seed of Preservation has always been within Belobog, and I simply re-ignited this city's will to live... That will may be weak, but this was not the time for it to go out."
+            "Title": "思い出・「存護」",
+            "Voice": "「存護」の種は、ずっとベロブルグにあった。私は都市の生き残りたいという意志を呼び覚ましたに過ぎない…たとえ弱い意志だとしても、まだ消える時じゃなかったんだ。"
         },
         {
-            "Title": "Destruction Eidolon Activation",
-            "Voice": "Choice isn't as elusive as it may appear."
+            "Title": "「壊滅」星魂覚醒",
+            "Voice": "選択は、思ってるほど手の届かないものじゃない。"
         },
         {
-            "Title": "Preservation Eidolon Activation",
-            "Voice": "The value of choice lies in unwavering resolve."
+            "Title": "「存護」星魂覚醒",
+            "Voice": "選択の価値は、意志の強さによって決まる。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "I'm not done yet."
+            "Title": "キャラクター昇格",
+            "Voice": "まだ立ち止まる時じゃない。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Journeys never end."
+            "Title": "レベルMax",
+            "Voice": "旅は…終わらない。"
         },
         {
-            "Title": "Destruction Trace Activation",
-            "Voice": "This is... my will."
+            "Title": "「壊滅」軌跡覚醒",
+            "Voice": "これが…私の意志。"
         },
         {
-            "Title": "Preservation Trace Activation",
-            "Voice": "Preservation is determined by our actions."
+            "Title": "「存護」軌跡覚醒",
+            "Voice": "「存護」は…行動によって決まる。"
         },
         {
-            "Title": "Added to Team With March 7th",
-            "Voice": "March, lead the counterattack. I believe in you."
+            "Title": "パーティ編成・三月なのか",
+            "Voice": "反撃はなのに任せるよ。信じてるから。"
         },
         {
-            "Title": "Added to Team With Dan Heng",
-            "Voice": "Dan Heng, let's make this quick."
+            "Title": "パーティ編成・丹恒",
+            "Voice": "丹恒、速戦即決しよう。"
         },
         {
-            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
-            "Voice": "Like always, Dan Heng, let's make this quick!"
+            "Title": "パーティ編成・丹恒・飲月",
+            "Voice": "丹恒、いつも通り、速戦即決しよう。"
         },
         {
-            "Title": "Added to Team With Himeko",
-            "Voice": "I'm counting on you to wrap this up, Himeko."
+            "Title": "パーティ編成・姫子",
+            "Voice": "今回の最後の一手は姫子に任せるね。"
         },
         {
-            "Title": "Added to Team With Welt",
-            "Voice": "I'm on it, Wel—... Ahem, Mr. Yang."
+            "Title": "パーティ編成・ヴェルト",
+            "Voice": "安心して任せて、ヨウおじ…ヴェルト。"
         },
         {
-            "Title": "Battle Begins: Weakness Break (Destruction)",
-            "Voice": "This is our chance."
+            "Title": "「壊滅」戦闘開始・弱点撃破",
+            "Voice": "この機会を逃さないで。"
         },
         {
-            "Title": "Battle Begins: Danger Alert (Destruction)",
-            "Voice": "Stay alert."
+            "Title": "「壊滅」戦闘開始・危険予知",
+            "Voice": "警戒して。"
         },
         {
-            "Title": "Turn Begins 1 (Destruction)",
-            "Voice": "Let's go."
+            "Title": "「壊滅」ターン・1",
+            "Voice": "始めようか。"
         },
         {
-            "Title": "Turn Begins 2 (Destruction)",
-            "Voice": "Let's make it quick."
+            "Title": "「壊滅」ターン・2",
+            "Voice": "速戦即決でいこう。"
         },
         {
-            "Title": "Turn Idling (Destruction)",
-            "Voice": "Who's next?"
+            "Title": "「壊滅」戦闘中待機",
+            "Voice": "次は誰？"
         },
         {
-            "Title": "Basic ATK (Destruction)",
-            "Voice": "Batter up."
+            "Title": "「壊滅」通常攻撃",
+            "Voice": "あんたの番だよ。"
         },
         {
-            "Title": "Skill (Destruction)",
-            "Voice": "Take this!"
+            "Title": "「壊滅」戦闘スキル",
+            "Voice": "くらえ！"
         },
         {
-            "Title": "Hit by Light Attack (Destruction)",
-            "Voice": "Just a scratch."
+            "Title": "「壊滅」攻撃を受ける",
+            "Voice": "痛くも痒くもない。"
         },
         {
-            "Title": "Hit by Heavy Attack (Destruction)",
-            "Voice": "It'll take more than that."
+            "Title": "「壊滅」重撃を受ける",
+            "Voice": "まだまだ。"
         },
         {
-            "Title": "Ultimate: Activate (Destruction)",
-            "Voice": "Rules are made to be broken!"
+            "Title": "「壊滅」必殺技・アクティブ",
+            "Voice": "ルールは、破るためにある。"
         },
         {
-            "Title": "Ultimate: Unleash 1 (Destruction)",
-            "Voice": "You're out!"
+            "Title": "「壊滅」必殺技・発動・1",
+            "Voice": "アウトッ！"
         },
         {
-            "Title": "Ultimate: Unleash 2 (Destruction)",
-            "Voice": "You've outstayed your welcome!"
+            "Title": "「壊滅」必殺技・発動・2",
+            "Voice": "楽にしてあげる。"
         },
         {
-            "Title": "Ultimate: Unleash 3 (Destruction)",
-            "Voice": "Decisive strike!"
+            "Title": "「壊滅」必殺技・発動・3",
+            "Voice": "一撃で沈める！"
         },
         {
-            "Title": "Downed (Destruction)",
-            "Voice": "So this is... defeat..."
+            "Title": "「壊滅」戦闘不能",
+            "Voice": "私の…負け…"
         },
         {
-            "Title": "Return to Battle (Destruction)",
-            "Voice": "One more at bat."
+            "Title": "「壊滅」戦闘に戻る",
+            "Voice": "二回戦を始めよう。"
         },
         {
-            "Title": "Health Recovery (Destruction)",
-            "Voice": "Much better."
+            "Title": "「壊滅」HP回復",
+            "Voice": "助かった。"
         },
         {
-            "Title": "Technique (Destruction)",
-            "Voice": "Keep at it."
+            "Title": "「壊滅」秘技",
+            "Voice": "あと少し。"
         },
         {
-            "Title": "Weakness Break (Preservation)",
-            "Voice": "Time to go on the offensive."
+            "Title": "「存護」戦闘開始・弱点撃破",
+            "Voice": "攻撃のチャンスだよ。"
         },
         {
-            "Title": "Battle Begins: Danger Alert (Preservation)",
-            "Voice": "Stay alert."
+            "Title": "「存護」戦闘開始・危険予知",
+            "Voice": "警戒して。"
         },
         {
-            "Title": "Turn Begins 1 (Preservation)",
-            "Voice": "Lance at the ready."
+            "Title": "「存護」ターン・1",
+            "Voice": "ランス、戦闘準備。"
         },
         {
-            "Title": "Turn Begins 2 (Preservation)",
-            "Voice": "I'm on guard."
+            "Title": "「存護」ターン・2",
+            "Voice": "私が守る。"
         },
         {
-            "Title": "Turn Idling (Preservation)",
-            "Voice": "Don't lose momentum."
+            "Title": "「存護」戦闘中待機",
+            "Voice": "戦闘を長引かせすぎた。"
         },
         {
-            "Title": "Basic ATK (Preservation)",
-            "Voice": "To the finish!"
+            "Title": "「存護」通常攻撃",
+            "Voice": "貫け！"
         },
         {
-            "Title": "Enhanced Basic ATK (Preservation)",
-            "Voice": "Fracture!"
+            "Title": "「存護」強化通常攻撃",
+            "Voice": "大地を割れ！"
         },
         {
-            "Title": "Skill 1 (Preservation)",
-            "Voice": "Indestructible."
+            "Title": "「存護」戦闘スキル・1",
+            "Voice": "難攻不落。"
         },
         {
-            "Title": "Skill 2 (Preservation)",
-            "Voice": "Defend the weak."
+            "Title": "「存護」戦闘スキル・2",
+            "Voice": "弱き者のために。"
         },
         {
-            "Title": "Hit by Light Attack (Preservation)",
-            "Voice": "Not a scratch."
+            "Title": "「存護」攻撃を受ける",
+            "Voice": "その程度？"
         },
         {
-            "Title": "Hit by Heavy Attack (Preservation)",
-            "Voice": "I'm... okay."
+            "Title": "「存護」重撃を受ける",
+            "Voice": "だい…じょうぶっ。"
         },
         {
-            "Title": "Ultimate: Activate (Preservation)",
-            "Voice": "Lance ablaze."
+            "Title": "「存護」必殺技・アクティブ",
+            "Voice": "槍先に火を。"
         },
         {
-            "Title": "Ultimate: Unleash (Preservation)",
-            "Voice": "Flaming lance! Forward!"
+            "Title": "「存護」必殺技・発動",
+            "Voice": "炎の槍よ！断ち切れ！"
         },
         {
-            "Title": "Downed (Preservation)",
-            "Voice": "I have to keep... going..."
+            "Title": "「存護」戦闘不能",
+            "Voice": "私が…最後まで…"
         },
         {
-            "Title": "Return to Battle (Preservation)",
-            "Voice": "I won't fall back."
+            "Title": "「存護」戦闘に戻る",
+            "Voice": "絶対に退かない。"
         },
         {
-            "Title": "Health Recovery (Preservation)",
-            "Voice": "Nice teamwork."
+            "Title": "「存護」HP回復",
+            "Voice": "助かった、ありがとう。"
         },
         {
-            "Title": "Technique (Preservation)",
-            "Voice": "Will of Preservation!"
+            "Title": "「存護」秘技",
+            "Voice": "存護の意志よ！"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Reach the end of the story in your own way."
+            "Title": "戦闘勝利",
+            "Voice": "自分の意志で、結末に辿り着いてみせる。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Looks good."
+            "Title": "戦利品を開ける・1",
+            "Voice": "いい感じ。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Is that all?"
+            "Title": "戦利品を開ける・2",
+            "Voice": "この品で最後だね？"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Great, the more the better."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "うん、多ければ多いほどいいよね。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "So that's how it works..."
+            "Title": "謎解きに成功・1",
+            "Voice": "そういうことだったのね…"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "No match for me!"
+            "Title": "謎解きに成功・2",
+            "Voice": "この程度ってところかな。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "We need a strategy."
+            "Title": "敵ターゲット発見",
+            "Voice": "対処法を考えよう。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "It's getting late. Where to now?"
+            "Title": "町に戻る",
+            "Voice": "まだ早いし、どこかへ行く？"
         }
     ]
 }

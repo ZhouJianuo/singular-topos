@@ -478,23 +478,23 @@ var _story_ = {
     "1108": [
         {
             "_id": 1,
-            "Story": "A silver-tongued salesman. Where there is profit to be made, you can be sure Sampo is nearby.<br>The information that only Sampo possesses makes it hard not to approach him for help, but becoming his \"customer\" is not necessarily a good thing.<br>After all, \"customers\" can quickly turn into \"commodities\" for the right price."
+            "Story": "口が達者な商人、「利益」あるところにサンポあり。<br>サンポが手にする圧倒的な量の情報に人は近づかざるを得ないが、彼の「客」になるのは決して良いことではない。<br>値段さえ見合えば、「客」はいつでも彼の「商品」になり得るのだ。"
         },
         {
             "_id": 2,
-            "Story": "<i>\"Hello everyone! This is Brughel Poisson from the Crystal Daily, and I'm here at Fountain Plaza in the Administrative District. Standing next to me is someone who calls themselves a member of the Dark-Blue Scam Victims' Association, and I am about to conduct a short interview with him.\"<br><br>\"Hello there, sir. Could you please tell me and the audience about your experience of getting scammed?\"<br><br>\"Oh... I'm so utterly enraged! That blue-haired punk... I hope he dies!\"<br><br>\"Sir, we're live right now... please calm down.\"<br><br>\"Ahem... Fine. The Crystal Daily, right? That's it. You should report more on the suffering of everyday people and pay less attention to gossip about the Architects...\"<br><br>\"I'm telling you, that blue-haired punk has slipped off into the Administrative District again! Yesterday he pinched three catties of rye bread spices from my store — three whole catties! Do you know how long those will last for the dignitaries? Next thing, he'll be robbing a spice factory!\"<br><br>\"Please calm down, sir! We sympathize deeply with your plight. Now then, you just mentioned the Belobog spice factory, didn't you?\"<br><br>\"Err... Sure, I mentioned it. Was that important?\"<br><br>\"This factory... are you able to tell me its exact location?\"<br><br>\"Err... Why?\"<br><br>\"Well you see, as journalists, we want to contribute to social justice causes — and only by knowing the exact location can our Silvermane Guards and righteous citizens reduce burglaries. Wouldn't you agree?\"<br><br>\"Err... That makes sense. Then listen up, the address of the factory is...\"</i>"
+            "Story": "<i>「皆さん、こんにちは！私は水晶日報の記者ブルーヘアー・ポサンです。私は今、行政区の噴水広場に来ています。近くに『ネイビーブルー詐欺被害者の会』のメンバーだという方がいますので、これから簡単なインタビューをしたいと思います」<br><br>「こんにちは。詐欺に遭った経験について聞かせていただけますか？」<br><br>「はあ…本当に腹が立つ！あの青髪の男め、さっさと死にやがれ！」<br><br>「その、テレビの生放送なので…少し落ち着いてください」<br><br>「ゴホン…わかった。水晶日報だったな？そうだ、苦しんでいる人々を報道するんだ。建創者のくだらないゴシップは程々にしておけ……」<br><br>「…あの青髪の賊は、まだ行政区をうろついてる！つい昨日も、アイツは私の店から黒パンスパイスを 1.5 kgも盗んだんだ！ 1.5 kgだぞ？それだけあれば、官僚や貴人たちがどれだけの間使えると思ってる！あの野郎、きっと次はスパイス工場に強盗にでも入るぞ！」<br><br>「落ち着いてください！あなたの境遇には深く同情します…ところで、さっきベロブルグのスパイス工場と仰いましたね？」<br><br>「ああ…言ったな。それがどうかしたのか？」<br><br>「その工場の具体的な場所を教えていただけませんか？」<br><br>「はあ…なんでだ？」<br><br>「それはもちろん、メディアとして少しでも社会の正義に貢献したいからですよ——工場の正確な場所がわかれば、シルバーメインや正義感溢れる市民を動員して窃盗を防ぐことができるでしょう？」<br><br>「ふむ…確かに一理あるな。よく聞け、工場の場所は……」</i>"
         },
         {
             "_id": 3,
-            "Story": "<i>\"Name.\"<br><br>\"Alexey. Alexey Bulger.\"<br><br>\"Rank.\"<br><br>\"Private First-Class.\"<br><br>\"Hello, Private First-Class Alexey. I'm Brughel Poisson, senior human resources specialist for the Silvermane Guards. Captain Gepard asked me to approve your application for personal leave.\"<br><br>\"It's a pleasure to meet you, Madam Brughel.\"<br><br>\"Let's see... It says here that you were wounded four months ago during a defensive operation, with a total of five fractures... Yet despite all this, you have continued to carry out your duties right up until now. Admirable!\"<br><br>\"Thank you, Madam Brughel.\"<br><br>\"You guard the... 3rd Arsenal at the Silvermane Guard Restricted Zone, yes? Terrific! As far as I know, that's an extremely important military zone where the most expensive... Ahem, the most valuable Silvermane military resources are stored.\"<br><br>\"You're right, ma'am.\"<br><br>\"Let me see... Hmm, no problem. Private First-Class Alexey, at this stage you are cleared to go home next Tuesday.\"<br><br>\"...What? So soon? As far as I know, this kind of high-level guard duty usually takes at least a month to process handovers —\"<br><br>\"...Don't worry, Private First-Class. I appreciate your determination to the cause, but nothing is more important to me than protecting the physical and mental well-being of one of our best Silvermane Guards! Don't worry. I've already picked out someone to fill in for you, so everything's taken care of.\"<br><br>\"...I understand. Thank you very much, ma'am.\"<br><br>\"That's the one! Remember, next Tuesday — I want you and your luggage out of the restricted zone before 20:17!\"</i>"
+            "Story": "<i>「お名前をどうぞ」<br><br>「アレクセイ。アレクセイ・ボゴダです」<br><br>「階級は？」<br><br>「一等兵です」<br><br>「こんにちは、アレクセイ一等兵。私はブルーヘアー・ポサン。シルバーメイン直属の上級人材資源専門家です。今回はジェパード戍衛官からあなたの私用による休暇申請の審査をするよう頼まれました」<br><br>「お会いできて光栄です。ブルーヘアー女史」<br><br>「どれどれ…4ヶ月前の防衛行動により負傷、全身の5か所を骨折したと…それでも、あなたは今まで責務を全うしてきた。素晴らしいではありませんか！」<br><br>「ありがとうございます、ブルーヘアー女史」<br><br>「あなたが守っているのは…シルバーメイン禁区の3号武器庫ですよね？さすがです！聞くところによると、そこは極めて重要な軍事拠点で、中には最もお金に…いえ、価値のあるシルバーメインの軍装備が保管されているとか」<br><br>「その通りです」<br><br>「ふむふむ…はい、問題ありません。アレクセイ一等兵、不測の事態さえ起こらなければ、来週の火曜日から家に戻って休めるでしょう」<br><br>「…え？来週から？確か…僕のような重要な防衛業務担当の申請が受理されるには、少なくとも1ヶ月は——」<br><br>「…何も言う必要はありません、一等兵——あなたの頑張りには感謝しますが、私にとって何よりも重要なのは、シルバーメインの心身の健康を守ることなのです。安心してください、代わりの人員はすでに見つけてあります。何も心配することはありません」<br><br>「…わかりました。本当にありがとうございます」<br><br>「よろしい！では来週の火曜日—— 20 時 17 分までに、荷物を持って禁区を離れてくださいね！」</i>"
         },
         {
             "_id": 4,
-            "Story": "<i>\"Yo, my man.\"<br><br>\"Yo, you're here working for Poisson, too?\"<br><br>\"Yeah. Are you in charge of demolitions?\"<br><br>\"Yup. Are you the lockpick?\"<br><br>\"Uh-huh.\"<br><br>\"Nice. Then we're ready. Let's get to work.\"<br><br>\"Unh... Unh... Done. Now let's just wait.\"<br><br>\"That doesn't look very reliable... Can this tiny thing blow through this steel door?\"<br><br>\"I didn't doubt your professionalism. Why are you doubting me? Trust me. I've bombed mine shafts more times than you've had hot dinners.\"<br><br>\"Err... okay. Getting back on topic, what did that girl tell you again?\"<br><br>\"The factory's abandoned, as it's completely unguarded. Just take what you want. I've never heard of such an easy job.\"<br><br>\"Mmm, yeah that's what she told me too. But something seems kinda off to me...\"<br><br>\"Money's money. Don't ask so many questions. Come on, plug up your ears. It's fireworks time!\"<br><br>\"...\"<br><br>\"...Holy moly! That's too much, man... Just spectacular!\"<br><br>\"I told you already. Don't question my professionalism. Let's go. It's over to you now.\"<br><br>\"Shh! Don't say anything. Can't you hear? I can hear voices inside!\"<br><br>\"What? N—No way, she said there were no guards.\"<br><br>\"It's the Silvermane Guards. The Silvermane Guards! It's the end of the line for us, bro. Scram!\"<br><br>\"Darn it. Poisson must've set us up! That piece of scum. This isn't finished yet!\"</i>"
+            "Story": "<i>「よお、兄弟」<br><br>「よお——お前もあのポサンとかいう奴のために働いてるのか？」<br><br>「ああ。お前は爆破担当か？」<br><br>「そうだ。お前は…ピッキング担当だな？」<br><br>「その通りだ」<br><br>「よし、これで全員揃ったな。仕事を始めるぞ」<br><br>「…これを…こうして…よし、これでいい。後は待つだけだ」<br><br>「なんか頼りないな…こんな小さいので本当にこのデカい鉄の門を吹き飛ばせるのか？」<br><br>「俺はお前の実力を疑ったりしないぞ、兄弟。俺を信じろ。お前が泥遊びした回数よりも、俺が鉱山を爆破した回数のほうが多いんだからな」<br><br>「ああ…わかったよ。そういえば、お前はあの女になんて言われたんだ？」<br><br>「廃工場、見張りはいない、ブツは好きに持っていけ。こんな簡単な仕事は初めてだ。お前は？」<br><br>「ああ、俺も同じことを言われた。ただ、なんかおかしい気がするんだよな……」<br><br>「稼げる時は稼ぐ、だろ？余計なことは考えるな。ほら、耳を塞げ——火を点けるぞ！」<br><br>「……」<br><br>「…おいおい、やりすぎだろ兄弟。もう十分ホットな展開だってのに！」<br><br>「言っただろ、俺の力を信じろって。行くぞ、次はお前の出番だ——」<br><br>「シィッ！喋るな、聞こえたか？中で話し声がした！」<br><br>「なんだって？いや、そんなはずはない。あの女は誰もいないって——」<br><br>「シルバーメイン…シルバーメインだ！くそ、兄弟！早く逃げるぞ！」<br><br>「くそっ、ポサンめ！覚えてやがれ！」</i>"
         },
         {
             "_id": 5,
-            "Story": "<i>\"Good morning, ma'am, I hope I haven't disturbed you.\"<br><br>\"...Who are you? Why are the Silvermane Guards knocking on my door first thing in the morning?\"<br><br>\"I'm sorry, ma'am. We're just carrying out building-to-building searches as ordered by the Architects.\"<br><br>\"Uh... searches? What are you searching for? I don't have anything...\"<br><br>\"Please calm down, ma'am — we are not targeting you. Everyone in the city is subject to questioning.\"<br><br>\"Has something... something big happened?\"<br><br>\"Please trust us. Everything will turn out fine if you cooperate with us. I just have one question: Do you have any wigs at home?\"<br><br>\"What... Wigs? No, I don't have any. As you can see, my hair is great... Why are you asking about that?\"<br><br>\"Are you sure? Please think again. The Silvermane Guards have been ordered to gather up all the wigs in Belobog City. Refusal to submit may result in serious consequences...\"<br><br>\"No, I'm sure. I don't have any of those at home — if you don't believe me, come inside and have a look.\"<br><br>\"Ah, that won't be necessary. I'm sure you have nothing to hide. Goodbye, ma'—\"<br><br>\"...Hold on a minute, can I ask what happened?\"<br><br>\"Oh, there's no harm in telling you. Recently, a male thief disguised as a woman has stowed away up here into the Overworld and is swindling everyone. This person is extremely slippery and changes appearance often. The Silvermane Guards have not been able to locate him. Apparently, the Minister of Security was absolutely furious at yesterday's briefing, and ordered the confiscation of all wigs in the city...\"<br><br>\"...Is that so? How outrageous!\"<br><br>\"I'll level with you. We all feel the same way as you do. We need to keep up our search, so I won't bother you any longer... Wishing you a good day, Madam Poisson.\"</i>"
+            "Story": "<i>「おはようございます。少しよろしいでしょうか？」<br><br>「…あなたは？どうして朝からシルバーメインがここに？」<br><br>「申し訳ありません、ミス。建創者の命令で、各家庭に聞き込みをしているのです」<br><br>「え…聞き込み？何についてですか？私は何も……」<br><br>「落ち着いてください、ミス——これはあなた個人に対するものではなく、ベロブルグの全市民を対象とした聞き取り調査ですので」<br><br>「な…何か事件が？」<br><br>「私を信じて協力していただければ何も問題はありません。質問したいことは1つだけ…あなたの家にカツラはありますか？」<br><br>「え…カツラ？な、ないですけど。ほら、私の髪は量が多いくらいですし…どうしてそんなことを聞くんですか？」<br><br>「本当ですか？もう一度よく思い出してみてください。シルバーメインはベロブルグにあるすべてのカツラを回収するよう命じられています。拒否すると深刻な事態に発展する可能性が……」<br><br>「いえ、うちにそんなものはありません。信じられないなら、中に入って調べてもらっても構いませんよ」<br><br>「ああ、そこまでする必要はありません。あなたは何も隠していないと信じます。それでは——」<br><br>「…待ってください。一体何があったのか聞いてもいいですか？」<br><br>「そうですね、あなたになら教えても大丈夫でしょう。実は最近、女装した賊が上層部をうろついていて、あちこちで詐欺を働いているんですよ。その男は極めて謎めいた人物で、頻繁に身分や外見を変えることもあり、まだ居場所を突き止められていないんです。それで治安大臣が昨日の報告会で激怒して、ベロブルグ中のカツラを回収すると……」<br><br>「…そんな不思議なことが起こってたなんて」<br><br>「正直、シルバーメインもあなたと同じ気持ちです。私たちは聞き込みを続けなければならないので…これで失礼します。お邪魔しました、ミス・ポサン」</i>"
         }
     ]
 }
@@ -502,192 +502,200 @@ var _story_ = {
 var _voice_ = {
     "1108": [
         {
-            "Title": "First Meeting",
-            "Voice": "Hey, Trailblazer! Y'know, with Sampo Koski by your side, you've got a businessman, chaperone, and problem-solving conversationalist, all rolled into one! Pretty sweet deal, huh?"
+            "Title": "初対面",
+            "Voice": "こんにちは、{NICKNAME}。僕、サンポ・コースキが傍にいれば、あなたは商人、ガイド、話し相手を同時に手に入れたことになる…どうです？お得だと思いませんか？"
         },
         {
-            "Title": "Greeting",
-            "Voice": "So, what's the job this time around? If you've got the cash, I've got the... No cash? N—Not a problem! Haha, just say the word, pal..."
+            "Title": "挨拶",
+            "Voice": "今日は何をしますか？お金があれば何でもしますよ。なければ…それでも構いません。さあ、何でも言ってください。"
         },
         {
-            "Title": "Parting",
-            "Voice": "Come on, get some rest already! What's the matter? I'm not going anywhere."
+            "Title": "お別れ",
+            "Voice": "休憩するべき時は、しっかり休みましょう…そう身構えないでください、僕は逃げたりなんかしませんよ。"
         },
         {
-            "Title": "About Self",
-            "Voice": "Me? I'm just an easygoing fella that looks out for the little guy — free of charge I might add — who somehow gets pulled into everyone else's business with nothing to show for it! Tsk, like I say, I'm an easygoing fella."
+            "Title": "自分について",
+            "Voice": "僕のことですか。僕はただの、よくトラブルに巻き込まれ、犠牲を払っても見返りすらもらえずに終わってしまう、不運で…心優しい人ですよ。"
         },
         {
-            "Title": "Chat: Intel",
-            "Voice": "If you package it right, you can sell the same piece of intel to different people! That, my friend, is called \"maximizing your profit.\""
+            "Title": "世間話・情報",
+            "Voice": "同じ情報でも異なるラッピングをすれば、簡単に別の人に売ることができます。これが利益の最大化ですよ。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I'm a firm believer in \"small talk brings big clients.\""
+            "Title": "趣味",
+            "Voice": "僕は、人同士が良い関係を築くには、会話が必要不可欠だと信じています。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "I sell things that buyers want to buy — and they call me a con man! It's outrageous!"
+            "Title": "悩み事",
+            "Voice": "僕は買い手が欲しい物を売ります。それなのに、彼らは僕を詐欺師と呼ぶのです。腹立たしいと思いませんか……"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "You'd think in a place as isolated as Belobog, people would be more willing to share what they have. Well, it's the exact opposite. And I'm more than happy to make up the shortfall."
+            "Title": "シェア",
+            "Voice": "ベロブルグのような辺鄙な場所であればあるほど、人々は自身の利益を重視します——そうなれば僕の独壇場ですよ。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Come on, how did you guys end up in the middle of the Snow Plains? UFO? Let me guess, you took a train, haha. Seriously though."
+            "Title": "見聞",
+            "Voice": "どうやってこの雪で覆われた地に降り立ったのです？飛行機でしょうか？列車に乗ってきたなんて言われても信じませんよ。"
         },
         {
-            "Title": "About Natasha",
-            "Voice": "Back when I first arrived in the Underworld, I used to bring Natasha the medicines she needed. I did that for a while, and before long it was medicines and intel. You know how these things work."
+            "Title": "ナターシャについて",
+            "Voice": "下層部に来たばかりの頃は、ナターシャさんの手伝いをして薬品などを入手していましたが、親しくなってからは情報も提供するようにしています。"
         },
         {
-            "Title": "About Svarog",
-            "Voice": "If anyone out there ever managed to strike a deal with Svarog, they'd earn my heartfelt admiration!"
+            "Title": "スヴァローグについて",
+            "Voice": "スヴァローグと交渉しようとする人がいたら、このサンポ、その方のことも心の底から尊敬しますよ。"
         },
         {
-            "Title": "About Clara",
-            "Voice": "Our little girl in red is truly impressive. How did she get that giant tinhead to listen to her?"
+            "Title": "クラーラについて",
+            "Voice": "あの赤い服の少女は本当にすごいですね。なぜ、あんなデカい機械と平気で会話ができるのでしょう？"
         },
         {
-            "Title": "About Seele",
-            "Voice": "If she had it her way, Miss Seele would spend less time yelling at me and more time actively trying to hit me. Can someone explain what I did to deserve her?"
+            "Title": "ゼーレについて",
+            "Voice": "ゼーレさんは平気で僕に武力行使するのに、僕は言い返すことすらできない。これは僕の問題でしょうか？それとも彼女の問題でしょうか？"
         },
         {
-            "Title": "About Gepard",
-            "Voice": "Ah, we see each other pretty often — usually it's me running away and him running after me. Gotta say, I'm gradually beginning to enjoy the attention, hehe."
+            "Title": "ジェパードについて",
+            "Voice": "よくお会いしますよ。いつも僕が逃げ、彼が追う。そんな関係ですね。正直に言うと、このような追いかけっこは…少しクセになるのです。"
         },
         {
-            "Title": "About Serval",
-            "Voice": "We used to be good pals, but now... Let's just say her brother put in a bad word for me."
+            "Title": "セーバルについて",
+            "Voice": "以前は良好な関係でしたが、今は…彼女の弟さんとの仲にも及ばないかもしれません。"
         },
         {
-            "Title": "About Bronya",
-            "Voice": "My only wish is to get acquainted with the supreme guardian-to-be. Any introduction will do — even a painful one!"
+            "Title": "ブローニャについて",
+            "Voice": "これは些細な夢なのですが、未来の大守護者と顔見知りになりたいんです。どんな形でも構いません——僕がボコボコにされるシチュエーションでも大丈夫ですよ！"
         },
         {
-            "Title": "About Luka",
-            "Voice": "Have you seen him compete? A lot of Underworlders made a lot of money off that kid! *sigh* Your pal Sampo here wasn't one of them..."
+            "Title": "ルカについて",
+            "Voice": "彼の試合ぶりを見ましたか？あれは下層部最大の金のなる木と言っても過言ではないでしょう。ああ…残念！サンポの庭に生えている木であればよかったのに…"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Everyone has a colorful past, wouldn't you say...?"
+            "Title": "星魂覚醒",
+            "Voice": "人の過去はどれも興味深い、そうでしょう？"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Double the pay, double the service!"
+            "Title": "キャラクター昇格",
+            "Voice": "お金が倍になれば、サービスも倍になりますよ！"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "That's it? *sigh* I was just getting started..."
+            "Title": "レベルMax",
+            "Voice": "これで終わりですか？では、他に楽しめることを探しましょう。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Smart decision! I won't disappoint you, friend."
+            "Title": "軌跡覚醒",
+            "Voice": "いい選択だ！このサンポ、必ずや満足させてみせましょう。"
         },
         {
-            "Title": "Added to Team With Natasha",
-            "Voice": "Miss Natasha! I thought I owed you a favor..."
+            "Title": "パーティ編成・ナターシャ",
+            "Voice": "ははっ！心配しないでください、見返りなんて求めてませんから。"
         },
         {
-            "Title": "Added to Team With Hook",
-            "Voice": "Hook...? *sigh* Looks like we're playing hard ball."
+            "Title": "パーティ編成・フック",
+            "Voice": "フックお嬢さんまで…これは本気を出さないといけませんね。"
         },
         {
-            "Title": "Added to Team With Seele",
-            "Voice": "Don't worry, Miss Seele! I'll watch your back!"
+            "Title": "パーティ編成・ゼーレ",
+            "Voice": "ゼーレさん！約束しましょう——この僕がしっかり援護すると。"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "Ha! Always an honor to have the Trailblazer by my side!"
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "はは！名高い開拓者と肩を並べて戦えるとは、光栄ですね！"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "We're just having fun."
+            "Title": "パーティ編成・花火",
+            "Voice": "いつも通り、身内を陥れるのはなしでお願いします。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Good! The stronger the better."
+            "Title": "花火について",
+            "Voice": "彼女の悪だくみを見抜いたと思った時は、特に注意しなければいけません——それすら彼女の企みの一部だった、ということもありますからね。彼女、その気になれば自分すら騙してしまうんですから。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Sampo Koski always takes care of his friends."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "楽しめるといいのですが。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Sounds like more business knocking."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "強い相手ほど、興味が湧きます。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Can we bring out the big guns already?"
+            "Title": "ターン・1",
+            "Voice": "僕、友情を重んじるタイプなんで。"
         },
         {
-            "Title": "Skill",
-            "Voice": "Try this on for size?"
+            "Title": "ターン・2",
+            "Voice": "新しい商売ですか？"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Ooh, ouch..."
+            "Title": "戦闘中待機",
+            "Voice": "何か新しいことでも始めません？"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Hey! W—Watch the face!"
+            "Title": "戦闘スキル",
+            "Voice": "これは、どうでしょう？"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "What are you waiting for?"
+            "Title": "攻撃を受ける",
+            "Voice": "こいつっ…"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "The customer is king, and for me to betray the king, well... You gotta make it worth my while."
+            "Title": "重撃を受ける",
+            "Voice": "か、顔はなしですよ！"
         },
         {
-            "Title": "Downed",
-            "Voice": "This price was too steep..."
+            "Title": "必殺技・アクティブ",
+            "Voice": "期待しちゃってます？"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "One good turn deserves another!"
+            "Title": "必殺技・発動",
+            "Voice": "お客様は神様、神様を裏切れと言うのなら…追加料金です。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "I owe you one~"
+            "Title": "戦闘不能",
+            "Voice": "これでは…大損です。"
         },
         {
-            "Title": "Technique",
-            "Voice": "Heehee~"
+            "Title": "戦闘に戻る",
+            "Voice": "助け合いましょう。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "How're you gonna win if you don't take any risks?"
+            "Title": "HP回復",
+            "Voice": "借りができましたね～"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "No cash?"
+            "Title": "秘技",
+            "Voice": "ふふっ。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "You like it? It's yours for the taking!"
+            "Title": "戦闘勝利",
+            "Voice": "リスクにこそ旨みがあるものです。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Whoa. That's good stuff! Let me take a look."
+            "Title": "戦利品を開ける・1",
+            "Voice": "お金、お金は？"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Hey now! Pretty good."
+            "Title": "戦利品を開ける・2",
+            "Voice": "気に入りました？なら受け取ってください。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Solving people's problems is my specialty⁓!"
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "おや？いい品ですね、ちょっと僕に見せてください！"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "I dunno — this one looks kinda tough..."
+            "Title": "謎解きに成功・1",
+            "Voice": "ほう、いいですね。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Wherever there is business, there is Sampo."
+            "Title": "謎解きに成功・2",
+            "Voice": "この程度、僕にとっては朝飯前ですよ～"
+        },
+        {
+            "Title": "敵ターゲット発見",
+            "Voice": "かなり頑丈そうですね。"
+        },
+        {
+            "Title": "町に戻る",
+            "Voice": "この僕がいる場所に商売あり、ですよ。"
         }
     ]
 }

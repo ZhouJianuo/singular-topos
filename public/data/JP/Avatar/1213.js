@@ -628,23 +628,23 @@ var _story_ = {
     "1213": [
         {
             "_id": 1,
-            "Story": "Dan Heng's true Vidyadhara form, revealed after accepting the residual powers from the previous reincarnation of \"Imbibitor Lunae.\"<br>Upon accepting the majestic horned crown atop his forehead, he must accept all the merits and faults attributed to that person.<br>However, he was never himself."
+            "Story": "丹恒は前世である「飲月君」が残した力を受け入れ、持明族としての真の姿を顕した。<br>崢嶸たる角冠を受け継いだ以上、咎人の功罪もすべて受け継がなければならない。<br>しかし、最初から最後まで、彼が「彼」であったことはない。"
         },
         {
             "_id": 2,
-            "Story": "In the dim abyss devoid of light, he seemed to have returned to the insides of a Vidyadhara egg, being ceaselessly churned in tumultuous waves and elusive dreams.<br><br>He dreamed he was standing before a sacrificial altar, dancing and chanting. However, the songs and gestures were mere facades. The light emanating from his eyes and the storm roiling in his blood were the true forces at play. Casually, he wove the misty and foggy tide in Scalegorge Waterscape, sealing the maddened and frenzied \"dragon\" into the propagating giant tree. As the echoing roar streamed up into the heavens and dissipated, Scalegorge Waterscape will continue its peace for centuries more, and his duty was over.<br><br>The ceremony ended, and he turned to look behind him. In the blink of an eye, the stairs he had stepped down from had become full of standing dignitaries with draconic horns and dressed like royalty. As if they were mirages in a mirror, each of them turned and their sleeves swirled with the motion, ready to leave one after another in a meticulously calculated arrangement. Innumerable, they formed a staircase to the sky, stretching into the never-ending spatial void. The faces of all these people would greet him every morning in his dressing mirror — That was his face.<br><br>No, it was the face of the primordial, the original, the very first high elder. He smiled bitterly and covered his face with his palm, as if ascertaining whether he could tear off this mask and return it to its true owner.<br><br>He could not."
+            "Story": "光のない幽闇の中、彼は持明の卵に還り、波と夢の間を漂う。<br><br>彼は自分が祭壇に立ち、舞い、吟じる夢を見た。歌謡や所作は表象に過ぎず、両目から放たれる光と血脈の中で渦巻く嵐こそが真髄である。彼は手当たり次第に鱗淵境に霧のような波涛を呼び、燥狂の「龍」を巨木に鎮めた。長吟が天に登り霧散する——これで鱗淵境は次の数百年も静寂を保つだろう。彼の使命もこれで終わりを告げた。<br><br>礼を終えて振り返ると、離れていく石段の上に、華服を着た龍の角を持つ尊者たちが立っていた。彼らは鏡に映った影のように微かな差をつけながら、1人、また1人と袖を躍らせ、後ろを向き、この場から立ち去ろうとする。数え切れないほどの人々が天梯となり、果てしない虚空に向かって伸びていく。それらの顔は、朝起きた時に必ず鏡の中で出会う人物の——彼の顔だった。<br><br>いや、違う。あれは初代龍尊の顔だ。彼は苦笑しながら、手のひらで自身の五官を覆った。その仮面を剥ぎ取り、真の主に返せないか試しているようだったが——<br><br>彼にはできない。"
         },
         {
             "_id": 3,
-            "Story": "In the dim abyss devoid of light, he seemed to have returned to the insides of a Vidyadhara egg, being ceaselessly churned in tumultuous waves and elusive dreams.<br><br>He dreamed he arrived at the battlefield like the descent of a god. He hovered with the clouds — the military formations below him were tiny as ants, and the airborne chariots and starskiffs were moths destined to die in a flame. Such were the lives of mortals... Was this the viewpoint of a dragon? A sliver of hubris rose up and plunged his heart into emotionless and icy detachment, and he hurriedly cast his gaze toward those with whom he had fought and shared liquor:<br><br>The pilot who zoomed past did not care whether the formation was orderly. She shot at will, letting the arrows filled with blazing fire fall on the storming borisin foot soldiers...<br><br>Along the direction pointed out by the starskiffs, a white-haired swordswoman spearheaded into the fray ahead of the entire army, dancing with her sharp blade. She dashed between flashes of metallic light, her actions too sharp to even let her allies come near, reducing them to merely supporting her from behind...<br><br>On the other hand, the Cloud Knight Lieutenant who used to chat and laugh with the dragon contained his languid indolence, holding his devastator glaive in hand as he stood with his men to repel the borisin pawns attacking from the battlefield's wings...<br><br>And behind the main host, the military engineers who marched with the army were adjusting and testing giant aurumatons... perhaps that exceedingly arrogant craftsman was now working at full speed, for these machines hundreds of feet tall are specialized weapons designed to counter the mechabeasts...<br><br>Then, he saw the general of yesteryear, Teng Xiao. He was enveloped in golden lightning like the avatar of the Reignbow, plowing through the enemies' rows of war beasts with his divine mirage...<br><br>The devastated borisins began to flee. He knew it was time to carry out the duty entrusted to him. So he let go — letting his consciousness disappear in storms and hails, letting thunder roar for him, letting tsunamis rage for him. He floated on top of clouds, watching the enemies getting swallowed by the watery abyss, and watching the land behind him. Many humans, Vidyadhara, and Foxians were eternally left there, unable to lay their eyes upon their home ever again.<br><br>The dragon heart told him that it was but a small speck of dust brushed away from the world. Wars come with a price, but life will always thrive once more — the Vidyadhara are not the only branch of Long's Scions. However, his human heart ached for those comrades who, like him, had warm flesh and blood, and for those mortals who might have lived longer but now could return home nevermore."
+            "Story": "光のない幽闇の中、彼は持明の卵に還り、波と夢の間を漂う。<br><br>彼は自分が神の如く戦場に臨む夢を見た。雲に懸かっている自分にとって、軍陣は蟻のように小さく、雲車と星槎は火に向かって飛ぶ虫のように見える。これが凡人の命…これが龍の視点なのか？一抹の驕りが湧き上がり、彼に冷たい殺意を抱かせる。彼は咄嗟に、共に戦い、共に楽しんだ仲間たちに視線を向けた。<br><br>疾駆する飛行士は隊列など気にも留めずに、勢いのまま射撃を行い、烈火を装填した矢を突進する歩離の兵士に向かって降らせている。<br><br>星槎の進行方向には、単身先陣を切る白髪の剣士がいた。刃が舞い、戦場に剣光が走る。その切先はあまりにも鋭く、彼女の同僚でさえ肩を並べて戦う勇気がないのか、ただ後ろから支援しているだけだ。<br><br>いつもは彼と談笑している雲騎驍衛も、この時ばかりはのんびりとした空気を引き締め、陣刀を持ち、軍士と共に側面から攻めてくる歩離人を迎撃する。<br><br>本陣の後方では、軍属の職人たちが巨大な金人を調整している。あの傲慢な匠も、今頃は大忙しで整備に当たっていることだろう——この数十メートルはある兵器は、器獣に対抗するための切り札だ。<br><br>そして、彼は当時の将軍騰驍に目を向けた。騰驍は帝弓の化身の如く、金色の雷霆を身に纏い、己の幻影で敵の戦獣軍陣を耕すように蹂躙している……<br><br>陣形を崩された歩離軍が逃げていく。彼は理解した、今こそ己に課せられた使命を全うする時なのだと。彼は自身の意識を嵐と雹に溶け込ませる。雷は彼の代わりに咆哮を上げ、津波は彼の代わりに怒り狂う。彼は雲に懸かったまま、深淵に飲み込まれていく敵を、そして背後にある地を、数多くの人類それから持明族と狐族を見た。彼らは永遠に戦場に残り、もう二度と故郷を目にすることができない。<br><br>龍心は彼に、世界がまた塵を払っただけに過ぎないと告げる。戦争は代価が伴う、生命はいつか再生する——龍の血族も持明族だけではない。しかし心は、痛む。彼と一緒に戦った仲間と同じように温かな同胞のために、もっと生きられたかもしれないのに、もう二度とは故郷に戻れなくなった凡人のために痛んだ。"
         },
         {
             "_id": 4,
-            "Story": "In the dim abyss devoid of light, he seemed to have returned to the insides of a Vidyadhara egg, being ceaselessly churned in tumultuous waves and elusive dreams.<br><br>He dreamed that he parted the ocean's waters and came to the palace ruin depths, burying the remnants of his old friend's hallowed blood, or creating a new life that had not been seen for millennia — or, perhaps, those two actions were one and the same, an unattainable desire that could not be carried out for long years in the past, a final straw that broke the gargantuan dragon's back. The craftsman was covered in blood and wounds as he guarded the dragon with a sword in his hand. He urged himself to commit to the decision.<br><br><i>\"Shuhu is dead... we won, but how many more victories can we manage to achieve? How many more prices like this must we pay?\"<br>\"Look, the Ambrosial Arbor still stands. So long as it is alive, the monsters... they can come back again and again. The war of the Xianzhou natives, Foxians, and Vidyadhara against the abominations will never end.\"<br>\"Yes, none of us are special! Each of us has only one life, sacrificing for this, dying for that... it's all our own choices. Just like how she chose to save you and Jingliu... just like how she chose to let more people live on!\"</i><br><br>War, and the lives that expired in the war, were living beings just like him.<br>He shut his eyes wearily, remembering their faces, and made up his mind.<br><i>\"If there's a chance... we will also choose to let her and more people live on.<br>We, the Vidyadhara, have our own way of salvation. I can give it a try.\"</i><br><br>Like an out-of-body experience, like a dream within a dream, he returned to the moment before his sense of self disappeared. With a cold and emotionless mind, he observed himself turning into a dragon, entangled and fighting claw-and-fangs against that bulb of shapeshifting shadow of flesh and blood. In an illusion seen on the verge of death, the emissary of the god showed him an unsettling, beautiful scene — the stars pulsated and sang hymns like red blood cells, and the universe descended into an abyss of flesh and desires. The dragon heart beat to its limit, raising its fangs, breath, and fury — however, no matter how mighty it was, a \"lifeform\" cannot defy the true body of god of life's envoy.<br><br>...Until a starskiff ran everything through like an arrow shaft. He saw that girl crawling out of the ruins with great difficulty, lifting a \"sun\" of absolute darkness in her hand. In that fleeting eternity, he saw her hand disappear, saw her face disappear, and saw HER disappear — That item had ground everything around it into the finest dust and dragged them into a vortex of raw power, including that girl.<br><br>A tuft of hair and a few drops of blood fell to the floor as evidence of her existence. Those were the only traces she left."
+            "Story": "光のない幽闇の中、彼は持明の卵に還り、波と夢の間を漂う。<br><br>夢で彼は自分が海を割き、宮殿跡の奥深くを訪れ、亡き友の残した血を埋葬したり、長らく誕生していなかった新生を創造したりした——この2つのことは本来一体で、長らく実践できなかった渇望で、巨龍の心を挫いた最後の要素かもしれない。職人は剣を手に彼を護衛し、既に満身創痍であった。彼は決意するよう自分を促す。<br><br><i>「倏忽は死に…俺たちは勝った。しかし、あと何度勝てる？俺たちはあと何度こんな代価を払う必要があるんだ？」<br>「建木を見ろ。まだ生きている。建木がそびえ立つ限り、化け物どもは…何度でも押し寄せて来るだろうな。仙舟人、狐族それから持明族と忌み物の戦いは永遠に終わらないんだ」<br>「そう、俺たちは何も特別ではない。俺たちの命は何かのために犠牲になり、あるいは死ぬ…でも全部、俺たちの選択だ。彼女がお前と鏡流を救うと選択したように…彼女がもっと大勢の人を生かすと選択したのと同じようにな！」</i><br><br>戦争、そして戦争で失われた命、そのどれもが自分と同じように呼吸をしていた人だったのだ。<br>彼はその人たちの顔を思い出し、疲れたように目を閉じ、そして決心した。<br><i>「もし、機会があるのなら…我らも彼女を、そして大勢の人を生かす選択をするだろう。<br>——持明族には自らの救いの道がある。余はそれを試そう」</i><br><br>夢の中の夢、身の外の化身。彼は自我を失いかける前の瞬間に戻ると、化龍した自分が変幻自在の血肉の影と戦う様子を冷たい目で見つめる。死の淵の幻覚の中で、神の使いは怪しくも美しい景色を彼に見せた。星辰は赤血球のように蠢きながら歌い、宇宙は肉と欲望の深淵に堕ちる。龍心は懸命に拍動し、爪牙を奮い立たせ、怒りを爆発させる——しかし、どんなに強大な力であろうと、生命は生命の神が遣わした使者には抗えない。<br><br>そして、1隻の星槎が矢のようにすべてを貫いた。彼は少女が廃墟の中から必死に這い出て、絶対的に暗い「太陽」を掲げたのを見た。永遠にも感じられる瞬間の中、彼女の手が消え、顔が消え、全身が消えていく——その物体は周囲にあるものすべてを粉に変えた。もちろん、あの少女のことも。<br><br>千切れた数本の髪と数滴の血が地面に落ちる。彼女が存在したことを証明できる痕跡は、これしか残っていない。"
         },
         {
             "_id": 5,
-            "Story": "In the dim abyss devoid of light, he seemed to have returned to the insides of a Vidyadhara egg, being ceaselessly churned in tumultuous waves and elusive dreams.<br><br>He dreamed of the Dracocatena Nails being staked into his body, and chains of corallium winding around him to hang him in midair in the Shackling Prison. He dreamed the elders coming and going to interrogate him about the truth of the Arcanum and the whereabouts of the dragon heart. He did not speak.<br><br>He dreamed of the Judges coming before him to read their decision and wanting to sentence him to death. He did not speak.<br><br>He dreamed of the white-haired Cloud Knight Lieutenant coming to visit him and bringing him news of the Lieutenant's negotiations. The Vidyadhara did not permit him to die, nor did they permit him to leave. He did not speak.<br><br>He dreamed he was raising his cup to drink with the others again, that he molted off his scales, and that he returned to the egg, and became someone else.<br><br>He dreamed many, many things, like a never-ending immersia entitled \"Self.\"<br><br>Following the immersia was an even clearer but unreachable illusion.<br><br>He saw himself being exiled. He saw himself boarding an express. He saw himself running into the endless stars, never looking back."
+            "Story": "光のない幽闇の中、彼は持明の卵に還り、波と夢の間を漂う。<br><br>彼は夢を見た。鎖龍針を体に打ち込まれ、珊瑚金で作られた鎖で固く縛られ、幽囚獄に吊るされる夢を。長老たちが入れ替わり立ち代わり訪れては、妙法の真相と龍心の在処を彼に尋ねる。彼は沈黙するだけだった。<br><br>彼は夢を見た。判官たちが自分の前で判決文を読み上げ、大辟入滅を宣告する夢を。彼は沈黙するだけだった。<br><br>彼は夢を見た。白髪の雲騎驍衛が彼の見舞いに訪れ、斡旋の結果を伝える夢を。持明たちは彼が死ぬことも、去ることも許さない。彼は沈黙するだけだった。<br><br>彼は夢を見た。それは仲間と再び杯を上げ、共に酒を楽しむ夢だった。<br>彼は夢を見た。それは自分が卵に戻り、別の人物に生まれ変わる夢だった。<br><br>彼は多くの夢を見た。まるで永遠に終わることのない、「自我」という幻戯を見ているかのようだった。<br><br>幻戯の後に続くのは、より鮮明でありながら手の届かない虚像。<br><br>彼は見た、追放される自分を。彼は見た、ある列車に乗り込む自分を。彼は見た、遥か遠い星空に向かって、一度も振り返らずに走っていく自分を。"
         }
     ]
 }
@@ -652,200 +652,200 @@ var _story_ = {
 var _voice_ = {
     "1213": [
         {
-            "Title": "First Meeting",
-            "Voice": "This is my original appearance, that of the Vidyadhara... Don't worry, I'm still Dan Heng, a descendant of the Vidyadhara, and also a member of the Nameless."
+            "Title": "初対面",
+            "Voice": "これが俺の本来の姿、持明族の姿だ…心配する必要はない。俺は依然として丹恒であり、持明族の末裔であり、ナナシビトでもある。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "As recorded in the data bank, it is customary among the Vidyadhara to place one's hand on one's forehead when greeting someone. But... we don't need to do that."
+            "Title": "挨拶",
+            "Voice": "アーカイブによれば、持明族は礼儀として、誰かに会った際は手を上げて額に当てる挨拶をするそうだ。俺たちは…それに倣う必要はない。"
         },
         {
-            "Title": "Parting",
-            "Voice": "It's getting late, I won't be staying up much longer. Sleep well."
+            "Title": "お別れ",
+            "Voice": "もう寝る時間だ、俺は夜更かしはしない。お前がいい夢を見られるよう祈っている。"
         },
         {
-            "Title": "About Self: Previous Life",
-            "Voice": "My previous life is like a faint shadow — hardly visible yet following me wherever I go. It's hard to describe the feeling, but one thing is for certain — I am nobody's shadow."
+            "Title": "自分について・前世",
+            "Voice": "前世のことは見知らぬ影のようで、はっきりとは見えないが、ずっと俺について回っていた。この感覚は上手く言葉にできない。だが、俺が誰の影でもないということは断言できる。"
         },
         {
-            "Title": "Chat: Banishment",
-            "Voice": "The eternal banishment decree was like a pardon for me... After all, I'm here now, aren't I?"
+            "Title": "世間話・追放",
+            "Voice": "あの永久追放の命令は、俺に対する特赦のようだった…なにしろ、俺は今ここにいる。そうだろう？"
         },
         {
-            "Title": "Chat: Cloud-Piercer",
-            "Voice": "There is unfinished business between me and the maker of this weapon."
+            "Title": "世間話・撃雲",
+            "Voice": "この槍を造った者とは、まだ決着がついていない。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "During my days in The Shackling Prison, reading books was my only respite from the long hours and the shadows of the past."
+            "Title": "趣味",
+            "Voice": "幽囚獄にいた頃、長い時間と過去から逃げることができるのは、読書をしている時だけだった。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "I have no interest in commenting on the deeds and sins of Imbibitor Lunae. Given the choice, I would like to cast his name aside... Even so, the consequences of his power will be borne by me alone."
+            "Title": "悩み事",
+            "Voice": "飲月君の功罪について俺から言うことはない。機会さえあれば、彼の名を捨てたいところだが…この力を使った結果は俺が背負うしかない。"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "The Vidyadhara that reside on the Xianzhou received a blessing from the Permanence — our dragon ancestor. On the Luofu, we wield a magic known as \"cloudhymn\" that allows us to manipulate water and control the rains."
+            "Title": "シェア",
+            "Voice": "どの仙舟にいる持明族も「不朽」の龍祖の恩恵を受けている。羅浮の持明族は水を操り、雨を降らせる「雲吟」という奇術を使うことができるんだ。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "The Ambrosial Arbor was severed long ago, but it is not dead. If there is any activity from the Denizens of Abundance, it will be connected to the Arbor."
+            "Title": "見聞",
+            "Voice": "「建木」が切られて 1000 年は経つというのに、今も朽ちることなく残っている。豊穣の民に何か変わった動きがあるとすれば、きっと「建木」に関係があるのだろう。"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "Sometimes the general treats me as a friend from the old days. Unfortunately, I am unable to return the sentiment."
+            "Title": "景元について",
+            "Voice": "将軍は時々、俺を旧友だと思っているようだ。残念だが…その期待に応えることはできない。"
         },
         {
-            "Title": "About Bailu",
-            "Voice": "The high elder succession was incomplete, causing her to become trapped in shallow waters... Fortunately, she has a vitality that does not bend to the will of others."
+            "Title": "白露について",
+            "Voice": "龍尊の伝承が完成していないせいで、彼女は苦境に立たされた…だが幸いなことに、彼女には他人に翻弄されないだけの活力がある。"
         },
         {
-            "Title": "About Yanqing",
-            "Voice": "That young swordmaster has a keen eye and a swift hand, but I have no desire to compete with anyone in a sword fight."
+            "Title": "彦卿について",
+            "Voice": "あの若い剣士は目つきも腕前も素晴らしいが、彼と剣の腕を比べるつもりはない。"
         },
         {
-            "Title": "About Blade",
-            "Voice": "What he seeks I am unable to provide."
+            "Title": "刃について",
+            "Voice": "彼が求めるものを、俺は持っていない……"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "One cannot pick and choose their recollections. My past is unalterable."
+            "Title": "星魂覚醒",
+            "Voice": "思い出では選択できない。いずれにせよ、俺の過去は変わらない。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "The unrest within me seeks an escape."
+            "Title": "キャラクター昇格",
+            "Voice": "この胸で騒ぐ力にも、活路を与える必要がある。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "The future is unknowable... but I have a choice."
+            "Title": "レベルMax",
+            "Voice": "未来を知ることはできないが…「選択」はできる。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "I will pay the price for this power."
+            "Title": "軌跡覚醒",
+            "Voice": "俺がこの力の代償を引き受けよう。"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "Trailblazer, proceed with caution. I've got your back."
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "動く時は気を付けるんだ。俺がいるから安心しろ。"
         },
         {
-            "Title": "Added to Team With March 7th",
-            "Voice": "March, remember that— *sigh* Forget it, you never remember."
+            "Title": "パーティ編成・三月なのか",
+            "Voice": "三月…何でもない、どうせ言っても聞かないからな。"
         },
         {
-            "Title": "Added to Team With Himeko",
-            "Voice": "As always, Himeko, I can handle it."
+            "Title": "パーティ編成・姫子",
+            "Voice": "姫子さん、いつものように、俺に任せてほしい。"
         },
         {
-            "Title": "Added to Team With Welt",
-            "Voice": "Mr. Yang, do you have any insight into this? Allow me to explain my thinking."
+            "Title": "パーティ編成・ヴェルト",
+            "Voice": "ヴェルトさん、ご教示を。俺も自分の考えを正直に伝える。"
         },
         {
-            "Title": "Added to Team With Jing Yuan",
-            "Voice": "Good to see you, General."
+            "Title": "パーティ編成・景元",
+            "Voice": "将軍、お会いできて光栄だ。"
         },
         {
-            "Title": "Added to Team With Blade",
-            "Voice": "This is your last warning. Stay away from my companions."
+            "Title": "パーティ編成・刃",
+            "Voice": "もう一度警告だ。お前は…俺の仲間に近づくな。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "The times are changed beyond recognition."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "飛花落葉の世なり。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Do not be afraid."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "怯えることはない。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "I sense a storm..."
+            "Title": "ターン・1",
+            "Voice": "この力が、騒いでいる…"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "I wish not to use this strength."
+            "Title": "ターン・2",
+            "Voice": "この力を…使うつもりはなかった。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Conflict requires undivided focus."
+            "Title": "戦闘中待機",
+            "Voice": "戦陣において、気を散らすのは忌むべきだ。"
         },
         {
-            "Title": "Enhanced Basic Attack 2",
-            "Voice": "You are flawed."
+            "Title": "強化通常攻撃2",
+            "Voice": "隙だらけだ。"
         },
         {
-            "Title": "Enhanced Basic Attack 3: Activation",
-            "Voice": "The heavens surge..."
+            "Title": "強化通常攻撃3・使用",
+            "Voice": "天洪の荒波…"
         },
         {
-            "Title": "Enhanced Basic Attack 3: Unleash (I)",
-            "Voice": "Celestial dragon... Break!"
+            "Title": "強化通常攻撃3・発動・1",
+            "Voice": "霄龍、いでよ！"
         },
         {
-            "Title": "Enhanced Basic Attack 3: Unleash (II)",
-            "Voice": "Cloud-faring dragon... rise!"
+            "Title": "強化通常攻撃3・発動・2",
+            "Voice": "さあ、蛟龍よ、呑め！"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "A graze."
+            "Title": "攻撃を受ける",
+            "Voice": "構わない。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Inevitable."
+            "Title": "重撃を受ける",
+            "Voice": "千慮の一失か。"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Awaken, dormant scales."
+            "Title": "必殺技・アクティブ",
+            "Voice": "潜鱗は顕現した。"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Delve-hidden moon, world-cleansing dragon!"
+            "Title": "必殺技・発動",
+            "Voice": "洞天隠月…蒼龍よ、世を濯がん！"
         },
         {
-            "Title": "Downed",
-            "Voice": "Not yet... not now."
+            "Title": "戦闘不能",
+            "Voice": "今は…まだ。"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "A dragon... will always return."
+            "Title": "戦闘に戻る",
+            "Voice": "龍は…戻ってくる。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Do not fret."
+            "Title": "HP回復",
+            "Voice": "緊張は不要だ。"
         },
         {
-            "Title": "Technique",
-            "Voice": "Water heeds the cloud's song..."
+            "Title": "秘技",
+            "Voice": "雲吟…御水。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "The consequences are mine to bear."
+            "Title": "戦闘勝利",
+            "Voice": "どんな結果であろうと、俺が背負う。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "It's all yours."
+            "Title": "戦利品を開ける・1",
+            "Voice": "全部お前のでいい。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "This could serve you well."
+            "Title": "戦利品を開ける・2",
+            "Voice": "お前の役に立つかもしれないな。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "A fine piece."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "上等品と言えるだろう。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Good."
+            "Title": "謎解きに成功・1",
+            "Voice": "これでいい。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "All manner of mystic arts have their own distinctive merits."
+            "Title": "謎解きに成功・2",
+            "Voice": "奇術にはそれぞれ価値がある。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Caution does not mean cowardice."
+            "Title": "敵ターゲット発見",
+            "Voice": "慎重にな、けど怯えることはない。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "All remains as it did yesterday..."
+            "Title": "町に戻る",
+            "Voice": "すべてが昨日のことのように映る…"
         }
     ]
 }

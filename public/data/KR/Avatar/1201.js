@@ -457,23 +457,23 @@ var _story_ = {
     "1201": [
         {
             "_id": 1,
-            "Story": "An ordinary diviner at the Divination Commission. She would never slack off in slacking off.<br>Following her parents' wishes, Qingque qualified for the Divination Commission, but the relaxing post she was expecting was in fact a brutal, high-intensity workplace.<br>After several years of work, Qingque has honed her skills — no matter which department she's transferred to, she's still the lowest-leveled diviner.<br>She would browse books and play ancient tile games to wile away the hours... What more could one ask for than a life like this?"
+            "Story": "「농땡이」만큼은 절대 게을리하지 않는 태복사의 일반 점술가.<br>부모의 기대에 부응하고자 태복사에 취직했지만, 한가한 철밥통일 줄 알았던 직장이 강도 높은 고역이었다는 걸 알게 된다.<br>여러 해를 수련한 끝에, 청작은 마침내 부서 이동에 관계없이 자신은 여전히 최하위 직급의 점술가라는 점을 깨닫게 된다.<br>할일 없을 땐 책을 펼쳐보고, 고대 패 놀이를 한다면… 인생, 더 바랄 게 있을까?"
         },
         {
             "_id": 2,
-            "Story": "The legend of Qingque begins at the lyceum.<br><br>From the time of Qingque's freshman year right through to her graduation, whenever exam grades were announced, the word Qingque was always followed by a number written out in full: 60, with no exception.<br><br>At first, her tutors thought that Qingque was just an average talent unsuitable for academia, so they didn't really look into things. However, as the same number kept turning up in the examination records, her tutors began to suspect that this wasn't a coincidence at all.<br><br>Very soon, having long conversations with the tutors became a common occurrence for Qingque. Anyone familiar with this kind of sophistry will recognize that handful of sayings: at first, she's <i>\"quiet and well-behaved,\"</i> or <i>\"gifted.\"</i> Then, later on the tone will shift to blame, <i>\"A pity that big brain of yours is going to waste,\"</i> before the grand finale:<i>\"If only you could dedicate such ingenuity to your studies, then blah blah blah...\"</i><br><br>But Qingque knew the kind of life she wanted far better than her tutors do. She kept repeating <i>\"Oh, yes yes yes,\"</i> and <i>\"Mmm sure sure sure,\"</i> before turning straight around to fall asleep at her desk, and just scraping by during the next exam — this was how Qingque responded to the coercion and threats of her tutors.<br><br>They finally ran out of patience with her. In the end, they could only leave behind a resentful message in her yearbook:<br><br><i>\"It'd be difficult for her to achieve greatness\"</i>"
+            "Story": "청작의 전설은 학당에서 시작된다<br><br>청작이 입학한 때부터 졸업할 때까지 시험 성적이 기록된 곳에는 언제나 「청작」이라는 이름 뒤에 반드시 「60」이라는 숫자가 기록되어 있다. 이건 절대로 예외가 존재하지 않는다<br><br>학당의 스승들은 처음에 단지 청작이 평범한 자질을 지녀 학문을 할 재능이 아니라고 생각해 그리 많은 것을 따지지 않았다. 그러나 그 눈에 띄는 숫자가 하나둘씩 학교 성적표를 채워가면서 스승들은 이게 우연이 아닐지도 모른다는 사실을 깨닫기 시작했다<br><br>곧 스승들과 무릎을 맞대고 면담을 하는 것이 청작의 일상사가 되었다. 스승들이 언제나 하는 말은 아무리 많이 들어도 항상 이 몇 마디로 요약할 수 있었다. <i>「얌전하고 착하다」</i>, <i>「천부적 자질을 지니고 있다」</i> 그러고는 약간의 불만 사항 <i>「똑똑한 머리를 잘못된 곳에 사용한다」</i>, 결국에는 다시 거창한 칭찬 <i>「이 똑똑한 머리를 공부하는 데 쓰기만 한다면 나중에 반드시」</i>……<br><br>하지만 자신이 원하는 삶이 어떤 것인지 청작은 스승들보다 더 잘 알고 있었다. 면담할 때마다 <i>「아, 네네네」</i>, <i>「네, 좋아요」</i> 그러고는 고개를 돌리자마자 수업 시간에 잠을 자고는 시험 시간에 저공비행 하기. 이게 바로 스승들의 당근과 채찍질 작전에 대한 청작의 답변이었다<br><br>마침내 인내심을 잃은 선생님들은 결국 청작의 졸업 평가란에 냉정하게 다음과 같은 한 마디를 남겼다:<br><br><i>「큰 인물이 되기는 어려움」</i>"
         },
         {
             "_id": 3,
-            "Story": "During the ten-plus years at the Divination Commission, Qingque kept a low-key existence like a harmless little sparrow.<br><br>Following her parents' expectations and holding down a steady job, Qingque thought she could breathe a sigh of relief. However, she didn't realize that the Divination Commission — which is in charge of gathering, collecting, and sorting information — is an endless sea of misery for slackers, with no end to the effort it demands. This high-intensity work drove Qingque into torment, from which she could not escape.<br><br>However, as the saying goes, \"what doesn't kill you only makes you stronger.\" Struggling through the endless days of being a lifelong \"professional,\" Qingque became a seasoned slacker and learned more than a few slick tricks to loaf on the job. She's transferred throughout the departments and worked under several bosses. Every time, she's always the lowest-leveled diviner, with her numbers threatening to go even lower. It can be said that this has been... pleasing.<br><br>However, there are two things that still trouble her. One is visiting her parents during New Year for an annual catch-up, talking about life and her plans for the future — because she doesn't have any plans at all. The other is that pesky boss of hers who's more accurate than a jade abacus at piling new work on her whenever she's busted slacking off.<br><br>Qingque is determined to keep improving her time management skills and escape the terror of being pursued by her superior in the Divination Commission. What a shame that Qingque fails to understand fate supersedes her. Her every thought is well within the purview of the omniscia."
+            "Story": "태복사에서 보낸 10여 년 동안, 청작은 남에게 해를 끼치지 않고 조용하게 참새 같은 날들을 보냈다<br><br>부모의 기대에 부응하기 위해 안정적인 일을 이어받고는 마침내 한숨을 돌릴 수 있게 됐다고 생각했지만 정보, 계산, 메시지 전달을 책임지는 태복사는 게으른 자들의 무덤과 같은 곳이었다. 선택을 아무리 후회해도 이미 때는 늦은 터, 고강도의 업무는 청작을 고통에 빠뜨리고 벗어날 수 없게 만들었다<br><br>그러나 「널 쓰러뜨리지 못하는 것은 결국 널 더욱 강하게 만든다」고 하지 않았던가. 끝없이 이어지는 사회생활 을 통해 청작은 능구렁이 같은 사회생활 능력을 보유하게 되었다. 부서를 여러 번 바꾸고 윗사람도 여러 번 바뀌었지만 청작은 언제나 변하지 않는 최저 직급의 점술가였다. 게다가 언제나 저자세를 유지하고 있으니… 가히 회사 내의 십장생이라고 할 만했다<br><br>다만 최근 두 가지 일이 그녀를 골머리 앓게 만들고 있었다. 하나는 매년 정월 초하루에 부모님을 찾아뵙고 최근의 생활 상황과 미래의 인생 계획에 대해 이야기하는 것이다. 그러나 그녀에겐 아무런 계획도 존재하지 않는다. 다른 하나는 옥조처럼 면밀한 계획에 의해 행동하는 상사가 항상 그녀가 게으름을 피울 때마다 새로운 업무를 추가하는 것이었다<br><br>청작은 태복사의 무서운 상사의 지적을 피하기 위해 시간 관리 능력 개선에 계속 전념하기로 결심한다. 그러나 안타깝게도 「참새는 하늘의 뜻을 예측할 수 없는 법」, 이런 얄팍한 생각까지도 상사의 계산 안에 들어있을 따름이었다"
         },
         {
             "_id": 4,
-            "Story": "The game of Celestial Jade is supposed to have been around since the days of the Primeval Imperium, but was lost during the Xianzhou Alliance's period of long interstellar drift. Thanks to an anonymous diviner at the Divination Commission, the rules have been collated and brought back to modern-day Xianzhou, where the people are fortunate enough to have access to this mind-boggling tile game based on astrophysics and celestial phenomena.<br><br>Of course, rules alone are not enough. That's why the diviner used blueprints from her repository as bait to lure in close colleagues from the Artisanship Commission into crafting Celestial Jade tiles plus a board to play on. The auto-shuffling function is integrated into these boards, and quickly began to catch on in the Quatraboard Games Parlor (which is owned by the Artisanship colleague).<br><br>Nowadays, Celestial Jade is one of the most popular games aboard the Xianzhou Luofu. The diviner would joke about this in letters sometimes with her artisan friend. She'd originally wanted to use this game for nothing more than her own leisure, not to capture the hearts of millions of Xianzhou people. Now that's a completely unintended outcome.<br><br><i>\"Well, it's not a bad thing...\"<br>\"After all... If I can use this leisurely brain game to slack off out in the open, then why not go for it?\"</i>"
+            "Story": "「제원 경옥」이라는 놀이는 고대 제국 시대부터 존재했다고 전해지나 선주 연맹이 오랜 시간 동안 별 사이를 표류하며 실전되었다고 한다. 다행히 태복사의 이름을 밝히기를 꺼리는 점술가가 규칙을 정리해 현재 선주로 가져온 덕분에 사람들은 이 하늘의 별들을 형상화하여 만들어진 두뇌 카드 게임을 즐길 수 있게 되었다<br><br>물론 규칙만 있어서는 부족하다. 그래서 점술가는 서고에 보관된 설계도를 미끼로 공조사의 장인으로 인한 친구를 꼬드긴 다음, 그녀에게 경옥 카드와 카드판을 만들어 주었고, 자동 카드 섞기의 여러 기능을 하나로 묶어 그녀의 명의로 된 「4대 카드관」을 통해 이 게임을 빠르게 보급하였다<br><br>이제 「제원 경옥」은 나부에서 가장 유행하는 인기 게임 중 하나로 자리 잡았다. 점술가는 이따금 편지를 통해 이 일을 놓고 그 장인에게 농담을 던졌다: 단지 따분할 때 시간을 보내기 위해 이 옥 카드 게임을 했던 것인데 천만 나부인들의 마음을 사로잡을 줄은 정말 예상하지 못했다고 말이다<br><br><i>「그런데 말이야, 이것도 그리 나쁜 일은 아닌 것 같아——」<br>「어차피… 이 두뇌 카드 게임을 통해 정정당당히 시간을 보낼 수 있으니 좋은 것 아니겠어?」</i>"
         },
         {
             "_id": 5,
-            "Story": "<i>\"Being happy at work is an artform.\"<br><br>\"First, never overdo any task. Higher-ups want to see their tasks progressing at a consistent pace before the deadline, so never turn in anything early.\"<br><br>\"Second, never take the initiative. If higher-ups don't personally tell you what they want you to do, that is not your problem.\"<br><br>\"Third, don't work hard by yourself, and never fight for clout. If you can, try and drag someone in to suffering together with you. Whatever you do, never work alone for the sake of trying to demonstrate any kind of ability.\"<br><br>\"Afterward, you can give credit to your peers, both as an easy hat-tip or simple investment into your future. But also as a shield against the possibility of higher-ups promoting you — a promotion means even more work.\"<br><br>\"The point is, there are three basic principles for happiness at work – do not be proactive, do not say no, and do not be responsible. Did you get it?\"</i>"
+            "Story": "<i>「즐겁게 일하는 건 예술의 한 갈래라고 할 수 있지」<br><br>「첫째, 임무를 초과 완수하지 않는다. 상부에서 지시한 임무는 기한 전에 균일한 속도로 완료해야 하며 절대 미리 제출하지 않는다」<br><br>「둘째, 일을 떠맡지 않는다. 상부에서 지시한 일이 아니면 너와는 무관한 일이다」<br><br>「셋째, 혼자서 끙끙 앓지도 절대 공을 다투지도 않는다. 다른 사람과 함께 힘을 합칠 수 있으면 반드시 협력한다. 절대로 능력을 뽐낸다고 혼자서 나서지 않는다」<br><br>「임무를 마친 후 공로가 생겨도 동료에게 양보한다. 인정을 베풀면서 동시에 앞으로 혹시 모를 버팀목이 될 수 있다. 이와 함께 상사가 당신을 승진시킬 수 있는 가능성을 사전에 차단해 버린다. 승진할 경우 더 많은 업무를 맡아야 하지 않겠는가?」<br><br>「결론적으로, 다음의 세 신조는 즐거운 업무의 기본 규칙이라 할 수 있겠다. 나서지도, 거절하지도, 책임지지도 않는다. 자, 이제 알겠지?」</i>"
         }
     ]
 }
@@ -481,244 +481,244 @@ var _story_ = {
 var _voice_ = {
     "1201": [
         {
-            "Title": "First Meeting",
-            "Voice": "I'm Qingque, a diviner from the Divination Commission. You wanna play Celestial Jade? Okay, come back during my work hours."
+            "Title": "첫 만남",
+            "Voice": "전 청작, 태복사의 점술가죠. 저랑 놀이를 하러 왔다고요? 좋아요. 제가 근무할 때 다시 올래요?"
         },
         {
-            "Title": "Greeting",
-            "Voice": "You're here this early again? So diligent..."
+            "Title": "인사",
+            "Voice": "오늘도 출근 도장을 이렇게나 일찍 찍었어요? 참 부지런하셔요"
         },
         {
-            "Title": "Parting",
-            "Voice": "Let's go, let's go, time to play. Are you... thinking of working overtime!?"
+            "Title": "작별",
+            "Voice": "가요, 놀이하러 가요. 설마… 야근할 생각은 아니죠!?"
         },
         {
-            "Title": "About Self: Work Attitude",
-            "Voice": "Work is not about increasing value. It just pays your bills. The trick is to increase value for yourself at your employer's expense."
+            "Title": "자신에 대해•업무 태도",
+            "Voice": "업무는 가치를 얻는 게 아니라 노동으로 보수를 바꾸는 행위예요. 업무 중에 농땡이를 피우는 거야말로 가치를 얻는 일이라고요"
         },
         {
-            "Title": "Chat: Divination Commission",
-            "Voice": "My Mom said I could relax in a secure job once I passed the Divination Commission entrance exam. Now that I'm in, I feel like I should be doing more..."
+            "Title": "잡담•태복사",
+            "Voice": "어머니가 태복사에 들어가면 한숨 돌릴 수 있을 거라고 했죠. 들어와서야 안 건데 한숨 돌리기는 커녕 내가 돌아버리겠어요……"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Told off by my manager? Go play some Celestial Jade. Too much work? Go play some Celestial Jade. Ahhhh, Celestial Jade is my savior!"
+            "Title": "취미",
+            "Voice": "상사한테 혼나면 「제원 경옥」 몇 판 하러 가고, 일을 다 못 끝내도 「제원 경옥」 몇 판 하러 가죠. 아! 「제원 경옥」이 제 구세주예요!"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "I can't play Celestial Jade on my own. How come Celestial Jade isn't omnipotent..."
+            "Title": "고민",
+            "Voice": "「제원 경옥」은 혼자 못 해요. 「제원 경옥」이 만능이 아니잖아요…"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "There are three basic principles for happiness at work – do not be proactive, do not say no, and do not be responsible. You should give it a try~"
+            "Title": "공유",
+            "Voice": "「즐겁게 일하기 기본 요령」은 총 세 가지죠——자진 금지, 거절 금지, 책임 금지. 자, 해볼래요?"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Fun number one, knowing there are books for leisure on the Xianzhou. Fun number two, browsing these books in the Spare Time Bookshop. Fun number three — the greatest fun — reading those books at work."
+            "Title": "견문",
+            "Voice": "선주에 잡서가 있다는 걸 안 게 첫 번째 즐거움이고, 「삼여책방」에서 잡서를 찾는 게 두 번째 즐거움, 일할 때 잡서를 읽는 게 세 번째 즐거움이자 제일 큰 즐거움이에요"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "I heard the general often listens to music with his eyes closed. Can we promote that in the Divination Commission? Thank you, general."
+            "Title": "경원에 대해",
+            "Voice": "장군님은 종종 「눈을 감고」 보고를 들으신대요. 태복사에 대중화되면 좋겠네요. 감사합니다, 장군님"
         },
         {
-            "Title": "About Yanqing",
-            "Voice": "I've heard his name. A genius boy, and working every day at such a young age? Sounds exhausting."
+            "Title": "연경에 대해",
+            "Voice": "이름만 들어본 천재 소년이죠. 그렇게 어리면서 매일 일이라니? 듣기만 해도 피곤해요"
         },
         {
-            "Title": "About Fu Xuan",
-            "Voice": "As soon as I have free time, the master diviner immediately appears and gives me mundane jobs to do... It looks like I need to work on time management more..."
+            "Title": "부현에 대해",
+            "Voice": "제가 한가해지면 태복 님께서 곧바로 나타나서 자질구레한 일을 주세요…. 시간 관리라는 학문을 더 연구해봐야겠어요……"
         },
         {
-            "Title": "About Yukong",
-            "Voice": "She's a big shot from the Sky-Faring Commission who can't rest even after retiring from the front lines. It's hard being a powerful official."
+            "Title": "어공에 대해",
+            "Voice": "천박사의 거물이시죠. 전선에서 물러나셨어도 한가하지 않으시니, 관직은 쉽지 않네요"
         },
         {
-            "Title": "About Tingyun",
-            "Voice": "I saw Tingyun stopping in front of the games parlor once, so I invited her to play a round. Tingyun is pretty and her play is entertaining. People crowded around the game table that day and the mood was on fire. The owner lost all his money — it was great to watch."
+            "Title": "정운에 대해",
+            "Voice": "정운 아가씨가 놀이관 앞에 멈춰서 관찰하는 걸 보고 한 판 권한 적이 있어요. 정운 아가씨는 얼굴도 예쁘고 놀이도 잘해요. 그날 사람이 가득 모이고 열기가 대단했죠. 주인이 져서 아주 인상적이었어요"
         },
         {
-            "Title": "About Luocha",
-            "Voice": "Who? That sounds like an outsider... We've got a lot of outsiders. You'll come across them a lot in The Looking Bronze. He's probably here to seek success in \"Seeking Immortality\" for himself... Yes, I did say \"seek\" twice."
+            "Title": "나찰에 대해",
+            "Voice": "누구? 이름은 외부인 같은데…. 여긴 외부인이 많아요. 감효헌(鑒爻軒)에서도 자주 보는데 대부분 「장수 추구」의 성공을 빌러 온 사람이죠… 음, 잘못 들은 거 아니에요. 「추구」라고 했어요"
         },
         {
-            "Title": "About Sushang",
-            "Voice": "A newcomer with the Cloud Knights? *sigh* Just go back to where she's from. Everything is so competitive here in the Luofu. You can't get promoted."
+            "Title": "소상에 대해",
+            "Voice": "운기 쪽 신인인가요? 어이쿠, 어서 돌아갔으면 좋겠네요. 「나부」는 무슨 일이든 경쟁이 치열해서 승진은 못 한다고요"
         },
         {
-            "Title": "About Bailu",
-            "Voice": "I got a bit too excited playing Celestial Jade once and sprained my wrist — a friend recommended her to me. I had my doubts at first, but as soon as she'd written out my prescription, she took out a Celestial Jade set. She told me to practice stacking the tiles to improve wrist flexibility. Naturally, I instantly respected her."
+            "Title": "백로에 대해",
+            "Voice": "옛날에 놀이를 하다가 손에 쥐가 나서 친구 소개로 갔었죠. 반신반의했는데 약을 처방해준 백로 님이 「제원 경옥」을 꺼내더니, 평소에 패를 많이 쌓으면 손이 유연해진다고 해서 바로 수긍했어요"
         },
         {
-            "Title": "About Guinaifen",
-            "Voice": "Guinaifen... Oh, you mean Little Gui! Every time I lose at celestial jade, I go watch her acrobatics performance to cheer me up. It's just... I never have enough strale to give her a tip..."
+            "Title": "계네빈에 대해",
+            "Voice": "계네빈… 아, 네비니요~! 전 놀이에서 질 때면 계네빈의 곡예를 보러 달려가요, 그럼 기분이 좀 좋아지거든요. 그럴 땐… 주머니에서 반 촉도 못 꺼내주지만 말이에요"
         },
         {
-            "Title": "About Huohuo",
-            "Voice": "Every time I spot that kid, I can't help but feel this intense need to teach her how to play Celestial Jade. I've got to teach her the ins and outs..."
+            "Title": "곽향에 대해",
+            "Voice": "그 아이를 볼 때마다 꼭 그 아이에게 「제원 경옥」을 가르쳐야겠다는 강력한 욕구가 솟아올라요. 반드시 「제원 경옥」을 가르쳐줄 거예요……"
         },
         {
-            "Title": "About Xueyi",
-            "Voice": "You know that book \"An Unsuitable Job for A Puppet?\" I didn't just read it, I even scribbled down some notes. Shame, though, I still don't have a clue who wrote it..."
+            "Title": "설의에 대해",
+            "Voice": "≪인형에 어울리지 않는 직업≫ 그 책은 읽고 글까지 남겼는데 아직도 작가가 누구인지 모르겠어요……"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Life's just like a game of tiles, you never know what's gonna come up next~"
+            "Title": "성혼 활성화",
+            "Voice": "인생은 매 순간, 패를 내는 것처럼 아슬아슬하고 짜릿하죠~"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "When life's all go, the trick is to \"steal\" a bit of downtime, right?"
+            "Title": "캐릭터 승급",
+            "Voice": "바쁜 와중에 게으름 피우는 비결은 바로 「몰래」예요~"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "You're bound to draw the tile you want sooner or later, right?"
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "이야, 시간이 지나니 원하던 패가 들어오네요"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "When it comes to Celestial Jade, it's all about synergy and luck."
+            "Title": "행적 활성화",
+            "Voice": "패는 좋고 나쁜 게 없어요. 운이 따르냐 마느냐죠"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "Hey... Trailblazer, you're here, too! Let's get this game going~"
+            "Title": "파티 편성•{NICKNAME}",
+            "Voice": "와… {NICKNAME}, 당신도 있었군요. 그럼 둘이 판을 짜 볼까요~"
         },
         {
-            "Title": "Added to Team With Fu Xuan",
-            "Voice": "Weird, how'd the Master Diviner figure out I'd be here?"
+            "Title": "파티 편성•부현",
+            "Voice": "이상하네, 태복님이 내가 여기 있는 걸 어떻게 아셨지?"
         },
         {
-            "Title": "Added to Team With Guinaifen",
-            "Voice": "A free performance by Little Gui? There's no way I'm missing that~"
+            "Title": "파티 편성•계네빈",
+            "Voice": "네비니의 공연을 무료로 볼 수 있다니, 절대 놓칠 수 없지~"
         },
         {
-            "Title": "Added to Team With Yanqing",
-            "Voice": "Awesome, with a genius like Yanqing around, I can take it easy for a while!"
+            "Title": "파티 편성•연경",
+            "Voice": "너무 좋아, 연경 같은 천재가 있으니 난 묻어갈 수 있겠어!"
         },
         {
-            "Title": "Added to Team With Huohuo",
-            "Voice": "No need to worry, Huohuo, the workday zips by when you're having fun~"
+            "Title": "파티 편성•곽향",
+            "Voice": "곽향~ 너무 겁먹지 마. 근무 시간은 눈 한번 깜빡하면 금방 끝난다고~"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Play hard, win big, keep quiet~"
+            "Title": "전투 시작•약점 격파",
+            "Voice": "좋은 패 손에 쥐고 조용히 떼돈 벌자~"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "When the odds are against you, cut your losses~"
+            "Title": "전투 시작•위험 경보",
+            "Voice": "열세일 땐 적게 잃는 게 이기는 거예요~"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Wait for the tiles before you start counting~"
+            "Title": "턴 시작•1",
+            "Voice": "헛수고, 기다리면 패가 붙는다고요~"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Fights are like gambling — you have to choose when to strike!"
+            "Title": "턴 시작•2",
+            "Voice": "전세는 노름과 같아요, 기회를 봐서 치는 거죠~"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Don't rush — the game is always changing~"
+            "Title": "턴 대기",
+            "Voice": "패는 모르는 거죠, 급할수록 재미없어요~"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Don't need this tile~"
+            "Title": "일반 공격",
+            "Voice": "일단 가보자~"
         },
         {
-            "Title": "Enhanced Basic Attack",
-            "Voice": "Time for the payout."
+            "Title": "일반 공격 강화",
+            "Voice": "계산 좀 해볼까"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Gotcha!"
+            "Title": "전투 스킬•1",
+            "Voice": "났다!"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Stay calm~"
+            "Title": "전투 스킬•2",
+            "Voice": "침착해~"
         },
         {
-            "Title": "Skill 3",
-            "Voice": "Come onnnn~"
+            "Title": "전투 스킬•3",
+            "Voice": "와라~"
         },
         {
-            "Title": "Skill 4",
-            "Voice": "Ooh~"
+            "Title": "전투 스킬•4",
+            "Voice": "호우~"
         },
         {
-            "Title": "Skill 5",
-            "Voice": "Wow~"
+            "Title": "전투 스킬•5",
+            "Voice": "오예~"
         },
         {
-            "Title": "Skill S",
-            "Voice": "This hand sucks..."
+            "Title": "전투 스킬•특수",
+            "Voice": "왜 아직 안 붙지…"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Fluke."
+            "Title": "약공격 피격",
+            "Voice": "우연일 뿐이야"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Sore loser!"
+            "Title": "강공격 피격",
+            "Voice": "사람은 치지 마!"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Luck of the draw...!"
+            "Title": "필살기•활성화",
+            "Voice": "땡 좀 잡게 해줘!"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Please, please, please, please, please... ah! Looks like... victory!"
+            "Title": "필살기•발동",
+            "Voice": "제발, 제발, 제발… 이건… 났다!"
         },
         {
-            "Title": "Talent 1",
-            "Voice": "Better late than never!"
+            "Title": "특성•1",
+            "Voice": "좋은 패는 언제든 옳아!"
         },
         {
-            "Title": "Talent 2",
-            "Voice": "That's a set!"
+            "Title": "특성•2",
+            "Voice": "붙었다!"
         },
         {
-            "Title": "Downed",
-            "Voice": "Time for a... day off..."
+            "Title": "전투 불능",
+            "Voice": "일하러… 가기 싫어……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Need an extra player?"
+            "Title": "전투 복귀",
+            "Voice": "한 자리 비는 거 아니죠?"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Tasty."
+            "Title": "HP 회복",
+            "Voice": "괜찮은걸요?"
         },
         {
-            "Title": "Technique",
-            "Voice": "Feeling lucky~"
+            "Title": "비술",
+            "Voice": "손맛 좀 볼까~"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "We're on a roll, hehe~"
+            "Title": "전투 승리",
+            "Voice": "운이 트였으니, 막으려야 막을 수 없죠~"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "We're in the money~"
+            "Title": "전리품 오픈•1",
+            "Voice": "운수형통~"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "I could use some of your luck~"
+            "Title": "전리품 오픈•2",
+            "Voice": "운 좀 나눠주세요~"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Jackpot!"
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "대~박!"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Just another walk in the park~"
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "힘 쓸 필요 없어요~"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Done! No need for overtime!"
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "빨리 풀어야 야근 안 하죠!"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Time for another round — let's get them~"
+            "Title": "적 발견",
+            "Voice": "붙잡아서 한판 더하자고요~"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Just thinking about work gives me a full-body migraine..."
+            "Title": "도시로 복귀",
+            "Voice": "일 생각만 하면, 온몸이 쑤셔요……"
         }
     ]
 }

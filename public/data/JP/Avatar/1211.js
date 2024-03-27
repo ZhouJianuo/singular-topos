@@ -506,23 +506,23 @@ var _story_ = {
     "1211": [
         {
             "_id": 1,
-            "Story": "A vivacious young lady of the Vidyadhara race, she is known as the \"Healer Lady\" due to her expertise with medicine.<br>She often dishes out unorthodox prescriptions such as \"Stay well hydrated\" and \"Get a good night's rest.\"<br>Bailu cannot bear to see people suffer, and that's why you'll see her with her eyes shut tightly as she cures ailments.<br>\"As long as they're cured, that's all that matters, right?\""
+            "Story": "明るく元気な女の子。持明族の「啣薬の龍女」であり、腕利きの名医でもある。<br>「お湯をたくさん飲むように」、「一晩ぐっすり眠れば治る」など、医者らしくない治療法を提案することが多い。<br>人が苦しむ姿を見ていられずに、治療の時は決まって目を瞑ってしまう。<br>――とにかく病気が治ればいいじゃろ！"
         },
         {
             "_id": 2,
-            "Story": "<i>\"Alchemy Commission Collected Treatment Histories: Volume Forty-Eight, Case Study 1246<br><br>Presiding Physician: Bailu.<br><br>Patient: Yuezhui, female Foxian, aged sixty-two.<br><br>Complaint: Accidentally ate a chocolate drop sold by an Outworlder trader. Experienced extreme thirst leading to excess drinking, aching all over, particularly in the stomach, shortness of breath, and loss of big clumps of tail hair.<br><br>Diagnosis: Food poisoning.<br><br>Prescription: Bitter ginseng, 1 mace. Raw licorice, 1 mace and 1 candareen. Five-grain jade elixir, 1 bottle. </i>Things You Should Know About Forbidden Foods<i>, 1 copy.<br><br>Usage: Boil bitter ginseng and licorice in the five-grain jade elixir until reduced to half volume, strain to remove dregs, drink as much as you like until you vomit. Copy out the pamphlet </i>Things You Should Know About Forbidden Foods<i> five hundred times until it's stuck in your head.<br><br>Remarks: Classic case of food poisoning. Visceral lesions already healed with Draconic Ichor. It should suffice to take emetics as prescribed, which will effectively remove any residual poison through vomiting. I should further note that everyone knows that even the strongest, hardiest, long-life Foxians cannot eat chocolate!<br><br>Also, for minor ailments such as this, do not make the patient wait too long. Just wake me up! Moreover, couldn't you find me some more challenging cases? Are you trying to waste my talents?\"</i>"
+            "Story": "<i>「丹鼎司医案治療綱要・四十八巻・例一千二百四十六<br><br>主治医：白露<br><br>患者：月追（狐族）、女性、 62 歳<br><br>症状：殊俗の民が販売するチョコレートを誤食。いくら水を飲んでも喉が渇く。全身、特に腹が痛む。息切れ。尻尾の毛が抜け落ちる<br><br>診断：食中毒<br><br>処方：苦参1銭、生甘草1銭1分、五穀玉液1瓶、『飲食禁忌の常識』1冊<br><br>用法：苦参と生甘草を五穀玉液で水分が半分になるまで煎じ、濾過したものを吐くまで飲む。『飲食禁忌の常識』を 500 回書き写し、その内容を心に刻むように<br><br>一言：典型的な食中毒。臓器の軽度の病変は龍涎により治療済み。処方通りに薬を飲んで嘔吐を促し、毒物を吐き出せばよい。強い肉体を持つ長命種ではあるが、狐族がチョコレートを食べられないのは常識じゃ！！！<br><br>それと、症状が軽い患者を長く待たせる必要はない。直接わしを起こせばよい！もっと重い病に罹った患者を寄こせ、わしの才能を無駄にするつもりか？」</i>"
         },
         {
             "_id": 3,
-            "Story": "<i>\"Alchemy Commission Collected Treatment Histories: Volume Seventy-Three, Case Study 582<br><br>Presiding Physician: Bailu.<br><br>Patient: Jinyu, female Vidyadhara, aged thirteen days and four hours.<br><br>Complaint: Patient undergoes cycle of hatching rebirth every few months. Her growth is a hundred times faster than a normal Vidyadhara.<br><br>Diagnosis: Rebirth abnormality, extremely rare, a one-in-a-million condition.<br><br>Prescription: No available medicine. Drink plenty of hot water.<br><br>Usage: Not applicable.<br><br>Remarks: Well, this is one of those difficult cases! The sort I unfortunately am unable to treat.<br><br>The mechanism underlying the hatching rebirth of Vidyadhara remains a mystery. Some healers take the view that Vidyadhara use the rebirth cycle to repair injuries sustained during their long life-cycle, but such a notion clearly does not apply to this patient's situation.<br><br>I have tested her blood and marrow and had her ingest translucence worms to allow a thorough examination of her brain. But I've found no diseased parts. Ah, what a marvel life is! Even long-life species exempt from aging and death are not entirely immune to the ravages of disease.<br><br>It is the same as regards my own health. It is now six or seven years since I first sprouted horns, but I have not grown taller in that time. I am sure it is because I have those horrid Preceptors watching over me all the day long. If a child does not get out to run about, how will it grow tall?<br><br>Healers who read this case study, when will you release me? I am not some truly wicked ne'er-do-well. Why am I so closely guarded? It makes me so very, very, very, very, very, very, very, very angry!\"</i><br><br>A scowling horned face has been drawn at the foot of this page."
+            "Story": "<i>「丹鼎司医案治療綱要・七十三巻・例五百八十二<br><br>主治医：白露<br><br>患者：錦余（持明族）、女性、 13 日と2時間<br><br>症状：数ヶ月で脱鱗してしまう。その成長速度は通常の持明族の約 100 倍<br><br>診断：脱鱗異常。非常に稀な症状で、1万人に1人もいない<br><br>処方：薬はない。お湯をたくさん飲むように<br><br>用法：なし<br><br>一言：確かに難解な症状じゃ！これはわしには治せん！<br><br>持明族の脱鱗転生の仕組みは今なお解明されておらん。長い生の中で受けた損傷を修復するために輪廻があると考える医士もおるが、この患者の状況は明らかにそれに反しておる。<br><br>彼女の血液と髄液を調べ、透影虫を飲ませて大脳も詳しく検査したが、病変部は見つからんかった。はあ、生命とは本当に奇妙なものじゃのう。老化や死を免れても、長命種が病から完全に解放されることはないのじゃろうな。<br><br>わしの体も同じじゃ。角が生えてから…もう6、7年は経つというのに、一向に背が伸びん！きっと、あの嫌な龍師長老たちに毎日見張られとるせいじゃ！外に出て遊ばねば、子供の体は成長せんじゃろ？<br><br>この医案を見た医士、いつになったらわしは外に出られるんじゃ！わしは別に悪党ではない、なぜそんなに警戒する必要がある！本当に腹が立つ腹が立つ腹が立つ腹が立つ腹が立つ腹が立つ腹が立つ腹が立つ腹が立つ」</i><br><br>ページの下のほうに、あかんべえをする龍の角が生えた顔が描かれている。"
         },
         {
             "_id": 4,
-            "Story": "<i>\"Alchemy Commission Collected Treatment Histories: Volume One Hundred and Twenty-Eight, Case Study 39<br><br>Presiding Physician: Bailu.<br><br>Patient: Jing Yuan, male Xianzhou native of indeterminate age (though the Ten-Lords Commission surely knows).<br><br>Complaint: Tightness of chest and shortness of breath, drowsiness, eyes too tired to keep open. This consultation is a routine repeat check-up.<br><br>Diagnosis: Cooped inside the Seat of Divine Foresight for far too long.<br><br>Prescription: One serving of Garlic-infused Pork, one serving of Crisped Melon and Diced Chicken, one serving of pork slices in fish sauce, one serving of Granny Chen's Tofu, one crispy suckling pig, and one cup of Hunter Maofeng tea.<br><br>Usage: Just eat. It will make him feel full, then naturally he'll want to get out and about to work it off, which will also improve his mood.<br><br>Remarks: The general comes to see me about his health every year, complaining of symptoms such as \"tight chest and shortness of breath\" or \"struggling to keep eyes open\" and wanting me to give him a check-up.<br><br>The movement of the general's qi is extremely vigorous and there are no signs of affliction by strange diseases or being stricken with mara. (Although such things are the province of the Ten-Lords Commission, I always exercise special caution in this regard.)<br><br>It is my view that he is simply bored senseless and has slipped out to rove about when he found some free time. If that were not the case, why show up every time with a box of sweetmeats, nuts and candies and whatnot, to plonk himself down and start shooting the breeze with me? How is my health? Have I had any dreams lately? How have I been eating? He's more like the doctor than I am.<br><br>I do very much enjoy chatting with the general. He's not like those old so-and-sos, no grand airs, likes to joke and tease, and he often tells me about the parts of the world he's been on expeditions to. All sorts of marvelous stuff. Ah, how I would love to leave doctoring behind and head off to the ends of the earth with sword in hand...!\"</i>"
+            "Story": "<i>「丹鼎司医案治療綱要・百二十八巻・例三十九<br><br>主治医：白露<br><br>患者：景元（仙舟人）、男性、年齢不詳（十王司なら知っておるじゃろ）<br><br>症状：息切れ、傾眠、眠すぎて目が開けられない。今回の問診は定期再診<br><br>診断：神策府での座りっぱなしが原因<br><br>処方：茎ニンニクの豚バラ炒め1皿、パリパリキュウリの辣子鶏1皿、フナ風味の肉炒め1皿、陳婆豆腐1椀、仔豚の香ばし焼き1頭、狩原毛峰1杯<br><br>用法：とにかく食べること。満腹で苦しくなれば、消化のために外に出て運動したくなり、ちょうどいい気分転換になる<br><br>将軍は毎年問診に来て、『息切れがする』だの『眠すぎて目が開けられない』だの訴えるんじゃが、本当は適当な理由をつけて体を検査したいだけなんじゃ。<br><br>将軍の気の流れは健康そのもの。奇妙な症状も、魔陰の身の兆候も感じられぬ（この件は十王司が管理しておるが、わしが改めて確認してやった）。<br><br>わしが思うに、ずっと閉じこもっておることに嫌気が差したんじゃろうな。そうでなければ、いつも砂糖漬けなどを持参して、座って雑談を始める説明がつかん。わしの最近の調子はどうかとか、夢は見ているかとか、食事は取っているかとか…わしよりも将軍のほうが医者のようじゃ。<br><br>じゃが、将軍とのおしゃべりも悪いものではない。あの老いぼれどもと違って威張らぬし、冗談を言うのが好きで、よく出征で赴いた世界の話をしてくれる。外の世界は素晴らしいのう。はあ…わしだって医館に閉じこもるのではなく、剣を携えて天下を旅したい……」</i>"
         },
         {
             "_id": 5,
-            "Story": "<i>Greetings, Esteemed Preceptors:<br><br>Star Calendar █ day of █ month, ████, routine examination of Lady Bailu, concise notes as follows:<br><br>Still no physical change in the high elder. She has not grown. This is not unusual as slow development is common among Vidyadhara. I am more concerned about her having no dreams than the slow growth of her body.<br><br>All past high elders, after receiving the \"Orb of Abysm\" and the \"Transmutation Arcanum,\" will re-experience the events of their dragon ancestors' lives in dreams. The Office of Deep Sources is charged with transcribing, retelling, and annotating these dreams, and their files run to an enormous number of volumes. Although such dreams tend to be fragmentary and difficult to understand or interpret, it is after all the only way our kind have of coming close to Permanence. Yet Lady Bailu has experienced nothing of this sort. It is apparent that either her dragon heart is in some way damaged, or the \"Transmutation Arcanum\" has not been carried through in full.<br><br>Furthermore, since the high elder has already demonstrated her powers of calling lightning and commanding the waters, I have instructed one of our finest crafters to make the Dragonhorn Pilory to shackle her tail, to prevent a loss of control over her powers and a repeat of the disaster of the Sedition of Imbibitor Lunae.<br><br>Also, we received a missive from Caelorum Venti of the Yaoqing some months ago, inquiring into the present condition of Lady Bailu. I have replied as you instructed, esteemed elders. The gist of my reply was that Lady Bailu is still young and in need of the assistance of the Preceptors. Only after her coming-of-age ceremony will the Preceptors confer the title of Imbibitor Lunae on her.<br><br><align=\"right\">Respectfully yours, Yunyou, attendant to the High Elder.</align></i>"
+            "Story": "<i>「龍師各位<br><br>星暦████年█月█日、白露様の定期検診の簡単な記録は以下の通りです——<br><br>龍尊様の体は相変わらず成長していません。発育の遅れは持明族によくあることですので、これは特に不思議ではないでしょう。私は体の成長の停滞よりも、彼女が夢を見ないことを心配しています。<br><br>歴代の龍尊たちは『重淵の珠』と『龍化妙法』を継承した後、夢の中で龍祖の往事を追体験していました。そして潜淵閣が復唱の書き起こしと注釈の追加を行い、現在までに膨大な量の関連文献が残されています。それらの夢は断片的で理解や解釈は難しいですが、我々が不老不死に近づく唯一の方法であることは間違いないでしょう。しかし、白露様はこのような経験をしたことがありません。このことから、もし『龍心』が損なわれていないのであれば、『龍化妙法』が完全に施されていない可能性が考えられます。<br><br>それから、龍尊様はすでに雷を呼び、水を操る力を発現させています。その力が暴走して『飲月の乱』の惨事を繰り返さないよう、一族の職人に再度『尺木の鎖』を作るよう命じ、龍の尾に装着しました。<br><br>また数ヶ月前、曜青の『天風君』から龍尊様の様子を尋ねる手紙が届きましたので、長老たちの方針に従って返事を書きました。具体的には、まだお若い白露様には龍師の補佐が必要である。成人の儀が終われば、龍師は『飲月君』の尊号を奉上することになる…といった内容です。<br><br><align=\"right\">拝具 龍尊近侍 雲悠」</align></i>"
         }
     ]
 }
@@ -530,212 +530,212 @@ var _story_ = {
 var _voice_ = {
     "1211": [
         {
-            "Title": "First Meeting",
-            "Voice": "I'm Bailu, a doctor from the Alchemy Commission. Come here and let me have a look at you. Hmm... What's wrong? Where does it hurt?"
+            "Title": "初対面",
+            "Voice": "わしは白露、丹鼎司の医者じゃ。ほれ、もっと寄らんか。それで、どこが悪いんじゃ？"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Do you want candy? No? Then I'll have it."
+            "Title": "挨拶",
+            "Voice": "飴ちゃんはいるか？食わぬなら、わしが食うぞ。"
         },
         {
-            "Title": "Parting",
-            "Voice": "Huh? I have to go back now...? Please, just a little a bit longer!"
+            "Title": "お別れ",
+            "Voice": "うう、もう帰るのか…もう少し外にいよう、もう少しだけ！"
         },
         {
-            "Title": "About Self",
-            "Voice": "Do I even count as a dragon? ...What kind of a dragon can't step out of her own house, and has to obey the rules of the clan? I'd say I'm more like a fish in a fishbowl!"
+            "Title": "自分について",
+            "Voice": "わしも龍と呼べるのか？活動範囲は屋敷の中に限られ、一言一行は族内の規則に従わねばならぬ。このような生き方…籠に入った魚と一緒じゃろ？"
         },
         {
-            "Title": "Chat: Food",
-            "Voice": "Lunch is like medicine — it has to have the right balance of ingredients. Two smoked patties and a cup of milk tea is a great way to heal your heart and lift your spirits!"
+            "Title": "世間話・食事",
+            "Voice": "昼食は君臣一体にこだわっておる。燻製ハンバーガー2個にミルクティー1杯、これぞ心の憂いを癒し、気分を晴れやかにする最良の組み合わせなのじゃ。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Study medicine, find herbs, and broaden my horizons. Everything can be used as a medicine. The rarer a disease is, the bolder the prescription must be~"
+            "Title": "趣味",
+            "Voice": "医学を理解したうえで、生薬を探し、新たな可能性を拓く…うむ、薬にできぬものはない。難しい病ほど、型にはまった治療法に頼らぬほうがよいものじゃ。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "There's only one ailment that I can't cure, and that. Is. Being. Short... Hmph!"
+            "Title": "悩み事",
+            "Voice": "この世には、わしでも治せぬ病が1つだけある。それは、つまり…背が…背が、伸・び・ぬ、ことじゃ…うぐぐ、ふん！"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "Putting my head in the water, and though it is a small area, I feel I can breathe freer than before, far beyond the boundaries of the water..."
+            "Title": "シェア",
+            "Voice": "顔を水に浸けると、狭い天地とはいえ、いつもより自由に呼吸ができる気がする…まるで、水の境界を超えたような……"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "A patient told me that the Garden of Gourmet released a new dessert called Fallen From the Skies. The sugar threads are suuuper looong... But I can't get my hands on it."
+            "Title": "見聞",
+            "Voice": "患者から聞いたぞ、至味盛苑が新品の甘味を出したらしい！「落九天」と言って、ながーく、ながーく伸びる飴で…残念じゃが、わしは食べられん。"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "The general comes to me with ailments such as \"too tired to stay awake,\" and then he just asks how I've been and leaves after sitting around for a while. Sometimes he doesn't even take any medicine from me..."
+            "Title": "景元について",
+            "Voice": "将軍が診察にくる時は、大抵「眠くて目が開かない」とかの症状で、わしの近況を聞いて少し休んだら、すぐに帰ってしまうのじゃ。たまに煎じ薬を忘れていくこともあるしのう……"
         },
         {
-            "Title": "About Fu Xuan",
-            "Voice": "Whenever Diviner Fu does overtime, we start running out of sugar powder for the medicinal eye-soothing tea..."
+            "Title": "符玄について",
+            "Voice": "太卜が残業すると、視力回復の薬茶に使う粉飴の在庫がすぐ切れる…"
         },
         {
-            "Title": "About Yukong",
-            "Voice": "Helm Master Yukong... She says she lets everything go everytime she sees me, but I don't think she has."
+            "Title": "御空について",
+            "Voice": "舵取か…わしに会うたび昔のことは忘れたと言っておるが、本当のところは違うのじゃろうな。"
         },
         {
-            "Title": "About Tingyun",
-            "Voice": "Tingyun can endure more intense massages than other people, so I never show her mercy~"
+            "Title": "停雲について",
+            "Voice": "停雲は一般人よりも激しいマッサージに耐えられるからな、彼女には「手加減」なしで施術しておる！"
         },
         {
-            "Title": "About Sushang",
-            "Voice": "Ah, even if I don't step outside, I can still hear her. \"Be eager to help those in need\" — that's her, right?"
+            "Title": "素裳について",
+            "Voice": "まったく…屋敷から出ずとも、あの小娘の声が聞こえるぞ。「頼まれたら必ず応じる」――ほらな？"
         },
         {
-            "Title": "About Qingque",
-            "Voice": "I just wish I met the inventor of Celestial Jade earlier... This activity is great for both physical and mental health! It needs to get popularized!"
+            "Title": "青雀について",
+            "Voice": "もっと早く「帝垣美玉」の発明者に出会いたかった…これほど知力の活性化に役立つ遊技は、広く知られるべきじゃ！"
         },
         {
-            "Title": "About Guinaifen",
-            "Voice": "Well... Um... Whenever I run off to play in Exalting Sanctum, I always bump into her and Sushang — they're usually in need of medical assistance... Sometimes Sushang is carrying her, sometimes she's carrying Sushang... and sometimes they're both in bad shape. How come? Performing arts can be dangerous, I guess."
+            "Title": "桂乃芬について",
+            "Voice": "わしが抜け出し長楽天で遊んでいた時に、よく素裳と共に診察をしてくれと言ってきたぞ。何回かは素裳に担がれて来て、何回かは素裳を担いで来ておった。ああ、2人とも怪我をしておったことも何回かあったな――理由？演目中の事故じゃ。"
         },
         {
-            "Title": "About Hanya",
-            "Voice": "I ran into her on a dark night once — she scared me half to death! Overworked, chronic insomnia, emotional turmoil — all the signs are there. If you ask me, she'd need to take it easy for a few decades to show any signs of recovery."
+            "Title": "寒鴉について",
+            "Voice": "夜に見かけた時は飛び上がるほどびっくりしたぞ！一目見ただけで、長年過労と不眠が続き、気持ちが乱れているような状態だとわかる。わしに言わせれば、何の仕事もせずに 100 年ぐらい養生せんと、良くならぬじゃろうな！"
         },
         {
-            "Title": "About Huohuo",
-            "Voice": "She's always so jumpy and tense at her appointments, and I swear she talks to herself... o—or something we can't see. I should give her something stronger to calm her nerves."
+            "Title": "フォフォについて",
+            "Voice": "あの小娘は、よく診察中にわけもなく驚き、動悸を激しくさせ、独り言を言ってるんじゃ。まるで見えない何かと話しているようにも見えたぞ。この小娘を落ち着かせるには、つよ～い薬が必要じゃな。"
         },
         {
-            "Title": "About Xueyi",
-            "Voice": "Wh—Why does it seem like she doesn't have to breathe? And her skin — why is it cold to the touch? It's like there's no blood running through her veins... Could she be... a ghost?"
+            "Title": "雪衣について",
+            "Voice": "あ、あやつ、話している時に呼吸の起伏がないじゃと！体内で血が流れる気配も見えんとは！まさか幽霊なのか？"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "The life of the Vidyadhara is like a dream."
+            "Title": "星魂覚醒",
+            "Voice": "持明族の命は、まるで夢のようじゃ。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Hehe, my healing skills are second to none!"
+            "Title": "キャラクター昇格",
+            "Voice": "くふ、また医術の腕が上がったのう。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "I've mastered the art of healing... but not the art of growing taller..."
+            "Title": "レベルMax",
+            "Voice": "仙舟の医道に関して言えば、わしはすでに頂点を極めておる。じゃが、背が伸びぬ病はどうにもならん……"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Hmph, if I was bigger, I could've explored the whole galaxy by now."
+            "Title": "軌跡覚醒",
+            "Voice": "歩幅が小さくなければ、とっくに銀河を漫遊しておったぞ。"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "Don't worry — if anything happens, I'll just put you back together."
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "心配するでない、何かあればわしが癒してやる。"
         },
         {
-            "Title": "Added to Team With Fu Xuan",
-            "Voice": "What's that, Master Diviner? Internal heat again? You need to start putting more sugar in your tea."
+            "Title": "パーティ編成・符玄",
+            "Voice": "太卜はいつも眉をひそめておる。智者の憂いは甘い茶で晴らさねば。"
         },
         {
-            "Title": "Added to Team With Dan Heng",
-            "Voice": "Dan Heng! Teach me some more high elder magic!"
+            "Title": "パーティ編成・丹恒",
+            "Voice": "丹恒、わしに新しい龍尊の術式を教えてくれぬか？"
         },
         {
-            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
-            "Voice": "Dan Heng! Teach me some more high elder magic!"
+            "Title": "パーティ編成・丹恒・飲月",
+            "Voice": "丹恒、わしに新しい龍尊の術式を教えてくれぬか？"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Ha, you don't look so good."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "おや、弱っておるようじゃ。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Calm down or you'll overheat!"
+            "Title": "戦闘開始・危険予知",
+            "Voice": "怖い顔して、頭に血が上ったか？"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Looks like somebody needs a doctor!"
+            "Title": "ターン・1",
+            "Voice": "ぬし、重傷じゃぞ！"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Let me tend to your wounds!"
+            "Title": "ターン・2",
+            "Voice": "わしが治してやろうか～？"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Standing here in silence, missing all the violence~"
+            "Title": "戦闘中待機",
+            "Voice": "動かぬ上に喋らぬのう、だるまさんがころんだ～"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Look, listen, feel, kick!"
+            "Title": "通常攻撃",
+            "Voice": "望・聞・問…蹴！"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Say \"ahhhh!\""
+            "Title": "戦闘スキル・1",
+            "Voice": "よしよし、口を開けよ。"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Gotta get those vitamins."
+            "Title": "戦闘スキル・2",
+            "Voice": "ほれ、身体によいぞ～"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "You bully!"
+            "Title": "攻撃を受ける",
+            "Voice": "わしをいじめるなっ！"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Help me!"
+            "Title": "重撃を受ける",
+            "Voice": "助けてくれ――"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Time to show you..."
+            "Title": "必殺技・アクティブ",
+            "Voice": "見せてやろう…"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "What's in your... prescription!"
+            "Title": "必殺技・発動",
+            "Voice": "ひょうたんの中の薬よ！"
         },
         {
-            "Title": "Talent",
-            "Voice": "Your treatment's not done yet!"
+            "Title": "天賦",
+            "Voice": "応急処置じゃ。"
         },
         {
-            "Title": "Downed",
-            "Voice": "Where's a doctor when you need one..."
+            "Title": "戦闘不能",
+            "Voice": "自分は治せぬか…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Can't give up on my therapies just yet."
+            "Title": "戦闘に戻る",
+            "Voice": "わしも治療を諦めはせぬ。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Look lively!"
+            "Title": "HP回復",
+            "Voice": "良く効くのう！"
         },
         {
-            "Title": "Technique",
-            "Voice": "A little something for everyone!"
+            "Title": "秘技",
+            "Voice": "一視同仁にな。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "I told you they were sick."
+            "Title": "戦闘勝利",
+            "Voice": "うむ、已病を治さず、未病を治すんじゃ。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "If it works, it's good medicine."
+            "Title": "戦利品を開ける・1",
+            "Voice": "病気を治せるのなら良薬じゃ。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Hmm... Are any of these medicinal?"
+            "Title": "戦利品を開ける・2",
+            "Voice": "ふむ…これは薬になるのか？"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Take these and pay me back with more sugar!"
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "飴ちゃんと交換できるな！"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Gotta tell good remedies from bad."
+            "Title": "謎解きに成功・1",
+            "Voice": "疑惑を論じ、誤りを取り除いたか。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Hehe⁓ A healer knows a little something about everything!"
+            "Title": "謎解きに成功・2",
+            "Voice": "ふっふん～わしに解き方がわかるとは思わんかったじゃろ！"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Careful — this is life or death."
+            "Title": "敵ターゲット発見",
+            "Voice": "命にかかわることじゃ、用心せよ。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Come on, can't we stay out a little longer?"
+            "Title": "町に戻る",
+            "Voice": "もう少し外にいよう、な？よいじゃろ？"
         }
     ]
 }

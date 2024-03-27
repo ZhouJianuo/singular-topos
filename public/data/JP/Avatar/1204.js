@@ -476,23 +476,23 @@ var _story_ = {
     "1204": [
         {
             "_id": 1,
-            "Story": "The Divine Foresight, one of the Seven Arbiter-Generals. Although his appearance may be one of indolence, he is more meticulous than seemingly meets the eye. He does not consider saving a situation from the brink of disaster to be a show of wisdom, and is thus fastidious with routine affairs to avoid any potential problems. Due to his careful management, Xianzhou has enjoyed many years of peace, with Jing Yuan's seemingly lazy demeanor having earned him the moniker of the \"Dozing General.\""
+            "Story": "帝弓七天将に名を連ねる「神策将軍」。気怠そうな外見とは裏腹に、非常に思慮深く、策を用いて劣勢を挽回することを智謀と思わない景元は、不要な問題が起きないよう、万事において工夫を凝らしている。彼の周到な計略によって平和が保たれてきた仙舟において、景元は一見すると怠け者のように見えるため、他者から「無眼将軍」という渾名をつけられた。"
         },
         {
             "_id": 2,
-            "Story": "<i>\"Master Diviner, why do we use a square board but round pieces for starchess?\"<br>\"Perhaps it's based around the round sky and square earth? Ancient civilizations believed the earth was flat. This set is modeled after the old days of nation-states and imperial conquest over a singular planet, so naturally it's square. As for the pieces... People back then believed the sky was a round dome, and chess pieces spun around like stars in that dome to reflect in human lives. That's why they are also round.\" <br>\"No, no. That's incorrect.\"<br>\"I've already predicted your next forty-eight moves. Jing Yuan, if you want to distract me with questions, I urge you to stop.\"<br>\"Ah, how could you suspect such malice?\"<br>\"Don't interrupt me. Keep talking.\"<br>\"It's true that chess is a metaphor and describes the human condition. The rules of war are clearly established, with each piece's actions fixed — advance, retreat, and jump. Advance or retreat is always in an orderly manner, which is why the board's square in its orderliness. As for the pieces, the sages said \"use intellect with subtlety and suaveness.\" As each piece is meant to be sentient individuals, they are therefore circular.\"<br>\"The origins of starchess are covered in the </i>Gleaned Pearls of Verdure<i>. I've read lots, Jing Yuan — why are you brazenly lying to me!\"<br>\"Cloud Knight moves to C3, taking your King. You lost, Lady Fu.\"<br>\"Hang on! How did I not see this in my predictions? B—Back up. Let me see that move again.\"<br>\"Chess pieces are like people. Each has its own sentience. There is no going back on the chessboard. How can anyone return to the past? Haha, how can the head of a Commission act like a sore loser?\"</i>"
+            "Story": "<i>「太卜殿に教えを請いたい。この星陣棋、なぜ棋盤は四角く、棋子は丸いんだ？」<br>「天円地方に倣っているのか？古人の文明が開化する前、人々は大地が平坦であると信じていた。列国の逐鹿、大地を一統した過去を模倣しているのであれば、星陣棋も当然四角くなる。そして棋子は…あの時代の人々は、天は球状の蓋だと信じていた。この棋子も星辰の流転に倣っているから、自然と丸くなった……」<br>「いや、違うか」<br>「将軍、次の 48 手はすでに予見しました。質問で私の注意を逸らそうとしているのなら、早々に諦めてください」<br>「おや、なぜ符玄殿は私を疑っているんだ？」<br>「話を逸らさないでください。続きを」<br>「符玄殿の言う通り、棋は比喩、局を以って人を喩えている。戦争の規則は明々白々、各棋子の行動には定数があり、ただ進退するだけ。方を以って進退することこそ、棋盤が四角い理由だ。棋子については…先賢が『用智如圓』で伝えているように、陣中の各子には皆己の心智がある。だから丸い棋子を採用した」<br>「星陣棋の起源は『玉砂巡拾』という書物に記されています。景元、私は博覧強記ですから、騙そうとしても無駄ですよ！」<br>「雲車左三進四、将。君の負けだ、符玄殿」<br>「ま、待った！この一手、なぜ先ほどの予見に出なかったの？や、やり直しを……」<br>「棋子は人のようなもの、それぞれに心智がある。特に悔いの残る一戦でもなかったのだから、やり直しの必要はないだろう？はは。一司の長ともあろう者が、わがままを言っていいのかな？」</i>"
         },
         {
             "_id": 3,
-            "Story": "Of an alliance spanning six mighty Xianzhou ships, the Cloud Knights emerged out of the ashes of the Flaming Catastrophe. They swore an oath to defend the Xianzhou ships and follow Reignbow's decree of The Hunt, a tradition carried out to this day. Despite the incredible longevity of long-life species, few generals have been able to pass the century mark after taking up the mantle due to the bloody nature of warfare. This is not so much fate as it is tradition. As the armed defenders of Xianzhou against crusading abominations, generals not only must take the lead for planning and dispatching, but also take the lead into battle. Amidst countless names erased too quickly and too cruelly in the annals of history, the Divine Foresight Jing Yuan, leader of the Cloud Knights of the Xianzhou Luofu, stands out from the rest with his centuries-old reign. Under his wise strategy, the Luofu's Cloud Knights have made a name for themselves among the Alliance, achieving an exemplary record. While there are those who complained that he feared combat so much so that he seldom resorted to arms, it remains true that his intellect is no less resourceful than the tip of the sharpest sword in solving thorny problems."
+            "Story": "六大仙舟を渡る建制として、雲騎軍は火劫大戦の末期に生まれ、雲が如く空を覆い、仙舟を守ると誓った。雲騎軍は帝弓の「巡狩」の勅命を遂行し、今まで伝承してきた。長命種の寿命は驚くほど長いが、血と炎が飛び交じる戦争の中で、百年の関門を潜り抜けた雲騎将軍は非常に少なかった。これは宿命というよりも、一種の伝統に近い。仙舟を鎮護し、忌み物を討伐する武装勢力として、将軍は未来を憂い人員や資源を配置する職責を全うするだけではなく、先頭に立ち、敵陣を叩き道を切り開くべきである。数多ある残酷で短い記録の中、羅浮の雲騎軍を率いる「神策将軍」である景元は、数百年の治軍で抜きん出ている。彼の韜略の下、羅浮雲騎軍は一時期同盟で名を揚げ、数々の輝かしい戦績を立てた。彼本人は戦に恐れる臆病者で、ほとんど陣刀を振るわない、という流言もあるが。景元の智謀は最も鋭利な剣にも勝ると、誰もが認めるだろう。"
         },
         {
             "_id": 4,
-            "Story": "One of the hottest pieces of gossip making the rounds today contends that Jing Yuan's family has served the Realm-Keeping Commission for generations.<br><br>According to the Foxian custom of having babies \"picking\" their future, parents will put various objects and toys around an infant cub, and get them to choose their future career path by grabbing an item. Jing Yuan's parents hoped he would inherit the mantle of a scholar or official at the Realm-Keeping Commission, but Jing Yuan grabbed the toy sword.<br><br>It seems like prediction from the birthfate tradition came true. After graduating from the academy, Jing Yuan joined the Cloud Knights to escape from a \"typical\" life against his family's wishes.<br><br>His first expedition was recorded in the official Cloud Knights' battle record. The Navis Astriger carrying the troops had to make a forced landing on an ocean planet infested by abominations. One new long-life species known as Puppeteer Jellyfish hijacked the Cloud Knights' minds, stowing onto the ship and almost converting their warship into an alien hive. Jing Yuan quickly became aware of the crisis and identified the requirements of Puppeteer Jellyfish possession, then devised a way against them. The rest of the crew eventually passed this ordeal amongst identical friends and foes, defeated the real enemies, and returned home to safety.<br><br>This bloodless victory showed Jing Yuan's mettle to the Cloud Knights' generals. After returning to the Xianzhou, Jing Yuan demonstrated his adept skill and was appointed to a position of importance in the Knights.<br><br>His quick-witted and practical approaches had repeatedly given his superiors unforgettable surprises — and headaches. In the end, Jing Yuan was invited by the previous Sword Champion of the Luofu to join her team, and so the legend of the High-Cloud Quintet was formed."
+            "Story": "最も広く知られている噂によれば、景元は代々地衡司に奉職する一族に生まれた。<br><br>狐族から伝わった「選び取り」の風習では、親は幼児の周りに色々な物や玩具を置き、その中から1つ選ばせることで将来を占うという。景元の両親は我が子が衣鉢を受け継ぎ、地衡司の学者、あるいは執行官になることを期待していたが、景元が掴んだのは玩具の剣だった。<br><br>「選び取り」の結果が彼の未来を確定したかのように、学宮を卒業した後、景元は一目で未来がわかってしまう退屈な人生から脱するため、家族の反対を押し切って雲騎軍に入った。<br><br>雲騎軍の戦事蔵庫の中には、彼の雲騎兵卒としての初陣の様子が記録されている。<br>輸送部隊の船がとある海洋惑星に不時着した。その地は忌み物に深く侵蝕されており、「傀儡タコ」と呼ばれる新興の長命種が雲騎の精神を乗っ取って艦隊に紛れ込み、艦隊を自身の巣穴に変えようとしていた。しかし、その危機を鋭く察知した景元は、傀儡タコの支配条件や対抗手段を素早く整理した。そのおかげで、残りの船員は敵味方の区別がつかない苦境を乗り越え、敵を倒して無事故郷に帰ることができたのだ。<br><br>このほぼ戦わずして勝利を収めた戦争で、雲騎将軍たちは景元の才能を目の当たりにした。そして仙舟に戻った後、彼はすぐさま雲騎軍内で頭角を現し、重用されるようになった。<br><br>彼の機転と実用主義的な手段は、しばしば上層部を悩ませると同時に強烈な印象を与えた。やがて前任の羅浮剣首の招待を受けた景元は、その所部に入り、「雲上の五騎士」としての伝説の道を歩み始めたのである。"
         },
         {
             "_id": 5,
-            "Story": "As the most famous legend in Xianzhou history, the five heroes of the High-Cloud Quintet gathered to fight together. Their feats were almost endless: Driving out the borisin invading Thalassa. Destroying the alliance between the Houyhnhnms and the wingweavers in the Abundance Axis. Even rescuing the Xianzhou Yuque and defeating the living planet Ketu Mirage, preserving the eyes of the Alliance that gaze out to the stars...<br><br>However, all their achievements were no match for the cruelty of time. The High-Cloud Quintet fell apart after less than a hundred short years. As wars waned, the major ships went their separate ways as the Luofu began patrolling cosmic trade routes, seeking out supplies and support for the Alliance.<br><br>Old friendships became scattered to the winds, and enemies were either captured or dead. Only memories remain. Fallen generals don't have to endure such torment, but those who survive have to go through it all, no matter how great a vision one has dreamed of and no matter how many overwhelming enemies one has defeated, time will always reduce one's strength little by little yet cruelly spares one's life, leaving one cowering in a corner and hating one's own powerlessness.<br><br>Only the truly wise can stand proud in front of the undefeated enemy called time."
+            "Story": "仙舟の歴史に残る有名な伝説で、共に戦うために諸仙舟雲騎軍から集った5人の英雄のことを「雲上の五騎士」と呼ぶ。この5人を中心に成された功績は、絶えることなく史書に記録されている。タラサに攻め入った歩離人の艦隊を退けたこと。豊穣聯軍の慧駿族と造翼者の同盟を打ち破ったこと。仙舟玉殿の包囲を破り、活性化惑星「計都蜃楼」を打ち砕き、星海を観測する同盟の目を守ったこと……<br><br>しかし、累々の功績も時間の流れには逆らえない。「雲上の五騎士」の共闘は 100 年足らずで崩壊した。戦が減るにつれ、同盟の各仙舟はそれぞれの航路に戻り、羅浮も銀河間の交易路の巡航を始め、同盟のために補給と盟助を求めた。<br><br>旧友は風流雲散した、もはや二度と会うことはない。宿敵は死んだか捕らえたか、記憶の中に残るだけ。倒れた将軍はこのような苦悩に耐える必要はないが、生き延びた将軍はそのすべてに向き合わなければならない。どんなに素晴らしい未来を夢見ても、神の如く強敵を討っても、時間はお前の牙と爪を引き抜くと同時に、お前を生かし続ける。お前にできるのは、ただ片隅で余喘を保ち、己の無力を呪うことだけ。<br><br>そして真の智者だけが、時間という不敗の相手の前に立つことができる。"
         }
     ]
 }
@@ -500,220 +500,220 @@ var _story_ = {
 var _voice_ = {
     "1204": [
         {
-            "Title": "First Meeting",
-            "Voice": "I am Jing Yuan, the general of the Luofu Cloud Knights. There's no need for formality. \"General\" is a temporary title, and you can simply call me Jing Yuan."
+            "Title": "初対面",
+            "Voice": "私は「羅浮」の雲騎将軍、景元だ――とは言っても、「将軍」は一時的な身分に過ぎない。気軽に景元と呼んでくれ。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Ah, you're here. If you have any interesting stories from your travels, do share them with me."
+            "Title": "挨拶",
+            "Voice": "君か。何か面白い話があれば、私にも聞かせてくれないか。"
         },
         {
-            "Title": "Parting",
-            "Voice": "Mmm, rest well... My apologies. There is still some work to be done and I can't see you out personally."
+            "Title": "お別れ",
+            "Voice": "ああ、ゆっくり休むといい…すまない、私は仕事が残っているから、送ってやることはできないんだ。"
         },
         {
-            "Title": "About Self",
-            "Voice": "My past enemies are either dead or captured, and my past friends are scattered to the winds. Now that I think about it, I am indeed an old man..."
+            "Title": "自分について",
+            "Voice": "かつての敵は死んだか、あるいは捕らえられている。旧友も散り散りになった…そう考えると、私は間違いなく「老人」だな……"
         },
         {
-            "Title": "Chat: Chess",
-            "Voice": "A master of the chessboard does not always make flashy moves. People take delight from one flashy move that saves the day, but never worry when the entire situation teeters towards a loss."
+            "Title": "世間話・棋局",
+            "Voice": "いい棋士は妙手に頼ることはない。人は情勢を覆すような一手を喜ぶが、全局の危機を憂うことはないだろう？"
         },
         {
-            "Title": "Chat: The Luofu",
-            "Voice": "Outsiders perhaps like to abbreviate the Xianzhou Luofu as just Xianzhou, but... the Luofu is not the Xianzhou. The Luofu is the Luofu, no more, no less."
+            "Title": "世間話・羅浮",
+            "Voice": "他所から来た者は「羅浮」を仙舟と呼ぶが…「羅浮」は仙舟ではない、「羅浮」は「羅浮」だ。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Meditating with my eyes closed. That gets more difficult as time goes on."
+            "Title": "趣味",
+            "Voice": "目を閉じて心を休める。ふっ、時間が経つにつれて、それも簡単なことではなくなってきたが。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "For all of my life, I've been scared of trouble. There are major troubles and minor ones, distant ones and close ones. They need plans, preparations, and all things that need effort..."
+            "Title": "悩み事",
+            "Voice": "私は面倒事を何より恐れている。面倒事というのは得てして重要性が高いものだし、いつ起きるかもわからないだろう？解決するための計画を立てるのが、本当に大変なんだ……"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "This spirit is called Lightning-Wielding Thunder-Clapping Spirit-Squashing Lord. It's a name I read from an ancient text, but it's too long to remember, so I just abbreviate it to the Lightning... Lord."
+            "Title": "シェア",
+            "Voice": "この威霊は「神宵雷府総司駆雷掣電追魔払穢天君」という。ああ、古書で見た称号だ。ただ名前が長くて覚えにくいから、「神…君」と略して呼ぶようになった。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "I have been bound by mundane duties for years. Not only do I find no fun in my surroundings, but I'm also becoming a rather boring person. If I must talk about something interesting, then it'd be meeting space travelers like yourself."
+            "Title": "見聞",
+            "Voice": "何年も俗務に追われていると、身の回りで何が起きても動じなくなるうえに、人に対する興味も薄れてくる。新しい見聞といえば…ふふ、天外を雲游する君に出会えたことだろう。"
         },
         {
-            "Title": "About Yanqing",
-            "Voice": "If you treat him as a child, he'll put on the airs of an adult. If you treat him as an adult, he'll show the temperament of a child."
+            "Title": "彦卿について",
+            "Voice": "あの子を子供として扱うと、すぐに大人の真似をする。そして大人と同じように接すると、また子供みたいに振る舞うんだ。はは。"
         },
         {
-            "Title": "About Fu Xuan",
-            "Voice": "I know what Fu Xuan is thinking of, so I must make her wait. If she is patient enough to wait, then that would be the time."
+            "Title": "符玄について",
+            "Voice": "符玄殿の考えは分かっている。だから、もう少しだけ待っていてほしい。辛抱強く待っていれば、必ず好機が巡ってくる。"
         },
         {
-            "Title": "About Yukong",
-            "Voice": "Everyone believes Helm Master Yukong had retired... They don't know that she chose an even harder path after she left her beloved skies behind."
+            "Title": "御空について",
+            "Voice": "皆、御空舵取は引退したと思っている…愛する飛行をやめた彼女が、さらに険しい道を選んだことなど知らずに。"
         },
         {
-            "Title": "About Tingyun",
-            "Voice": "Xianzhou is capable of such bustling trade because of how Amicassadors such as Tingyun socialize so much with the outsiders."
+            "Title": "停雲について",
+            "Voice": "停雲殿のような接渡使が尽力してくれているからこそ、仙舟の貿易も今日の繁栄を遂げることができたのだろう。"
         },
         {
-            "Title": "About Luocha",
-            "Voice": "I have seen many merchants in my life, but don't you think there aren't many like him, who are in no hurry to do business?"
+            "Title": "羅刹について",
+            "Voice": "これまで多くの行商人に会ってきたが…彼ほど商売に興味のない者は少ないんじゃないか？"
         },
         {
-            "Title": "About Sushang",
-            "Voice": "That carefree new Cloud Knight recruit, huh... I was like that once upon a time, but it was a long while ago."
+            "Title": "素裳について",
+            "Voice": "憂いも悩みもない雲騎軍の新人か…ふっ、私にもそんな時代があったな。もう随分と昔の話だが。"
         },
         {
-            "Title": "About Bailu",
-            "Voice": "It's hard being the High Elder of the Vidyadhara... I hope she remains well in this lifetime."
+            "Title": "白露について",
+            "Voice": "……持明族の尊長か…彼女の歩む道は、険しいものになるだろう…現世では、どうか清穆でいてほしい。"
         },
         {
-            "Title": "About Jingliu",
-            "Voice": "She taught me the skills with a blade, but we never became close... *sigh* In an endless night, there is nothing closer than the bright moon, always hanging in the sky."
+            "Title": "鏡流について",
+            "Voice": "彼女からは剣技を教わっていたが、最後まで親しいとは言えない間柄だった…はあ、しかし、果てしない夜の中で、空に浮かぶ月ほど身近な存在もないだろう？"
         },
         {
-            "Title": "About Blade",
-            "Voice": "If he were to forget everything, it would make things a lot easier for me."
+            "Title": "刃について",
+            "Voice": "彼がすべてを忘れてくれたら、私も楽になれたのに…"
         },
         {
-            "Title": "About Dan Heng",
-            "Voice": "I understand the one I wished to trace... exists now only in memory. But it's probably what's best for him."
+            "Title": "丹恒について",
+            "Voice": "ああ、分かっている。自分が追い求めるものは…もう居なくなり、己の思い出の中にしか存在しないと。…「彼」にとっては、これは良きことであろう。"
         },
         {
-            "Title": "About the Crew",
-            "Voice": "The Cloudstrider's chromatic echelon has departed once again, and the renewed connection of all worlds is imminent. This is good news for the Alliance... but now that the Star Rail is clear, what action will be taken by the fiends and demons once stranded in that remote corner? ...Alas, another problem for another day."
+            "Title": "列車組について",
+            "Voice": "遊雲天君の虹車が再び旅立った今、各世界もじきに繋がりを取り戻すだろう。これは同盟にとって良い知らせだが、星軌が正常に戻った後、一隅に巣くっていた邪祟たちが動き出さないかが心配だ…まあ、これについてはまた後で悩むとしよう。"
         },
         {
-            "Title": "About the Ten-Lords Commission",
-            "Voice": "A sword without a sheath is nothing more than a lethal weapon. The Ten-Lords Commission is the sheath that reigns in our long lives, the yoke that binds itself to us, and the law by which our merits and sins are judged."
+            "Title": "十王司について",
+            "Voice": "鞘がなければ、剣は人を傷つける凶器にすぎない。十王司こそ長生を収める鞘、自らを縛る枷であり、我々の罪を量る刑典なんだ。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Those days were left behind with the passage of time."
+            "Title": "星魂覚醒",
+            "Voice": "あの歳月は、追いつけぬ幻のようだ。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "I always keep my mind sharp, for the lives of the Cloud Knights hinge on my decisions."
+            "Title": "キャラクター昇格",
+            "Voice": "将軍として、麾下の雲騎兵たちの命を預かっている以上、1日たりとも気を抜くことはできない。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "When you want to go fast, go alone. When you want to go far, go together."
+            "Title": "レベルMax",
+            "Voice": "個人の力には限界がある。道の果てに至ったのなら、他の方法を探せばいい。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "The sky is a chessboard, and the moves we make betwixt the stars forge a cosmic destiny."
+            "Title": "軌跡覚醒",
+            "Voice": "星が煌めく宇宙において、一歩一歩が選択であり、その選択が運命を切り拓くんだ。"
         },
         {
-            "Title": "Added to Team With Yanqing",
-            "Voice": "Remember, Yanqing — think before you act."
+            "Title": "パーティ編成・彦卿",
+            "Voice": "彦卿、そう焦るな。"
         },
         {
-            "Title": "Added to Team With Fu Xuan",
-            "Voice": "Give us an analysis of the situation, Master Diviner."
+            "Title": "パーティ編成・符玄",
+            "Voice": "敵陣の進退は符玄殿の占いにかかっている。"
         },
         {
-            "Title": "Added to Team With Jingliu",
-            "Voice": "It's been a while... Master."
+            "Title": "パーティ編成・鏡流",
+            "Voice": "お久しぶりです…師匠。"
         },
         {
-            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
-            "Voice": "Bygones are bygones... but sometimes I wish things had turned out differently."
+            "Title": "パーティ編成・丹恒・飲月",
+            "Voice": "過去は過去と言うが、この光景を見ると感傷的になってしまうな。"
         },
         {
-            "Title": "Added to Team With Blade",
-            "Voice": "It isn't wise to put down the hammer and take up the sword."
+            "Title": "パーティ編成・刃",
+            "Voice": "君が鍛冶を捨て剣を習うとは…はあ、残念だ。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "A foregone conclusion."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "ふっ、隙だらけだ。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "A well-matched opponent."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "好敵手に出会ったか。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Follow my charge."
+            "Title": "ターン・1",
+            "Voice": "私に続け。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "There's no time to lose."
+            "Title": "ターン・2",
+            "Voice": "機を逃してはならない。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Bide your time, but don't waste it."
+            "Title": "戦闘中待機",
+            "Voice": "兵家、時を待ちて動くと言うが、じっとしていろという意ではない。"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Conflict is pitiless!"
+            "Title": "戦闘スキル・1",
+            "Voice": "兵戈に、慈悲無し！"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Hear this thunder!"
+            "Title": "戦闘スキル・2",
+            "Voice": "雷霆よ、ここへ！"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Was that it?"
+            "Title": "攻撃を受ける",
+            "Voice": "大事ない。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Trifling."
+            "Title": "重撃を受ける",
+            "Voice": "些末な傷だ。"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Time for the masterstroke."
+            "Title": "必殺技・アクティブ",
+            "Voice": "奇兵の出番だ。"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Radiant spirit, heed my word. Show no mercy!"
+            "Title": "必殺技・発動",
+            "Voice": "煌煌たる威霊よ、吾が命に従え。斬！"
         },
         {
-            "Title": "Downed",
-            "Voice": "Too long behind the lines..."
+            "Title": "戦闘不能",
+            "Voice": "戦場を離れすぎたか…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "It's good to be back in the field."
+            "Title": "戦闘に戻る",
+            "Voice": "戦場に戻ったか、悪くない。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "A thousand thanks."
+            "Title": "HP回復",
+            "Voice": "かたじけない。"
         },
         {
-            "Title": "Technique",
-            "Voice": "I command it."
+            "Title": "秘技",
+            "Voice": "律令が如く。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Battles are chess games — no two are alike."
+            "Title": "戦闘勝利",
+            "Voice": "戦とは棋の如し、局ごとに別の姿を見せる。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "A diamond in the rough."
+            "Title": "戦利品を開ける・1",
+            "Voice": "珠玉が埃を被っていたか。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Oh? A delightful surprise."
+            "Title": "戦利品を開ける・2",
+            "Voice": "ふむ、なかなかだな。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "A rare find such as this is best suited for your keeping."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "これほどの珍品とは。ふふ、受け取ってくれ。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "There was more than met the eye."
+            "Title": "謎解きに成功・1",
+            "Voice": "かような仕組みであったか。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "These mechanisms function in intriguing ways."
+            "Title": "謎解きに成功・2",
+            "Voice": "機巧の術か、面白い。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "When faced with an army, bide your time and time your attack."
+            "Title": "敵ターゲット発見",
+            "Voice": "対陣する時は、慎重に機を待てばいい。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "A few games of chess will while away the time."
+            "Title": "町に戻る",
+            "Voice": "暇があるなら、一局どうだ。"
         }
     ]
 }

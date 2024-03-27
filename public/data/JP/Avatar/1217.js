@@ -554,23 +554,23 @@ var _story_ = {
     "1217": [
         {
             "_id": 1,
-            "Story": "While this Foxian girl may seem fragile and weak, she is actually a judge-in-training of the Ten-Lords Commission, responsible for capturing evil.<br>The judges sealed a heliobus named \"Tail\" onto her tail, making her a \"Cursed One\" with a tendency to attract evil beings.<br>Despite trembling at the sight of evil spirits, she is always entrusted with the arduous task of eradicating their presence.<br>She is well aware of her incompetence but lacks the courage to resign, so she forces herself to press on despite her fear."
+            "Story": "不憫で弱い狐族の少女。怪異を恐れているのに、それを捕らえる羅浮十王司の見習い判官である。<br>十王司の判官によって「シッポ」と呼ばれる歳陽を尻尾に封印され、そのせいで邪を引き寄せる「貞凶の命」になってしまった。<br>妖魔や邪悪なものを怖がっているが、邪祟を捕らえるよう命じられ、困難な魔を祓う任務を遂行している。<br>自分は能力不足だと思いながらも、辞める勇気もなく、怖がりながら任務を続けるしかない状況になっている。"
         },
         {
             "_id": 2,
-            "Story": "When Huohuo awakes at the Ten-Lords Commission, she finds herself confronted not with novelty, but with an atmosphere that sends shivers down her spine.<br><br>Sensing her unease, a white-haired judge addresses her with gentleness.<br><br><i>\"Tell me, little girl, how did you come across that fire?\"<br>\"...It was along the roadside and about to extinguish, so I... I wished to help it.\"<br>\"So you put that fire on your tail? Why did you do that?\"<br>\"I... I don't know... It happened before I realized it... I'm so sorry.\"<br>\"You don't need to apologize, kind-hearted girl. However, you'll be under our custody from now onwards.\"<br>\"Th—Thank you, Madam.\"<br>\"Call me Hanya.\"<br>\"Ah, thank you, Madam Hanya. I... my name is Huohuo.\"</i><br><br>The thoughts of the judge named Hanya wanders back to a few days ago.<br><br>The Ten-Lords Commission received a distress call, and she took on the task of locating the Foxian girl who was about to be consumed by a heliobus. At the moment, Hanya couldn't repel the heliobus by force without causing harm to Huohuo, who was still a little girl. As a result, she had to seal the heliobus onto the girl's tail. Fortunately, the heliobus decided to start the possession from her tail, giving Hanya a chance to save her life.<br><br><i>\"...Was my decision right or wrong?\"</i><br>Hanya mutters to herself."
+            "Story": "意識を取り戻したフォフォが初めて十王司に連れてこられた時、司内のあらゆるものは彼女にとって珍しいというよりも、不気味で恐ろしいものに見えた。<br><br>少女の不安を察知した白髪の判官は、できるだけ優しい口調で彼女に尋ねる。<br><br><i>「少し聞きたいんだけど、どうやって『あの火』に遭遇したの？」<br>「…あ、あれがポツンと道端に落ちてて、消えそうになってて、だ、だから…た…助けたいと思ったんです」<br>「それで『あの火』を自分の尻尾の上に置いたの？どうして？」<br>「ア、アタシにもわかりません。気づいた時には、もうそうしてました…ごめんなさい」<br>「本当に優しいんだね。謝る必要はないけど…今日から私たちの保護を受けてもらうことになる」<br>「はい…ありがとうございます」<br>「私は寒鴉、よろしく」<br>「あっ、寒鴉様、アタシは…フォフォです」</i><br><br>寒鴉という名前の判官は数日前のことを思い出した——<br><br>十王司に救援要請が入り、命令を受け巡回に出た寒鴉は、歳陽に呑み込まれそうになっている狐族の少女を見つけた。寒鴉は少女が幼く、弱く、その歳陽もただの雑魚ではないことに気がついた。強引に取り除けば少女の命に関わる。事態は急を要したため、寒鴉は護符を書き、歳陽を狐族の少女の尻尾に鎮伏することしかできなかった。歳陽が少女を尻尾から吞み込もうとしていたことは不幸中の幸いだ。<br><br><i>「…これは正しいことなのかな、それとも間違っているのかな」</i><br>判官は独り言を呟いた。"
         },
         {
             "_id": 3,
-            "Story": "While the heliobus is short-tempered and arrogant, he is not impossible to communicate with. He could not tolerate Huohuo's sobbing and wailing and didn't quite understand how Foxians socialize — for example, he didn't understand why the girl would be ostracized by her classmates due to \"her tail being on fire.\"<br><br><i>\"You! Tear off that talisman!\"<br>\"No! Madam Hanya said the talisman must not be removed under any circumstances...\"<br>\"Did you hear them? How dare they mock me!? I've never been humiliated like this before!\"<br>\"No... they're not mocking you... but me...\"<br>\"Then you go teach them a lesson yourself. If you can't avenge me for this insult, then don't talk to me anymore.\"<br>\"B—But... I'm scared...\"<br>\"Alright, fine. You know what? Just take a deep breath, make your mind go blank, and don't think about anything. I'll handle this problem for you.\"<br>\"B—But... Madam Hanya said... the talisman must not be removed...\"<br>\"Don't worry. Just do what I say.\"</i><br><br>...When she regained consciousness, the legend of \"the possessed demoness\" was already circulating.<br><br>After that, Huohuo went and found out a lot about the heliobus' past. Eons ago, a heliobus named Ignamar was defeated by a Luofu general and fragmented into numerous shards, then sealed in the Creation Furnace. This particular shard escaped, and he represents the arrogant side of Ignamar and wouldn't condescend to possessing anything, living as a vagabond for centuries... until Huohuo chanced upon him in his utter exhaustion.<br><br><i>\"Then I'll call you 'Tail' to avoid unwanted attention...\"</i><br>The heliobus said nothing, his silence being a sign of acquiescence."
+            "Story": "歳陽は気性が荒く、孤高で傲慢だが、まったく交流できないわけではない。その歳陽はフォフォがめそめそしている様子に耐えられなかった。そして、狐族の社交も理解できなかった——なんと、少女は「尻尾が燃えている」という理由で同級生から仲間外れにされているのだ。<br><br><i>「その護符を剥がせ！」<br>「ダメ、寒鴉様が護符を剥がしちゃいけないって言ってたもん……」<br>「聞いただろ、アイツらは俺様のことをからかったんだぞ！こんな屈辱を受けるのは初めてだ！」<br>「…あの人たちは…アタシのことをからかったんだよ……」<br>「じゃあ自分でどうにかしやがれ。お前が俺様の代わりにこの怒りを晴らせないなら、もう俺様を呼ぼうとすんじゃねぇ」<br>「で、でも…そんなことできない……」<br>「ったく…んじゃ、深呼吸して頭を空っぽにしろ。お前は何も考えなくていい、俺様がなんとかしてやる」<br>「…か、寒鴉様は、護符を剥がしちゃいけないって……」<br>「心配すんな、お前は言う通りにするだけでいい」</i><br><br>…少女が我に返った時には、すでに「邪鬼に取り憑かれた魔女」の噂が広まっていた。<br><br>その後、フォフォは歳陽の過去に関する話をたくさん調べた。どれほど前のことかはわからないが、「燎原」という名の歳陽が羅浮の将軍に敗れ、いくつかの分霊に分けられ、造化洪炉の中に封印されたらしい。難を逃れた歳陽は「燎原の孤高」だったもので、誰かに憑依することもなく、放浪しながら長い間隠棲していた…死にかけているところをフォフォに拾われるまで。<br><br><i>「目立たないように、アナタのことは『シッポ』って呼ぶね……」</i><br>歳陽はそれに対して何も言わず、ただ黙認した。"
         },
         {
             "_id": 4,
-            "Story": "When Huohuo was taken in by the Ten-Lords Commission, the judges initially wanted to ensure that Tail wouldn't cause any trouble.<br><br>Gradually, as she familiarized herself with her duties as a spiritfarer, she became acquainted with the various evil spirits documented by the Commission.<br><br><i>\"Madam Xueyi! H—How about the talismans I prepared last time?\"<br>\"They were great. Very effective against Astral Spirits.\"<br>\"Ha—Haha... Glad to know that. I was worried if it would work well.\"<br>\"Why didn't you try them yourself?\"<br>\"N—N—No... I'm too scared...\"<br>\"You know, Huohuo? Most of those 'evil spirits' are actually extraterrestrial creatures or malevolent sentient beings that exist in various forms.\"<br>\"I know what they are, but I'm still so afraid, Madam Xueyi. Maybe I'm not really cut out for this job...\"<br>\"...Well, only you know the answer to that.\"</i><br><br>Huohuo is not okay with her timidity. She struggled to muster the courage needed to confront the evil spirits.<br><br>She stayed up late watching horror-comedy films in an attempt to strengthen her nerves, but all she got were dark circles. She invested in the latest scientific exorcism tools to enhance her abilities, but it only left her with empty pockets. Tail sneered at the futility of her efforts, finding ways to make sarcastic remarks and mock her.<br><br><i>\"To be honest, Tail is the scariest of all...\"</i><br>However, in Xueyi's eyes, Huohuo has long ceased to fear Tail."
+            "Story": "フォフォはすぐさま十王司に送られた。これはシッポが封印から抜け出して悪事を働かないよう、安全を考えてのことだ。<br><br>彼女は少しずつ冥差の仕事に慣れていき、十王司が記録している様々な「邪祟」をことごとく覚えていった。<br><br><i>「雪衣様、こ、この前用意した護符は役に立ちましたか？」<br>「はい、星霊を相手にするには十分でした」<br>「えへへ…それならよかったです。正直、アタシもどんな効果かよくわかってなくて……」<br>「自分で試してみたらどうですか？」<br>「いえ、それは怖いので……」<br>「フォフォ、『邪祟』というのはそのほとんどが宇宙の生物、あるいは何らかの形で存在する有害な知的生命体です」<br>「雪衣様、『邪祟』が何かはわかってるんですが、それでも怖くてダメなんです。アタシ、この仕事に向いてないのかもしれません……」<br>「…それは自分自身に聞いてみるしかありませんね」</i><br><br>フォフォは自分の臆病さに無関心なわけではない。事実、「邪祟」に打ち勝つための勇気を養おうとしたことがある。<br><br>彼女は夜更かしして、低予算のB級ホラーコメディを見ることで度胸を付けようとした。しかし、結果は目の下にクマができただけ。また、新しい科学的な伏魔道具を買い込み、戦力を上げようともしてみたが、懐が寒くなるだけで終わってしまった。シッポは彼女の挑戦が徒労に終わるたびに嘲笑い、大袈裟にあげつらって事態を悪化させようとした。<br><br><i>「やっぱりシッポが一番怖い……」</i><br>しかし雪衣からしてみれば、今のフォフォはシッポに「恐怖」を抱いていないように見えた。"
         },
         {
             "_id": 5,
-            "Story": "Initially, Tail was no different from any other heliobi, intending to devour Huohuo and take possession of her name and identity, stealing all of her desires and emotions.<br><br>Later, Tail found pleasure in witnessing Huohuo's frustrations in her failures. \"Anyway, I'm not in a hurry to devour her at all. She can't escape me after all.\"<br><br><i>\"Tail, Tail! Help... Help me!\"<br>\"It's none of my concern. What did you say back then...? Oh, you've got to 'stand on your own feet.' Now this is the perfect chance, isn't it?\"<br>\"No! I'll stand on my feet next time! Please help me!\"<br>\"A reminder, once you die, I'll be free. But... well, I always finish what I start. I won't leave until I devour you.\"<br>\"You're a judge of the Ten-Lords Commission, but you've neglected your duty and allowed those monsters to wreak havoc on the Xianzhou. What a disgrace... Hey! What do you think you're doing, small fry!? I'm the only one who can scold her!\"<br>\"Roaaaarr!\"<br>\"You want to get physical, huh? Good, you asked for it!\"</i><br><br>Since being possessed by Tail, Huohuo has become highly sought-after by evil spirits, like moths to a flame.<br><br>Huohuo always blames Tail for her ominous title as the \"cursed one,\" and Tail finds having a host like Huohuo can be frustrating at times. However, years have passed, and Tail hasn't harmed Huohuo in the slightest. Although Tail never fails to help her after witnessing enough frustration, he denies any notion of friendship.<br><br><i>\"Issued by the Ten Lords, Huohuo the spiritfarer has performed extraordinarily during her tenure and has proven to be reliable for crucial tasks. She is hereby promoted to the position of 'Judge.'\"</i><br>The Ten-Lords Commission decreed her promotion, and thus begun Huohuo's new tenure as a trainee judge."
+            "Story": "当初、シッポは他の歳陽と同じようにフォフォを「食べる」つもりだった。彼女の名前、身分を奪い、彼女の感情や感覚を貪ろうとしていたのだ。<br><br>しかし、ある時シッポはフォフォが困っている様子を見るだけでも楽しめることに気がついた。いずれは食べるつもりなのだから、別に急ぐ必要もない。<br><br><i>「シッポ、シッポ！助けて！」<br>「俺様には関係ねぇだろ。お前、なんて言ってたっけか…『一人前になる』？これはそのチャンスなんじゃねぇのか？」<br>「次は一人前になるから、今は助けてぇ！」<br>「先に言っておくが、お前が死ねば俺様は自由になれる。だが…何事も最後までやり遂げる主義だからな。お前っていう獲物を食わずに、途中で離れられるかってんだ」<br>「十王司の判官のくせに、死後妖魔が仙舟を荒らし回るのを放っておくなんざ、無責任にもほどがあるぞ…おい！何してやがる。雑魚ども、こいつを虐めていいのは俺様だけだ」<br>「あああううう！」<br>「めちゃくちゃにしてやれ！」</i><br><br>シッポに取り憑かれたことで、フォフォは蝶にとっての蜜、ホタルにとっての火のように、しばしば妖魔たちの注目を浴びるようになった。<br><br>この「貞凶の命」とシッポの繋がりを断てないことに、フォフォはいつも不満を言っていた。シッポも自分がフォフォと遭遇してしまったことは運が悪かったと思っている。しかし、長い時間を共に過ごすうちに、シッポもフォフォが困っている時には助けてくれるようになったのだが…それが友情だとは決して認めようとしない。<br><br><i>「十王が勅を奉ずる：冥差フォフォは、芸に精通しており誠に勤勉である。資質具足のため、要務に当たるに相応しい。従って即日判官に抜擢する」</i><br>十王司が彼女の昇進を伝え、ここからフォフォの見習い判官としてのキャリアがスタートした。"
         }
     ]
 }
@@ -578,220 +578,220 @@ var _story_ = {
 var _voice_ = {
     "1217": [
         {
-            "Title": "First Meeting",
-            "Voice": "Huohuo: H—Hello, I'm Huohuo, the newly appointed judge of the Ten-Lords Commission. Um... what else should I mention...<br>Tail: Ahem... Uh, Hello? Don't forget to introduce the most famous heliobus of all.<br>Huohuo: Ah, yes — Tail! This is Tail!"
+            "Title": "初対面",
+            "Voice": "フォフォ：こ、こんにちは…アタシの名前はフォフォ。新任の十王司の判官で、それから、ええっと……<br>シッポ：おい、小娘。俺の紹介は？俺様は歳陽一族で有名な……<br>フォフォ：シッポ！彼はシッポ！"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Huohuo: H—Hello! Uh, I mean... Well, I... I guess I'll take my leave now. B—Bye...<br>Tail: You were supposed to say hi, not bye!"
+            "Title": "挨拶",
+            "Voice": "フォフォ：こ、こんにちは…その、用がないならもう行くね。じゃ、じゃあ……<br>シッポ：挨拶しろっつってんだ！じゃあ…じゃねぇ！"
         },
         {
-            "Title": "Parting",
-            "Voice": "F—Finally, time to go home. I hope no one notices me."
+            "Title": "お別れ",
+            "Voice": "や、やっと家に帰れる…誰もアタシに気づかなければいいのに……"
         },
         {
-            "Title": "About Self: Work",
-            "Voice": "I—I tried to turn this job down... It just doesn't feel fair — asking someone with heliophobia to hunt down heliobi with a heliobus? *sigh* They told me it was to \"conquer my fear...\""
+            "Title": "自分について・仕事",
+            "Voice": "ア、アタシは断ったのに…歳陽を怖がってる人に歳陽を捕まえさせるなんて、どう考えてもおかしい…でも、みんなが…毒を以て毒を制するんだって言って…ううっ！"
         },
         {
-            "Title": "About Self: Tail",
-            "Voice": "Huohuo: My tail was consumed during a heliobus attack — the rest of me barely got away. It's a good job the Ten-Lords Commission sealed the demon in my tail before it had the chance to finish me off...<br>Tail: It's not my fault that Foxians have the most scrumptious tails... However, now that I'm a tail, I've realized all sorts of monsters want to have me for breakfast!"
+            "Title": "自分について・しっぽ",
+            "Voice": "フォフォ：アタシの尻尾は歳陽に「食べられた」の。アタシもあと少しで食べられるところだったけど、十王司の判官たちが歳陽を封印してくれたんだ……<br>シッポ：狐族の尻尾が一番美味いんだからしょうがねぇだろ…って、今は俺様がその尻尾じゃねぇか！チッ、どんな奴も真っ先にこの俺様を引っ張りやがる！"
         },
         {
-            "Title": "Chat: Banner",
-            "Voice": "I can use this banner to dispel demons... but it also comes in handy when signaling my surrender..."
+            "Title": "世間話・令旗",
+            "Voice": "この令旗を使えば、兵を動員して相手より優位に立てるだけじゃなく、他の人より一足先に降参できる……"
         },
         {
-            "Title": "Chat: Paper Dolls",
-            "Voice": "Huohuo: I make paper dolls whenever I get the chance. With so many little \"friends\" around, there's nothing to fear...<br>Tail: Don't get me started! Those things stress me out. The mere thought of seeing a smiling paper doll right in front of my face in the middle of the night..."
+            "Title": "世間話・紙人形",
+            "Voice": "フォフォ：時間がある時は頑張って紙人形を折ってるの。たくさんの「友達」が傍にいるって思えば、怖くないから……<br>シッポ：俺様はなぁ、あの紙人形が大っ嫌いなんだ！夜中に目を覚ますとこっちに近づいて来て笑いやがる！気味が悪いったらありゃしねぇ！"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I practice my bravery by watching horror-comedies late at night. When it gets to a scary part, I laugh it off like this... Hehehehehehehe! So, yeah..."
+            "Title": "趣味",
+            "Voice": "夜更かししてホラーコメディを観ると度胸がつくの…どんなに怖い時でも笑えば怖くない。「う～ふぉふぉふぉふぉふぉ！」、こんな感じ……"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "Huohuo: The owner of The Looking Bronze said I have a knack for attracting evil. I—I have a vague idea why that is...<br>Tail: Apparently, I am that \"vague idea\". Be that as it may, your tendency to trip over yourself is entirely your own fault."
+            "Title": "悩み事",
+            "Voice": "フォフォ：「{RUBY_B#カンコウケン}鑑爻軒{RUBY_E#}」の店主が言うには、アタシは「{RUBY_B#ていきょう}貞凶{RUBY_E#}の命」にあって、厄運が付きまとってるんだって……そ、それって絶対……<br>シッポ：俺様のせいだろうな。けど、お前が転ぶのは俺様のせいじゃねぇ。"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "How do I relax? I like to find a place in Starskiff Haven to lay back and watch the starskiffs come and go... although my colleagues say it works better for insomnia... A—Anyway, you should try it."
+            "Title": "シェア",
+            "Voice": "星槎海の適当な場所に座って、星槎が行ったり来たりしてるところを眺める——これがアタシの疲労解消法…十王司の判官たちは、それは不眠症の治療法だって言ってるけど…と、とにかく、おすすめ……"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "I heard a lot of heliobi were sealed in the Artisanship Commission's Creation Furnace, but they all escaped when the furnace broke... That's why my workload is the way it is..."
+            "Title": "見聞",
+            "Voice": "工造司の「造化洪炉」の中には、たくさんの歳陽が閉じ込められてたんだって。でも炉が壊れて、その隙に歳陽たちが逃げ出して…それから、アタシの仕事が増えちゃった……"
         },
         {
-            "Title": "About Guinaifen",
-            "Voice": "Little Gui? She has a lot of yang energy — she dispels bad luck very easily. Even my tail goes quiet when she's around. The only drawback is I have to raise my voice around her if I wanted to be heard..."
+            "Title": "桂乃芬について",
+            "Voice": "けいちゃんのこと？彼女は陽気で悪運を追い払うことができるから、一緒にいる時は「シッポ」も大人しくなるの。ただ、けいちゃんと話してると知らないうちに声が大きくなって、ちょっと疲れちゃう……"
         },
         {
-            "Title": "About Xueyi",
-            "Voice": "Huohuo: The puppet judge? She really scared me at first... but when Tail threatened her, she didn't bat an eyelid. Madam Xueyi is amazing — I really want to be like her one day...<br>Tail: Amazing!? Let's see if she still has that smirk on her face when I burn the Ten-Lords Commission to the ground!"
+            "Title": "雪衣について",
+            "Voice": "フォフォ：最初は「傀儡判官」なんて怖いと思ってたけど…「シッポ」が怒り狂っても、雪衣様は平然としたまま顔色ひとつ変えない。そういう先輩判官は…本当にすごい……<br>シッポ：あ～はいはい、すっげぇな――、大したもんだぜ！っ、見てろ！いつかこの俺様が十王司を灰にしてやる！"
         },
         {
-            "Title": "About Hanya",
-            "Voice": "In order to differentiate between the sisters, I call her the rambling judge... *gasp* She hasn't found out, has she?"
+            "Title": "寒鴉について",
+            "Voice": "寒鴉様と雪衣様を区別するために、ア、アタシ、こっそり寒鴉様のことを「おしゃべり判官」って呼んでるの…ば、バレてないよね？"
         },
         {
-            "Title": "About Qingque",
-            "Voice": "It seems like Qingque is always on a break. When I'm relaxing, she's relaxing, and when I get swamped with work, guess what...? She's still relaxing! I guess the Divination Commission has a pretty light workload..."
+            "Title": "青雀について",
+            "Voice": "アタシが一息つく時、青雀も休憩してる。アタシが忙しい時も、青雀は休憩してる…一体どういうこと？太卜司の仕事って十王司より楽なのかな……"
         },
         {
-            "Title": "About Tail",
-            "Voice": "Huohuo: B—Be more determined? I usually just want to run away... Still, every time I try, Mr. Tail sends me straight back to the enemies' doorstep. *sigh* Why can't he just leave me be...?<br>Tail: Hmph! Fine by me! If you get swallowed whole, I'll finally be able to break free!"
+            "Title": "シッポについて",
+            "Voice": "フォフォ：ア、アタシは意志なんて鍛えたくない、逃げたい！なのに、いつもシッポがアタシを敵の前に送り出して…もう無理……！！<br>シッポ：ふん、お前なんか綺麗さっぱり喰われちまえ！そうすりゃ俺様も自由になれる！！"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "People say that the general's portrait can be used to dispel evil. I tried but... useless... I—I mean the portrait, not the general. I shouldn't have believed in such superstitious nonsense."
+            "Title": "景元について",
+            "Voice": "家に羅浮の将軍の肖像を飾ると邪を鎮められるって聞いて、試してみたんだけど、何の効果もなかった…あ、その、将軍が役に立たないって言ってるんじゃなくて、肖像が役に立たないって意味！うう、邪を鎮められるなんて話、信じるんじゃなかった……"
         },
         {
-            "Title": "About Bailu",
-            "Voice": "I wonder if the Dragon Lady has any \"brave pills\" for sale... If not, \"play dead pills\" might do the trick..."
+            "Title": "白露について",
+            "Voice": "龍女様、「胆勇薬」を持ってたりしないかな…なければ「擬死薬」でも……"
         },
         {
-            "Title": "About Yukong",
-            "Voice": "How come Madam Yukong has an air of authority, but I don't? I mean, we're both Foxians. Actually... I know why, but I can't help being a little envious."
+            "Title": "御空について",
+            "Voice": "同じ狐族なのに、御空様に比べてアタシには何の威厳もない…自覚はあるの。ただ…御空様が羨ましい。"
         },
         {
-            "Title": "About Sushang",
-            "Voice": "Actually, we met a long time ago. I was outside getting some peace and quiet, when all of a sudden she dragged me before the Realm-Keeping Commission Chancery. She mistook me for a missing person..."
+            "Title": "素裳について",
+            "Voice": "実はずっと前に素裳さんと会ったことがあるの…その時、アタシは一息ついてたんだけど、気付いたら素裳さんに地衡司の官衙に連れていかれて、迷子として調べられてた……"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "So this is the life of a cursed one..."
+            "Title": "星魂覚醒",
+            "Voice": "「貞凶の命」、ってこういうことなんだ……"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Promoted again? ...Is that good or bad...?"
+            "Title": "キャラクター昇格",
+            "Voice": "また昇格？「今日の運勢」は吉かな、凶かな……"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "D—Do I have to spend my whole life in the Ten-Lords Commission...?"
+            "Title": "レベルMax",
+            "Voice": "ま、まさか、アタシは十王司で一生を過ごすの……"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Does a cure-all for exorcising evil really exist...?"
+            "Title": "軌跡覚醒",
+            "Voice": "一度苦労したら後は楽になる魔除けの法は、本当に存在するのかな……"
         },
         {
-            "Title": "Added to Team With Hanya",
-            "Voice": "Madam Hanya, did you also have a restless night...? If there's anything I can help with, just let me know..."
+            "Title": "パーティ編成・寒鴉",
+            "Voice": "寒鴉様、寝不足ですか…アタシにできることがあれば、何でも言ってくださいね…"
         },
         {
-            "Title": "Added to Team With Guinaifen",
-            "Voice": "You first, Little Gui! I—I'll be right behind you..."
+            "Title": "パーティ編成・桂乃芬",
+            "Voice": "けいちゃんが先にどうぞ！アタシはその後で……"
         },
         {
-            "Title": "Added to Team With Sushang",
-            "Voice": "Sushang, just a minute, let me give you this talisman..."
+            "Title": "パーティ編成・素裳",
+            "Voice": "素裳さん、ちょっと待って、霊符を貼るから……"
         },
         {
-            "Title": "Added to Team With Xueyi",
-            "Voice": "Huohuo: M—Madam Xueyi! You're here too!<br>Tail: Not good! Not good!"
+            "Title": "パーティ編成・雪衣",
+            "Voice": "フォフォ：よ、よかったあ！雪衣様もいる！<br>シッポ：少しもよくねえよ！"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Huohuo: Maybe I can do this..."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "フォフォ：アタシにも、やれたりして…"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Huohuo: I—I don't think I can do this...<br>Tail: You have me here — what're you afraid of?"
+            "Title": "戦闘開始・危険予知",
+            "Voice": "フォフォ：これじゃあ、やれっこないよ…<br>シッポ：俺様がいるってのに、ビビんじゃねぇ——"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Huohuo: D—Do we have to fight?<br>Tail: Why, of course!"
+            "Title": "ターン・1",
+            "Voice": "フォフォ：た、戦わなくちゃ…ダメ？<br>シッポ：そうだ、逃げんなよ？"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Huohuo: I'm gonna hold everyone back again..."
+            "Title": "ターン・2",
+            "Voice": "フォフォ：また足手まといになっちゃう…"
         },
         {
-            "Title": "Basic Attack 1",
-            "Voice": "Tail: Get them.<br>Huohuo: Ahhhh—!"
+            "Title": "通常攻撃・1",
+            "Voice": "シッポ：ほーらよっと。<br>フォフォ：やあああ——"
         },
         {
-            "Title": "Basic Attack 2",
-            "Voice": "Huohuo: Ahh—! Somebody help me!"
+            "Title": "通常攻撃・2",
+            "Voice": "フォフォ：いやぁ助けてええっ——"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Tail: Fool! You can't play dead standing up!<br>Huohuo: Shh..."
+            "Title": "戦闘中待機",
+            "Voice": "シッポ：なーにしてんだ？死んだふりか？<br>フォフォ：シ、シ——ッ！"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Huohuo: Demons... depart..."
+            "Title": "戦闘スキル・1",
+            "Voice": "フォフォ：{RUBY_B#じゃ}邪{RUBY_E#}を払い…{RUBY_B#み}魅{RUBY_E#}を縛らん…"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Huohuo: Give me... strength..."
+            "Title": "戦闘スキル・2",
+            "Voice": "フォフォ：霊符よ…守りたまえ…"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Huohuo: *whimper* Ow..."
+            "Title": "攻撃を受ける",
+            "Voice": "フォフォ：っ、痛いよ…"
         },
         {
-            "Title": "Hit by Heavy Attack 1",
-            "Voice": "Huohuo: Tail, help!"
+            "Title": "重撃を受ける・1",
+            "Voice": "フォフォ：助けてシッポ！"
         },
         {
-            "Title": "Hit by Heavy Attack 2",
-            "Voice": "Tail: You dare attack me!?"
+            "Title": "重撃を受ける・2",
+            "Voice": "シッポ：よくもっ…！"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Huohuo: D—Don't come any closer..."
+            "Title": "必殺技・アクティブ",
+            "Voice": "フォフォ：こ、来ないで…"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Tail: Move aside, amateurs...<br>Fiends or devils, I'll crush them all!"
+            "Title": "必殺技・発動",
+            "Voice": "シッポ：うろちょろと目障りなんだよ…<br>悪鬼は、俺様だけで充分だ！"
         },
         {
-            "Title": "Downed",
-            "Voice": "Huohuo: I... surrender..."
+            "Title": "戦闘不能",
+            "Voice": "フォフォ：こ…降参だよ…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Huohuo: It's not over yet?"
+            "Title": "戦闘に戻る",
+            "Voice": "フォフォ：まだ続くの…"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Huohuo: Thank you, thank you!"
+            "Title": "HP回復",
+            "Voice": "フォフォ：あ、ああ、ありがとうございます！"
         },
         {
-            "Title": "Technique",
-            "Voice": "Tail: Flee—<br>Huohuo: *gasp*..."
+            "Title": "秘技",
+            "Voice": "シッポ：失せろ——<br>フォフォ：ひぃっ…"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Huohuo: Did I win? Did I win!?<br>Tail: Not even a thanks?"
+            "Title": "戦闘勝利",
+            "Voice": "フォフォ：アタシの勝ち？この…アタシが？！<br>シッポ：礼を忘れんなよ？"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Huohuo: Wow⁓ Can I really keep it?"
+            "Title": "戦利品を開ける・1",
+            "Voice": "フォフォ：こんなにいい物、もらっちゃっていいのかな…"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Huohuo: I didn't expect to find this here..."
+            "Title": "戦利品を開ける・2",
+            "Voice": "フォフォ：これが見つかるなんて…"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Huohuo: I should probably report this find...<br>Tail: You found it! It's yours!"
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "フォフォ：届けて登録した方がいいよね……<br>シッポ：お前が見つけたんだからお前のだよ！持っとけ！"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Huohuo: I—I'm actually pretty good at these things."
+            "Title": "謎解きに成功・1",
+            "Voice": "フォフォ：やっぱり、こっちのほうが向いてるな…"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Huohuo: Hmm? So... did I do it?<br>Tail: Next."
+            "Title": "謎解きに成功・2",
+            "Voice": "フォフォ：ん？これで…いいよね？<br>シッポ：いい。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Huohuo: They can't see me, they can't see me...<br>Tail: Hey, knucklehead, look over here!"
+            "Title": "敵ターゲット発見",
+            "Voice": "フォフォ：見えない見えない見えなっ…<br>シッポ：そこのアホ、こっちだこっち！"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Huohuo: Such a peaceful spot...<br>Tail: Woof!"
+            "Title": "町に戻る",
+            "Voice": "フォフォ：…ここならずっと安心できる。<br>シッポ：グォオオッ！"
         }
     ]
 }

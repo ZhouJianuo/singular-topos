@@ -446,23 +446,23 @@ var _story_ = {
     "1202": [
         {
             "_id": 1,
-            "Story": "A silver-tongued Foxian girl, Tingyun is the Head Representative of the Whistling Flames, a merchant guild officially approved by the Sky-Faring Commission.<br>She has such a way with words that often leaves her audience eagerly waiting for more of her captivating tales. As a result of her supervision, the Xianzhou trade fairs are now known throughout the cosmos.<br>\"Try one's best to avoid conflict when possible, and persuade those who can be persuaded\" — that's Tingyun's motto."
+            "Story": "八方美人な狐族の少女、天舶司商団「鳴火」の首席代表。<br>生まれつき弁の立つ停雲が口を開けば、人々は彼女の言葉に耳を傾けざるを得なくなる。そんな停雲の指揮のもと、仙舟の貿易祭は次第に有名になっていった。<br>できるだけ戦闘を避け、できるだけ口で説得する——これが停雲のルールである。"
         },
         {
             "_id": 2,
-            "Story": "There's a saying: <i>\"Foxians are born to do business.\"</i> Linger a little while at the Sleepless Earl teahouse, and you'll come to appreciate this fact.<br><br><i>\"There's something you don't know,\"</i> says that Foxian woman, wafting her exquisite reticulated fan as she gazes at the skeptical man before her, <i>\"different lands raise their special type of life. If Sandcitrus seeds from the Bitterwater Confederacy are transplanted into the sacred soils of Vonwacq, then they will grow into sweet oranges. This is naturally due to the fertile and balanced soils of Vonwacq. And if the lightfish fry from Thalassa are introduced to my world and raised by the Vidyadhara at Scalegorge Waterscape, they can double in size to over three feet long.\"<br><br>\"The Whistling Flames' latest plan is to carefully select species with commercial potential, and relay them via trade starskiffs for safe transport. Within one month, you'll get the first batch of goods back. These goods would add to the glamours of the crystal palace at the bottom of the Thalassan abyss, and can even become a unique trading products for your nation.\"</i><br><br>The man with gills blows out a few bubbles, which represents a slightly hesitant agreement in his culture. Then, his larynx pronounces some wondrous syllables: <i>\"I thought the Whistling Flames were speculative traders involved in arbitrage. Are you planning to change the current situation in the logistics industry, where the IPC reigns supreme? Tell me, how much do you want?\"<br><br>\"For a return service, we take ninety percent. A broker just flips product from one hand to the other. Or rather, from one finned limb to the other. As the saying goes, \"Real business talks no profit.\" Only by benefiting others can we hope to benefit ourselves. As long as the Lord of the Abyss in the Crystal Palace assents, then I'd like to enter into a contr— Ahem, I mean a permanent partnership. What do you say?\"</i><br><br>On this day, Tingyun not only closed on a deal, but also formed a new friendship for the Alliance."
+            "Story": "<i>「狐族は生まれた時から商売に精通している」</i>と言われている。茶屋「不夜侯」に少し滞在すれば、その事実を強く実感できるだろう。<br><br><i>「ご存じないかもしれませんが」</i>、その狐族の女性は精緻な扇子を揺らしながら、目の前の半信半疑な男を見つめた。<i>「一方の水と土が一方の生命を育むのです。水質がよくない国のカラタチの種をウェンワークの土地に植えれば、甘くてずっしりとした熾陽ミカンが実る。それはウェンワークの四季の調和が取れており、土壌が肥沃だからです。また、タラサの灯魚を我が仙舟に持ち込み、鱗淵境の持明族に育成を任せれば、三尺余りの灯魚に育つでしょう」<br><br>「『鳴火』の目標は、最も商業的な潜在力のある品種を厳選すること。安全を保障するため、商団の星槎で中継輸送を行う予定ですが、数ヶ月もあれば最初の商品を受け取れるでしょう。それらはタラサの淵底水晶宮を彩り、貴国の特産品になるかもしれませんね」</i><br><br>エラを持つ男は真珠のような泡をいくつか吹き出した。それは泡語で躊躇いがちな称賛と同意を意味している。そして、彼は不思議な音節を発した。<i>「『鳴火』は投機や仲買ばかりやっていると思っていました。もしかして、カンパニーが運輸業を独占している局面を崩そうとしているのでしょうか？どうぞ、値段を言ってみてください」<br><br>「往復の費用は9割にしましょう。仲買商売は濡れ手で粟に過ぎません。『大商算じず』という諺があるように、相手に利があってこそ己の利となるのです。水晶宮の淵主が認めてくださるのなら、一紙…こほん、一邦の友人と長期的な契約を結びたいのですが。いかがでしょうか？」</i><br><br>その日、停雲は契約を交わしただけでなく、同盟のために新たな友好関係を築いたのだった。"
         },
         {
             "_id": 3,
-            "Story": "Tingyun was always different from the others.<br><br>Foxians are synonymous with the quick and the agile. Their lightning-fast reflexes and keen senses have resulted in this, and it also makes for cheeky, playful juvenile Foxians. But Tingyun? This pointy-eared girl always looks fluffy and soft. Not only does she not vigorously pull on others' fur when meeting someone, she herself remains calm even if someone pulls on her fur. With an innocent smile and her sweet voice, she would even urge the other person to stop...<br><br>It's not hard to understand differences in human nature. But compared to her Foxian peers all busy tearing up their homes, Tingyun — who'd never been any good at combat — frustrated her parents who both served in the military at the Sky-Faring Commission. Seeing as Tingyun wouldn't inherit the family business, the two shook off their prejudices and let their daughter blossom freely...<br><br>As a result, a dazzling new star of trade dawned aboard the Xianzhou Luofu. With her warm personality and talented skills, this Foxian girl successively completed trade missions to sixteen different planets, and re-signed another bilateral agreement with the IPC. The famous Xianzhou trade bonanza — the Grand Fair — also developed into a famous fiesta under her advocacy."
+            "Story": "停雲は幼い頃から他の子供たちとは様子が違っていた。<br><br>稲妻のような反射神経と鋭い感覚を持つ狐族は、生まれながらにして反応が素早い。そのため、幼少期の狐族はやんちゃでイタズラばかりする。しかし停雲は？この尖った耳の女の子はいつもふわふわとした様子で、人に会っても髪を引っ張るどころか、自分の髪を引っ張られても無邪気に笑い、甘い声で相手を止めるだけ……<br><br>性格は人それぞれと言うが、いつも家をめちゃくちゃにしようと企んでいる狐族の子供たちに比べ、争いごとが苦手な停雲は大人しすぎると言ってもいい。天舶司で軍備士をしている彼女の両親は、そんな彼女のことを心配していた。やがて停雲が成長すると、両親は彼女に家業を継がせることを諦め、自由に道を選ばせた——<br><br>こうして、羅浮の貿易史に輝く新星が昇った。狐族の少女は持ち前の温厚な性格と才能を以って、 16 の世界の貿易使節団を取り持ち、スターピースカンパニーと互恵協定を結び直した。仙舟人の貿易祭「海市」も、彼女の努力によって星海に広く知れ渡る盛典となったのである。"
         },
         {
             "_id": 4,
-            "Story": "Speaking of Tingyun's six-ribbed reticulated fan, it is a well-known ingenium made by the Artisanship Commission.<br><br>Most merchants carry weapons in self-defense while traveling, but Tingyun is an exception — she refuses to equip any weapons that do not conform to her style, such as blades, lances, swords, and halberds, which are strong but ungraceful. And she considers booby-traps like darts and needles to be too toxic and disgraceful.<br><br>After thinking over things, Tingyun finally chose this carved reticulated fan. Put into her own words, here's why:<br><br><i>\"Business people cherish peace above all else. Carrying a weapon dishonors friendships and makes for bad business.\"<br><br>\"My fan is different from a weapon. I can use it to cool myself off as well as cooling off a nasty business client. It's best if we can just have a nice chat, but if things don't go smoothly...\"<br><br>\"...Then I just have to fan them harder, and cool them off until they know I mean business!\"</i>"
+            "Story": "停雲の六骨畳扇といえば、工造司の名物機巧である。<br><br>旅の危険から身を守るため、天外行商人の多くは武器を携帯している。その中でも停雲は例外で——自分の美学にそぐわない武器は決して使おうとしない。刀、槍、剣、戟などは剛強すぎて軽やかさと優雅さが足りない。しかし、投矢や銀針などの暗器を使っては、自分が陰湿で悪辣な人間に見えてしまい、体面が保てない。<br><br>考えに考えた末、停雲はこの精巧に彫られた扇子を選んだ。彼女によると、その理由は——<br><br><i>「商売人たるもの、和を以て貴しと為さなければ。兵器を携えていては、友誼に亀裂が入り、商談にも暗雲が垂れ込んでしまいます」<br><br>「ですが、この扇子は違います。普段は扇いで涼を取れますし、話の通じない方に出会ってしまった時は、この扇子で熱を冷まして差し上げることもできます。座って話ができれば一番いいのですが、それが難しいようであれば……」<br><br>「——この扇子で思いっ切りひっぱたいてあげましょう！」</i>"
         },
         {
             "_id": 5,
-            "Story": "However, if she ever hopes to be promoted to Helm Master, Tingyun's gentle personality will shift from being a strength to a stumbling block — after all, the Sky-Faring Commission has always been run by ace pilots, all of them warriors baptized by the flames of war. Meanwhile, Tingyun doesn't have the knack for driving a starskiff, let alone a skill for killing. That's the main difference between her and the current Helm Master of the Sky-Faring Commission, Yukong.<br><br>What's more, Yukong has already planned on handing over the future to Tingyun, but Tingyun doesn't know if she's truly qualified to take it on.<br><br>To her, Yukong is not merely a trustworthy superior or even a savior during a crisis. In her heart, Yukong is also a kind of glorious idol. She views Yukong as someone to entrust her spirits in, as a beacon to guide her. She wants to hold onto that starlight, but has discovered that she can only chase in desperation from the shadows. Until one day, that lone star said to her:<br><br><i>\"Times are changing. Xianzhou is changing. One day, this giant ship will grow utterly exhausted of a sky full of blood and war. When that time comes, the Sky-Faring Commission will be your stage.\"</i><br><br>She didn't know how much of what was said was a joke, but she carefully sealed these words into the envelope and locked it in the back of the drawer at her store. She resolved to never forget.<br><br><i>\"Even if I can't go into battle, there's still a chance for me to show my strength.\"</i> Says the Foxian girl to herself. The Luofu is currently moored in orbit, undergoing re-invigoration after a campaign against the abominations. Flourishing commerce becomes the backdrop to this era.<br><br>Understanding Yukong's expectations of her, Tingyun flies beyond the skies, seeking more alliances and friendships.<br><br><i>\"When it comes to who is the best helm master on the Luofu, people will naturally say Madam Yukong's the champion. But if you ask me...\"<br>\"My skillful oratory must count for some kind of helm mastery, right?\"</i>"
+            "Story": "舵取に昇進するのであれば、停雲の温厚な性格は助力ではなく、足枷にしかならない——天舶司の歴代責任者は全員超一流の飛行士であり、数々の修羅場を潜り抜けてきた戦士である——停雲には星槎を操縦する才能もなければ、殺生を好む性質でもない。彼女と天舶司の現舵取・御空には雲泥の差があるのだ。<br><br>それでも御空は停雲に未来を託そうとしていたのだが、彼女は自分にその資格があるのかどうかわからなかった。<br><br>彼女にとって御空は信頼できる上司であると同時に、行商で遭難した時に命を救ってくれた恩人でもある。彼女の心の中で、御空は光芒を放つ偶像になっているのだ。それは彼女の心の拠り所であり、前路を照らす道しるべでもある。彼女は星の光を掴もうとしたが、自分は影の中で必死に追いかけることしかできないことに気が付いた。そしてある日、その孤星が彼女に言った。<br><br><i>「時代は変わっている。仙舟は変わっている。いつの日か、この巨艦は血と炎の空に嫌気が差すでしょう。その時、この天舶司はあなたの舞台になるわ」</i><br><br>その言葉はどこまでが冗談なのか、彼女にはわからなかった。それでも彼女はそれを丁寧に封筒に入れ、店の引き出しの奥に仕舞った。この言葉は絶対に忘れてはいけないと思ったのだ。<br><br><i>「たとえ戦場に立つことができなくても、私の力を発揮できる場所はある」</i>狐族の少女は自分に言い聞かせた。羅浮は緩やかに航行しながら、忌み物との征戦で負った傷を癒している。そして、商業の繁栄がこの時代の下地となった。<br><br>停雲は御空の期待を理解している。だからこそ、彼女はさらなる助力と親交を求めて星空に飛び出した。<br><br><i>「現在の羅浮で舵術の頂を拝する者は誰かと聞かれれば、人々は当然、御空様の名を挙げるでしょう。しかし、私に言わせてもらえれば……」<br>「私の弁才も、ある意味『舵取』の能力に違いありません。そうは思いませんか？」</i>"
         }
     ]
 }
@@ -470,208 +470,208 @@ var _story_ = {
 var _voice_ = {
     "1202": [
         {
-            "Title": "First Meeting",
-            "Voice": "My name is Tingyun, the Amicassador for the Luofu Sky-Faring Commission merchant guild. Please look after me from now on, benefactor."
+            "Title": "初対面",
+            "Voice": "私は停雲、「羅浮」天舶司の商団の接渡使です。以後よろしくお願いしますね。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Where are you going? Please take me with you~"
+            "Title": "挨拶",
+            "Voice": "どちらへ行かれるので？私もご一緒させてください。"
         },
         {
-            "Title": "Parting",
-            "Voice": "Ahh, the time is late, and even my tail is falling down. My apologies, I will be excusing myself..."
+            "Title": "お別れ",
+            "Voice": "あら、もうこんな時間、しっぽも垂れてきましたね。申し訳ございませんが、私は先に失礼させていただきます……"
         },
         {
-            "Title": "About Self: Tail",
-            "Voice": "Bedtime tail care is a must. First, you need a comb that's made of boxwood, then apply some sweet ointment to the root of the tail, and wrap it in Pale Cloud Silk and go to sleep. That way my tail will be all so soft and fluffy tomorrow. See?"
+            "Title": "自分について・しっぽ",
+            "Voice": "寝る前のケアを怠ってはなりません。尻尾を梳かす櫛はツゲ材のものを使い、指の腹で香膏をすくって根元に塗ったら、最後に素雲紗で尻尾を包む。それから寝床につくと、翌朝には尻尾がふわふわになっているんです。ほら、恩人様もそう思いません？"
         },
         {
-            "Title": "About Self: Jade Bracelet",
-            "Voice": "This bracelet isn't anything old, but the jade was so green and pure that I commissioned a craftsman to make it. If you ask me, it's harder to find something for myself than for my shop. Not only does it have to be good, but it also has to strike my fancy."
+            "Title": "自分について・玉の腕輪",
+            "Voice": "これは古物ではないのですが、あまりにも瑞々しい緑色に心を奪われ、職人さんに腕輪にしてもらったのです。まったく、本家の店の商品を買い付けるのは簡単でも、自分のものを選ぶとなると、難しくて仕方ありませんね。自分の好みだけでなく、縁も必要なのですから。"
         },
         {
-            "Title": "Chat: Business",
-            "Voice": "Peace is the best for business. It's best to work with persuadable people. For those who are less persuadable, cooling them down with a fan works wonders."
+            "Title": "世間話・商売",
+            "Voice": "商売をするうえで、話の通じる方と出会えるのは喜ばしいことです。そうでない方は…ふふっ、この扇子で熱を冷まして差し上げなければ。"
         },
         {
-            "Title": "Chat: Business Ambassador",
-            "Voice": "Every time I head out, I leave a letter behind and lock it in the drawers of my shop. If I come back, then I'll burn it later. If I don't... then it'll be something for others to remember me by."
+            "Title": "世間話・商団と出航",
+            "Voice": "出航する前は、必ず本家の店の引き出しに手紙をしまっておくのです。無事に帰ってくることができたら、厄払いの意味を込めて燃やすようにしています。もし帰ってこられなかったら…皆も遺書として扱ってくれるでしょう。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "If I have time, I head over to the Sleepless Earl when it's late. If I want company, then I chat with the patrons there. If I want leisure, then I watch people drink tea and toss dice in order to practice reading people. It is quite fun."
+            "Title": "趣味",
+            "Voice": "日が暮れて暇になった時は、よくフヤコウに行っています。騒ぎたい時は皆と会話を楽しみ、静かに過ごしたい時は、人を見て飲んでいる茶を当てるのです。眼力を磨く練習にもなって、面白いですよ。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "The Sky-Faring Commission are all very gallant. Though I admire them, I really can't imitate them... I'm a lot better at embellishing words and talking up a storm..."
+            "Title": "悩み事",
+            "Voice": "天舶司の面々は勇ましくて羨ましい限りですが…あれは私には達せない域でしょうね…誰かを唆したり、雄弁を振るうくらいならできそうですが……"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "The purchase price of Sky-Amber doubled to support the Lord of Preservation. However, it is up to the Corporation's fancy whether this becomes good or bad fortune for worlds rich in ores..."
+            "Title": "シェア",
+            "Voice": "「存護」を支援するために、最近クォーツの買値が2倍に跳ね上がりました。鉱物に恵まれた世界にとって、それが幸運なのか不運なのかはわかりませんが、すべては「カンパニー」の意志によって決まるのです……"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Most of the lifeforms I have seen with the Whistling Flames have an origin and a reason. The creatures that cannot be communicated with are the most terrifying, as it means they do not conquer using language..."
+            "Title": "見聞",
+            "Voice": "私が「鳴火」で見てきた生物のほとんどは理に適っていましたが、そうでもないものもいます。最も危険なのは交渉が通じない相手、つまり「言葉」で屈服しない生物です……"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "The general is a true master of maximizing returns for minimal effort. I cannot match him on that front."
+            "Title": "景元について",
+            "Voice": "将軍様こそ、柔よく剛を制す手段の真髄を掴んだ方と言えるでしょう。私など…ふふっ。"
         },
         {
-            "Title": "About Yanqing",
-            "Voice": "I once gifted him some items I deemed rare, and that child respectfully thanked me and accepted them. Then I saw him excitedly selecting swords in the Artisanship Commission... Hehe, children are clever little creatures."
+            "Title": "彦卿について",
+            "Voice": "以前、珍品だと思ったものを彦卿に贈ったことがあります。その時は丁寧に礼を言って受け取ってくれたのですが…ある日、あの子が工造司で剣を選ぶところを見たのです。あの喜色満面の様子といったら…ふふっ、やはり子供はわかりやすいですね。"
         },
         {
-            "Title": "About Yukong",
-            "Voice": "Whether it's driving starskiffs or leading the Sky-Faring Commission, Madam Yukong is always present in the Xianzhou's course. I'm still lacking in my skills as a helmswoman."
+            "Title": "御空について",
+            "Voice": "星槎の操縦にせよ、天舶司の管理にせよ、仙舟には常に御空様のお姿があります。「舵を取る」技術において、私は彼女の足元にも及びません。"
         },
         {
-            "Title": "About Luocha",
-            "Voice": "A businessman from beyond the sky? And he's not on the Whistling Flames' records... Weird, why can't I remember him?"
+            "Title": "羅刹について",
+            "Voice": "天外の行商人？「鳴火」の名簿にはありませんが…おかしいですね、この私が覚えていないなんて。"
         },
         {
-            "Title": "About Sushang",
-            "Voice": "Sushang is very kind and comes to my shop every day to ask: \"Is business difficult? I'll help you!\" \"Did anyone smash your shop? I'll help you!\"..."
+            "Title": "素裳について",
+            "Voice": "素裳さんは熱心な方です。毎日のように店に来ては、「商売は上手くいってる？手伝ってあげるよ！」、「嫌がらせしてくる奴はいる？追い返してあげるよ！」…と、気遣ってくださるのですよ。"
         },
         {
-            "Title": "About Bailu",
-            "Voice": "Lady Bailu has small hands but is very skilled... I have to go lie down and have a massage with her every time I return to the Luofu."
+            "Title": "白露について",
+            "Voice": "白露様の手は小さいのですが、どこか不思議な力がありまして…私も「羅浮」に帰るたびに、いつも彼女のところに行って、マッサージをしてもらっています。"
         },
         {
-            "Title": "About Qingque",
-            "Voice": "I just thought she was a frequent customer of the games parlor, but recently I heard she is a diviner from the Divination Commission... Aren't they always busy over there? How can she have the time for a games parlor?"
+            "Title": "青雀について",
+            "Voice": "以前は牌荘の常連だと思っていましたが、最近になって、彼女が太卜司の卜者であるという話を聞きました…太卜司といえば非常に忙しいことで有名ですが、牌荘に通う暇などあるのでしょうか？"
         },
         {
-            "Title": "About Fu Xuan",
-            "Voice": "The master diviner has a harsh tone, but she speaks sense. To be completely honest, her lectures are quite memorable..."
+            "Title": "符玄について",
+            "Voice": "太卜様は率直にものを言うお方ですが、その内容はどれも理に適っているのです。あえて評価するのであれば、味わい深い叱責、といったところでしょうか……"
         },
         {
-            "Title": "About Mengming",
-            "Voice": "Nowadays Mengming manages everything in and out of the tea house. People say \"Foxians are born to do business,\" but things are always easier said than done."
+            "Title": "夢茗について",
+            "Voice": "茶楼のすべては夢茗が1人で切り盛りしています。よく「狐族は生まれた時から商売に精通している」と言いますが、そんなに簡単なことではないのですよ。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Ah, a visitor! Please let me show you some of our local hospitality."
+            "Title": "星魂覚醒",
+            "Voice": "来る者は皆、客人です。やはり私に案内させてくださいな。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "I see a future full of potential."
+            "Title": "キャラクター昇格",
+            "Voice": "前途は錦の如く、宝物に満ちていますね。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "You can count on me to give it my all."
+            "Title": "レベルMax",
+            "Voice": "ここまできたら、全力を尽くしましょう。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "This vast universe has so many worlds I've yet to explore..."
+            "Title": "軌跡覚醒",
+            "Voice": "この星海にある幾千万の世界を、私はまだ満足するほど見ていません……"
         },
         {
-            "Title": "Added to Team With Yukong",
-            "Voice": "Madam Yukong, allow me to handle the negotiations — I can buy us some time."
+            "Title": "パーティ編成・御空",
+            "Voice": "御空様、交渉はお任せを。時間なら稼げます。"
         },
         {
-            "Title": "Added to Team With Jing Yuan",
-            "Voice": "People often forget that the general is as brave as he is cunning."
+            "Title": "パーティ編成・景元",
+            "Voice": "将軍様の様々な策略を見ていると、その武勇すら万人より上だということを忘れてしまいます。"
         },
         {
-            "Title": "Added to Team With Bailu",
-            "Voice": "Your regular kindness has not gone unnoticed. Allow me to repay a small part of it, Lady Bailu~"
+            "Title": "パーティ編成・白露",
+            "Voice": "日頃のご恩をお返ししますね、白露様。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Seize the moment!"
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "好機です、一気に片付けましょう。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Well, we're in trouble now."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "あらら、困りました。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Customers are always welcome."
+            "Title": "ターン・1",
+            "Voice": "客なら、もてなすほかありませんね。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Let's be friends, shall we?"
+            "Title": "ターン・2",
+            "Voice": "和を以て貴しと為すのはどうでしょう？"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "We were supposed to attack yesterday!"
+            "Title": "戦闘中待機",
+            "Voice": "好機はあっという間に過ぎ去りますよ。"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Chill out."
+            "Title": "通常攻撃",
+            "Voice": "落ち着いて。"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Evils begone~"
+            "Title": "戦闘スキル・1",
+            "Voice": "諸悪退散～"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "All the best~"
+            "Title": "戦闘スキル・2",
+            "Voice": "万事順調～"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Can we talk...?"
+            "Title": "攻撃を受ける",
+            "Voice": "話し合いましょう…"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Hmph, you'll pay for that."
+            "Title": "重撃を受ける",
+            "Voice": "憶えておきなさい…"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "A thousand wonders, to raise your spirits~"
+            "Title": "必殺技・アクティブ",
+            "Voice": "千の珍奇をもって鼓舞を。"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Good omens, fight as one!"
+            "Title": "必殺技・発動",
+            "Voice": "万事吉とならん、一心同帰。"
         },
         {
-            "Title": "Downed",
-            "Voice": "Not my... lucky day."
+            "Title": "戦闘不能",
+            "Voice": "運気に…陰りが…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Need a hand?"
+            "Title": "戦闘に戻る",
+            "Voice": "お手伝いしましょう。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Better late than never!"
+            "Title": "HP回復",
+            "Voice": "急がば回れですね。"
         },
         {
-            "Title": "Technique",
-            "Voice": "Cool it~"
+            "Title": "秘技",
+            "Voice": "涼しいですね。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "We make a pretty good team."
+            "Title": "戦闘勝利",
+            "Voice": "皆さん、いい腕前ですね。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "This'll get a good price."
+            "Title": "戦利品を開ける・1",
+            "Voice": "いい値になるでしょう。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "This suits my tastes."
+            "Title": "戦利品を開ける・2",
+            "Voice": "一目で気に入りました。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Quite a stroke of luck~"
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "おや、運がいいですね～"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Smooth sailing~"
+            "Title": "謎解きに成功・1",
+            "Voice": "順風満帆ですね。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "All thanks to your guidance, benefactor~"
+            "Title": "謎解きに成功・2",
+            "Voice": "恩人様、頼りにしておりますよ。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "That's a tough nut to crack..."
+            "Title": "敵ターゲット発見",
+            "Voice": "あれは…話しても通じないでしょう…"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Got places to be? I'm your best guide!"
+            "Title": "町に戻る",
+            "Voice": "どちらへ行かれます？ご案内しましょうか。"
         }
     ]
 }

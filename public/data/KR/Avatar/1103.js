@@ -449,23 +449,23 @@ var _story_ = {
     "1103": [
         {
             "_id": 1,
-            "Story": "The free and rebellious eldest daughter of the Landau family. Once a close friend of Cocolia's, she is now a mechanic purely because she likes this job.<br>In the Everwinter-stricken Belobog, she opened a workshop called \"Neverwinter\" that puts business on hold from time to time for outdoor rock 'n' roll performances.<br>And should anyone ask her about the workshop's profits... \"This is just a hobby, dear. I'm not short on money.\""
+            "Story": "자유롭고 반항적인 랜도 가문의 장녀. 쿠쿠리아의 절친이었으며 지금은 취미로 엔지니어 일을 하고 있다.<br>영원한 겨울의 벨로보그에서 「영원한 겨울」 기계공방을 운영하고 있으며 가끔은 가게 문을 닫고 로큰롤 야외 공연을 하기도 한다.<br>누군가 기계공방으로 어떻게 돈을 버냐고 묻자… 「이건 취미생활이야, 난 돈이 궁하지 않거든」이라고 대답했다"
         },
         {
             "_id": 2,
-            "Story": "This is the most talented mechanic in all of Belobog and rock star. Did we mention she's also the sister of Captain Gepard Landau of the Silvermane Guards?<br><br><i>\"Stop. Stop that. Keep the first part, and leave out the second part.\"<br>\"I'd like you not to gloss over my identity like that... I, Serval Landau, am no one's accessory.\"<br><br>\"...Oh, there's nothing else afterward? Okay. Let me chip in then: If something's broken, drop into the Neverwinter Workshop in the Administrative District to see me, any time.\"<br>\"What's that, you wanna hear some rock'n'roll? Well, that's even better — drop into our Neverwinter Workshop in the Administrative District to rock this city — with Mechanical Fever!\"</i>"
+            "Story": "이 분은 벨로보그에서 최고의 천재 엔지니어이자 록스타이자 실버메인 철위대 방위관이며 게파드•랜도의 누나이신……<br><br><i>「잠깐, 앞에 말은 남겨둬도 괜찮은데 마지막은 지워」<br>「그렇게 쉽게 내 신분을 단정짓지 마. 나 서벌•랜도는 그 누구의 부속품도 아니니까」<br><br>「…윽, 마지막 말은 없애라고요? 네, 그럼 제가 알아서 보충해 넣겠습니다. 망가진 물건이 있으면 언제든지 행정구역의 기계공방 『영원한 겨울』로 오도록 해」<br>「뭐? 록 음악을 듣고 싶다고? 그럼 더더욱 환영이지. 역시 행정 구역의 기계공방 『영원한 거울』에서 날 찾도록 해. 『매커니컬 피버』와 함께 이 도시를 뜨겁게 달궈보는 거야!」</i>"
         },
         {
             "_id": 3,
-            "Story": "Serval Landau owns a piece of land in the heart of Belobog's Administrative District — the Neverwinter Workshop — where she in theory makes a living from her mechanical repairs.<br><br>But to be more precise, almost all of this genius mechanic's time is spent repairing and making improvements to various musical instruments...<br><br><i>\"Tsk, don't pay any attention to that magazine! I'm a reputable business owner...\"<br>\"From geomarrow radiators to car engines — or even a Silvermane automaton — it's no trouble at all. As well as maintenance and renovations of ordinary appliances, I also provide a modding service.\"<br>\"Like fitting an external drill bit to a snowplow, or a ballistic trajectory calculator to a toaster... That kinda stuff.\"<br><br>\"Ah? You want to know how's business going? Hey, don't ask so many questions — you know I like to fool around with music in my spare time.\"<br>\"Anyway, I never planned on making a fortune... Life's too short. Why not plunge yourself into your hobbies?\"</i>"
+            "Story": "서벌•랜도는 벨로보그 행정구역 중심에 부동산 하나를 보유하고 있다. 그곳은 바로 기계공방 「영원한 겨울」——대외적으로 그녀는 이곳에서 기계를 고치는 것이 직업이다<br><br>하지만 실상은 달랐다. 이 천재 엔지니어는 하루 중 거의 모든 시간을 여러 가지 악기를 개조하는 데 퍼붓곤 했다……<br><br><i>「어, 잡지에서 함부로 떠드는 말들 다 믿으면 안 돼! 나도 엄연한 사업가라고……」<br>「작게는 지오매로우 난방기부터 크게는 자동차 엔진, 아니, 철위대 제식 자동 기갑병까지 모두 고칠 수 있어. 그리고 기계공방은 흔한 장비 수리 말고도 새로운 기능을 장착해주는 서비스도 제공해」<br>「예를 들면 제설기에 드릴을 추가한다든지, 토스터에 탄도 계산 장치를 추가한다든지…」<br><br>「뭐? 매출은 어떠냐고? 참나, 별걸 다 묻네——대충 배불리 먹을 수 있고 여웃돈으로 음악을 할 수 있잖아. 그거면 충분해」<br>「어차피 죽을둥 살둥 열심히 돈을 벌고 싶은 생각도 없어… 한 번뿐인 짧은 인생 자신이 좋아하는 일을 더 하는 게 맞는 거잖아?」</i>"
         },
         {
             "_id": 4,
-            "Story": "Serval was able to rekindle her passion for music after cutting off all connections with her family.<br><br>This led to her prestigious workshop becoming a base for her to rock out — despite suffering constant complaints, this cutting-edge art style from before the Eternal Freeze is still sought out by hordes of hipster kids...<br><br><i>\"Oh, I give up! Can you trashy tabloids and your so-called \"music critics\" focus on what's important, please? 'Suffering constant complaints'... 'hipster kids'... My fans and I would dispute that!\"<br>\"But I suppose it's true that Mechanical Fever is popular with youths — at that age, kids are either full of enthusiasm or are underappreciated...\"<br>\"No matter what your mood is, you always have to vent sometimes. And rocking out with me just so happens to be the best way of doing that!\"<br><br>\"...Just like what I did back in the day.\"<br>\"Ahh, it's fine! Don't worry. I was just suddenly reminiscing about the past...\"</i>"
+            "Story": "서벌이 다시 음악을 시작하게 된 건 랜도 가문과 완전히 의절하게 된 이후였다<br><br>벨로보그 전체에 이름을 떨친 기계공방은 그 뒤로 그녀가 마음껏 로큰롤을 즐길 수 있는 아지트가 되었다——가끔씩 시끄럽다고 신고가 들어가기도 했지만 트렌드에 민감한 수많은 젊은이들이 한파 전에 유행했던 전위적인 예술에 열광했다……<br><br><i>「참나… 어이가 없어서』, 잡지나 신문에서 떠들어대는 『음악 평론가』들 말이야. 좀 더 공정성을 가져야 해! 『시끄럽다고 신고가 들어가다니』? 『트렌드에 민감한 젊은이들』이라니? 나도, 우리 팬들도 그렇게 생각하지 않거든!」<br>「뭐, 젊은 애들이 우리의 『매커니컬 피버』를 좋아하긴 하지. 한참 열정이나 불만을 가슴속에 품고 다닐 때잖아……」<br>「뭐 어느 쪽이든 감정을 분출해야 해. 그리고 내가 사랑하는 『로큰롤』이 바로 감정을 쏟아낼 수 있는 최상의 방법이야!」<br><br>「…내가 예전에 그랬던 것처럼 말이지」<br>「아, 괜찮아. 걱정할 것 없어. 그냥 갑자기 옛날 생각이 좀 나서……」</i>"
         },
         {
             "_id": 5,
-            "Story": "In days gone by, everyone knew that Serval Landau was the smartest out of all the Silvermane Guards — 80% of the rumors about the talented elder daughter of the Landaus are based around this fact.<br><br>However those rumors were almost instantly replaced by a new piece of gossip a few years ago. Why was she, who had always been close with the Supreme Guardian, being fired from the armed forces with no prior warning? Does Serval hold a grudge about it? Everyone has their own theory.<br><br><i>\"The answer to the first question is simple: 'No comment.' This is the Silvermane Guards's top secret. I hope you understand.\"<br>\"And as for the second question...\"<br><br>\"I... I don't give two hoots. Think about it. Is there anything better than living out a justifiably leisurely life? I prefer to say that woman helped me out — I really owe her a debt!\"<br>\"In this world, it's better to enjoy the present moment... No, who am I kidding.\"<br><br>\"If our ends are already doomed, there will be no such thing as true joy.\"</i>"
+            "Story": "한때 서벌•랜도는 실버메인 철위대에서 가장 총명한 머리를 가지고 있는 사람이었다——랜도 가문의 천재 아가씨에 대한 소문이 돌기 시작한 건 바로 그 사건 이후부터였다<br><br>하지만 몇 년 전 어느 날, 그녀의 전설은 곧 또 다른 소문으로 대체되었다. 대수호자와 누구보다 친하게 지내던 그녀가 왜 갑자기 군을 떠난 걸까? 혹시 군을 증오하게 된 걸까? 이에 대해 사람들은 여러 가지 추측을 내놓았다<br><br><i>「첫 번째 질문에 대한 답은 간단해——말할 수 없어. 이 일은 실버메인 철위대의 최고 레벨 기밀과 연관되어 있으니까. 이해해 줄 수 있을 거라 믿어」<br>「그리고 두 번째 질문은 말이지……」<br><br>「난… 난 아무렇지 않아. 생각해 봐? 이렇게 여유로운 삶을 즐길 수 있는 명분을 가지게 됐어. 얼마나 좋아? 그 여자가 날 도와준 거나 마찬가지야. 고맙다고 인사라도 하고 싶은 걸!」<br>「한 번 사는 인생 제대로 즐기며…는 개뿔」<br><br>「이미 종말이 확정된 거라면 진정한 즐거움 따위가 있을 리가 없잖아」</i>"
         }
     ]
 }
@@ -473,196 +473,196 @@ var _story_ = {
 var _voice_ = {
     "1103": [
         {
-            "Title": "First Meeting",
-            "Voice": "Hi Trailblazer, the name's Serval Landau, I'm a Belobog mechanic. Of course, that's really just what I do on the side — rock 'n' roll is my main occupation."
+            "Title": "첫 만남",
+            "Voice": "여어! {NICKNAME}. 난 서벌•랜도, 벨로보그의 엔지니어야——물론 이건 취미로 하는 거고, 로큰롤 공연이 내 본업이지"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Huh? You start work this early?"
+            "Title": "인사",
+            "Voice": "응? 벌써 업무 시작이야?"
         },
         {
-            "Title": "Parting",
-            "Voice": "Signing off now! Time to get some songwriting going~"
+            "Title": "작별",
+            "Voice": "끝났다, 이제 작곡해야지~"
         },
         {
-            "Title": "About Self: Landau",
-            "Voice": "If we Landaus have one thing in common, it's that we're all stubborn in our own way."
+            "Title": "자신에 대해•랜도",
+            "Voice": "랜도 가문 사람들 사이에 공통점이 있다면, 다들 나름의 고집이 있다는 점이겠지"
         },
         {
-            "Title": "Chat: Working as a Mechanic",
-            "Voice": "If you wanna make sure you don't burn yourself out or stifle your creativity, then don't push yourself too hard at work~"
+            "Title": "잡담•엔지니어의 업무",
+            "Voice": "쉽고 편하게 일해야 즐거운 기분을 유지할 수 있고, 창작의 영감도 얻을 수 있는 법이야~"
         },
         {
-            "Title": "Chat: Band",
-            "Voice": "Pela's got a lot on her plate — plus she also does volunteer work on the weekends sometimes. That's why we usually schedule Mechanical Fever's rehearsals at night."
+            "Title": "잡담•밴드",
+            "Voice": "페라는 엄청 바빠, 주말엔 가끔 자원봉사를 가거든. 그래서 「매커니컬 웨이브」는 보통 밤에 연습하는 편이야"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Since I do rock 'n' roll full-time, I'd say my hobby is... work? What's wrong with that?"
+            "Title": "취미",
+            "Voice": "로큰롤이 본업이면 취미는 「업무」 아니겠어? 뭐… 문제없지 않을까?"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "I always get people asking me how my workshop makes money when it's not trading. Use your brain! It doesn't!"
+            "Title": "고민",
+            "Voice": "가끔 사람들이 기계공방을 쉬면 어떻게 돈을 버냐고 묻더라, 그 대답은 뻔하잖아——안 버는 거지, 뭐"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "Mechanics, research, and music are all things I'm pretty good at, wouldn't you say? But I guess making money's not on the list..."
+            "Title": "공유",
+            "Voice": "기계든, 과학 연구든, 음악이든, 다 수준급인 거 같은데? 음, 그러니까… 내가 잘 못하는 건 「돈 버는 일」밖에 없지 않을까?"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "When Bronya becomes the supreme guardian, do you reckon she'll let me perform at Golden Theater? I'll re-arrange that \"Supreme Guardian\" stage show and make it a rock 'n' roll musical!"
+            "Title": "견문",
+            "Voice": "나중에 브로냐가 수호자가 되면 내가 골든 극장의 무대에서 공연할 수 있게 도와주지 않을까? 로큰롤 버전의 ≪수호자≫… 로큰롤 오페라로 각색해 줄 텐데!"
         },
         {
-            "Title": "About Gepard",
-            "Voice": "If he paid more attention to his affairs, it'd save me a lot of headaches... I guess I do create a few headaches for him too... Maybe we're even."
+            "Title": "게파드에 대해",
+            "Voice": "동생이 자기 일에 조금만 더 신경을 썼으면 좋겠어, 그럼 내가 걱정할 필요도 없을 거고…. 됐어, 나도 속 많이 썩였으니까 쌤쌤이지"
         },
         {
-            "Title": "About Pela",
-            "Voice": "She's a flower-growing drummer and a great report writer. Name a more reliable girl. I'll wait."
+            "Title": "페라에 대해",
+            "Voice": "드럼에, 꽃도 키울 줄 알고, 보고서도 잘 쓰지. 이 세상에서 페라보다 더 믿음직한 아가씨가 있을까?"
         },
         {
-            "Title": "About Bronya",
-            "Voice": "Bronya's a good kid — you can tell she learned a lot from Cocolia. *sigh* It's been a while since we saw each other. I miss her."
+            "Title": "브로냐에 대해",
+            "Voice": "브로냐는 착한 아이야, 역시 쿠쿠리아가 키워낸 아이답다니까. 요즘은 자주 못 만났어, 좀 보고 싶긴 하네"
         },
         {
-            "Title": "About Cocolia",
-            "Voice": "The Cocolia I knew would sit on the roof and listen to my songs, but... not the supreme guardian."
+            "Title": "쿠쿠리아에 대해",
+            "Voice": "내가 아는 쿠쿠리아는 내 노랠 들으려고 지붕까지 올라가는 사람이었어, 근데… 「수호자」는 안 그래"
         },
         {
-            "Title": "About Sampo",
-            "Voice": "Hah, that guy. One of these days he's gonna get busted by my brother."
+            "Title": "삼포에 대해",
+            "Voice": "그 녀석? 게파드가 언제 체포할지 두고 보는 중이야"
         },
         {
-            "Title": "About Lynx",
-            "Voice": "Lynxy? ...She's more like me. Ah, don't tell my brother that, he hates hearing it."
+            "Title": "링스에 대해",
+            "Voice": "우리 링스는… 역시 날 더 닮았어. 어? 이건 게파드한테 말하지 마~ 이런 말 싫어하거든!"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Rock 'n' roll might be my only true companion..."
+            "Title": "성혼 활성화",
+            "Voice": "「로큰롤」을 제외하고, 온전히 나만의 것이 있을까……"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Nice! I should write this into my next song..."
+            "Title": "캐릭터 승급",
+            "Voice": "느낌 좋은데~ 신곡 가사에 넣어야겠어!"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "That's it? I've peaked already?"
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "천재의 길에도 끝이 있을 줄은 몰랐네~"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Ta-da! Another one off the to-do list."
+            "Title": "행적 활성화",
+            "Voice": "내 말 맞지? 난 못 하는 게 없다고~"
         },
         {
-            "Title": "Added to Team With Pela",
-            "Voice": "Just like being on stage, right Pela? I'll follow your rhythm."
+            "Title": "파티 편성•페라",
+            "Voice": "평소랑 똑같아, 페라. 우리 공연처럼——네 리듬에 맞출게!"
         },
         {
-            "Title": "Added to Team With Gepard",
-            "Voice": "*sigh* You again, Geppie? Leave some fun for me this time."
+            "Title": "파티 편성•게파드",
+            "Voice": "동생아, 공 세울 기회를 다 빼앗진 말라고!"
         },
         {
-            "Title": "Added to Team With Lynx",
-            "Voice": "Ready, Lynxy? Let's rock!"
+            "Title": "파티 편성•링스",
+            "Voice": "링스! 준비됐어? Let's rock and roll!"
         },
         {
-            "Title": "Added to Team With Bronya",
-            "Voice": "*sigh* Your mother would be proud of you, Bronya."
+            "Title": "파티 편성•브로냐",
+            "Voice": "넌 네 어머니보다 더 멀리 나아갈 수 있을 거야, 브로냐"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Time for the main event."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "지금부터가 하이라이트야"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Here to crash the party?"
+            "Title": "전투 시작•위험 경보",
+            "Voice": "왜? 깽판이라도 쳐보게?"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Pretty good crowd today."
+            "Title": "턴 시작•1",
+            "Voice": "응원 와준 사람이 많네"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "This song's just for you~"
+            "Title": "턴 시작•2",
+            "Voice": "이 노래, 너 줄게~"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "The audience is waiting!"
+            "Title": "턴 대기",
+            "Voice": "관중들 목 빠지겠어"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Let's rock!"
+            "Title": "일반 공격",
+            "Voice": "들뜨는군!"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Keep up with my tempo!"
+            "Title": "전투 스킬•1",
+            "Voice": "내 리듬을 따라와!"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Turn up the volume!"
+            "Title": "전투 스킬•2",
+            "Voice": "함성에 열정이 부족해!"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "That's it?"
+            "Title": "약공격 피격",
+            "Voice": "별것 아니야"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Not bad."
+            "Title": "강공격 피격",
+            "Voice": "꽤 하는걸"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Ready to lose yourself?"
+            "Title": "필살기•활성화",
+            "Voice": "망가질 준비됐어?"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Fight it or rock with it... my music conquers all!"
+            "Title": "필살기•발동",
+            "Voice": "반항, 동요, 타락할 것 없이… 이 모든 건……"
         },
         {
-            "Title": "Downed",
-            "Voice": "The show... must go on..."
+            "Title": "전투 불능",
+            "Voice": "공연이…… 아직……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Time for an encore~"
+            "Title": "전투 복귀",
+            "Voice": "앙코르 소리가 들렸어~"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Ah~ Ready to jam~"
+            "Title": "HP 회복",
+            "Voice": "하~ 기분이 상쾌해~"
         },
         {
-            "Title": "Technique",
-            "Voice": "Can't stop the rock!"
+            "Title": "비술",
+            "Voice": "로큰롤은 멈추지 않아!"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "The best is yet to come!"
+            "Title": "전투 승리",
+            "Voice": "하이라이트는 항상 다음에 있지!"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Wow, good stuff."
+            "Title": "전리품 오픈•1",
+            "Voice": "오, 좋은 거야"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Wow!"
+            "Title": "전리품 오픈•2",
+            "Voice": "와우!"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Never expected to find this here!"
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "이런 게 숨겨져 있을 줄이야!"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "I'm getting the hang of this."
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "느낌이 딱 왔어"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Wish I had time to examine its inner workings!"
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "해체해서 연구해 보고 싶은걸!"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Huh, these targets will make for good practice~"
+            "Title": "적 발견",
+            "Voice": "휴우, 손 풀기 딱 좋은 상대네~"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "There's inspiration in every glance and every breeze."
+            "Title": "도시로 복귀",
+            "Voice": "눈빛과 바람만 있어도 영감은 떠오르지"
         }
     ]
 }

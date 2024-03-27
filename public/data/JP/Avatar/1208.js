@@ -462,23 +462,23 @@ var _story_ = {
     "1208": [
         {
             "_id": 1,
-            "Story": "The head of the Xianzhou Luofu's Divination Commission and a confident, no-nonsense sage. <br>Using her third eye and the Matrix of Prescience, Fu Xuan calculates the Xianzhou's navigational route and predicts the fortune of future events. She firmly believes that everything she does is the \"best solution\" for the situation.<br>Fu Xuan is waiting for the general's promised \"abdication.\" However, that day still seems... very far away."
+            "Story": "仙舟「羅浮」太卜司の長、自信に溢れたまっすぐな知者。<br>第三の目と窮観の陣を用いて仙舟の航路を占い、物事の吉凶を予見する。自分がしたすべての事が「最善策」であると固く信じている。<br>符玄は将軍が約束した「座を譲る」日を待ち続けているが…どうやら、この日はまだ遠いらしい。"
         },
         {
             "_id": 2,
-            "Story": "Even after the stretch of many years, Fu Xuan would always think of the day she got permission to enter \"the library\" and ask her question.<br><br><i>\"What are you thinking about?\"</i> The blind elder wearing sunglasses awaited her response in silence, tilting his head and holding to his cane for support.<br><br><i>\"Do all those moments of choice hold predestined outcomes? Or is it that, if in that very instant, I could calculate with even greater precision, even by a fraction of a fraction, I could make the right choice and prevent them from leaving?\"</i> The girl's eyes were half-closed, and she spoke her question akin to an answer.<br><br><i>\"Across each and every moment, we stand at the center of a maze laid out by our own footprints.\"</i> The old, blind man softly shifted his cane.<i> \"I cannot provide you with answers. I can only offer questions... and the perspective to see them. And whatever you have sought from me along the way, surely it is not an answer.\"</i><br><br><i>\"Then, grant me 'The Eye'. Regardless of whether fate has been predetermined from the start, as a diviner, I long to see with greater clarity.\"</i><br><br><i>\"As you wish. But the people of the Xianzhou are ageless in flesh. To accept my 'eye' means to bear timeless pain. Rather than a tool, it is more like an.... 'instrument of torture.'\"</i><br><br><i>\"Aren't these the very words of the Wisdomwalker's creed? Knowledge exchanged with pain. I do not wish to make the same mistake in my future choices.\"</i><br><br>...<br><br>In the stupor that followed the bestowal of her \"eye,\" she witnessed a great many past happenings.<br><br>She saw herself during childhood, sitting upright and diligent in her studies; her father tenderly brushing the point between her brows, proudly praising her intellect and wit; her elders revealing to her the Fu family's gloried history serving as the Xianzhou Yuque's stargazers. She saw the operations and rites conducted by diviners, divining the brilliant future for her where she would claim the throne of master diviner.<br><br><i>\"Is this my future?\"</i><br><br><i>\"Isn't every morsel, every drop predestined?. This is your destiny. The divination results have been submitted to Master Diviner Jingtian, and he has agreed to personally supervise your tutelage. This is an immense fortune you have been blessed with.\"</i><br><br>All the past is layered in the mists of probability, shifting on the edges of consciousness between dreams and reality, and extending forward into futures uncountable. She strove to find the day she became a diviner in the vastness of all moments."
+            "Story": "どれだけの年月が過ぎようと、符玄は自分が「ライブラリー」に入る許可を与えられ、質問を投げかけた日のことを覚えている。<br><br><i>「君は何を考えている？」</i>杖をついたサングラス姿の盲目の老人は、ただ静かに彼女の返事を待っている。<br><br><i>「選択ができる瞬間は…すべて定められたものなのか？それとも、あの瞬間に、もっと正確に、あと万分の一でも正確に占うことができたなら、私は正しい選択をして、彼らを引き止められたのだろうか？」</i>少女は半分目を閉じていて、問いかけているようにも、答えているようにも見えた。<br><br><i>「私たちは常に、己の足跡が作り上げた迷路の中心に立っている」</i>。盲目の老人はそっと杖をついた。<i>「私には答えを教えられない。私が与えられるのは、問題…そして問題を見るための眼界だけだ。君がここまで来て私に求めるものも、きっと答えではないだろう」</i><br><br><i>「なら『目』を貰えるかしら。運命は定められたものなのか、1人の卜者として、もっとはっきりと見たいの」</i><br><br><i>「君の望むままに。だが、仙舟人の肉体は長存するもの…私が与える『目』を受け入れることは、永遠の苦痛を受け入れることを意味する。それは知識を得るための道具というより…むしろ『刑具』に近い」</i><br><br><i>「それなら遍知天君の信条にも合っているわね——知識は苦痛を経て手に入れるもの。私は未来の選択で同じ過ちを繰り返したくはない」</i><br><br>……<br><br>「目」を授かる時、彼女は昏昧の中で過去を見た。<br><br>正座して読書に励む幼い自分の姿。愛おしそうに彼女の頭を撫でながら、その聡明さを誇らしげに褒める父の姿。仙舟「玉殿」の観星士世家として、符氏一族の歴史がいかに素晴らしいかを語る家の年長者の姿。そして、彼女の輝かしい未来を占うため、準備を進める卜者たちの姿——彼女は、やがて「太卜」の座に就くらしい。<br><br><i>「これが私の未来？」</i><br><br><i>「一飲一啄、前定に非ざるは莫し。これが君の宿命だ。占卜の結果はすでに太卜竟天様に上程した。彼は君のために自ら講義をすると言っている…これは大きな福運だ」</i><br><br>すべての過去が確率の霧の中で重なり合い、夢か真か分別できない。それは意識の縁で変化を続け、数え切れないほどの未来に展延していく。彼女は無数の瞬間を必死に見極めながら、自分が正式に卜者になる日を探し求めた。"
         },
         {
             "_id": 3,
-            "Story": "On that day, Fu Xuan sought her master beneath the Cloudpeer Telescope of the Xianzhou Yuque, but found herself unable to believe that the man before her was the master diviner her elders had so reverently regarded. He wore a somewhat aged pilot's outfit and was unceremoniously seated on the ground, his attention dedicated entirely to the shifting of the interwoven light rays in the matrix.<br><br><i>\"Your humble student, Fu Xuan, comes bearing her respects, Master Diviner.\"</i> Such were the words spoken by the girl after a period of hesitation.<br><br>The man's gaze remained unwavering, as he simply raised a finger, beckoning her to look at the show. Fu Xuan noticed that his hand had, inexplicably, morphed into a wooden ingenium. <i>\"The Yuque's Nephjade Orbit Fleet are currently laying out a defense at Thalassa in coordination with the Yaoqing's encirclement and eradication of abominations. You should have heard of this, yes? However, they are fated to lose this battle.\"</i><br><br><i>\"Huh? The Yaoqing is noted for its martial prowess and is rarely rivaled. According to intelligence, our forces outnumber and outmatch the borisin. How can victory be denied if an attack is commenced?\"</i><br><br><i>\"Well asked. You don't seem like an apprentice that just accepts things.\"</i> The man stood up and patted down his dust-coated sleeves. <i> \"A diviner knows fate without resigning to it. Treading through varied possibilities to find the best choice is indeed wise. But, sometimes, no matter how you choose, destiny will only grant you a single path forward. When the finalized divination presents you with only two outcomes, the bad and the worse, what will you choose?\"</i><br><br><i>\"...Naturally, the choice should be the lesser of two evils. This is the first lesson of divination.\"</i><br><br><i>\"But what if it's humanly impossible to judge matters at hand?\"</i> The man turned.<br><br><i>\"This divination is gleaned from the newly arranged 'Deca-Light Reflection Barrier' matrix. There are two outcomes: To temporarily transfer the Crane Feather Orbit Fleet of the Xianzhou Yaoqing, or to draw from the manpower of the Ebony Pearl Orbit Fleet of the Fanghu. Only one choice can be made. To use the Crane Feather Orbit Fleet means being able to press a strong offense for some time but losing any hope of victory thereafter. To use the Ebony Pearl Orbit Fleet, we must endure the vast distances between us and the Fanghu and have the conflict drag on for six months. During this time, we must also withstand multiple counterattacks from the enemy, not to mention the losses that are certain to come. But should the defense hold until reinforcement arrives, then victory may well become possible.\"</i><br><br><i>\"They went with the first option, I presume?\"</i><br><br><i>\"Correct. Divination can provide counsel and guidance, but only the general can make the final decision. He chose the path that would lead to the smallest loss. This didn't invalidate my divination, of course — defeat was the predetermined outcome.\"</i><br><br><i>\"The treatises on the art of war state that an advantage in numbers speaks favorably for initiating battle, and calling on the aid of Yaoqing's forces may not be the worst possible decision. Moreover, nothing is ever certain in this world. How can you be so sure, master diviner? How can you speak as if all have been predestined?\"</i><br><br><i>\"Nothing is ever certain in this world?\"</i> The man sighed heavily. <i>\"I thought the same thing when the divination results appeared... I thought there must have been an error in the calculations. However, the results did not change after the re-analysis. I therefore resolved to head to the battlefield and seek evidence myself.\"</i><br><br><i>\"I had ventured deep into Thalassa the past few weeks, fought the abominations, and gained the trust of the local water dwellers. That was how I received a shocking piece of news: Within a month's time, a great tide known to the Thalassans as the 'Devil's Tide' — caused by the gravitational influence of their moon — will arrive.\"</i><br><br><i>\"None will be able to keep fighting the abominations in such abyssal conditions without the help from the Fanghu Vidyadhara's cloudhymn magi. This piece of intel does not exist on any guide, nor is it recorded in our army's data bank. Only that, in order to validate my results in a moment of superfluous effort, I gave my hand as the price.\"</i><br><br>The man smiled bitterly and lifted his wooden hand in a wave. <i>\"Sometimes there is only ever one path in destiny. Everything is predetermined.\"</i><br><br><i>\"By the way, you don't need to address me as master diviner. You should call me 'Teacher' from today onward.\"</i>"
+            "Story": "その日、仙舟「玉殿」の瞰雲鏡の下で、符玄は師と対面した。しかし、彼女は目の前にいる人物が、一族の者たちが神人として崇める太卜であることなど、にわかには信じられなかった。その男はやや古くなった飛行士の短褐を身に纏い、無作法にも足を伸ばして地面に座ったまま、投影陣列の中で変幻交錯する光の点をじっと見つめている。<br><br><i>「末学符玄、ご挨拶に参りました」</i>。少し躊躇いながら、少女は口を開いた。<br><br>男は視線を動かすことなく、彼女に図を見るよう手で合図を送る。その時、符玄は彼の手が木製の機巧であることに気がついた。<i>「玉殿の鳴珂衛がタラサの防衛に着き、曜青艦隊の忌み物の殲滅に協力している。君も聞いたことがあるだろう？だが、彼らはこの戦いには勝てない」</i><br><br><i>「え？曜青艦隊は武勇に優れ、敵うものはいないと言われております。戦報によれば、我が軍の人数と戦艦は歩離猟群の倍はある。それでも敗れると仰るのですか？」</i><br><br><i>「いい質問だ。君は簡単にあきらめる生徒ではないようだな」</i>、男は立ち上がり、服についた埃を払った。<i>「運命を知っていても、それに屈することなく、数多の可能性の中で最善の選択を模索する…これは卜者として正しいことだ。しかし、いくら選択しても運命は目の前の1本道しかない、という時もある。占卜が終わった時、凶と大凶、この2つの結果しか残されていない場合、君はどうする？」</i><br><br><i>「…両方の害を比較して、少しでも軽いほうを選ぶ。占卜学で一番最初に習ったことです」</i><br><br><i>「人間の眼界では、両者の軽重を量ることができない場合は？」</i>そう言いながら、男はこちらに振り向いた。<br><br><i>「今回の占いは、新たに構築された陣法『十方光映法界』によって推演されたもの。その結果は2つ、仙舟「曜青」の鶴羽衛を借りるか、仙舟「方壺」の玄珠衛を借りるかだ。鶴羽衛を取った場合、その兵力に頼って一時的に強攻することはできるが、その後の勝利はない。玄珠衛を取った場合、遠方にいる方壺の協力を得るため、6ヶ月は戦を長引かせることになってしまう。その間も敵の反撃に耐え続けなければならないが、援軍が来るまで持ちこたえることができれば、勝利の可能性はある」</i><br><br><i>「彼らは前者を選んだのですね」</i><br><br><i>「そうだ。卜算の結果はあくまで参考であって、将軍の代わりに決断することはできない。彼は目の前の損害を小さくする方法を選んだ。だが、僕も間違ってはいない。これは定められた結果なんだ」</i><br><br><i>「兵書の『倍あれば戦う』原則に沿うのであれば、曜青の軍を呼ぶことも下策ではないでしょう。そもそも、この世に定められたことなどありません。それなのに、なぜ太卜様は必然だと断定するような言い方ができるのですか？」</i><br><br><i>「この世に定められたことはない？」</i>、男は大きくため息をついた。<i>「僕もそう思っていた…占いの結果が出た時、計算が間違っていたのではないかと疑ったが、改めて推演しても結果に変化はなかった。だから、僕は自分で証明を求めることにしたんだ」</i><br><br><i>「この数週間、僕はタラサに行き、忌み物と戦い、現地の水居者文明の信頼を得た。そして、驚くべき情報を手に入れた…月の干渉を受け、1ヶ月後にはタラサ人が『悪魔の潮』と呼ぶ大潮が始まる」</i><br><br><i>「方壺持明の雲吟師の助けがなければ、その劣悪な環境で敵と戦い続けることは叶わない。この情報は如何なる博物誌にも、軍の資料にも載っていない…余計な真似をしてソレを証明しようとした結果、僕は自分の手を失った」</i><br><br>男は苦笑しながら、木製の手を挙げて左右に振った。<i>「時には、運命の道は1つしかないこともある。すべては運命に定められているんだ」</i><br><br><i>「ああ、そうだ。僕のことを太卜と呼ぶ必要はない、今日からは『師匠』と呼んでくれ」</i>"
         },
         {
             "_id": 4,
-            "Story": "She spent the happiest time in her life studying in the Yuque's Divination Commission. She learned about predestination versus free-will, about matrix calculations versus human choices... The girl recalled she was always arguing with her teacher on every issue regarding divination and fortune-telling. Those were not aggressive confrontations with sharp words, but heated discussions between peers. And yet, though the two agreed on many topics, there was one issue they could not come to a consensus —<br><br>Nous had granted divine volumes outlining the matrix calculations to the Xianzhou centuries ago. The Xianzhou Yuque's Divination Commission had pored over them to interpret and manifest the wisdom within, ultimately constructing the best divination matrix in the entire Alliance. Thought this is a point of pride for Yuque's diviners, Fu Xuan felt it was nothing short of culling the future possibilities of the Xianzhou people within the narrow path set out by the matrix.<br><br>When people believe that the predictions of the matrix will always come to pass, then \"choice\" became an empty concept only for show. The diviners have unwillingly become prisoners of the matrix. They head to work when the hour is fortuitous, and stay home when the hour is ominous. What they do, what they avoid doing — everything was in accordance with the divination results.<br><br><i>\"If the matrix tells me that I will die tomorrow, does that mean I should just hurry up and end myself? At that point, what is the difference between performing a divination and not performing one?\"</i><br><br><i>\"The difference is that we know we walk on the ordained path set by the heavens. That is the supreme path sought by Grandmaster Xuan Yao, who initiated the Divination Commission system.\"</i><br><br><i>\"All the diviner has to do is to faithfully believe and obediently follow the guidance of the matrix, and make one choice after another in that way — even though those choices may be ludicrous, incomprehensible, or difficult. All such efforts will ultimately lead the Xianzhou to the great work that it has been seeking throughout its existence — that of eradicating the Plagues Author and rid the world of the agony of Abundance.\"</i> The man's expression was as placid and calm as an enlightened disciple who had received divine revelation. He looked at Fu Xuan and continued, <i>\"just like how I chose to take you in as my student after knowing about your predetermined future.\"</i><br><br>It wasn't for my talents? And it wasn't for my well-connected family? It was just to fulfill some prediction? This... this was absurd! Rage took over Fu Xuan, and she was at a loss for words.<br><br><i>\"Did I ever tell you that after I consulted the Deca-Light Reflection Barrier and interpreted the hexagram, I now firmly believe that my life will end in your hands? However, I still took you in as my student. I'm waiting for you to take over my position and become the Xianzhou Yuque's master diviner, because it has all been predetermined.\"</i><br><br>Predetermined? His life will end in my hands?<br><br>He was talking as if the Xianzhou was still in the Three Sufferings Era! As if she was a treacherous disciple who craved the seat of the master diviner so much, that she would even kill her teacher for it! Her teacher was a scoundrel!<br><br><i>\"And I... I will never let that prediction come to pass!\"</i><br><br>The girl admired everything about her master as a diviner — his intelligence, skills, and integrity. However, she could not accept how he willingly sank into the blinding abyss of fatalism and regarded it as an acceptable way of life, despite being a diviner who could peek into destiny.<br><br>Therefore, Fu Xuan ran away from the Xianzhou Yuque despite her family's dissuasion and the hurdles she had to cross. She ran away like a self-exiled escapee, plunging into the Luofu's Divination Commission with its more unrestricted culture and devoted herself to calculations. Not only did she want to part from the Xianzhou Yuque, she also wanted to prove with her own hands that her teacher's prediction was nothing but his own ludicrous delusions."
+            "Story": "玉殿の太卜司で、彼女は人生で最も楽しい時間を過ごした。宿命と自由意志、陣法推演と人の選択…占卜に関連するありとあらゆる問題について、少女は師匠と論争を繰り広げた。これは弁論のような言い争いではなく、師弟であり、友でもある2人の競い合いのようなものだ。最終的に、少女と師匠は大半の問題について意見を一致させたが、2人の間には避けては通れない相違があった——<br><br>ヌースに書籍演算を求めてから、仙舟「玉殿」の太卜司は数百年の歳月をかけ、解読を実現した。玉殿が仙舟一を誇る占卜陣法を構築することができたのはこのためだ。玉殿の卜者たちは皆、それを誇りに思っている。しかし符玄から見れば、これは仙舟人の未来を陣法が定めた道に縛り付けただけに過ぎなかった。<br><br>人々は陣法が示した未来は必ず実現すると信じ込み、選択とは名ばかりの置き物になった。卜者は陣法の囚人となり、吉時に出かけ、凶時に立ち止まり、その日に適した事や適さない事に注意を払い、すべてを占卜の結果通りに進める。<br><br><i>「陣法に明日お前は死ぬと告げられたら、私は自害しなければならないのですか？それなら、占うも占わないも同じことでしょう？」</i><br><br><i>「僕たちは、自らが天命を歩んでいることを知っている。それが違いだ。そして、これこそが太卜司の制度を創設した玄曜祖師が追い求めた、至上の道でもある</i><br><br><i>「陣法の助けがあれば、卜者たちはただひたすら敬虔に信じ、啓示に準じて1つ1つ選択をするだけでいい——たとえそれが信じられないようなものでも、艱難辛苦を伴うものであってもね。そのすべてが、いずれ僕たち仙舟の求める偉業を達成させてくれるだろう。寿瘟禍祖を取り除き、世間から寿禍の苦しみを消し去るという偉業を」</i>男の表情は、まるで悟りを開いた覚者のように、堂々としていて穏やかだった。彼は符玄を見て言った。<i>「僕が君の命数を知って、弟子にしたように」</i><br><br>私の才能のためではない？私の一族の人脈のためでもないと？ただ、予言を実現させるためだけに？まさか…そんなの馬鹿げてる！符玄の胸に怒りの波が押し寄せ、彼女は一瞬言葉を失った。<br><br><i>「知っているか？『十方光映法界』に問いかけ、卦象を解読した後、僕は君の手によって自らの運命が断絶されると確信したんだ。それでも僕は依然として君を弟子にして、仙舟『玉殿』の太卜たる座を受け継いでくれる日を待つことにした。なぜなら、すべては運命に定められているからだ」</i><br><br>運命に定められている？彼の運命が、私によって断たれる？<br><br>まるで、仙舟がまだ三劫時代にいるかのようだ。彼女が太卜の座を狙い、師を手に掛けることも厭わない逆徒であるかのような物言いではないか。この大馬鹿師匠め！<br><br><i>「ならば、私は…それを現実にはさせません！」</i><br><br>少女は彼の心智を、技巧を、人柄を、卜者としてのすべてを尊敬していた。ただ1つだけ受け入れられなかったのは、運命を覗く卜者でありながら、彼が宿命論の深淵に甘んじて堕落し、それを当然だと思っていることだ。<br><br>そこで符玄は一族の制止を振り切り、すべての妨害を無視して、半ば自己追放に近い形で仙舟「玉殿」から逃げ出した。彼女はより自由な気風のある羅浮の太卜司に入り、そこで占卜に没頭した。仙舟「玉殿」を離れるだけでは足りない。あの予言が誰かの馬鹿げた妄想でしかないことを、彼女は己の手で証明しようとしたのである。"
         },
         {
             "_id": 5,
-            "Story": "Centuries passed thus, and the flames of war descended again. Diviner Fu Xuan calculated ceaselessly at her job. The grand armies of the Denizens of Abundance formed for the third time and launched a surprise attack on the Xianzhou Fanghu. The Yuque and the Luofu were close to the Fanghu, and it was their duty to give assistance. The divination revealed that all Xianzhou armies will meet a devastating defeat if they choose to face the assault head-on — however, should they keep up a defense, then there will be a chance to change the tides of battle.<br><br>What a pity that the hexagram did not reveal how this chance will come about! Fu Xuan calculated and divined over and over again, yet the results given by the Matrix of Prescience never changed.<br><br><i>\"No one will choose defeat.\"</i> This was the limit of a diviner's capacities. Fu Xuan outlined the pros and cons in writing and submitted the divination results to the Seat of Divine Foresight. However, as she expected, the outcome of the meeting between the Arbiter-Generals concluded that they must not take on a defensive position, not when such overwhelming numbers of the Abundance Axis were assaulting the Fanghu. The Cloud Knights of the Luofu and the Yuque must rise to face the enemy, buying time before the Yaoqing's army can arrive.<br><br>On that day, Fu Xuan bore witness through the Projection Sandpit to the Alliance's army being decimated. Not only did the borisin bring fleets and mechabeasts numerous enough to block out the sky, they even summoned the incarnosphere Ketu Mirage from ancient legends. This evil gravitated toward the Fanghu, hellbent on bringing annihilation to all lives onboard, recreating the tragedy of the fall of the Xianzhou Cangcheng. And the only thing people could do was watch as it neared.<br><br>Was this truly the limit of a diviner's capacities!? A bold idea surfaced in Fu Xuan's mind as she drowned in anxiety and anger. <i>\"I must see General Jing Yuan!\"</i><br><br>The girl spoke her thoughts when brought face-to-face with the general. It was no longer possible to obtain victory with the forces available to the Cloud Knights. The only chance of victory lies in making the Reignbow manifest themselves.<br><br>She was not expecting the tired-looking man before her to simply nod after hearing her absurd and borderline blasphemous idea. The general did not even show any hints of ridicule. <i>\"How would you want to do it?\"</i><br><br><i>\"The Xianzhou Yuque holds the Cloudpeer Telescope, the ultimate astronomical observation device in the Alliance. Not only can it scry into the distance, it can also be used to send out information... I plan to ship the Cloudpeer Telescope to the Fanghu using a Navis Astriger, and send out an SOS signal to the last observed location of the Reignbow's Lux Arrow. If we hurry, we still have a chance to turn everything around before that living planet falls.\"</i><br><br><i>\"I trust that you are... well aware of the singular sign of the Reignbow's descent onto the physical plane and its consequences, correct?\"</i><br><br><i>\"Yes. As the person who voiced this plan, I am willing to be on the front lines and execute it.\"</i> The girl's expression was solemn. She was keenly aware of how unorthodox her idea was.<br><br><i>\"I thank you for your words, but the Six Charioteers should work together to combat such a great crisis. Moreover, you do not have the permission to manipulate that device. Should this plan go awry, I will take all responsibility as the one who made the suggestion. Do not trouble yourself over this, Miss Fu.\"</i><br><br>As Fu Xuan watched the general's retreating figure, she suddenly realized what he meant by \"the Six Charioteers should work together\" — the only person who has the permission to use the Cloudpeer Telescope and can send out a signal in the format of the Reignbow's decree...<br><br>...was none other than the Yuque's Master Diviner.<br><br>...<br><br><i>\"Is this why you seek \"The Eye\"? I saw your dreams...\"</i><br><br>The girl did not open her eyes, yet she could already see the world around her condense into solid form from nebulous mist, see all possibilities fade and leave behind the solitary, absolute, and faultless \"choice.\"<br><br><i>\"Those are not dreams. They are my past. They made me who I am.\"</i><br><i>\"And he was right all this time. There is only ever one path in destiny.\"</i>"
+            "Story": "それから百年が過ぎた頃、再び戦が起こった。卜官である符玄は命を受け、休むことなく占卜を続けていた。豊穣の大軍が三度結成され、仙舟「方壺」を強襲した。玉殿と羅浮は方壺からそう遠くない場所にいるため、救援の責任から逃れることは許されない。卜算の結果によると、全力で迎撃すれば、参戦した仙舟の軍隊はいずれも大敗を喫することになるが——守勢に徹すれば、挽回の余地はある。<br><br>だが、その転機がどこにあるのか、それを卦象は示さなかった。符玄は推演を繰り返したが、窮観の陣の結果は変わらない。<br><br><i>「失敗を選択する者はいない」</i>。卜者にできることは、すべてここにある。符玄は利害を陳述すると、卜算の結果を神策府に報告した。方壺を侵犯する豊穣連合軍の兵力は非常に強大で、守勢を取るだけでは足りないと、帝弓天将は合議を経て決断した。想定内の結果だ。羅浮と玉殿の雲騎軍は敵を迎え撃ち、曜青の部隊が駆けつけるまでの時間を稼がなければならない。<br><br>その日、符玄は投影沙盤を通して援軍の敗北を見届けた。歩離人は天を覆うほどの艦隊と器獣だけでなく、いにしえの伝説に登場する活性化惑星「計都蜃楼」を呼び寄せたのだ。その邪星は方壺に落ち、そこに住まうすべての命に終末をもたらそうとしている——仙舟「蒼城」の覆滅の惨劇のように。人々は邪星の降臨を見ていることしかできない。<br><br>卜者にできることは本当にこれだけなのだろうか？焦りと怒りの中で、符玄の中に極めて大胆な考えが浮かぶ。<i>「景元将軍に会わせて！」</i><br><br>将軍に会った彼女は、自身の考えを陳述した。目下の雲騎軍の力では、もはや勝機はない。唯一の転機があるとすれば、それは帝弓の垂迹を顕現させることであると。<br><br>意外なことに、この冒涜とも取れる非合理的な考えを述べ終えた後、目の前にいる疲れた顔をした将軍は、特に嘲笑する様子もなく、ただ頭を縦に振った。<i>「君はどうしたい？」</i><br><br><i>「仙舟『玉殿』には同盟の観星第一重器、瞰雲鏡があります。この装置は観測だけでなく、外部に信号を送ることもできる…つまり、船を使って瞰雲鏡を方壺に運び、帝弓の光矢が最後に出現した場所に向けて助けを求めるのです。今すぐ動けば、あの惑星が墜ちる前に事態を好転させられるかもしれません」</i><br><br><i>「帝弓が降臨する唯一の兆しと、それがもたらすであろう結果を…君はわかっている。そうだろう？」</i><br><br><i>「はい。本件の提案者として、私自ら戦場に赴き、策を実行しましょう」</i>、少女は険しい顔で言った。自分の案が突拍子もないものだということは、彼女自身も理解している。<br><br><i>「君の建言に感謝する。だが危機に瀕した時は、六御が心をひとつにして立ち向かうべきだ。それに、君にはその装置を操作する権限がない。この作戦によって事態の収集がつかなくなった時は、私が提言者として全責任を負う。符玄殿、君は何も心配しなくていい」</i><br><br>去っていく将軍の後ろ姿を眺めながら、符玄は不意に「六御が心をひとつにして立ち向かう」という意味を理解した。瞰雲鏡の全権限を持ち、さらには帝弓の勅命を解読する形で信号を送ることのできる人物は——<br><br>玉殿の太卜、ただ1人。<br><br>……<br><br><i>「これが、君が『眼界』を求めた理由か？君の夢を読み取った……」</i><br><br>少女は目を閉じたままだったが、周囲の世界が霧から実体に凝縮されていくのが見えた。すべての可能性は消え去り、明確で間違いのない唯一の選択だけが残っている。<br><br><i>「それは夢じゃない。今の私を形作った、私の過去よ」</i><br><i>「彼は間違っていなかった…運命の道は、常に1本しかない」</i>"
         }
     ]
 }
@@ -486,228 +486,228 @@ var _story_ = {
 var _voice_ = {
     "1208": [
         {
-            "Title": "First Meeting",
-            "Voice": "I am Fu Xuan, head of the Divination Commission. This is our first encounter... or perhaps I should say — our twenty-second first encounter... Through the omniscia, I have met you for the first time, many times..."
+            "Title": "初対面",
+            "Voice": "私は羅浮の{RUBY_B#タイボクシ}太卜司{RUBY_E#}の長、{RUBY_B#フゲン}符玄{RUBY_E#}。はじめまして——いいえ、久しぶりと言うべきかしら…私は法眼を通して、すでにおまえとの初対面を 22 回経験しているから。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Honored guest, would you like to know your fortune? No need to act surprised — your reason for coming has already been foretold by the hexagram."
+            "Title": "挨拶",
+            "Voice": "珍客ね、吉凶を占って欲しいのかしら？驚く必要はないわ。おまえが来ることは、すでに卦象でわかっていたもの。"
         },
         {
-            "Title": "Parting",
-            "Voice": "You're leaving? Good timing, I too have other affairs to attend to."
+            "Title": "お別れ",
+            "Voice": "もう行くの？私は忙しいから、遠くまで見送りはしないわ。"
         },
         {
-            "Title": "About Self: Diviner",
-            "Voice": "People say that nothing escapes my omniscia, but that isn't true. No divination can be entirely accurate. I am a diviner, not a prophet who speaks for the divine."
+            "Title": "自分について・卜者",
+            "Voice": "誰もが私を「遺漏なき法眼」と称するけど、私はそうは思わない。占卜は万能ではないでしょう？私は卜者であって、神託を説く預言者ではないの。"
         },
         {
-            "Title": "Chat: Third Eye",
-            "Voice": "The eye on my forehead is a treasure from beyond the heavens bestowed on me by Nous. With it, I am able to see changes in the external world and explore many possibilities. However, as Nous made clear: \"Knowledge comes at the price of suffering.\" The omniscia is, in some ways, an eternal punishment."
+            "Title": "世間話・第三の目",
+            "Voice": "この額にある眼は天外を漫遊していた時に得たもので、ヌースの重宝よ。これは私が周囲の変化を洞察するのを助け、多くの可能性を視せてくれる。ヌースの絶対的な信条では「知識は苦痛と引き換えに得るべきである」とされているから、この法眼は永遠の刑具と言えるわね……"
         },
         {
-            "Title": "Chat: Matrix of Prescience",
-            "Voice": "It is through this Matrix that the diviners view the past and know the future. The Luofu, drifting on the sea of stars, could not be without it for even a day. But... sometimes I wonder if it limits our future possibilities and seals our path ahead?"
+            "Title": "世間話・窮観の陣",
+            "Voice": "卜者たちは、この陣で先に起きる変化を知る。星の海を漂う羅浮にとって、なくてはならない存在なの。ただ…時々、これが私たちの進路や多くの可能性を閉ざしているのではないかと思うことがあるわ。"
         },
         {
-            "Title": "Chat: Work",
-            "Voice": "Early this morning, I performed a divination reading. There were undulations between the water and fire trigrams, with multiple fluctuating variables... The reading said that it would be best to not conduct official business or work overtime today. Hmph, how tiresome."
+            "Title": "世間話・仕事",
+            "Voice": "今朝の占いでは、変動は坎、離の間、変数が多いと出ていた…ふう、公務も残業もしないほうがいいなんて、本当に何もできないじゃない。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "After a long night's work, I like to drink a cup of the Dragon Lady's specially blended herbal tea. I add sugar, more sugar, and extra sugar! Just one cup and I feel like a new person! It helps recharge all the energy I spend through my calculations."
+            "Title": "趣味",
+            "Voice": "太陽が昇る前から働く時は、少し時間を作って龍女が特別に配合した薬茶を飲むようにしているわ——これでもかというほど砂糖を加えて一気に飲むと、気力が湧いてきて、計算で消費したエネルギーを補うのにちょうどいいの。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "I am educated and well-read, and so sometimes I can't help but quote the classics. Still, there are those that tell me I'm speaking \"Fu Xuan.\" Hmph..."
+            "Title": "悩み事",
+            "Voice": "私は見識が広く、色々な書物を網羅しているから、どうしても話している時に言葉を引用してしまうの。そのせいか、粗探しが好きな人が「人の言葉を喋れ」と言ってくるのよね…ふん。"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "One of the Divination Commission's unwritten rules is the \"three taboos\" — which includes \"no unjust divination.\" So, if you want me to divine the winning lottery numbers, future market conditions, or the like, forgive me for declining to offer my services."
+            "Title": "シェア",
+            "Voice": "太卜司の{RUBY_B#ふぶんりつ}不文律{RUBY_E#}である「占うべきではない3つのもの」の中に、「不義を占わず」というのがある。宝くじや相場の変動について聞かれても、答えるつもりはないわ。"
         },
         {
-            "Title": "Knowledge 1",
-            "Voice": "Although the Alliance followed the Reignbow Arbiter's order to hunt down the Plagues Author... every Xianzhou ship still has Aeonspawn known as \"Traces of the Abundance.\" At the heart of the many delves of the Luofu, there is the Ambrosial Arbor that gives us longevity."
+            "Title": "見聞・1",
+            "Voice": "同盟は帝弓の啓示に従い、{RUBY_B#寿瘟禍祖}寿禍の王{RUBY_E#}を巡狩しているけれど…どの仙舟にも「豊穣の仙跡」と呼ばれる星神の造物が残っている。羅浮の多くの洞天には、私たちを長命にした「建木」が封印されているわ。"
         },
         {
-            "Title": "Knowledge 2",
-            "Voice": "The Yuque was the birthplace of the Divination Commission, where the stargazers and diviners gathered to observe the stars and plot the path ahead for the Alliance. I have seen the lithogenic ore of the Fallow Earth there — it is the source of our Jade Abacus technology."
+            "Title": "見聞・2",
+            "Voice": "仙舟玉殿は太卜司制度発祥の地。観星士や卜者といった賢者が集まり、同盟のために方略を決め、星を観察する。かつて、あそこで「{RUBY_B#ソクジョウ}息壌{RUBY_E#}」の胎石を——「息壌」玉兆技術の根源を見たことがあるわ。"
         },
         {
-            "Title": "Knowledge 3",
-            "Voice": "It is said that a living flame slumbers in the engine of the Zhuming. It is a creature the Xianzhou regarded as a great enemy in the old days — the Flint Emperor, who was also called the Primordial Flame. The craftsmen of the Zhuming used every means available to imprison it in the furnace and used its power to forge various divine weapons."
+            "Title": "見聞・3",
+            "Voice": "仙舟{RUBY_B#シュメイ}朱明{RUBY_E#}のエンジンの中心には、命の宿った炎が眠っていると言われているわ。それは、かつて仙舟が大敵とみなしていた生物で、人々が「{RUBY_B#カコウ}火皇{RUBY_E#}」と呼んでいたもの。朱明の職人は、あらゆる手段を講じて「それ」を炉の中に閉じ込め、その力を使って色々な武器を鋳造したの。"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "Hmph, as it stands, Jing Yuan has promised to nominate me to the generalship on 122 separate occasions. For 121 of them, I made my case and he replied with a nonchalant \"mm-hmm.\" The one other time, I spoke at length on my reasoning and watched him gradually fall asleep..."
+            "Title": "景元について",
+            "Voice": "ふん。これまで将軍は 122 回、私を後任の将軍に推薦することを承諾したわ。そのうちの 121 回は私が何らかの貢献をしたり、策を出したりした後のことで、適当にあしらうように「うん」と言っていた。そして最後の1回の時、彼が一定の間隔で頷くものだから、よく見てみたら…ただ居眠りをしているだけだったのよ……"
         },
         {
-            "Title": "About Qingque",
-            "Voice": "The Divination Commission is full of idlers, but she is the only one who has truly mastered the art of slacking off — and getting away with it... She could write a whole book on the subject! Sometimes I even wonder if she could escape my divination..."
+            "Title": "青雀について",
+            "Voice": "太卜司には怠け者が多いけど、彼女はサボることにおいて我が道を行っているわね。そろそろ経験をまとめた法門とか出して、新しい宗派を開きそう。時々、彼女は私の占いから逃れているのではないかと疑ってしまうわ……"
         },
         {
-            "Title": "About Bailu",
-            "Voice": "For a long time, I thought that the tea the Dragon Lady made for me had a secret ingredient for replenishing the weary. Eventually, I discovered that the secret ingredient was just extra sugar. Such a subtle method for treating fatigue, but I expect nothing less from such an exceptional member of the Alchemy Commission!"
+            "Title": "白露について",
+            "Voice": "龍女が配合してくれる薬茶の中には、虚弱を改善したり、栄養の欠乏を補ったりする秘密の成分が入っていると思っていたけど…後になってから、彼女が砂糖を多めに入れていただけだと気付いたの。人に合わせて薬を処方する、さすがは丹鼎司が力を入れて育成している天才ね。"
         },
         {
-            "Title": "About Yanqing",
-            "Voice": "Whenever I get into a heated discussion with Jing Yuan and allow my tone to betray me, Yanqing starts glaring at me. Still, I don't need the omniscia to know that the odds of that child making a move against me are minimal..."
+            "Title": "彦卿について",
+            "Voice": "将軍と話をしている時に少しでも言葉遣いを間違えると、毎回あの子供が私のことを睨んでくるの。でも法眼で視るまでもなく、彼が私に武力を行使する可能性は低いから、好きにさせているわ。"
         },
         {
-            "Title": "About Tingyun",
-            "Voice": "The various merchant guilds under the Sky-Faring Commission each have their own strengths. I've heard that Tingyun's Whistling Flames is adept at producing value by sifting through piles of ordinary items. Such is the way of divination: seeing potential possibilities in everything."
+            "Title": "停雲について",
+            "Voice": "天舶司が管轄する商団にはそれぞれの長所がある。停雲が率いる「{RUBY_B#ナルビ}鳴火{RUBY_E#}」商団は、ありふれた物の中から価値ある物を見つけるのが上手いと聞いたわ。万物に秘められた可能性を見出すという点では、占いの道に通じるものがあるわね。"
         },
         {
-            "Title": "About Trailblazer",
-            "Voice": "The shadows of future possibilities and the direction of one's path should normally be readily apparent... I can't detect any traces of these on you. Strange..."
+            "Title": "{NICKNAME}について",
+            "Voice": "可能性が分岐した様々な虚像、運命を歩む者にあるべき流れ…それが{F#彼女}{M#彼}からは感じられない。本当に奇妙だわ……"
         },
         {
-            "Title": "About March 7th",
-            "Voice": "Destiny usually flows before us into the future, but for her, it flows into the past... As far as she is concerned, is the past a force for good or bad?"
+            "Title": "三月なのかについて",
+            "Voice": "一般的に、運命の流れは未来へと向かっている。でも、彼女のものは過去へと流れている…過去は彼女にとっていいもの？それとも悪いものかしら……"
         },
         {
-            "Title": "About Huohuo",
-            "Voice": "That girl may be shy, but she's been lauded by many... If I had that kind of assistance, it would take a load off my mind..."
+            "Title": "フォフォについて",
+            "Voice": "あの子は臆病だけど、多くの者が彼女を褒めているのを耳にするわ…私があのように力を手に入れることができれば、苦心と労力をだいぶ減らせるはず…いえ、なんでもないわ。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Isn't every morsel, every drop predestined?"
+            "Title": "星魂覚醒",
+            "Voice": "一飲一啄、定めにあらざるなし。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "With favor and gain, life's free from strain."
+            "Title": "キャラクター昇格",
+            "Voice": "元亨利貞、すべては順調よ。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "When it comes to seeing everything, I've still got a long road ahead of me..."
+            "Title": "レベルMax",
+            "Voice": "私を「遺漏なき法眼」と言うには、遠く及ばないわ…"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Hmm, is this weal or woe?"
+            "Title": "軌跡覚醒",
+            "Voice": "この一歩は、吉と出るかしら、凶と出るかしら？"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "With you on our side, we're destined for victory."
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "「奇兵」がいるから、必ずすべてが順調に進むわ。"
         },
         {
-            "Title": "Added to Team With Jing Yuan",
-            "Voice": "General? No need to divine the result of this battle..."
+            "Title": "パーティ編成・景元",
+            "Voice": "将軍が戦場に出るなら、私が占う必要はないわね。"
         },
         {
-            "Title": "Added to Team With Qingque",
-            "Voice": "Qingque? Ahem! I knew you weren't in the repository. I've been waiting here for you for some time."
+            "Title": "パーティ編成・青雀",
+            "Voice": "青雀？書庫にいないから、ここで待っていたのよ。"
         },
         {
-            "Title": "Added to Team With Yanqing",
-            "Voice": "Your martial prowess exceeds that of the general, while I surpass him in strategy. How about we join forces?"
+            "Title": "パーティ編成・彦卿",
+            "Voice": "武芸はおまえが、謀略は私が、将軍に少し勝る。2人で将軍と勝負してみるのはどう？"
         },
         {
-            "Title": "Added to Team With Bailu",
-            "Voice": "With the Dragon Lady here, I have nothing to worry about."
+            "Title": "パーティ編成・白露",
+            "Voice": "白露殿がいるなら、病の心配は不要ね。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Everything came together."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "事は己で成す、不利などない。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Our fortune is clouded with uncertainty."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "測り難きは風雲、行先は淵の水…"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "The omniscia sees through you..."
+            "Title": "ターン・1",
+            "Voice": "法眼を以て視るべし…"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Allow me to make a divination."
+            "Title": "ターン・2",
+            "Voice": "先に占ってみましょう。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Hesitation only breeds chaos."
+            "Title": "戦闘中待機",
+            "Voice": "断に当たって断ぜざれば、必ずや其の乱を受く。"
         },
         {
-            "Title": "Basic Attack 1",
-            "Voice": "With all my power... Scry the future!"
+            "Title": "通常攻撃・1",
+            "Voice": "{RUBY_B#ごくすう}極数{RUBY_E#}、{RUBY_B#ちらい}知来{RUBY_E#}！"
         },
         {
-            "Title": "Basic Attack 2",
-            "Voice": "In formation, in accordance!"
+            "Title": "通常攻撃・2",
+            "Voice": "{RUBY_B#せいしょう}成象{RUBY_E#}、{RUBY_B#こうほう}効法{RUBY_E#}！"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Together as one."
+            "Title": "戦闘スキル・1",
+            "Voice": "{RUBY_B#そうよいったい}相与一体{RUBY_E#}。"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Converge and awaken."
+            "Title": "戦闘スキル・2",
+            "Voice": "{RUBY_B#しょうかしょうい}上下象易{RUBY_E#}。"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "No matter."
+            "Title": "攻撃を受ける",
+            "Voice": "小難に過ぎないわ。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "B—Bad luck..."
+            "Title": "重撃を受ける",
+            "Voice": "きょ、凶が出た…"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "All things in this world have their laws..."
+            "Title": "必殺技・アクティブ",
+            "Voice": "世の万物に法理あり…"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Yet stratagems, constellations... are human creations!"
+            "Title": "必殺技・発動",
+            "Voice": "換斗移星、人事を、成す！"
         },
         {
-            "Title": "Talent",
-            "Voice": "Yin and Yang, life and death."
+            "Title": "天賦",
+            "Voice": "陰陽転換、生々流転。"
         },
         {
-            "Title": "Downed",
-            "Voice": "Was this... predestined...?"
+            "Title": "戦闘不能",
+            "Voice": "これも…運命…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Good fortune is bound to return."
+            "Title": "戦闘に戻る",
+            "Voice": "{RUBY_B#いちようらいふく}一陽来復{RUBY_E#}ね。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Reciprocity... excellent."
+            "Title": "HP回復",
+            "Voice": "{RUBY_B#うむあいつう}有無相通{RUBY_E#}ずる、妙策だわ。"
         },
         {
-            "Title": "Technique",
-            "Voice": "Infallible."
+            "Title": "秘技",
+            "Voice": "{RUBY_B#てんぼくふは}顛撲不破{RUBY_E#}。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "All things shift in divination."
+            "Title": "戦闘勝利",
+            "Voice": "卜算は有為無常なり。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Just as I thought."
+            "Title": "戦利品を開ける・1",
+            "Voice": "私の望み通りね。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "As divined."
+            "Title": "戦利品を開ける・2",
+            "Voice": "卦象のうちよ。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "*gasp* Ahem! ...Unexpected. We shouldn't take too much..."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "…これはあぶく銭で、多く得るべきではないわ。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Throw me another puzzle."
+            "Title": "謎解きに成功・1",
+            "Voice": "行いて余力あらば、ね。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "This was documented in the ancient texts long ago."
+            "Title": "謎解きに成功・2",
+            "Voice": "古書にはとっくに記述があるわ。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Be watchful — always."
+            "Title": "敵ターゲット発見",
+            "Voice": "慎始敬終よ。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "One's hexagrammatic position is always in flux. Planning is paramount."
+            "Title": "町に戻る",
+            "Voice": "卦象が定まらない、綿密な計画を練らなければ。"
         }
     ]
 }

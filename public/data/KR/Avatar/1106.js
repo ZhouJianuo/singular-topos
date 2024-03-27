@@ -434,23 +434,23 @@ var _story_ = {
     "1106": [
         {
             "_id": 1,
-            "Story": "The meticulous Intelligence Officer of the Silvermane Guards. While young, she is undeniably brilliant.<br>Whether it relates to maneuvering troops, distributing supplies, or the analyzing terrain, Pela can answer any problems with calm certainty.<br>As for her phone case... \"It has nothing to do with work, captain.\""
+            "Story": "일처리가 빈틈없는 실버메인 철위대 정보관. 나이는 어려도 머리는 비상하다.<br>병력 이동, 물자 분배, 지형 상황 등 그 어떠한 질문에도 페라는 한 치의 오차 없이 즉각적으로 대답해낸다.<br>페라의 휴대폰 케이스에 대해서는… 「이건 일과 무관합니다, 장관님」"
         },
         {
             "_id": 2,
-            "Story": "The following is an excerpt from page 102 of the Silvermane Guards Recruitment Records: Intelligence Department — Vol. 24:<br><br>Basic information about the candidate —<br><br><i>\"My name is Pelageya Sergeyevna, but you can call me Pela.\"<br>\"I graduated from the Faculty of Social Sciences and the Faculty of Science from the Belobog Cadet School, with a double honorary degree in Military Studies and Cryptography.\"<br>\"My hobbies? Pardon me, I need a minute to collect myself...\"<br>\"...My hobby is studying prehistoric Belobog music. That's it.\"<br>\"No, no, I have no other hobbies... Really... Please trust me.\"</i>"
+            "Story": "다음 내용은 ≪실버메인 철위대 면접 선발 기록•정보부•제24≫ 102 페이지에서 발췌되었음<br><br>응시자의 개인 정보——<br><br><i>「제 이름은 페라게야•세르게예브나, 평소에는 『페라』라고 불러주세요」<br>「저는 벨로보그 사관학교 사회과학대학과 이과대학를 졸업했고, 전쟁 연구학 및 정보학 복수 명예 학사 학위를 취득했습니다」<br>「취미요? 죄송합니다. 잠깐 생각할 시간 좀 주세요……」<br>「…제 취미는 『벨로보그 선사 음악 연구』입니다. 네」<br>「끝이에요, 다른 취미는 없습니다. 믿어주세요」</i>"
         },
         {
             "_id": 3,
-            "Story": "The following is an excerpt from page 103 of the Silvermane Guards Recruitment Records: Intelligence Department — Vol. 24:<br><br>As for what is an honorary degree —<br><br><i>\"Please allow me to recite from the Belobog Sergeant Education and Degree Awarding Regulations Version 3, Chapter 5, Section 23, Article 1, Paragraph 7...:\"<br>\"An Honorary Bachelor's degree will be conferred to students who have not met the minimum age requirement but have earned enough credits from courses of corresponding majors.\"<br>\"That's right. I currently have no plans for postgraduate study, and never will.\"<br>\"I find practice far better than theory, Madam.\"</i>"
+            "Story": "다음 내용은 ≪실버메인 철위대 면접 선발 기록•정보부•제24≫ 103 페이지에서 발췌되었음<br><br>어떻게 명예 학사 학위를 받게 되었는지에 관해——<br><br><i>「≪벨로보그 사관 교육 및 학위 군사 계급 수여 규정≫ 제3편 제5장 제23절 제1조 제7항에 따르면……」<br>「학위 수여 대상자가 최소 연령 요건을 충족하지 아니하고 해당 전공 교과목의 학점을 이수했을 경우 『명예 학사』 학위를 수여한다」고 되어 있죠」<br>「네, 현재는 공부를 계속할 생각은 없습니다. 앞으로도 없을 거고요」<br>「이론보다 실전이 더 중요하니까요」</i>"
         },
         {
             "_id": 4,
-            "Story": "One snowy Belobog evening, underneath the massive stopped clock, the laughter of girls spilled out from a warmly-lit window.<br><br><i>\"Studying prehistoric Belobog music!? That's just ridiculous! Didn't Cocolia bother to ask about that?\"</i> The slightly older woman rocks back and forth with laughter.<br><br><i>\"Please address her as Madam Cocolia, Serval.\"</i> A petite girl pouts as she take off her steamed-up round glasses. <i>\"She has to know that I'm playing in your band.\"</i><br><br>The girl in the cat ears hat — she is reluctant to take it off even when inside — chimes in. <i>\"...You really are a piece of work. Does Madam Cocolia know what your other hobbies are?\"</i><br><br><i>\"Ha. No way.\"</i> The woman named Serval gets up from her bedding on the floor. <i>\"I've lived with her for so long and never seen her pick up a novel — she says they're a complete waste of time...\"</i><br><br><i>\"Okay. Pela, Lynx — We need to go to the </i>Tale of the Winterlands<i> fan meet tomorrow. Let's get some rest.\"</i>"
+            "Story": "설야의 벨로보그, 멈춰버린 거대한 시계탑 아래, 소녀들의 즐거운 웃음소리가 따뜻한 등불과 함께 밖으로 흘러나왔다<br><br><i>「『벨로보그 선사 음악 연구』?! 그렇게 대답했다고?쿠쿠리아가 더 묻진 않았어?」</i>두 사람 중 나이가 좀 더 들어보이는 여자가 박장대소했다<br><br><i>「쿠쿠리아 님이라고 불러, 서벌」</i>어린 소녀가 입을 삐죽거리더니 안개가 낀 원테 안경을 벗었다. <i>「어차피 내가 언니 밴드에서 일하고 있는 건 알고 계실 거야」</i><br><br>고양이귀 모양의 털모자를 쓰고 있는 소녀가 거들었다. 비록 실내지만 그녀는 귀여운 모자를 벗고 싶지 않은 눈치였다. <i>「역시 너다운 대답이야. 그럼 쿠쿠리아 님한테 다른 취미 같은 건 말씀 안 드렸어?」</i><br><br><i>「하, 말씀드렸을 리가 없지」</i>서벌이라는 이름의 여자가 바닥에서 벌떡 일어섰다. <i>「그렇게 오래 같이 살았는데 소설 하나 읽는 꼴을 못 봤다니까——시간 낭비라나 뭐라나……」</i><br><br><i>「됐어. 페라, 링스——내일 ≪기담≫ 세미나에도 가야 하잖아. 이제 자야 해」</i>"
         },
         {
             "_id": 5,
-            "Story": "If you're familiar with the street gossip of Belobog, then there's no way you could miss the <i>Tale of the Winterlands</i>. And if you're an avid Tale fan, then you'll definitely have heard of the fan meet. Its time and location are a secret, and attendance is by special invite only.<br><br>Attendants are split into only two categories: content creators, and the consumers who love the created content. They all have a genuine love for the <i>Tale of the Winterlands</i>, and do their bit to support this monumental masterpiece of Belobog literature.<br><br>Among them, a new legend is born — It is said that she is a petite woman. It is said she never missed a single meet. It is said she always wore a mask. It is said she once spent a small fortune on a limited-edition artbook. It is said that when ever she creates something, her work would cause a huge sensation among the dedicated fan base...<br><br><i>\"That's a whole lot of rumors, yet none of them are related to the Silvermane Guards...\"<br>\"Looks like... My skills of disguise really are fantastic after all. Teehee!\"</i>"
+            "Story": "벨로보그의 크고 작은 소문에 대해 잘 알고 있다면 한 번쯤은 ≪설국 모험 기담≫에 대해 들어본 적이 있을 것이다. 만약 당신이 ≪설국 모험 기담≫의 열성팬이라면 「≪설국 모험 기담≫ 세미나」에 대해서 들어본 적도 있을 것이다. 시간과 장소는 미정, 초대를 받은 이만이 입장할 수 있는 이 세미나에서는 설국의 진짜 모습을 엿볼 수 있다<br><br>세미나에 참여하는 사람들은 크게 창작물을 공유하는 「생산자」와 전자의 창작물을 감상하는 「소비자」로 나뉜다. 그들 모두 ≪설국 모험 기담≫을 진심으로 사랑하는 이들로 벨로보그의 문학사라는 불멸의 기념비에 벽돌을 하나둘씩 더 쌓아올리고 있다<br><br>그러던 어느 날, 전설 같은 인물이 탄생했다——작은 체구의 소녀로 알려진 그녀는 세미나마다 꼭꼭 참석한다고 한다. 항상 가면을 쓰고 나타나며 절판된 화첩을 구매하기 위해 거금을 투척하기도 하며 가끔씩 직접 글을 쓸 때면 팬덤 전체가 들썩거리곤 했다……<br><br><i>「그렇게 많은 소문 중에 철위대와 관련된 건 하나도 없네……」<br>「내가 위장 하나는 제대로 한 모양이야. 흠흠~」</i>"
         }
     ]
 }
@@ -458,192 +458,192 @@ var _story_ = {
 var _voice_ = {
     "1106": [
         {
-            "Title": "First Meeting",
-            "Voice": "Pelageya Sergeyevna, Silvermane Guards Intelligence Officer, at your service. You can call me Pela."
+            "Title": "첫 만남",
+            "Voice": "전 실버메인 철위대의 정보관, 페라게야•세르게예브나라고 해요. 그냥 페라라고 불러 주세요"
         },
         {
-            "Title": "Greeting",
-            "Voice": "You ready? Let's start the records for the day."
+            "Title": "인사",
+            "Voice": "준비되셨나요? 그럼 오늘의 기록을 시작할게요"
         },
         {
-            "Title": "Parting",
-            "Voice": "The reports look pretty normal today. You can go have some rest."
+            "Title": "작별",
+            "Voice": "오늘은 이상 보고가 한 건도 없었으니 일찍 들어가 쉬세요"
         },
         {
-            "Title": "About Self",
-            "Voice": "I'm good at documenting information and coming up with my analysis. Acting on that analysis is the captain's job."
+            "Title": "자신에 대해",
+            "Voice": "정보를 연구, 기록, 분석하는 일을 잘하는 편이에요. 어떤 결정을 내릴지는 방위관님께 달렸죠"
         },
         {
-            "Title": "Chat: Role in the Band",
-            "Voice": "People don't usually notice the drummer, but if you miss a beat, everyone feels it. I like the challenge."
+            "Title": "잡담•밴드의 포지션",
+            "Voice": "드러머는 존재감이 없는 것 같아도 박자가 조금만 틀리면 티가 나기 때문에 스스로를 단련시키기 딱이죠"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "I like to go to the library on the weekend and take out some... literature. Then when we're finished reading, me and my friends meet up to discuss it."
+            "Title": "취미",
+            "Voice": "매주 도서관에 가서 좋아하는… 도서를 빌려보고 친구들과 독후감을 공유하고 있어요"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "*sigh* Sometimes I practice over a dozen times before reporting to my superiors, but I still can't get it right..."
+            "Title": "고민",
+            "Voice": "가끔은 완벽한 보고를 위해 수도 없이 연습하지만 그래도 부족할 때가 있어요…"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "There are 32 versions of my full name circulating among the troops. How do I know? I'm an intelligence officer after all."
+            "Title": "공유",
+            "Voice": "부대에서는 제 풀네임을 두고 적어도 32가지의 의견이 전해지고 있어요. 어떻게 아냐고 물으신다면… 이게 바로 정보관의 능력이랍니다"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "*gasp* A new edition of the fanbook \"Tale of the Winterlands?\" That's one of the most sought-after series out there... H—How many copies should I get... Ten? Is ten enough...?"
+            "Title": "견문",
+            "Voice": "≪설국 모험 기담≫ 그림책 중판본? 이건 업계에서 가장 구하기 어려운 시리즈 중 하나예요…. 몇, 몇 권을 사야 하나…. 열 권? 열 권은 모자라지 않을까요……"
         },
         {
-            "Title": "About Bronya",
-            "Voice": "In all of Belobog, you won't find anyone who speaks more elegantly or acts more like a leader than Lady Bronya."
+            "Title": "브로냐에 대해",
+            "Voice": "벨로보그를 아무리 뒤져봐도 브로냐 아가씨처럼 언행이 우아하고 리더 자질을 갖춘 사람은 찾을 수 없을 거예요"
         },
         {
-            "Title": "About Serval",
-            "Voice": "*sigh* Serval's rule is: no rules."
+            "Title": "서벌에 대해",
+            "Voice": "원칙대로 일을 처리하지 않는 것, 그게 서벌 씨의 원칙이죠"
         },
         {
-            "Title": "About Gepard",
-            "Voice": "Captain Gepard is an honorable man and very reliable. But when it comes to his horticultural skills... all I can say is I respect his effort and wish him the best of luck."
+            "Title": "게파드에 대해",
+            "Voice": "게파드 방위관님은 겉과 속이 똑같아서 믿음이 간답니다. 꽃을 키우는 취미에 대해서는… 그냥 존중하고 응원한다는 말밖엔 못 하겠네요"
         },
         {
-            "Title": "About Lynx",
-            "Voice": "Lynxy is one of my... Uh, Lynx is one of my... Ahem! Lynx is... one of Belobog's number one researchers, and... one of my best besties!"
+            "Title": "링스에 대해",
+            "Voice": "링시는 제… 링스는 제… 흠흠. 링스는… 벨로보그에서 제일가는 조사 전문가이자 제가 좋아하는… 단짝 친구예요!"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Stay focused, push forward."
+            "Title": "성혼 활성화",
+            "Voice": "눈앞의 길에 집중해야 더 먼 곳으로 나아갈 수 있어요"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Mm, there's still room for improvement."
+            "Title": "캐릭터 승급",
+            "Voice": "아직도 더 정진해야 해요"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Finally, all contingencies covered."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "이제 오류나 누락된 부분은 없어요"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Mm, this is valuable intel."
+            "Title": "행적 활성화",
+            "Voice": "정말 중요한 정보네요"
         },
         {
-            "Title": "Added to Team With Gepard",
-            "Voice": "Glad to be of service, Captain Gepard."
+            "Title": "파티 편성•게파드",
+            "Voice": "이번 작전 협력이 기대되네요, 게파드 방위관님"
         },
         {
-            "Title": "Added to Team With Serval",
-            "Voice": "Remember, Serval — don't rush the beat."
+            "Title": "파티 편성•서벌",
+            "Voice": "평소처럼 하면 돼요, 서벌 언니. 박자에 주의하세요!"
         },
         {
-            "Title": "Added to Team With Lynx",
-            "Voice": "Let's do this, Lynxy!"
+            "Title": "파티 편성•링스",
+            "Voice": "같이 가자, 링시!"
         },
         {
-            "Title": "Added to Team With Bronya",
-            "Voice": "Expect a decisive victory, Lady Bronya."
+            "Title": "파티 편성•브로냐",
+            "Voice": "가장 완벽한 승리를 바치겠습니다, 브로냐 님"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "We have the upper hand."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "아군이 우세하네요"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Do we still have the upper hand?"
+            "Title": "전투 시작•위험 경보",
+            "Voice": "아군이 우위를 점하지 못했습니다"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Commencing support."
+            "Title": "턴 시작•1",
+            "Voice": "지원 투입"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Enemy targets detected."
+            "Title": "턴 시작•2",
+            "Voice": "타깃 정찰 완료"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Time to make a decision."
+            "Title": "턴 대기",
+            "Voice": "결정하세요"
         },
         {
-            "Title": "Basic Attack 1",
-            "Voice": "Enough."
+            "Title": "일반 공격•1",
+            "Voice": "입 다물어"
         },
         {
-            "Title": "Basic Attack 2",
-            "Voice": "Ready for another?"
+            "Title": "일반 공격•2",
+            "Voice": "더 하려고?"
         },
         {
-            "Title": "Basic Attack 3",
-            "Voice": "I'll contain them!"
+            "Title": "일반 공격•3",
+            "Voice": "견제해!"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "This... that... Oh!"
+            "Title": "전투 스킬•1",
+            "Voice": "이렇게… 그리고…… 으앗"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Inputting commands... Oh!"
+            "Title": "전투 스킬•2",
+            "Voice": "지령 입력……"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Ouch."
+            "Title": "약공격 피격",
+            "Voice": "아파"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Eek ...Not good."
+            "Title": "강공격 피격",
+            "Voice": "…곤란하게 됐네"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Enemy data secured."
+            "Title": "필살기•활성화",
+            "Voice": "적측 데이터 수집 완료"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Net markers activated — time for a good old counterattack."
+            "Title": "필살기•발동",
+            "Voice": "포획 마커 활성화, 이제 즐거운 반격 시간이에요"
         },
         {
-            "Title": "Downed 1",
-            "Voice": "I miscalculated..."
+            "Title": "전투 불능•1",
+            "Voice": "계산 착오……"
         },
         {
-            "Title": "Downed 2",
-            "Voice": "Run..."
+            "Title": "전투 불능•2",
+            "Voice": "어서 가세요……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "I won't make the same mistake twice."
+            "Title": "전투 복귀",
+            "Voice": "두 번 다시 같은 실수는 않을 거예요"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Thanks for the support."
+            "Title": "HP 회복",
+            "Voice": "지원 감사해요"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "The combat report will be ready soon."
+            "Title": "전투 승리",
+            "Voice": "전투 보고서는 잠시 후 전송됩니다"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Inventory complete."
+            "Title": "전리품 오픈•1",
+            "Voice": "정산 완료"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "It's received."
+            "Title": "전리품 오픈•2",
+            "Voice": "확인했습니다"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "All in order — leave nothing behind."
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "확인 결과, 누락된 부분은 없습니다"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Wowwww... *clears throat*"
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "정말 재미있어……"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "...That did the trick!"
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "…해결했어요!"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Analyze the targets before you make a plan of action."
+            "Title": "적 발견",
+            "Voice": "선 목표 분석, 후 판단"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Do you need me to formulate the next plan?"
+            "Title": "도시로 복귀",
+            "Voice": "앞으로의 계획을 세워야 하는 건가요?"
         }
     ]
 }

@@ -559,23 +559,23 @@ var _story_ = {
     "1109": [
         {
             "_id": 1,
-            "Story": "Head of the adventure squad \"The Moles,\" she calls herself Pitch-Dark Hook the Great.<br>She doesn't like to be called a \"kid\" and believes she can handle things herself without any help from adults.<br>Adults adventure into the Fragmentum, Mr. Sampo adventures on the surface, and patients take their risky adventure seeking treatment from Natasha... Under the leadership of Hook, children can also have their own adventures!"
+            "Story": "冒険集団「モグラ党」の親分、自称「ドスクロのフック様」。<br>子供だと思われることを嫌がり、大人に頼らずとも自分の力で生きていけると思っている。<br>大人たちは裂界へ行き、サンポは地上で冒険し、病人たちは危険を冒してナターシャの治療を受ける…フックの指揮のもと、子供たちだって冒険するのだ！"
         },
         {
             "_id": 2,
-            "Story": "<i>\"██/██/██  Weather: Fine  Mood: Very bad\"<br><br>\"Today, I broke one of the old witch's <s>Tesh Stubes</s> <s>Tech Tubes</s> Test Tubes, and got chewed out.\"<br><br>\"The old witch is terrible! She never lets us play together during lunch, and only lets us take a nap. I hate her!\"<br><br>\"We should rebel against her <s>tarany</s>— <s>terrany</s>— <s>tarreny</s>— tyranny! We can't let her <s>get away</s>— <s>gator way</s>— get her way!\"<br><br>\"I'm gonna make a gang called 'The Moles', and <s> grab </s> <s> kidnap </s> <s> envit </s> invite all the kids from the clinic! We'll take down the old witch together! And then, we can eat whatever we want and have fun — and nobody can stop us!\"<br><br>\"And I'll be the boss of The Moles! And the boss of the whole clinic, too! I'll give that old witch a nice talking-to every day, and make her do all of the <s>choars </s> <s> choors </s> chores! Muahaha!\"</i>"
+            "Story": "<i>「██年██月██日  天気：すごくいい  気分：さいあく」<br><br>「今日は、まじょばばぁの<s> 式けんかん </s> 試けんかんをこわして、怒られた」<br><br>「まじょばばぁは、すっごく怖かった。お昼は、あそぶのを禁止されたから、お昼ねだけした。うんざりだ！」<br><br>「ばばぁの、きょうふ <s> 正治 </s> <s> 生治 </s> 政治を止めなければならない！ばばぁの好きにはさせない！」<br><br>「あたしは『モグラ党』をつくって、しんりょう所の子供たちを <s> 捕まえ </s> <s> たい捕 </s> <s> 要せい </s> 招待した！いっしょにまじょばばぁに立ち向かうんだ！そして、いっしょにおいしいものを食べて、いっぱいあそぶ！だれもあたしたちを止められない！」<br><br>「あたしがモグラ党の親分だ！そして、しんりょう所の親分だ！毎日、まじょばばぁを思いきり怒って、毎日、 <s> そう字 </s> <s> そう治 </s> そうじをさせる！ははは！」</i>"
         },
         {
             "_id": 3,
-            "Story": "<i>\"██/██/██  Weather: Freezing Mood: Very happy\"<br><br>\"Today I went to the machine <s> garv </s> <s> gravy </s> graveyard to find a suitable weapon. As the boss of The Moles, I've got to have a great weapon!\"<br><br>\"I met a girl there. She was a few years older than me (but I'm still the boss!) and was wearing a pretty red coat. But she had no shoes on. I don't know why she had no shoes on, since that's gotta be very cold! Maybe she wasn't feeling very cold though.\"<br><br>\"Her hair was white like snow, and it was pretty! I want white hair too. Long and white hair.\"<br><br>\"She was very shy, too shy to talk to me at first. But that's cool! I <s> super love talking and </s> super love making friends! I chatted with her for a long, long time. I know her name is Clara, and her dad is a super big robot!\"<br><br>\"Her dad is really cool, but not as cool as daddy Fersman! She is my friend now and she helped me find a really strong Diggertron! She's now an honorary member of The Moles!\"</i>"
+            "Story": "<i>「██年██月██日  天気：すごくさむい  気分：さいこう」<br><br>「今日は、『きかい <s> ぼん </s> ぼち』に行って、あたしにぴったりな武器をさがした。親分として、すごい武器が必要だからな！」<br><br>「そこで女の子に会った。たぶん、あたしより年上（でもあたしが親分！）で、きれいな赤いコートをきてたけど、くつははいてなかった。なんでくつをはいてないのか、知らないけど、すごく寒そうだった！でも、女の子は寒くないのかも」<br><br>「その子のかみの毛は、白くて、雪みたいで、きれいだった！あたしも白くて、長いかみの毛がいい」<br><br>「さいしょは、ずっとはずかしそうにして、話もしてくれなかったけど、大丈夫！あたしは <s> 話すのが大好き </s> 友だちを作るのがとくいだから！女の子とずっとお話ししてた。女の子のパパは、でっかいロボットだった！」<br><br>「かっこいいパパだったけど、あたしのオヤジには負ける！あたしたちはすぐに友だちになった。それから、すごい『ホールマスター』を見つけてくれた！だから、かわりにモグラ党のめいよたいいんに任命した！」</i>"
         },
         {
             "_id": 4,
-            "Story": "<i>\"██/██/██  Weather: Still freezing  Mood: <s> Bad </s> Normal\"<br><br>\"Today, Alina's mom and dad came to see her. Alina was very happy and seeing her like this made me happy too.\"<br><br>\"I thought of mom and dad. I haven't seen them for a very long time! Even though daddy Fersman is very, very kind to me, I still miss my mom and dad!\"<br><br>\"In the evening, daddy explained to me again the reason why mom and dad couldn't come back. But I actually remember anyway... Because daddy has told me so many times!\" \"I found that daddy is always forgetting things recently! I asked Natasha, and she said it's because daddy is getting too old now. Then I asked her if she can help fix daddy's sickness, but she said she can't, and even apologized.\"<br><br>\"I think the old witch is lying to me just because I've been a little bit naughty recently! She is the bestest doctor in our town, and can fix everything, so why can't she fix daddy?\"<br><br>\"Fine. I've decided that I'll write down anything that daddy said! Because I'm the big bad boss of The Moles!\"</i>"
+            "Story": "<i>「██年██月██日  天気：ずっとさむい  気分：<s> よくない </s> ふつう」<br><br>「今日、アリーナのパパとママが来てた。アリーナはすっごく楽しそうで、あたしもうれしくなった」<br><br>「パパとママを思い出した。もうずっと会ってない！オヤジはあたしにすごくすごくすごくよくしてくれるけど、それでもパパとママに会いたい！」<br><br>「夜、オヤジはまたパパとママがかえってこない理由をおしえてくれた。でも、実は全部おぼえてる…オヤジが何回もきかせてくれたから！」「オヤジ、自分が言ったことをすぐわすれちゃうみたいだ！まじょばばぁにきいたら、オヤジが年だからって言ってた。治せるかきいたけど、オヤジのこのびょう気は治せないって、ごめんなさいって言ってた」<br><br>「まじょばばぁは、最近あたしが悪さしてるからって、うそをついてるんだ！町で一番のいしゃなのに、どんなびょう気だって治せるのに、オヤジを治せないわけがない」<br><br>「よし、決めた。オヤジが話したことは、あたしがオヤジのかわりにおぼえる！だって、あたしはすごいモグラ党の親分だから！」</i>"
         },
         {
             "_id": 5,
-            "Story": "<i>\"██/██/██, Address: The clinic. Had a heart-to-heart conversation with Hook. The contents are as follows:\"<br><br>\"Daddy Fersman was once a very good friend of mom and dad's. Back then, we all lived in a small town in the north. One day, mom went into the Fragmentum, and never came out again. Mom loved eating stone-grilled olm. Dad missed her so much that he made me stone-grilled olm to eat every day.\"<br><br>\"Then one day when I came home, I saw dad lying on the bed looking very uncomfortable. I bursted into tears, and went to find daddy Fersman next door. He said dad was sick, and he took dad and me to see the town doctor.\"<br><br>\"We stayed with dad at the doctor's place for several days. In the end, we almost used up all our money. Dad secretly told me to save the money. He also told me that he was uncomfortable staying there, and wanted to go home. So I went to daddy and told him I wanted to go home with my dad. But when daddy and I went to see him, he stopped talking.\"<br><br>\"Daddy was on his knees and crying, but I didn't understand what was going on. Daddy explained to me that dad missed mom so much that he went to see her inside his dreams. I asked daddy, when will my dad wake up? Daddy just kept crying though and didn't answer me...\"<br><br>\"I didn't — didn't cry! No... Natasha, I don't need any tissues...\"<br><br>\"...Actually later I secretly asked the doctor something. I know that my dad is dead and won't come back forever, and mom is the same... I know that daddy doesn't want to make me sad, so he keeps on lying to me...\"<br><br>\"I know that daddy is the very best person in the whole world, and I like daddy the most...\"<br><br>\"So that's why I want to find lots of treasure with everyone, so we can build daddy a nice big house and help fix daddy!\"</i>"
+            "Story": "<i>「██年██月██日 場所：診療所　フックとの会話記録：」<br><br>「オヤジはずっと前からパパとママの友達なんだって。昔はみんなで北の小さな町に住んでた。ある日、ママが裂界に行ったまま戻ってこなかったんだ。ママは岩焼き洞窟イモリが大好きだった。パパはママに会いたがってたから、毎日あたしに岩焼き洞窟イモリを作ってくれたんだ」<br><br>「ある日、あたしが家に帰ったら、パパがベッドで寝てた。すごく苦しそうだった。あたしはびっくりして、泣きながら隣に住んでたフェスマンのオヤジを探しに行った。オヤジは『パパは病気だ』って言って、町の医者のところに連れていってくれた」<br><br>「あたしたちは何日もパパと医者のところに泊まってた。でも、最後にはお金がなくなっちゃって…そしたら、パパが小声であたしにお金を貯めろって、ここは居心地が悪いから家に帰りたいって言ったんだ。だからあたしはオヤジを探して、パパを家に連れて帰ろうとした。なのに、オヤジと一緒に戻った時、パパはもう何も話さなくなってた」<br><br>「オヤジはずっと地面に膝をついて泣いてたけど、あたしは何が起こったのか理解できなかった。オヤジは、パパはママに会いたくて、会いたくて、すごく会いたかったから、夢の中にママを探しに行ったって説明してくれた。じゃあいつ起きるんだって聞いても、オヤジはずっと泣いてるだけで、答えてくれなかった……」<br><br>「あ、あたしは泣いてない！いい…ナターシャお姉ちゃん、ティッシュなんかいらないってば……」<br><br>「…実は、後でこっそり医者に聞いたんだ。あたしは知ってる。パパが死んだってことも、もう戻ってこないってことも。ママも同じ…知ってるけど、オヤジはあたしを悲しませたくないから、ずっと嘘をついてる……」<br><br>「あたし知ってるよ、親父が世界で一番いい人だってこと。あたしもオヤジが大好き……」<br><br>「だから、あたしはみんなと一緒にお宝を見つけて、オヤジにでっかい家を建てる！それから…オヤジの病気も治してあげるんだ！」</i>"
         }
     ]
 }
@@ -583,200 +583,200 @@ var _story_ = {
 var _voice_ = {
     "1109": [
         {
-            "Title": "First Meeting",
-            "Voice": "Haha, the grown-ups in the Underworld listen to Wildfire and the kids listen to us Moles. I'm the leader of The Moles, by the way. You may call me Pitch-Dark Hook the Great!"
+            "Title": "初対面",
+            "Voice": "下層部の大人は地炎が管理して、子供はモグラ党が管理してる。そしてあたしがモグラ党のボスだよ。お前もあたしを——ドスクロのフック様と呼ぶといい！"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Moles, Moles, leaving our holes, brave Moles, charge as a whole!"
+            "Title": "挨拶",
+            "Voice": "モグラ党、出発！勇敢なモグラども、いっけ～！"
         },
         {
-            "Title": "Parting",
-            "Voice": "Moles dismissed! Sleep well and see you tomorrow!"
+            "Title": "お別れ",
+            "Voice": "モグラ党、解散！みんな、家に帰って寝るのだ！"
         },
         {
-            "Title": "About Self: Diggertron",
-            "Voice": "Diggertron used to be a hard-working mining machine. After it retired, it heard my call and became the ruthless villain-smashing iron fist!"
+            "Title": "自分について・ホールマスター",
+            "Voice": "昔、ホールマスターは働き者な機械だった。引退してからは、このフック様の召喚に応じ、悪を裁く無情な鉄拳となったのだ！"
         },
         {
-            "Title": "Chat: Members of The Moles",
-            "Voice": "Haha! Under my leadership, we recruited Julian of a Thousand Faces, Luka Strongarm, and Cunning Child! Everyone joins the cause!"
+            "Title": "世間話・モグラ党のメンバー",
+            "Voice": "あたしの統率のもと、モグラ党は「百面相のジュリアン」、「鉄腕のルカ」、「狡猾な子供」などの強力な仲間を迎え入れた！"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Expeditions in the mines, expeditions in the clinic, expeditions on the surface... e—expeditions in the unknown!"
+            "Title": "趣味",
+            "Voice": "鉱区で冒険すること、診療所で冒険すること、地上で冒険すること、それから…あたしの知らない場所を冒険すること！"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "People say if you worry too much, your head gets super heavy. Wouldn't that make it harder for me to get taller? Waaaah..."
+            "Title": "悩み事",
+            "Voice": "ずっと悩んでいると、頭がどんどん重くなるって聞いたことがあるんだ。そうなったら、背が伸びなくなる…ううっ……"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "Grown-ups always say things like \"you'll understand when you're older,\" but Hook heard you forget things when you're older! Don't believe me? Let's see who knows more stuff!"
+            "Title": "シェア",
+            "Voice": "大人はみんな「大人になればわかる」って言うけど、意味が分からない…あたしは逆に、「大人になったら分からなくなる」って思う！信じられないのなら、今からどっちの方が道理を分かってるか勝負だ！"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Hook's interested in loads of things, like... lizards that carry Geomarrow on their backs, o—or olms that survive without eating food... Natasha told me that there are flowers on the surface that only bloom once a year. I really really wanna go see them..."
+            "Title": "見聞",
+            "Voice": "あたしが気になることはたくさんあるよ。地髄を背中に背負ってるトカゲとか、何も食べないでも生きていける洞窟イモリとか…ナターシャお姉ちゃんから、地上には一年に一回しか咲かない花があるって聞いたから、それも見てみたいなぁ……"
         },
         {
-            "Title": "About Natasha",
-            "Voice": "Old witch... Ahem. Natasha is beautiful and nice, but when she gets angry she, uhh... isn't so nice. B—But still beautiful..."
+            "Title": "ナターシャについて",
+            "Voice": "魔女ば…優しくて綺麗なナターシャお姉ちゃんは怒ると…うっ、綺麗なままだけど、少し優しくなくなるんだ……"
         },
         {
-            "Title": "About Clara",
-            "Voice": "Waaaah... Clara... when can you join The Moles...?"
+            "Title": "クラーラについて",
+            "Voice": "うっ…クラーラ、クラーラは…いつモグラ党に入ってくれるんだろ……"
         },
         {
-            "Title": "About Svarog",
-            "Voice": "Hook's Diggertron is mightier than Svarog's fist! Hmph!"
+            "Title": "スヴァローグについて",
+            "Voice": "あたしのホールマスターは、スヴァローグの拳よりもデカいよ！ふん！"
         },
         {
-            "Title": "About Sampo",
-            "Voice": "I run into Mr. Sampo almost everywhere. Does he like expeditions too?"
+            "Title": "サンポについて",
+            "Voice": "どこに行ってもサンポおじちゃんを見かけるから、おじちゃんもあちこちで冒険しているのかな？"
         },
         {
-            "Title": "About Seele",
-            "Voice": "Miss Seele talks loud, but sometimes Hook still beats her in an argument, hehe~"
+            "Title": "ゼーレについて",
+            "Voice": "ゼーレ姉ちゃん、声はデカいけど、たまにあたしにも言い負けることがあるんだよ、えへへ～"
         },
         {
-            "Title": "About Fersman",
-            "Voice": "Hook loves daddy! One day, Hook's gonna dig up a big treasure and build daddy a huge huge house!"
+            "Title": "フェスマンについて",
+            "Voice": "あたしはオヤジが大好きだよ！すごい宝物を掘り出したら、オヤジのためにでっかい家を建てるんだ！"
         },
         {
-            "Title": "About Luka",
-            "Voice": "Luka loves to eat meat — just like Hook! That's why we're such great friends!"
+            "Title": "ルカについて",
+            "Voice": "ルカお兄ちゃんは肉が好き！あたしも肉が好き！だから、ルカお兄ちゃんとフックはいいお友達なんだ！"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Hook's ready to find the next treasure!"
+            "Title": "星魂覚醒",
+            "Voice": "どんなお宝があたしを待ってるのかな～"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Watch out! The boss of The Moles is coming to get you!"
+            "Title": "キャラクター昇格",
+            "Voice": "「モグラ党」の親分のすごさ、見せてやる！"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Hmph! Nobody's gonna look down on Pitch-Dark Hook the Great anymore!"
+            "Title": "レベルMax",
+            "Voice": "ふふん、もうドスクロのフック様より強いヤツはいない！"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Get ready... Hook's got another pitch-dark trick up her sleeve!"
+            "Title": "軌跡覚醒",
+            "Voice": "見せてやる…ドスクロのフック様の手腕を！"
         },
         {
-            "Title": "Added to Team With Seele",
-            "Voice": "You won't beat Hook this time, Miss Seele!"
+            "Title": "パーティ編成・ゼーレ",
+            "Voice": "今度こそゼーレ姉ちゃんに勝つ！"
         },
         {
-            "Title": "Added to Team With Natasha",
-            "Voice": "Old witchy... M—Miss Natasha! I—I'll be good this time!"
+            "Title": "パーティ編成・ナターシャ",
+            "Voice": "うえっ！まじょっ…ナターシャお姉ちゃん！あたし良い子にしてるよ！"
         },
         {
-            "Title": "Added to Team With Clara",
-            "Voice": "Honorary member Clara! Ready for an adventure?"
+            "Title": "パーティ編成・クラーラ",
+            "Voice": "名誉隊員クラーラ！冒険を始める準備はいいか？"
         },
         {
-            "Title": "Added to Team With Sampo",
-            "Voice": "It's Mr. Blue Hair! Where are we going this time?"
+            "Title": "パーティ編成・サンポ",
+            "Voice": "青髪のおじちゃんだ！今日はどこに行って遊ぶ？"
         },
         {
-            "Title": "Added to Team With Luka",
-            "Voice": "Luka! Let's go beat up some bad guys..."
+            "Title": "パーティ編成・ルカ",
+            "Voice": "ルカ兄ちゃん、一緒に悪者をやっつけに行こう！"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "You've still got time to surrender!"
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "今投降すればまだ間に合うよ！"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "N—Nobody bullies Hook!"
+            "Title": "戦闘開始・危険予知",
+            "Voice": "あたし…あたしは弱虫じゃない！"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Ha! Time to make some mischief!"
+            "Title": "ターン・1",
+            "Voice": "ハッ！いたずらしちゃうよ！"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Form a line, villains!"
+            "Title": "ターン・2",
+            "Voice": "悪者、名を名乗れ！"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Hey! Don't ignore me!"
+            "Title": "戦闘中待機",
+            "Voice": "おい！無視すんな！"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Who are you calling small!?"
+            "Title": "通常攻撃",
+            "Voice": "誰がチビッ子だって！？"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Eh—hehe... Didn't expect that, right?"
+            "Title": "戦闘スキル・1",
+            "Voice": "えっへへ…思いもしなかった？"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Now you see me... now you don't~"
+            "Title": "戦闘スキル・2",
+            "Voice": "いっくよ～…バイバ～イ"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "You hit me!"
+            "Title": "攻撃を受ける",
+            "Voice": "殴ったね！"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "That huuuurt!"
+            "Title": "重撃を受ける",
+            "Voice": "いたい！"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Follow Hook if you wanna win!"
+            "Title": "必殺技・アクティブ",
+            "Voice": "あたしを頼れば、心配ない！"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Pitch-Dark Hook the Great has arrived — make way, make way... Woo-hoo~ BANG!"
+            "Title": "必殺技・発動",
+            "Voice": "ドスクロのフック様のご登場だ、どけどけ…バーン！"
         },
         {
-            "Title": "Downed",
-            "Voice": "Wait til I tell my daddy on you..."
+            "Title": "戦闘不能",
+            "Voice": "オヤジにだって…ぶたれたことないんだぞ…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Hmph, what would you do without Hook?"
+            "Title": "戦闘に戻る",
+            "Voice": "しょうがないな～っ"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "You're a good person!"
+            "Title": "HP回復",
+            "Voice": "よくやった！"
         },
         {
-            "Title": "Technique",
-            "Voice": "Ehehehe~"
+            "Title": "秘技",
+            "Voice": "ふっふふ～"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "I hereby pronounce this expedition a success!"
+            "Title": "戦闘勝利",
+            "Voice": "フック様が告げる、今回の冒険は、無事終了だ！"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Yay! Let's take it all!"
+            "Title": "戦利品を開ける・1",
+            "Voice": "ぜーーんぶ、持っていこう～"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Is this for Hook?"
+            "Title": "戦利品を開ける・2",
+            "Voice": "あたしにくれるの？"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Wow... Daddy will love this!"
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "おお…オヤジにあげよう！"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Huh? I wanna play again!"
+            "Title": "謎解きに成功・1",
+            "Voice": "え？まだ遊び足りないのに！"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Ha! Hook could do this blindfolded⁓"
+            "Title": "謎解きに成功・2",
+            "Voice": "こんなの目をつむっても解けるもんね～"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "*gasp* That one's a little scary."
+            "Title": "敵ターゲット発見",
+            "Voice": "び、びっくりした。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "First you go a-searching, then you go a-running, searching, running, jump jump jump!"
+            "Title": "町に戻る",
+            "Voice": "みつけーて、はーしって、あーそーんーで♪"
         }
     ]
 }

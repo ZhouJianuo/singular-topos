@@ -3253,9 +3253,259 @@ var _avatarrank_ = {
 }
 
 var _story_ = {
-    "1308": []
+    "1308": [
+        {
+            "_id": 1,
+            "Story": "A drifter claiming to be a Galaxy Ranger. Her true name is unknown, and she walks the cosmos alone, carrying with her a long sword.<br><br>Though aloof and taciturn, her blade flicks out like lashing lightning. And yet, she always strikes with her scabbard, never drawing the sword free."
+        },
+        {
+            "_id": 2,
+            "Story": "<i>\"...Warriors don't choose their blades, but rather their blades choose them. ██████████████████████████████████████████████████████████████████████████... On that day, as I witnessed the blade I had crafted being passed on to that girl, I realized that in the fight against ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇, she had chosen — or been chosen — to embrace the path that ▇▇▇▇▇▇▇▇▇ led her toward a new tomorrow. ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ there would be a bright future. Despite the peril looming over Izumo, its people would hold onto hope, believing that the ▇▇▇▇▇▇▇▇▇ shall one day be vanquished, and the world shall be liberated... ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇...\"</i><br><br><align=\"right\">— An Ancient Scattered Manuscript</align>"
+        },
+        {
+            "_id": 3,
+            "Story": "<i>\"...Through the scrolls left behind by the blade forger, we have learned that Izumo was once on the brink of destruction. In order to survive, they forged blades from the ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇, and those who wielded them were hailed as the saviors of their realm.<br><br>Unfortunately, the world has long vanished from the astral charts. The truth of history eludes us, and the Remembrance no longer holds its place. When the Armed Archaeologists arrived, the galaxy resounded solely with the melody of the Enigmata: ▇▇▇▇▇▇▇▇▇▇ tears, rain's boundless outpour. Beneath faint curtain, survivor departs from her shore. Her homeland, ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇...\"</i><br><br><align=\"right\">— Oppenheimer, the Recorder</align>"
+        },
+        {
+            "_id": 4,
+            "Story": "<i>\"I used the 'Revitalization-310' tincture, which induces a profound slumber, enabling individuals to relive their past memories. While some patients found ████████████████████████████, she proved an exception. No one has ever awakened from their dream state, yet she defied the odds. I closely observed her dreams... and they can hardly be called happy moments: gloomy skies, crumbling cities, ruined lands, and incessant rains.<br><br>The rain never stopped. Amidst the swelling tide, individuals wore smiles even as they were drowned, and within the engulfing darkness, I heard the distant rumble of thunder, until, at a particular moment, lightning shattered the veil of night. Below the fractured sky, I saw her once more: Within a world fading into oblivion, she elegantly swung her blade, eradicating the entire realm of dreams.<br><br>I must admit that she has ventured far beyond our progress on this path. The elusive ████████ beckons her toward █████████████████, yet she subtly holds its reins. Perhaps she was prepared to confront the true enemy from the very beginning of her journey...\"</i><br><br><align=\"right\">— A Note from a Pharmacist</align>"
+        },
+        {
+            "_id": 5,
+            "Story": "<i>\"I am leaving this letter here. In the event that I do not return, let this letter bear witness to the tale of a companion I encountered in ██████. The journey to the other side was perilous, and it was thanks to her that I managed to navigate it through...<br><br>...She had traversed numerous worlds before our paths crossed, and she possessed a wide range of life skills. Together, we cooked and established camps amidst the wilderness. On starless nights, she lent an ear to my stories and deliberated plans for the following day. Yet, more often than not, we journeyed in silence. The snow here bears a purplish-red hue, carrying the tangy flavor of raspberries. While she ███ ██████ ████ ███ █████ ██ █████, she appreciates the ██████ snow doughnuts I prepare...<br><br>...Before meeting her, I had spent countless years wading through the river of ████████. She extended her hand to me, and together, we ventured along this river. Now, the time has come for us to part ways, and I have yet to reach the shore, uncertain of what lies ahead... Even so, I see no reason to halt my journey. Life is merely a road that eventually culminates, and until that moment arrives, I shall keep pressing forward. I am certain she would do the same.\"</i><br><br><align=\"right\">— A Note from An Adventurer</align>"
+        },
+        {
+            "_id": 6,
+            "Story": "<i>\"...Warriors don't choose their blades, but rather their blades choose them. <color=#ff3a3e>Just as people don't choose their fate, but rather their fate chooses them</color>... On that day, as I witnessed the blade I had crafted being passed on to that girl, I realized that in the fight against <color=#ff3a3e>Yaoyorozu no Kami</color>, she had chosen — or been chosen — to embrace the path that <color=#ff3a3e>seemingly</color> led her toward a new tomorrow. <color=#ff3a3e>How I wish that</color> there would be a bright future, that despite the peril looming over Izumo, its people would hold onto hope, believing that the <color=#ff3a3e>evil Kami</color> shall one day be vanquished, and the world shall be liberated... <color=#ff3a3e>However, it was only when the blade's light waned that I came to a realization: This is an impasse with no escape, and those who venture upon it have no recourse to turn back</color>...\"</i><br><br><align=\"right\">— An Ancient Scattered Manuscript</align>"
+        },
+        {
+            "_id": 7,
+            "Story": "<i>\"...Through the scrolls left behind by the blade forger, we have learned that Izumo was once on the brink of destruction. In order to survive, they forged blades from the <color=#ff3a3e>remains of Kami</color>, and those who wielded them were hailed as the saviors of their realm. <color=#ff3a3e>The Guild is interested in the enigmatic Yaoyorozu no Kami mentioned in these scrolls, but the Path they are associated with remains shrouded in mystery. In later accounts, the people of Izumo ceased to refer to the wielders of the blades as 'heroes,' but rather as 'revenants.'</color><br><br>Unfortunately, the world has long vanished from the astral charts. The truth of history eludes us, and the Remembrance no longer holds its place. When the Armed Archaeologists arrived, the galaxy resounded solely with the melody of the Enigmata: <color=#ff3a3e>Dark Sun's</color> tears, rain's boundless outpour. Beneath faint curtain, survivor departs from her shore. Her homeland, <color=#ff3a3e>once saved, by her hands erased</color>... <color=#ff3a3e>Invisible shadows ahead, her vision encased.</color>\"</i><br><br><align=\"right\">— Oppenheimer, the Recorder</align>"
+        },
+        {
+            "_id": 8,
+            "Story": "<i>\"I used the 'Revitalization-310' tincture, which induces a profound slumber, enabling individuals to relive their past memories. While some patients found <color=#ff3a3e>solace and rediscovered hope</color>, she proved an exception. No one has ever awakened from their dream state, yet she defied the odds. I closely observed her dreams... and they can hardly be called happy moments: gloomy skies, crumbling cities, ruined lands, and incessant rains.<br><br>The rain never stopped. Amidst the swelling tide, individuals wore smiles even as they were drowned, and within the engulfing darkness, I heard the distant rumble of thunder, until, at a particular moment, lightning shattered the veil of night. Below the fractured sky, I saw her once more: Within a world fading into oblivion, she elegantly swung her blade, eradicating the entire realm of dreams.<br><br>I must admit that she has ventured far beyond our progress on this path. The elusive <color=#ff3a3e>Nihility</color> beckons her toward <color=#ff3a3e>self-annihilation</color>, yet she subtly holds its reins. Perhaps she was prepared to confront the true enemy from the very beginning of her journey... <color=#ff3a3e>Once, I asked her about the purpose behind it all, but she remained silent. Was she at a loss for words? Or did she already have an answer in mind?</color>\"</i><br><br><align=\"right\">— A Note from a <color=#ff3a3e>Doctor of Chaos</color></align>"
+        },
+        {
+            "_id": 9,
+            "Story": "<i>\"I am leaving this letter here. In the event that I do not return, let this letter bear witness to the tale of a companion I encountered in <color=#ff3a3e>Orkron</color>. The journey to the other side was perilous, and it was thanks to her that I managed to navigate it through. <color=#ff3a3e>When I first met her, it appeared that she was on a certain quest, possibly seeking revenge. However, I soon realized that it wasn't the case, as a person consumed by hatred would inevitably expose it, yet she remained remarkably composed, with only fleeting glimpses of sorrow...</color><br><br>...She had traversed numerous worlds before our paths crossed, and she possessed a wide range of life skills. Together, we cooked and established camps amidst the wilderness. On starless nights, she lent an ear to my stories and deliberated plans for the following day. Yet, more often than not, we journeyed in silence. The snow here bears a purplish-red hue, carrying the tangy flavor of raspberries. While <color=#ff3a3e>she has almost lost her sense of taste</color>, she appreciates the Orkron snow doughnuts I prepare...<br><br>...Before meeting her, I had spent countless years wading through the river of <color=#ff3a3e>Nihility</color>. She extended her hand to me, and together, we ventured along this river. Now, the time has come for us to part ways, and I have yet to reach the shore, uncertain of what lies ahead... Even so, I see no reason to halt my journey. Life is merely a road that eventually culminates, and until that moment arrives, I shall keep pressing forward. I am certain she would do the same.\"</i><br><br><align=\"right\">— A Note from <color=#ff3a3e>Frebass</color></align>"
+        }
+    ]
 }
 
 var _voice_ = {
-    "1308": []
+    "1308": [
+        {
+            "Title": "First Meeting",
+            "Voice": "\"Acheron...\" Merely a borrowed name. You know my nature, remember my deeds... Thus, I am Acheron."
+        },
+        {
+            "Title": "Greeting",
+            "Voice": "It's raining... Trailblazer, care to join me for a walk? Here, I have an umbrella."
+        },
+        {
+            "Title": "Parting",
+            "Voice": "Our journey begins anew. Life passes like a fleeting rain, eventually merging with the ground. May our next encounter be... under a clear sky."
+        },
+        {
+            "Title": "About Self: Movement",
+            "Voice": "Lone voyagers in the cosmos are driven by two desires: to tread in the trails of the past, and to forge their own way. But under THEIR scrutiny... most end up adhering to the former."
+        },
+        {
+            "Title": "About Self: Habits",
+            "Voice": "In the hazy memories of my distant hometown, there were often heavy thunderstorms. Fearing their makeup would be ruined by the rain, girls carried makeup with them wherever they went. I have no reason to do so anymore, but the habit still remains."
+        },
+        {
+            "Title": "About Self: Identity",
+            "Voice": "Dreams, in essence, are meaningless. Their purpose is painted by the backdrop of life. Yet, if that backdrop is \"emptiness\"... then dreams are reduced to colorless, hollow shells."
+        },
+        {
+            "Title": "Chat: Rain",
+            "Voice": "As the raindrops tumble from the crimson leaves, their pitter-patter on my umbrella whispers gently to me. In these moments... I find brief serenity."
+        },
+        {
+            "Title": "Chat: Weapon",
+            "Voice": "If one carries a blade, it's bound to be used to cut something down. My reason for drawing my sword — past, present, or future — remains singular."
+        },
+        {
+            "Title": "Hobbies: Peaches",
+            "Voice": "They embody life's delights and pleasures, but are equally fragile and short-lived... Such regret is inevitable, so let it be."
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "When I awoke from that place, the sea's horizon still held faint thunder, and the falling blood rain was easing — the sight of that moment lay strikingly clear before me."
+        },
+        {
+            "Title": "Annoyances",
+            "Voice": "When I awoke from that place, the sea's horizon still held faint thunder, and the falling blood rain was easing — the sight of that moment lay strikingly clear before me. All other memories, both prior and subsequent, paled and slowly ebbed away."
+        },
+        {
+            "Title": "Something to Share: Weapon",
+            "Voice": "Curious about this blade? When unsheathed, it unveils the memories stored within — every instance I've swung it, in the beginning, the end... and nothingness."
+        },
+        {
+            "Title": "Knowledge: Black Holes",
+            "Voice": "Black holes aren't spectacular, nor are they fierce. They're silent, like a lone, forlorn gaze watching over you and me... and then gently they consume everything, bestowing a frigid, silent embrace."
+        },
+        {
+            "Title": "Knowledge: Paths",
+            "Voice": "Seeking knowledge, craving revelation, striving to exist... humans traverse the path of fate."
+        },
+        {
+            "Title": "Knowledge: Paths",
+            "Voice": "Humans traverse the path of fate... seeking knowledge, craving revelation, striving to exist..."
+        },
+        {
+            "Title": "About Trailblazer",
+            "Voice": "I, too, was once kept in someone's heart like you. Those trivial moments, when looked back upon, are worth more than a thousand words... The past shapes who we are today. Some things are hard to remember, others hard to forget."
+        },
+        {
+            "Title": "About Firefly",
+            "Voice": "In her, I see the fireflies of the forest, dazzling and bewitching, yet shining only for a brief moment."
+        },
+        {
+            "Title": "About Black Swan",
+            "Voice": "A lady of elegance and dignity, her benevolent offer lingers in my memory. That dance... it brought me a sense of warmth and nostalgia."
+        },
+        {
+            "Title": "About Aventurine",
+            "Voice": "A shattered emptiness draped in the guise of desire... his existence is strikingly powerful, yet the self beneath is extraordinarily faint."
+        },
+        {
+            "Title": "About Welt",
+            "Voice": "There are many types of people called \"heroes,\" and he is among the most genuine... I have seen many such people come and go."
+        },
+        {
+            "Title": "About Sam",
+            "Voice": "Wherever the fiery giant treads, scorched earth follows. Yet, it's those consumed by unending fire... who, after the flames vanish, quietly hold the ashes in their lonesome embrace."
+        },
+        {
+            "Title": "Eidolon Activation",
+            "Voice": "\"To cross the same river twice\" ...Hardly a hardship."
+        },
+        {
+            "Title": "Character Ascension",
+            "Voice": "Never turn back — the path behind is gone."
+        },
+        {
+            "Title": "Max Level Reached",
+            "Voice": "The distant vistas are hazy... but must surely hold beauty."
+        },
+        {
+            "Title": "Trace Activation",
+            "Voice": "Another blank canvas."
+        },
+        {
+            "Title": "Added to Team With Trailblazer",
+            "Voice": "So it's you... Our time spent with one another is precious."
+        },
+        {
+            "Title": "Added to Team With Black Swan",
+            "Voice": "Our paths cross once more... Ready for another dance, Memokeeper?"
+        },
+        {
+            "Title": "Added to Team With Aventurine",
+            "Voice": "All or nothing... time will tell."
+        },
+        {
+            "Title": "Added to Team With Welt",
+            "Voice": "Even before the abyss of a black hole... we still have a choice."
+        },
+        {
+            "Title": "Battle Begins: Weakness Break",
+            "Voice": "Half the work is already done."
+        },
+        {
+            "Title": "Battle Begins: Danger Alert",
+            "Voice": "This is where it ends."
+        },
+        {
+            "Title": "Turn Begins 1",
+            "Voice": "Did you come here of your own volition, or was it fate?"
+        },
+        {
+            "Title": "Turn Begins 2",
+            "Voice": "Another journey begins."
+        },
+        {
+            "Title": "Turn Idling",
+            "Voice": "Hasten — we've hardly any time left to say farewell."
+        },
+        {
+            "Title": "Basic ATK",
+            "Voice": "Where are you going?"
+        },
+        {
+            "Title": "Skill 1",
+            "Voice": "Existence is fleeting as the dawn's dew, destined for oblivion."
+        },
+        {
+            "Title": "Skill 2",
+            "Voice": "On the still waters of oblivion, I guide the wandering souls."
+        },
+        {
+            "Title": "Hit by Light Attack",
+            "Voice": "Again?"
+        },
+        {
+            "Title": "Hit by Heavy Attack",
+            "Voice": "How familiar..."
+        },
+        {
+            "Title": "Ultimate: Activate",
+            "Voice": "I weep for the departed..."
+        },
+        {
+            "Title": "Ultimate: Unleash",
+            "Voice": "Dusk's rain... it too shall fall."
+        },
+        {
+            "Title": "Downed",
+            "Voice": "All will eventually rest upon the earth..."
+        },
+        {
+            "Title": "Return to Battle",
+            "Voice": "I'll stay with you a little longer."
+        },
+        {
+            "Title": "Health Recovery",
+            "Voice": "Don't worry, it's just a scrape."
+        },
+        {
+            "Title": "Technique",
+            "Voice": "Stream forth... the gleam of old blades."
+        },
+        {
+            "Title": "Battle Won",
+            "Voice": "Another blood debt repaid."
+        },
+        {
+            "Title": "Treasure Opening 1",
+            "Voice": "Seek, and you will find."
+        },
+        {
+            "Title": "Treasure Opening 2",
+            "Voice": "Don't forget to let your friends in on the action."
+        },
+        {
+            "Title": "Precious Treasure Opening",
+            "Voice": "This is what exploring the cosmos is all about."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 1",
+            "Voice": "Life is a puzzle in and of itself."
+        },
+        {
+            "Title": "Successful Puzzle-Solving 2",
+            "Voice": "Perhaps there's more than one right answer."
+        },
+        {
+            "Title": "Enemy Target Found",
+            "Voice": "Storm's on the horizon."
+        },
+        {
+            "Title": "Returning to Town",
+            "Voice": "This haven of memories, every touch, every moment is like a thorned rose..."
+        }
+    ]
 }

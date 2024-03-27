@@ -563,23 +563,23 @@ var _story_ = {
     "1111": [
         {
             "_id": 1,
-            "Story": "An optimistic and carefree fighter with a mechanical arm. Skilled in mixed martial arts and is a Wildfire member.<br>From the fight cage to the battlefield, and from a fighter to a warrior, Luka uses his strength to protect the people of the Underworld.<br>He wishes to bring hope to others precisely because he had experienced despair himself."
+            "Story": "ポジティブで些細なことにはこだわらない、義手の格闘家。「地炎」のメンバー。<br>リングから戦場へ、ボクサーから戦士へ。ルカはその力で下層部の人々を守ってきた。<br>その身で絶望を経験したからこそ、ルカは他の者に希望をもたらそうと努力する。"
         },
         {
             "_id": 2,
-            "Story": "He lifts the steel hammer over and over.<br><br>Sparks erupt before his eyes, and the clang of metal against metal mutes the thuds of moving muscles and joints. The boy is not yet tall enough to reach the tools at the top of the steel cabinet, but the power with which he swings the steel hammer can already rival that of the most skilled craftsmen.<br><br>This shop is his entire life, with his father squatting next to the door and repeatedly cleaning the rusted old shop sign. Sometimes he would lie on his hard bed and imagine his future — but no matter where his mind wandered, his father's figure would always appear in his thoughts at the end.<br><br>He temporarily puts down his work as footsteps approach. His father stands up, and the older man's stout but bowed figure moves with a hint of groveling flattery. It's those people from Wildfire again. Ever since Moltammerville went under a curfew, they have been frequenting this shop and have increased the number of orders for various weapons.<br><br>As the boy thinks about this, he happens to stare into the eyes of that regular old customer who acts as the leader of the group. That man's skin is tanned and he stands tall, his sharp gaze immediately softens when he locks eyes with the boy. Then, he nods imperceptibly at the boy.<br><br><i>\"Welcome, Chief Oleg! How can I help you today?\"</i><br><i>\"Patience, my good sir. I'm just here for a chat today.\"</i> The man points at Luka. <i>\"A chat about your son.\"</i>"
+            "Story": "一度、もう一度と、ハンマーを振り下ろす。<br><br>火花が目の前で弾け、筋肉と関節が擦れる音は、金属がぶつかり合う音の中に埋もれる。少年の身長ではまだ棚の一番上には届かないが、ハンマーを振り回す力はもう熟練の鍛冶職人に匹敵する。<br><br>この小さな鍛冶屋が彼の生活の全てだ。父は店の前に座り、錆びついた表札を何度も拭いている。彼はたまに、硬いベッドの上に横たわって自分の未来を想像する——だが、いくら思考を巡らせても、果てには父親の背中が浮かんでくる。<br><br>足音が聞こえてきて、彼は手を止めた。父が立ち上がった。その厚くもやや曲がった背中からは、一抹のへつらいが見える。また「地炎」の人たちだ——ハンマータウンに戒厳令が敷かれてから、彼らはよくこの鍛冶屋に来るようになった、おかげで各種武器の注文もかなり増えた。<br><br>少年が考え事をしていると、リーダー格のあの常連客と偶然目が合った。その人は黒い皮膚と逞しい体躯、そして鋭い眼光を持っている、だが、自分を見た瞬間に突然柔らかくなった。彼は少年に向かって頷く。<br><br><i>「ようこそ、オレグの旦那！今日は何が必要ですか？」</i><br><i>「まあまあ、急がずに。今日はただ話をしたいだけだ」</i>、彼はルカを指差した。<i>「お前さんの息子について」</i>"
         },
         {
             "_id": 3,
-            "Story": "There is fire all around him, and the thick black smoke makes it hard to see. He keeps hearing screams and screeches as the fused scent of machine oil and blood sweeps over his nostrils. Luka tries hard to push down the urge to vomit.<br><br>The smile that Oleg wore on his face when Luka swung a perfect straight punch for the first time inspired Luka. However, once the boy had experienced the cruelty of the front lines first-hand, he never regained that warm feeling in his heart. Luka would secretly observe his comrades' expressions every time they lined up for action — and the apprehension he saw on those faces would actually soothe his own anxiety.<br><br>A scream pulls Luka back to reality. He rushes toward where the sound came from and sees a helpless child being backed into a corner by a monster. Instinctively, he leaps out and puts himself between the sharp ax and the child's fragile form.<br><br>A loud blast sounds from behind him. Luka hugs the panicked boy with one arm and slowly turns his head. The mutated monster had fallen to the ground, seemingly hit in the vitals by a stray bullet.<br><br><i>\"Th—Thank you... mister...\"</i><br><br><i>\"Are you okay? Are you hurt anywhere?\"</i><br><br><i>\"Mister... your... your arm...\"</i><br><br>His eyes follow the direction the child is pointing at. The sleeve that should have covered his upper right arm has been reduced to a shred of broken fabric, and blood is pouring out of his severed limb.<br><br>However, before he faints from the pain, he could once again feel that warmth swelling up in his heart."
+            "Story": "炎の光が辺りを照らし、煙が彼の視線を遮る。怒号と叫び声が耳に伝わってくる。オイルと血の匂いが交わって襲い掛かってきた。ルカは吐き気をこらえる。<br><br>初めて標準的なストレートを打ち出した時、オレグ師匠の笑顔は彼を大きく励ました。しかし、前線の残酷さをその身で知った後、あの時のような温かい心の流れはもう感じ取れなくなった。整列する時、彼はいつも戦友たちの表情をこっそりと観察する——一つ一つの顔から読み取れる不安が、逆に彼の緊張感を和らげる。<br><br>大きな叫び声がルカを現実に引き戻す。声の方向を見ると、子供がモンスターに追い詰められていた。彼は本能的にモンスターと子供の間に飛び込む。<br><br>後ろからとても大きな声がした。ルカはパニックになった男の子を抱きしめながら、ゆっくりと振り向く。流れ弾が急所に当たったのか、異形のモンスターは既に倒れていた。<br><br><i>「あ…ありがとう、お兄さん……」</i><br><br><i>「大丈夫か？」</i><br><br><i>「お兄さん…腕…腕が……」</i><br><br>子供が指差す方向に沿って、自分の右腕を見ると——上腕があるはずの肩の部分には、風に揺れる布切れしか残っていなかった。その下からは血がだくだくと流れている。<br><br>痛みが意識を奪う前に、あの温もりがもう一度彼の心に流れ込んてきた。"
         },
         {
             "_id": 4,
-            "Story": "Luka is defeated at the final stage during the first championship he takes part in.<br><br><i>\"Hahaha, how useless! This is the world of survival of the fittest — someone as weak as you shouldn't even show yourself before me!\"</i><br><br>Luka does not mind the humiliation. His opponent for the final is an infamous thug in town known for his underhanded and cruel tactics. <i>If I have to resort to this kind of tricks and deceit to become the champion</i> — Luka thinks — <i>then I'd rather never get my hands on the golden belt.</i><br><br>Luka runs into a few children around the corner from the Fight Club the night after. A short and skinny boy is curled up on the ground, his body covered in wounds while the older children surrounding him laugh in arrogance.<br><br><i>\"Hahaha, how useless!\"</i> The leader of the bullies points at the wounded boy. <i>\"This is the world of survival of the fittest — someone as weak as you shouldn't even show yourself before me!\"</i><br><br>That is when Luka swears he will become the Underworld champion — and he will do it his own way: fair and square."
+            "Story": "初めてのトーナメント。ルカは決勝戦で倒れた。<br><br><i>「ハハハ、役立たずが！これが弱肉強食の世界だ——テメェみてぇなザコが出しゃばっていいところじゃねぇ！」</i><br><br>ルカはその侮辱を気にしなかった。決勝戦の相手は、汚い手ばかり使うことで有名なワルだ。<i>卑劣なやり方でしかチャンピオンを勝ち取れないのなら</i>——ルカは思う——<i>ベルトなんかいらねぇや。</i><br><br>次の日の夜、彼はクラブの曲がり角で数人の子供を見かけた。やせっぽちな男の子が満身創痍でうずくまっており、大きな図体の子供たちがその周りを囲んでいた。<br><br><i>「ははは、役立たずが！」</i>先頭に立ついじめっ子が傷を負った男の子を見て嘲笑う。<i>「これが弱肉強食の世界だ——テメェみてぇなザコが出しゃばっていいところじゃねぇ！」</i><br><br>その時、ルカは下層部のチャンピオンになることを誓った——彼自身の方法で、正々堂々と。"
         },
         {
             "_id": 5,
-            "Story": "<i>\"We'll call it a day here. Come, boy. Take a seat.\"</i><br><br><i>\"...This is all? I was planning to practice a few more sets today!\"</i><br><br><i>\"Oh, c'mon, stop pushing yourself. Get over here!\"</i><br><br><i>\"Hahaha. I'm coming. I'm coming!\"</i><br><br><i>\"Boy, I'm gonna ask you a question, and you need to give me an honest answer.\"</i><br><br><i>\"Oh? What is this heart-to-heart we're having? Go on. Ask away.\"</i><br><br><i>\"Look, when it comes to fighting... Do you actually like fighting?\"</i><br><br><i>\"Hahaha! Why are you asking this all of a sudden? Of course I do! Why else would I stick with you for so long?\"</i><br><br><i>\"Don't be smart with me, boy! Answer the question!\"</i><br><br><i>\"You're really serious about this... Okay. To be completely honest? I don't like it that much.\"</i><br><br><i>\"Mmm... finally got an honest answer out of you. So, if the Underworld no longer needs Wildfire's protection... would you still train yourself as a fighter?\"</i><br><br><i>\"Mmm, lemme think... I probably will.\"</i><br><br><i>\"Why? You didn't get into fighting because you want the golden belt. Don't think you can hide that from me. If the Underworld really became peaceful one day... would you still have a reason to fight?\"</i><br><br><i>\"Sir, I remember you saying that there are bad people in every era. Even if all the Fragmentum monsters die off, people would still fight to the death for every little thing.\"</i><br><br><i>\"Hmm... I did say that.\"</i><br><br><i>\"As long as there are still bad people in this world, and as long as there are still good people I need to protect—\"</i> Luka stands up, <i>\"then I will keep on fighting!\"</i>"
+            "Story": "<i>「今日はここまでにしよう。こっちだ、小僧、座りな」</i><br><br><i>「…これで終わりっすか？今日はもう何セットか追加しようと思ってたんすよ！」</i><br><br><i>「まったく、無理をするな。早く来い！」</i><br><br><i>「ハハハ、今行きます！」</i><br><br><i>「小僧——一つ聞く、正直に答えろよ」</i><br><br><i>「お？なんだそりゃ、師弟の打ち明け話をするんすか？んじゃどうぞ、師匠」</i><br><br><i>「じゃあ聞こう。お前は…心からボクシングが好きなのか？」</i><br><br><i>「ハハハ、どうして突然そんなことを聞くんすか？もちろん好きっすよ！じゃないと師匠の傍に何年もいられる訳ないじゃないっすか？」</i><br><br><i>「小僧、上手いことを言ってるとでも思ってるのか？真面目に答えろ！」</i><br><br><i>「真剣だな…わかったよ。正直に言えば…そんなに好きじゃないな」</i><br><br><i>「…ああ、ようやく本音を言ったな。じゃあもう一つ聞く…もし、下層部が『地炎』を必要としない日が来ても…お前は拳を振り続けるのか？」</i><br><br><i>「うーん、そうっすね…振るい続けると思う」</i><br><br><i>「なぜだ？お前はチャンピオンベルトのためにリングに上がった訳じゃない、俺にバレてないだなんて思うなよ。もし下層部が本当に平和になったら…それでも拳を振り続ける理由がお前の中にまだあると思うのか？」</i><br><br><i>「師匠が言ってたっすよね？どの時代にも悪党がいる。たとえ裂界のモンスターが死に絶えても、人間は些細な出来事で争い合う」</i><br><br><i>「あー…確かに言ったな」</i><br><br><i>「だから、この世に悪人がいる限り、守るべき善良な人がいる限り——」</i>、ルカは立ち上がった、<i>「——オレは拳を振り続ける！」</i>"
         }
     ]
 }
@@ -587,196 +587,196 @@ var _story_ = {
 var _voice_ = {
     "1111": [
         {
-            "Title": "First Meeting",
-            "Voice": "Oh, hey! I'm Luka, a member of Wildfire. Roughing up thugs and protecting the townsfolk is just part of my everyday job."
+            "Title": "初対面",
+            "Voice": "よっ！オレはルカ、「地炎」のメンバーだ。悪を裁き、民を守る——これがオレの毎日の仕事だぜ。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "The tournament's starting? Great! Let me get warmed up."
+            "Title": "挨拶",
+            "Voice": "もうすぐ試合が始まる？よっしゃ！先にウォーミングアップしとくか。"
         },
         {
-            "Title": "Parting",
-            "Voice": "Need a rest? Go! Tell you a secret though — a champion wins by training hard while others rest."
+            "Title": "お別れ",
+            "Voice": "休みたいのか？なら、先に帰っていいぜ！…オマエだけに教えるけどよ、チャンピオンの秘訣はな、人が休んでる時に訓練することなんだ。"
         },
         {
-            "Title": "About Self",
-            "Voice": "I don't fight because I like violence, or want to win the championship, or to show off to anyone... I just think there are too many thugs in the Underworld and the kids need a good example."
+            "Title": "自分について",
+            "Voice": "ボクシングをしてるのは暴力が好きだからじゃない、チャンピオンを目指すのも自慢するためじゃない…ただ、下層部には悪いヤツが多すぎてな、ガキどもの手本になりたいんだよ。"
         },
         {
-            "Title": "Chat: Mechanical Arm",
-            "Voice": "My master said: Try not to think too much about what you lost — think more about what you gained. Every time I look at my arm, I remember those words."
+            "Title": "世間話・義手",
+            "Voice": "師匠が言ってた、「自分が失ったもんよりも、自分が手にしたもんを見ろ」ってな。この義手を見るたび、師匠の言葉を思い出すんだ。"
         },
         {
-            "Title": "Chat: Overworld",
-            "Voice": "The Overworld? Not really interested. Unless, of course, there's a worthy opponent up there, or a bully that needs a good lesson."
+            "Title": "世間話・上層部",
+            "Voice": "上層部？興味ねぇな。まあ、オレが挑むに値する凄腕がいたら話は別だが…それか、裁くべき野郎がいたらだな。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "A popular Fight Club motto: \"Make friends with the one who hurts you the most...\" No wonder everyone wants to be my friend!"
+            "Title": "趣味",
+            "Voice": "ファイトクラブでこんな言葉が流行ってる。「誰かがオマエを一番ひどく殴った時、その誰かとダチになれ」——おお！どうりでみんなオレと仲良くしたいんだな！"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "Vegetables... mushrooms... disgusting. Why is it whenever there's an extinction, it's never these things?"
+            "Title": "悩み事",
+            "Voice": "野菜……キノコ……くっそー、なんでこういうもんは絶滅しないんだよ？"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "Have you heard of the three wonders of the Underworld? Geomarrow, heartless supervisors, and Luka's fist of steel!"
+            "Title": "シェア",
+            "Voice": "聞いたか？下層部の三大名物は、地髄、良心のない鉱区監督、そして——サンドバッグほどでかいルカの拳だってよ！"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "It's hard to believe, but there are folks willing to spend their whole lives putting hammer to iron or pickaxe to stone... I know, I know — not everyone has the opportunity to follow their dreams... but without dreams, I don't think I'd have made it this far."
+            "Title": "見聞",
+            "Voice": "たまに不思議に思うんだ、なんで一生鉄を打って、鉱石を掘るような人生に甘んじるヤツがいるのかって…分かってる、誰もが夢を語る資格を持つ訳じゃないって。でも夢がなきゃオレは…ここまで来れなかったと思う。"
         },
         {
-            "Title": "About Natasha",
-            "Voice": "Unless my injuries are serious, I try my best not to bother Natasha. Too many people need her help, they shouldn't have to suffer for my carelessness."
+            "Title": "ナターシャについて",
+            "Voice": "ひでぇ病気じゃなきゃ、なるべくナタ姉の手を煩わせないようにしてる。あの人を必要とするヤツがあまりに多いからな。自分のミスでソイツらを邪魔したら悪いだろう？"
         },
         {
-            "Title": "About Seele",
-            "Voice": "Seele... Now, how can I coax her into joining the tournament? With her strength, she'll easily be crowned champion... unless she meets me! Ha!"
+            "Title": "ゼーレについて",
+            "Voice": "ゼーレか…どうやったら彼女を試合に参加させられるんだ？あの実力ならきっと優勝は余裕なのに——このオレが相手じゃなきゃな、ハハっ！"
         },
         {
-            "Title": "About Svarog",
-            "Voice": "Gotta find an opportunity to beat that tinhead in an arm wrestle... Huh? You thought I was serious? Well, maybe the right arm..."
+            "Title": "スヴァローグについて",
+            "Voice": "絶対、どうにかしてあのデカい鉄の塊と勝負を…腕相撲をしてみせる！ん？あはは、オレもバッカじゃあるまいし、筋肉をいくら鍛えても大砲は無理っしょ。"
         },
         {
-            "Title": "About Sampo",
-            "Voice": "I don't need a middleman. Plus, anyone who calls themself \"tall, blue, and handsome\" definitely can't be trusted."
+            "Title": "サンポについて",
+            "Voice": "オレはマネージャーなんかいらねぇ。そもそも…自分に「青髪のイケメン」ってあだ名を付けるヤツなんて、信用できねぇんだよ。"
         },
         {
-            "Title": "About Hook",
-            "Voice": "Everyone says Hook is too naughty, but I think she's a good kid. An example? Uh... guess I don't have any — just my gut feeling. Tsk, what do you mean \"spoken like a true honorary member of The Moles\"!?"
+            "Title": "フックについて",
+            "Voice": "みんなフックはヤンチャすぎるって言うけど、オレはあの子を、やればできるいい子だと思ってる。うっ…証拠？証拠は…ねぇな。勘だよ勘、だってオレはモグラ党の名誉隊員だからな！"
         },
         {
-            "Title": "About Oleg",
-            "Voice": "...Oh, uh, never mind — I was just wondering how much training I've got left before I can finally beat Master Oleg. I need to hurry up — if he gets too old it won't be impressive anymore!"
+            "Title": "オレグについて",
+            "Voice": "…あっ、なんでもねぇ。ただ、どれだけ鍛えればオレグ師匠に勝てるか考えてただけだ。オレグ師匠が老人になって弱りきる前に、この目標を成し遂げねぇとな。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Niiiice, let's go!"
+            "Title": "星魂覚醒",
+            "Voice": "なんか…燃えてきたぜ！"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Why train daily when you could train twice daily?"
+            "Title": "キャラクター昇格",
+            "Voice": "1日1回の練習？足りねぇな、もっとだ！"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "That's my limit? Ha, no way!"
+            "Title": "レベルMax",
+            "Voice": "これがオレの限界だって？ハッ、まさか！"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Very practical. Nice call!"
+            "Title": "軌跡覚醒",
+            "Voice": "実践的な技だ、いいぞ！"
         },
         {
-            "Title": "Added to Team With Seele",
-            "Voice": "Seele! Oh, this is gonna be easy!"
+            "Title": "パーティ編成・ゼーレ",
+            "Voice": "ゼーレ！オレらが手を組めば、勝てねぇ喧嘩なんてねぇ。"
         },
         {
-            "Title": "Added to Team With Natasha",
-            "Voice": "Stop worrying, Nat — I'm feeling fine!"
+            "Title": "パーティ編成・ナターシャ",
+            "Voice": "心配すんな、先生！リングの上で倒れたりしねぇから。"
         },
         {
-            "Title": "Added to Team With Hook",
-            "Voice": "Wanna grow taller, Hook? Eat more protein!"
+            "Title": "パーティ編成・フック",
+            "Voice": "フック、もっと肉食わねぇと背が伸びねぇぞ！"
         },
         {
-            "Title": "Added to Team With Clara",
-            "Voice": "Psst, Clara — any chance I can train with Mr. Svarog?"
+            "Title": "パーティ編成・クラーラ",
+            "Voice": "オレに技を教えるようスヴァローグに頼んでもらえるか、クラーラ？"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "So! Give up yet?"
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "なんだ？ギブアップか？！"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "I'm just getting started!"
+            "Title": "戦闘開始・危険予知",
+            "Voice": "…まだまだ始まったばかりだ！"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "I could take you one arm only!"
+            "Title": "ターン・1",
+            "Voice": "テメェなんざ、ワンパンだ！"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Ha, small fry!"
+            "Title": "ターン・2",
+            "Voice": "ハッ、ただのザコじゃねぇか！"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Better throw a punch or it'll be curtains, friend."
+            "Title": "戦闘中待機",
+            "Voice": "早くパンチを打たねぇと後れを取るぞ、相棒。"
         },
         {
-            "Title": "Enhanced Basic Attack",
-            "Voice": "Need a hand...? My pleasure!"
+            "Title": "強化通常攻撃",
+            "Voice": "この一撃で——おさらばだ！"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Don't get cocky now!"
+            "Title": "戦闘スキル・1",
+            "Voice": "威勢がいいじゃねぇか！"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Snap out of it!"
+            "Title": "戦闘スキル・2",
+            "Voice": "よそ見すんな！"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "...That all you got?"
+            "Title": "攻撃を受ける",
+            "Voice": "…これくらい！"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "...Now we're talking!"
+            "Title": "重撃を受ける",
+            "Voice": "…面白れぇ！"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Where's the applause?"
+            "Title": "必殺技・アクティブ",
+            "Voice": "歓声はどこだ？"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "An opponent worth their salt... Let's see some sparks fly!"
+            "Title": "必殺技・発動",
+            "Voice": "全力を出す価値があるな…爆ぜる火花を見せてやらぁ！"
         },
         {
-            "Title": "Downed",
-            "Voice": "Gotta keep fighting..."
+            "Title": "戦闘不能",
+            "Voice": "かっこわりぃな……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Back in the ring!"
+            "Title": "戦闘に戻る",
+            "Voice": "復帰だぁーッ！"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Keep patching me up!"
+            "Title": "HP回復",
+            "Voice": "背中は任せたぜ！"
         },
         {
-            "Title": "Technique",
-            "Voice": "Strike first!"
+            "Title": "秘技",
+            "Voice": "先手必勝！"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Now that's a gold-winning victory!"
+            "Title": "戦闘勝利",
+            "Voice": "チャンピオンの実力、思い知ったか！"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Huh, another surprise?"
+            "Title": "戦利品を開ける・1",
+            "Voice": "へぇ、サプライズか？"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Huh? That's barely enough for one person!"
+            "Title": "戦利品を開ける・2",
+            "Voice": "はっ？こんだけか？"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Now that's what I'm talking about!"
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "よっしゃあ！大儲け！"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Brawn's good and all, but what would it be without brains?"
+            "Title": "謎解きに成功・1",
+            "Voice": "オレは頭も回るんだぜ。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Still got the brains!"
+            "Title": "謎解きに成功・2",
+            "Voice": "ああ、悪くねぇな！"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Ha, here comes the appetizer!"
+            "Title": "敵ターゲット発見",
+            "Voice": "ハハッ、強そうなヤツだな！"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "I wanna find somewhere to put my feet up."
+            "Title": "町に戻る",
+            "Voice": "どっかで寝転んで、リラックスしてぇなー。"
         }
     ]
 }

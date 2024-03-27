@@ -621,23 +621,23 @@ var _story_ = {
     "1212": [
         {
             "_id": 1,
-            "Story": "Former Sword Champion of the Luofu, and the reason behind the Cloud Knights' mythical reputation of implacable might.<br>Now, her name has been wiped from the records, and she is a traitor of the Xianzhou walking on the fine line between sanity and mara-struck."
+            "Story": "과거 나부 검술의 일인자이자 운기군 불패신화의 창조자.<br>오늘날 그녀의 이름은 역사에서 지워졌고, 마각의 몸의 경계를 걷는 선주의 역적이 되었다"
         },
         {
             "_id": 2,
-            "Story": "A sword, 3 feet and 7 inches in length, that weighs nothing.<br>It was not forged from any ordinary iron, but condensed from a shaft of sharp ice. It glowed with a dim light, as if it were a sliver of moonlight held in the wielder's hand.<br><br><i>\"A sword, 3 feet and 7 inches in length, weighing about 7 catties. Hold it in your hand, and stab the sharp end towards the enemy.\"</i><br>With a gentle flip of her hand, the woman in armor called her sword. As if alive, the sword lept out of the weapon rack, sliding into her grasp and out of its sheath in one fell swoop. The blade then stabbed into the air beside the girl, humming intently.<br><i>\"You got that yet? If so, go fight the most common war beasts the borisin use in their ground forces. Once you've killed ten Bloodshot War Wyverns, I'll consider your first lesson completed.\"</i><br>She remained silent, her eyes darting left and right. This was her first time stepping out of the ward since being rescued, and the first time ever in her life she had touched a weapon known as a sword.<br><i>\"I have dismissed the healers and helpers. They won't come to you without my orders.\"</i><br><i>\"The calamity in Cangcheng left few survivors. I don't know what you've been through before the rescue arrived... But I don't want to see you wallow in past horrors like this for the rest of your life.\"</i><br><i>\"It's okay if you don't wanna talk. You can speak with this.\"</i><br><i>\"You can use this to vanquish the monsters that took everything from us. There are now few things as wondrous as this left in the world.\"</i><br>The woman in armor remained composed, her gaze cast onto the long sword by the girl's side.<br><br>The mirror-like blade showed her reflection. Then, a swarm of razor shards swirled up in a tempest, dragging the girl into her past — <br>In the dimly lit sky, the demonic planet named Rahu was wailing and singing, hurling towards everyone with lands and mountains ablaze.<br>On the streets, people were screaming, writhing and rolling in apocalyptic despair, as the golden tendrils sprouted and grew feverishly in every orifice of theirs.<br>She watched everything unfold, paralyzed. Her organs felt like they were boiling. Something suddenly surged and churned in her Core Esse, like a ripe wheat grain about to burst out of its husk and swell to infinity.<br>The mountains hurling towards her face made her realize, she was but a mayfly, about to perish at the mere flick of an Emanator's fingertip.<br><br>In that split moment before death claimed her, she grabbed the only thread she could hang by.<br>A sword, 3 feet and 7 inches in length, weighing about 7 catties."
+            "Story": "검, 길이는 3척 7촌에 무게는 공기처럼 가볍다.<br>평범한 철이 아닌 단단한 얼음이 형체를 이루고, 은은한 빛을 품고 있어 달빛 한줄기를 손에 쥔 것만 같다.<br><br><i>「검, 길이는 3척 7촌에 무게는 일곱 근이 넘는다. 손에 쥐고 날카로운 끝을 적을 향해 내지른다」</i><br>무장한 여자가 가볍게 손짓하자 검은 살아있는 것처럼 검집채로 무기 거치대에서 회전하며 날아올라 여자의 손아귀에 들어가더니 검집에서 나와 여자아이의 옆에서 웅웅거리며 검명을 일으킨다.<br><i>「할 수 있겠어? 할 수 있다면 보리인이 지상전에서 가장 자주 쓰는 전투 요수 혈안의 애자(睚眦)를 10마리 처치해. 그럼 첫 번째 수업은 끝나는 셈이지」</i><br>그녀는 말없이 주위를 두리번거린다. 이날 그녀는 구출되고 나서 처음으로 병실에서 나와, 살면서 처음으로 검이라는 무기를 만져 보았다.<br><i>「의료진에게 물러가라고 했어. 내 명령 없이 그들은 널 찾으러 오지 않을 거야」</i><br><i>「창성이 재난에 빠져 살아남은 사람이 얼마 안 돼. 구조대가 도착하기 전에 네가 무슨 일을 겪었는지 난 몰라…. 하지만 네가 이렇게 평생 과거의 공포에 갇혀 있는 꼴은 보고 싶지 않구나」</i><br><i>「대답할 필요 없어. 검으로 대답하면 되니까」</i><br><i>「그걸로 우리의 모든 것을 앗아간 괴물들을 모조리 없애버려. 이렇게 놀라운 물건은 이제 세상에 얼마 안 남았지」</i><br>무장한 여자는 표정 하나 변하지 않고 여자아이 옆의 장검으로 시선을 돌린다.<br><br>거울 같은 검날에 그녀의 모습이 비친다. 날카롭고 고통스러운 파편들이 폭풍처럼 날아올라 여자아이를 과거로 끌어들인다——<br>어두운 하늘에는 나후(羅睺)라는 이름의 불길한 별이 비명을 지르고 노래를 부르며 불타는 산맥과 대지를 끼고 사람들을 향해 돌진했다.<br>거리에 있던 사람들은 울부짖으며 종말의 절망 속에서 몸부림치며 뒹굴었다. 금빛 덩굴이 사람들의 입과 코에서 쉬지 않고 자랐다.<br>그녀는 꼼짝도 하지 못하고 이 모든 것을 지켜봤다. 오장육부가 끓어오르더니 잘 익은 낟알이 껍질에서 나와 무한히 팽창하는 것처럼, 무언가가 그녀의 몸 속에서 솟구쳤다.<br>하지만 다가오는 산맥을 보며 그녀는 자신이 곧 신의 가벼운 손가락 놀림에 죽게 될 하루살이에 불과하다는 것을 깨달았다.<br><br>죽음이 임박한 순간, 그녀는 옆에 있던 유일한 부초를 움켜쥐었다.<br>검, 길이는 3척 7촌에 무게는 일곱 근이 넘는다."
         },
         {
             "_id": 3,
-            "Story": "A sword, 6 feet and 5 inches in length, weighing 14 catties.<br>This is a Cloud Knight greatsword that must be wielded with both hands. Its edge contains enchanted fire that can split open the mechabeast's inert armor at the moment of contact.<br>There are 12 Flying Swords providing support, connected into her spinal meridian from the acupuncture points of Dazhui to Yaoyangguan. She needed only to think for these swords to instantly span out like a blistering storm.<br>She was still unfamiliar with the way of the sword. She still had lots to learn.<br><br>The woman in armor had no time to teach her more before the woman was tasked with leading the army on the field. Therefore, the girl's second lesson is to be learned on the battlefield, taught by the enemies she would fall.<br>\"Stab\" is easy, but swift monsters won't run into the sword's tip on their own or let the girl execute them. That is how she learned \"slash.\"<br>\"Entangle\" is next. Against monsters with overwhelming strength, the girl learned how to parry with the back of the sword to deflect enemy attacks.<br>She believed she had learned enough of the sword and therefore leapt onto the mechabeast war pawn \"Gigantes\" that dwarfed her at least ten times over.<br>She broke all the swords she brought with her and only managed to leave a few dozen cuts on the opponent's gigantic body.<br>She was whacked away by an enormous hand. Lying in the blood-soaked mud of the battlefield, she was once again swallowed by horror. In that split moment before death claimed her, she finally understood that even the art of swordplay had its limits.<br>An arrow filled with blazing fire blew off the Gigantes' head. \"Get up.\" The woman in armor looked at her.<br><br><i>\"I don't want to learn the sword anymore. It's... useless.\"</i><br><i>\"Useless? It's pretty useful in my hands. It is the wielder who was useless.\"</i><br><i>\"...\"</i><br><i>\"If you don't learn the sword, what do you want to learn? The alchemical arrows on the pilots' starskiffs? The blazing fire flung by divine crossbows? Or... The artillery of the Zhuming Xianzhou? Such instruments would also be enough to destroy that demonic planet. You want to learn about them? Fine. Those things can kill the enemy even from beyond visual range.\"</i><br><i>\"...I just don't understand why you insist on teaching me the sword!?\"</i><br><i>\"From the general to the smallest pawn, every Cloud Knight starts by learning the sword.</i><br><i>\"The various constructs provided by the Artisanship Commission can certainly kill the enemy for you, but those deeds are to the merit of the material rather than the person. If there comes a day that the quivers run empty, that the starskiffs crash, that the aurumatons freeze — Who will protect you and I, then? Who will protect the Xianzhou?</i><br><i>\"Hold this sword. Remember, it would not be a true fight for humanity if Cloud Knights didn't wield swords and march onto the battlefield themselves. Rather than letting ingenia do the work for us, we will show our final victory to those inhuman abominations by our own blood and prowess!\"</i><br><br>The woman in armor turned and departed, leaving the girl and the broken sword in the training room.<br>A sword, 2 feet and 1 inch in length, only its broken fragments remained."
+            "Story": "검, 길이는 6척 5촌에 무게는 14근이다.<br>이것은 두 손으로 휘둘러야 하는 운기군의 검이다. 칼날에 불의 힘이 담겨 있어서, 적을 상대하는 순간 기계짐승의 불활성 외갑을 벨 수 있다.<br>그리고 전투를 돕는 비검 12자루가 혈도 [대추]에서 [양관]까지 연결되어 있다. 마음에 따라 움직이는 비검들은 질풍노도와도 같다.<br>그녀는 검술에 아직 익숙하지 않다. 그녀는 배워야 할 게 많다.<br><br>무장한 여자는 곧 군을 이끌고 출정해야 해서 그녀를 더 가르칠 겨를이 없었다. 그렇게 소녀의 두 번째 수업은 전장의 쓰러진 적들 사이에서 이루어졌다.<br>「찌르기」는 간단명료하지만 동작이 민첩한 괴물들이 검끝을 향해 달려들 리 없었다. 그리하여 그녀는 「베기」를 익혔다.<br>「휘감기」, 무시무시한 힘을 지닌 괴물 앞에서 소녀는 검날의 반대 부분으로 공격을 무력화하는 법을 터득했다.<br>그녀는 검술을 깨우쳤다는 생각에 자신보다 10배 큰 기계짐승 병사 「용백」의 몸 위에 뛰어 올랐다.<br>가지고 있던 모든 검이 부러졌지만, 상대의 거대한 몸에 상처만 남길 뿐이었다. 괴수의 거대한 손이 그녀를 강타했다. 그녀는 피바다가 된 전장에 누워 다시 한번 공포에 잠식됐다. 죽음이 임박한 순간에서야 그녀는 검술에도 한계가 있다는 것을 깨달았다.<br>이글거리는 화염을 장전한 화살이 용백의 머리를 터트렸다. 「일어나」 무장한 여자는 그녀를 바라보며 말했다.<br><br><i>「저 검술 안 배울래요. 검은… 쓸모가 없어요」</i><br><i>「쓸모가 없다고? 나한테는 아주 유용한데. 검을 쓰는 사람이 쓸모없는 거겠지」</i><br><i>「……」</i><br><i>「검술을 배우지 않겠다면 뭘 배우고 싶은데? 비행사 별뗏목의 연석전, 신의 팔에 장착된 화염 석궁? 아니면… 주명 선주의 주명화? 이 무기들이라면 저 요사스러운 별을 없애기에 충분하지. 뭘 배우고 싶어? 만나기도 전에 상대를 죽일 수 있어」</i><br><i>「…그저 왜 제가 검술만 배워야 하는지 모르겠어요」</i><br><i>「장군부터 병사까지 모든 운기군은 검을 배우는 것부터 시작해」</i><br><i>「공조사의 무기들은 널 대신해 적을 죽여줄 수 있어. 하지만 그 무기들은 자동으로 움직일 뿐이지. 화살이 다 떨어지고, 별뗏목이 추락하고, 금 조각상이 멈춰 서는 날이 오면 누가 우리를, 선주를 지켜줄까?」</i><br><i>「이 검을 쥐고 내 말 똑똑히 들어. 운기군이 직접 검을 들고 출전해야지만 인간의 전투라고 할 수 있는 거야. 우리의 피와 살로, 우리의 힘으로 저 기계 흉물들에게 보여줘야 해. 기계 따위가 우리를 대체하지 못한다는 것을!」</i><br><br>무장한 여자는 그녀와 부러진 검을 연무실에 남겨두고 떠났다.<br>검, 길이는 2척 1촌에 부러진 칼날만이 남아있다"
         },
         {
             "_id": 4,
-            "Story": "A sword, 5 feet in length, weighing as heavy as three thousand catties. The ebony blade shimmers with a sanguine sheen.<br>The sword was forged from the nonstop tempering of extraterrestrial ores, a complete deviation from conventional weaponry. Untamed and unyielding, the sword mirrored the defiance and hubris of its short-life species creator.<br><br>Once, she had only swords as her companions, but now she found herself with many friends.<br><br>The day she was crowned as the Sword Champion, the craftsman attended the ceremony in a black garb and cast out the sword he bore. The sword sank deep into the ground, leaving only its hilt above the soil. All attendees were shocked.<br><i>\"Only the Sword Champion of the Luofu Cloud Knights can tap into the full potential of this sword I have crafted.\"</i> He gave a toothy grin.<br><br>The high elder of the Luofu, as haughty and detached as the high moon in the sky, felt an irresistible temptation to duel with her upon witnessing her peerless martial prowess with just one simple glance.<br>The spear and the sword sparred for many years without a conclusion, until she cleaved ocean tides in twain with a single slash in the Dragonvista Rain Hall, and finally won the high elder's concession.<br><br>A well-traveled Nameless who had flown across the cosmos had steered vessels for her, bringing divine nectar from the other side of the universe to share with her, and gazed upon the scintillating stars by her side.<br><br><i>\"I will cut down even the stars in the sky.\"</i><br>She still vaguely remembers the boasts she made in moments of inebriation. That burning planet rushing towards her in childhood memories, that horrible nightmare that wouldn't let her go — those scenes are no longer so terrifying.<br>This is the first time she understands what \"wanting to live\" means in all her years of wielding a sword. Before this moment, she was simply someone ready to die.<br><br>And there was her student.<br>She recalled the first time they met. This young but devious child had asked the same questions as she did.<br><i>\"Master, why do you insist on wielding a sword? There are thousands of weapons out there that can kill an enemy. If you want to destroy that planet, the Zhuming can probably do it with its artillery.\"</i><br><i>\"This is like asking a poet why they wrote poems. There are many ways to express oneself, but this is the only way for me.\"</i><br>Now, he has also become a shining star amongst the Cloud Knights.<br><br>She doesn't have a master anymore. The woman in armor perished on the battlefield and can instruct her no longer.<br>Nor does she need a master anymore. She knows everything there is to know about swords. They are a part of her body. They are the intake and release of her breath as she walks and sleeps.<br>People call her the Transcendent Flash, the pinnacle of swordmasters, a once-in-ten-millennia hero. However, she knows that her sword is still not enough to \"cut down the star in the sky\" —<br><br>Even if she is holding the greatest sword in all the Xianzhou...<br>A sword, 5 feet in length, weighing as heavy as three thousand catties. The ebony blade shimmers with a sanguine sheen."
+            "Story": "검, 길이는 5척에 무게는 삼천 근에 달하는 것만 같다. 새카만 칼날엔 핏빛이 어려 있다.<br>검은 천외의 금속을 거듭 담금질해 만든 것으로, 정상적인 무기의 범주를 완전히 벗어난 것이었다. 검은 그것을 단조한 단명종 장인처럼 거칠고 오만하기 짝이 없었다.<br><br>늘 검만 가까이했던 그녀에게 친구가 여럿 생겼다.<br><br>그녀가 검술의 일인자에 오르는 날, 취임식에 참석한 검은 옷을 입은 장인이 검을 던졌다. 검은 땅속 깊이 가라앉고 검자루만 남았다. 사람들은 크게 놀라 웅성거렸다.<br><i>「내가 만든 검은 나부 운기검수(劍首)만이 제대로 다룰 수 있소」</i>그는 이를 드러내며 웃었다.<br><br>달처럼 고고하고 오만한 나부 용존은 그녀의 신들린 검술을 보고 승부를 가리고 싶다는 마음을 먹게 됐다.<br>창과 검의 싸움이 여러 해 이어졌지만, 승부가 나지 않았다. 결국 그녀가 현룡대우전에서 단숨에 바다를 가르고 나서야 용존은 그녀를 인정했다.<br><br>별바다를 오가는 견문이 넓은 한 무명객이 그녀를 위해 별바다 저편의 감주를 가져왔다. 둘은 감주를 마시며 이야기를 나누다가 하늘의 반짝이는 별들을 바라봤다.<br><br><i>「난 하늘의 별도 벨 수 있어」</i><br>그녀는 아직도 술에 취해 했던 호언장담을 어렴풋이 기억한다. 어린 시절의 기억 속에 그 불타는 별, 그때는 헤어나올 수 없었던 끔찍했던 악몽이 이제는 더이상 무섭지 않다.<br>검과 함께하면서 그녀는 처음으로 살고자 하는 의지가 무엇인지 깨달았다. 그 전까지 그녀는 죽음이 다가오길 기다리는 사람이었다.<br><br>그리고 그, 그녀의 제자.<br>그녀는 그와의 첫 만남을 떠올렸다. 그는 나이는 어리지만 꾀가 아주 많은 아이였다. 그는 그때의 자신과 똑같은 질문을 던졌다.<br><i>「스승님께서는 왜 검에 집착하십니까? 적을 죽일 수 있는 무기는 수천 가지에 이릅니다. 그 별을 없애는 거라면 선주의 주명화로도 가능할 텐데요」</i><br><i>「시인에게 왜 시를 쓰냐고 묻는 것 같은 질문이군. 자신을 표현하는 방식은 많지만, 나한텐 이것뿐이야」</i><br>이제 그도 운기군의 걸출한 인재가 되었다.<br><br>그녀는 이제 스승이 없다. 무장한 여자는 전사해 더이상 그녀를 가르칠 수 없다.<br>그녀도 이제 스승이 필요하지 않다. 그녀는 검의 모든 것을 통달했다. 검은 몸의 일부이자 삶의 모든 순간을 함께하는 숨결이 되었다.<br>사람들을 그녀를 「무결의 섬광」이라 불렀다. 수 세기에 한 번 나올까 말까한 검객의 최고봉이라 했다. 하지만 그녀는 「하늘의 별을 베기」에 아직 부족하다는 것을 알고 있다——<br><br>그녀가 쥐고 있는 게 선주 제일의 보검이라 해도……<br>검, 길이는 5척에 무게는 삼천 근에 달하는 것만 같다. 새카만 칼날엔 핏빛이 어려 있다"
         },
         {
             "_id": 5,
-            "Story": "A sword, 5 feet in length, weighing as heavy as three thousand catties. The ebony blade is covered in cracks and the tip is broken and lost.<br>Amid the countless wars, she wielded this sword and, alongside her comrades and disciple, battled her way into the vast ship, decapitating the wolf-like head of the borisin Warmuhtar. She also climbed the sky-piercing flying citadel, clipping the wings of the Feather Guards. She fought the iron cavalry of the Houyhnhnm, sealing all the riders of the six-legged steeds into prison... Whichever way her sword swung, no abomination could escape death or imprisonment.<br>She had never expected she would point this sword at her lifelong friend.<br><br>She gasped, barely holding her wounded body together. Far away, deeper in the delve, there came the anguished roar of a dragon, as if pleading for death.<br>She watched as the arrogant craftsman fell into the mud, and walked up to him like a wraith.<br><i>\"I should kill you first... but you will have your own torment to bear for all eternity...\"</i><br>She pointed the broken sword at the high elder.<br><i>\"Impossible. The Preceptors said... The blood of my race and the soul of my ancestor should have created another high elder. All this... It shouldn't be like this.\"</i><br><i>\"If your death can return everything to how it was, I would do it... But you need to tell me right now where that dragon's weak point is.\"</i><br><i>\"The top of its head...\"</i><br><br>The half-draconic abomination swam through the air in blasts of lightning. Its body, enough to swallow the very horizon, sundered yet another floating isle. Its wails were as loud as the clamors of a thousand clashing swords.<br>She felt her Core Esse boiling, like a ripe wheat grain about to burst out of its husk and swell to infinity.<br>She saw herself trapped in childhood nightmares again. The ominous planet is swallowing her overhead, and she, but an insect, cannot even struggle.<br>The woman tore off a spread of black silk from the edge of her skirt and covered her eyes.<br>The thunder struck. She leapt up with her sword towards the draconic abomination.<br>In a dreamlike illusion, she felt her flesh surpass its limits, beginning to disintegrate. It was as if innumerable silken threads bound her, taut across every limb and bone, each one slicing through the last vestiges of her consciousness, bit by bit.<br>Suddenly, she heard those words:<br><i>\"I will cut down even the stars in the sky.\"</i><br><br>At that moment, she finally grasped the sword she had been seeking all this time.<br>It was a sword that can transcend all restrictions. It was a sword she had been familiar with for years.<br>It was not forged from any ordinary iron, but condensed from a shaft of sharp ice. It glowed with a dim light, as if it was a strand of moonlight held in the wielder's hand.<br>A sword, 3 feet and 7 inches in length, and weighs nothing."
+            "Story": "검, 길이는 5척에 무게는 삼천 근에 달하는 것만 같다. 새카만 칼날엔 금이 가득하고 검 끝은 온데간데없다.<br>비 내리듯 몰아치는 전쟁 속에서 그녀는 전우, 제자와 함께 이 검을 휘두르며 천족의 배로 쳐들어가 전쟁을 관망하던 수장인 늑대의 목을 떨궜다. 한번은 구름 위로 높이 솟은 비공성에 올라 페더 가드들의 날개를 갈기갈기 찢었다. 또 한번은 후이늠의 말발굽에 맞서 다리 여섯 달린 준마를 모는 자들을 모조리 잡아다 감옥에 처넣었다… 그녀의 검이 겨누는 흉물에겐 죽음이나 패배가 주어질 뿐 그 외에는 있을 수 없다.<br>하지만 그녀도 자신의 검이 생사를 나눈 지기에게 향할 줄은 예상치 못했다.<br><br>그녀는 숨을 헐떡이며 간신히 만신창이가 된 몸을 지탱한다. 저 멀리 동천에서 비통에 찬 용의 포효가 해방을 갈구하듯 들려온다.<br>광기에 찬 장인이 진탕 속으로 떨어지는 걸 지켜보던 그녀는 넋이 나간 것처럼 그 옆을 지나간다.<br><i>「널 먼저 죽여야 하지만… 넌 다른 죄도 짊어져야 해, 영원히……」</i><br>그녀는 부러진 검을 용존에게 겨눈다.<br><i>「불가능해. 용의 군사들이 그러더군… 내 일족의 피, 내 선조의 혼으로 다른 용존을 만들겠다고. 모든 게… 이렇게 흘러가선 안 됐는데」</i><br><i>「널 희생시켜 모든 걸 되돌릴 수 있다면 난 기꺼이 그렇게 할 거야… 하지만 지금은… 그 용의 역린이 있는 곳을 알려줘」</i><br><i>「두개골……」</i><br><br>반은 용의 형체를 한 흉물이 번개처럼 하늘을 누비다 해평선도 뒤덮을 거구로 부유섬 하나를 산산조각 내고 천 개의 검이 부딪히는 것 같은 울음소리를 낸다.<br>그녀는 자신의 단부가 펄펄 끓는 걸 느꼈다. 잘 익은 낟알이 껍질을 까고 나오려는 것처럼 팽창했다.<br>그녀는 또다시 어린 시절의 악몽에 갇힌 자신을 보았다. 불길한 별이 머리 위에서 떨어지고 하루살이는 발버둥 칠 힘도 없다.<br>여인은 치마폭에서 검은 비단을 죽 찢어 두 눈을 가렸다.<br>천둥 번개가 친다. 그녀는 검을 들고 뛰어올라 악룡에게 맞선다.<br>꿈인지 현실인지 분간할 수 없는 환각 속에서 그녀는 드디어 피와 살이 극한을 뛰어넘어 붕괴되는 걸 느꼈다. 현에 구속된 것처럼 사지는 팽팽히 당겨지고 그녀의 마지막 의식은 갈기갈기 찢기는 것 같다.<br>그러다 갑자기 귓가에 울리는 한 마디.<br><i>「하늘의 별도 내가 베겠어」</i><br><br>그 순간, 그녀는 꿈에 그리던 검을 쥐었다.<br>모든 속박에서 해방시켜줄 검. 오랜 세월을 함께 해온 검.<br>평범한 철이 아닌 단단한 얼음이 형체를 이루고, 은은한 빛을 품고 있어 달빛 한줄기를 손에 쥔 것만 같다.<br>검, 길이는 3척 7촌에 무게는 공기처럼 가볍다"
         }
     ]
 }
@@ -645,216 +645,216 @@ var _story_ = {
 var _voice_ = {
     "1212": [
         {
-            "Title": "First Meeting",
-            "Voice": "To the Xianzhou, I am but an abandoned pawn — a wandering swordmaster. If you wish to avoid trouble, pretend we never met."
+            "Title": "첫 만남",
+            "Voice": "난 선주가 버린 병사이자 유랑 검객일 뿐이야. 귀찮은 일에 휘말리고 싶지 않으면 날 모르는 척해"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Let's forgo the pleasantries — what do you want?"
+            "Title": "인사",
+            "Voice": "인사말은 됐어. 날 찾은 이유가 뭐지?"
         },
         {
-            "Title": "Parting",
-            "Voice": "The universe is vast... Will we meet again as friend or foe, dead or alive...?"
+            "Title": "작별",
+            "Voice": "우주는 넓으니, 다음에 만났을 땐… 적일지 친구일지, 살아있을지 죽었을지 모르겠군"
         },
         {
-            "Title": "About Self: Sword Champion",
-            "Voice": "Fame is like the clouds — fleeting and elusive. I am viewed as a sinner in the eyes of the Ten-Lords Commission, and the Xianzhou has erased my name from its memory. So be it. A sword cuts with its edge, not its name."
+            "Title": "자신에 대해•검술의 일인자",
+            "Voice": "구름이 모였다 흩어지듯 허명은 부질없는 것이지. 선주는 시왕사의 법을 어긴 나에 관한 모든 기록을 지웠어. 근데 그게 뭐? 명검이 물건을 벨 때 의존하는 건 그 검의 예기지 명성이 아니야"
         },
         {
-            "Title": "About Self: Blindfold",
-            "Voice": "I have already surpassed my limits and may soon succumb to the influence of mara... but given the choice between staring into the abyss with a troubled mind and marching forward blindfolded, I choose the latter."
+            "Title": "자신에 대해•검은 면사",
+            "Voice": "난 일찌감치 자신의 한계를 뛰어넘어 마각의 몸의 경계에서 배회하고 있어. 눈으로 보면서 과거를 떠올리고, 그로 인해 분노에 휩싸이느니 검은 면사로 눈을 가리고 발길 닿는 대로 가는 게 낫지"
         },
         {
-            "Title": "Chat: Cangcheng",
-            "Voice": "The Cangcheng was once the most bustling of Xianzhou ships, a place I called home. But when it was devoured by an incarnosphere bred by the Plagues Author, the long-life species had to face the truth that their lives were but a grain of sand in the river of time."
+            "Title": "잡담•창성(蒼城)",
+            "Voice": "내 고향은 선주에서 가장 번화한 「창성」이라는 명승지야. 후에 역병 재앙신이 퍼뜨린 살아있는 성좌에 집어삼켜졌어…. 천인이라 자부하는 장수종이라 해도 우주의 먼지에 불과했지"
         },
         {
-            "Title": "Chat: The Florephemeral Sword",
-            "Voice": "Techniques relying solely on the physical form are but second-rate disciplines. Similarly, swords forged with mortal steel don't serve me well. I have stolen a sliver of moonlight that can shine over the earthly world — a \"sword\" I control with ease."
+            "Title": "잡담•담화검",
+            "Voice": "형체를 빌려 쓰는 모든 기법은 주류에 속할 수 없는 하수의 것이지. 지금의 난 평범한 병기를 버리고 한줄기의 달빛을 훔쳐 속세의 만물을 비출 수 있어. 이것이 바로 내 마음에 따라 생멸하고, 어디에나 존재하는 「검」이야"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Let me think... In the beginning, most of my time was spent on swordsmanship and defeating my enemies. Later, I found myself indulging in all manner of wines that Baiheng brought to me from different planets. And now, watching my enemies suffer has become my newfound passion. Strange pastimes, no?"
+            "Title": "취미",
+            "Voice": "생각 좀 해볼게… 인생의 초반, 가장 좋아했던 건 검술을 연마하고 강적을 쓰러뜨리는 일이었어. 그다음은 백주가 성간에서 가져온 좋은 술을 맛보는 거였고. 지금은… 적에게 가슴이 미어지는 듯한 고통을 가르쳐 주는 거야. 죽는 게 낫다고 느낄 만큼. 이상한 취미지?"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "This sword in my hand... naught but a needle compared with the heavenly bodies. How can I use it to cut open a star?"
+            "Title": "고민",
+            "Voice": "손 안의 검, 천지에 비하면 바늘만 한 크긴데 어떻게 하면 별을 벨 수 있을까?"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "I, too, once drew the gaze of an Aeon. The only difference was, it was a path I chose for myself — through the deep recesses of the Ten-Lords Commission on the Xuling, through the Gate of Wonders, and onto a path of redemption."
+            "Title": "공유",
+            "Voice": "너처럼 나도 예전엔 눈길을 받았었지. 다만 그건 내 의지로 들어선 길이었어——허릉 선주의 시왕사 깊은 곳에 있는 오묘함의 문을 지나 해탈의 길로 들어섰지"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Hmph, Exalting Sanctum has seen little change in the past millennium — a little dull, I would say. However, Starskiff Haven has grown on me since it was rebuilt after the war."
+            "Title": "견문",
+            "Voice": "나부 장낙천의 풍경은 천 년 동안 한 번도 변하지 않았어. 별뗏목의 바다만 못하지. 거긴 전쟁으로 파괴된 후 아름답게 재건되었거든"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "I wouldn't say he's a natural swordmaster... but being gifted shouldn't be a determining factor when choosing an apprentice. Mentors who place importance on natural talent either lack the skills to teach, or seek to take credit for their apprentices' easy success. Fame, background... none of those matter. I will teach my techniques to anyone willing to put their heart into them."
+            "Title": "경원에 대해",
+            "Voice": "그는 무예 연마에 적합하지 않아. 제자를 뽑을 때 소질을 보지 않냐고? 그건 사부가 게으름이나 피우려는 거지, 아니면 제자가 사부 대신 명성을 남겨주길 바란다거나. 명성, 전승… 이런 건 아무래도 상관없어. 누구든지 내게 검을 배우고 싶다면 가르쳐줄 거야"
         },
         {
-            "Title": "About Blade",
-            "Voice": "I put him under great pain and suffering when I taught him. On the day his skills are perfected, he vows to return the favor. I look forward to it."
+            "Title": "블레이드에 대해",
+            "Voice": "전에 「뼈를 깎고 가슴에 새기는」 방식으로 그에게 검술을 전수했어. 그의 검술이 완성되던 날, 내게 가르침을 돌려주겠다고 맹세하더군. 그날이 기대돼"
         },
         {
-            "Title": "About Dan Feng",
-            "Voice": "To take the throne, the high elder of the Vidyadhara needs to pass a series of trials during which their physical features slowly transform to resemble that of their predecessors. I see that loss of identity as a curse, rather than a gift. He managed to break free eventually, but should have done it in a different way..."
+            "Title": "단풍에 대해",
+            "Voice": "비디아다라 용존은 비법을 받은 몸이라 긴 세월을 한결같이 살아왔지. 그건 은혜가 아니라 족쇄야. 그는 결국 벗어났지만, 그런 방식은 아니었어야 했어……"
         },
         {
-            "Title": "About Baiheng",
-            "Voice": "We talked about the stars we flew past, the views we saw together, and the dangers we escaped. But... I can't remember the details. The things we said and did together have all been shrouded in a layer of mist... a mist I cannot see through..."
+            "Title": "백주에 대해",
+            "Voice": "그녀는 내게 지나온 별들과 기이한 풍경, 도망쳐 나온 위험한 곳들을 얘기해 줬던 것 같은데…… 아무 기억도 안 나. 그 기억들은 내 머릿속을 계속 돌고 돌지만… 잡으려 해도 잡히지 않더라고"
         },
         {
-            "Title": "About Yanqing",
-            "Voice": "He is still a fledgling, but I see great potential. Still, one cannot truly understand swordsmanship without sustaining injury and drawing blood in the thick of battle..."
+            "Title": "연경에 대해",
+            "Voice": "재능을 막 드러내긴 했지만, 성장세를 보니 만족스럽더군. 다만 검술은 피로 얼룩진 살생의 길을 걸어온 게 아니고서야 그 오묘함을 엿볼 수 없어"
         },
         {
-            "Title": "About Luocha",
-            "Voice": "He is just like me — there is a hole in his heart. No matter what he does to fill it, the hole remains. The harder he tries, the more exhausted he becomes."
+            "Title": "나찰에 대해",
+            "Voice": "그는 나처럼 마음이 허해. 뭘 해도 그 구멍은 메꿀 수 없지. 메꾸려고 노력하면 할수록 힘만 빠질 뿐이야"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "The blade's reflection illuminates the past."
+            "Title": "성혼 활성화",
+            "Voice": "칼날에는 수많은 과거가 비치는 법이지"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "If I am to cut through the heart of a star, more time is needed."
+            "Title": "캐릭터 승급",
+            "Voice": "하늘의 별을 베어내려면, 아직도 멀었어"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Pushing my limits is what made me who I am today. I will not stop here."
+            "Title": "캐릭터 최고 레벨",
+            "Voice": "검술을 완성한 후에도 난 늘 한계에 도전해왔어. 이번 여정의 종착지도 여기가 끝은 아닐 거야"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "There is a story in every scar."
+            "Title": "행적 활성화",
+            "Voice": "과거의 일들은 이 몸에 남은 상처와도 같지"
         },
         {
-            "Title": "Added to Team With Yanqing",
-            "Voice": "Young man, show me your progress."
+            "Title": "파티 편성•연경",
+            "Voice": "꼬마 친구, 검술이 늘었는지 한번 보자고"
         },
         {
-            "Title": "Added to Team With Jing Yuan",
-            "Voice": "Break the enemy's strategy, Jing Yuan — that's what you always did best."
+            "Title": "파티 편성•경원",
+            "Voice": "정말 그립군. 전처럼 전략은 너한테 맡길게, 경원"
         },
         {
-            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
-            "Voice": "Imbibitor Lunae... It feels like an age since we stood shoulder to shoulder."
+            "Title": "파티 편성•단항•음월",
+            "Voice": "음월… 너와 함께하던 게 오래전의 일처럼 느껴져"
         },
         {
-            "Title": "Added to Team With Blade",
-            "Voice": "That broken sword... You don't want to let go of the past, do you, Blade?"
+            "Title": "파티 편성•블레이드",
+            "Voice": "굳이 그 부러진 검을 남겨둔 건 과거를 잊지 않기 위해서인가… 「블레이드」?"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Unworthy of my time."
+            "Title": "전투 시작•약점 격파",
+            "Voice": "웃기지도 않는군"
         },
         {
-            "Title": "Battle Begins: Weakness Break (Spectral Transmigration)",
-            "Voice": "Blade fodder!"
+            "Title": "[전백(轉魄)] 전투 시작•약점 격파",
+            "Voice": "검 앞에선 초개일 뿐!"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Another soon to be departed."
+            "Title": "전투 시작•위험 경보",
+            "Voice": "망령이 하나 더 늘겠어"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Tedious."
+            "Title": "턴 시작•1",
+            "Voice": "무료해"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Stand down and I'll spare you."
+            "Title": "턴 시작•2",
+            "Voice": "지금 물러서면 살려주마"
         },
         {
-            "Title": "Turn Begins 1 (Spectral Transmigration)",
-            "Voice": "Nowhere to run!"
+            "Title": "[전백(轉魄)] 턴 시작•1",
+            "Voice": "피할 수 없다!"
         },
         {
-            "Title": "Turn Begins 2 (Spectral Transmigration)",
-            "Voice": "Ready for death...?"
+            "Title": "[전백(轉魄)] 턴 시작•2",
+            "Voice": "죽을 준비하시지…"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "An endless lifespan is just a bitter wait for insanity."
+            "Title": "턴 대기",
+            "Voice": "미치도록 애타게 기다리는 기분은 마치 무한한 수명과도 같지"
         },
         {
-            "Title": "Turn Idling (Spectral Transmigration)",
-            "Voice": "Can't stop... Can't stop now!"
+            "Title": "[전백(轉魄)] 턴 대기",
+            "Voice": "안돼… 멈출 수 없어!"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Swordward!"
+            "Title": "일반 공격",
+            "Voice": "검은 돌이킬 수 없다!"
         },
         {
-            "Title": "Skill",
-            "Voice": "Fleeting light, roaring flood!"
+            "Title": "전투 스킬",
+            "Voice": "섬광이여 쏟아져라!"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Try harder."
+            "Title": "약공격 피격",
+            "Voice": "지장 없어"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "You can't kill me!"
+            "Title": "강공격 피격",
+            "Voice": "날 죽일 순 없지!"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "All will be revealed..."
+            "Title": "필살기•활성화",
+            "Voice": "이 달빛으로…"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "...in lunar flame!"
+            "Title": "필살기•발동",
+            "Voice": "만물을 비추리!"
         },
         {
-            "Title": "Talent",
-            "Voice": "A blade of moonlight."
+            "Title": "특성",
+            "Voice": "달빛을 검으로 삼아"
         },
         {
-            "Title": "Downed",
-            "Voice": "Finally, the end of it..."
+            "Title": "전투 불능",
+            "Voice": "드디어, 해방이군…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Did you think my lifespan would be cut short?"
+            "Title": "전투 복귀",
+            "Voice": "불로장생이 명을 다할 리 없지"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Save it for your own skin..."
+            "Title": "HP 회복",
+            "Voice": "장생의 몸은 치유할 필요 없어"
         },
         {
-            "Title": "Technique",
-            "Voice": "The moon shines on the truth."
+            "Title": "비술",
+            "Voice": "달이 비춘 진리"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Do not concern yourself with the outcome."
+            "Title": "전투 승리",
+            "Voice": "승패는 신경 쓸 필요 없어"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Mere worldly possessions."
+            "Title": "전리품 오픈•1",
+            "Voice": "재물은 한낱 미물일 뿐"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "These trifles are of no use to me."
+            "Title": "전리품 오픈•2",
+            "Voice": "내겐 소용없어"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "These are nice trinkets — but nothing more."
+            "Title": "진귀한 전리품 오픈",
+            "Voice": "감상용으로 말고는 못 쓰겠네"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "It worked."
+            "Title": "수수께끼 풀이 성공•1",
+            "Voice": "됐다"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Same old tricks."
+            "Title": "수수께끼 풀이 성공•2",
+            "Voice": "뻔한 수법이지"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "I taste malice in the air..."
+            "Title": "적 발견",
+            "Voice": "살의가 느껴져…"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Where there are people, there is noise."
+            "Title": "도시로 복귀",
+            "Voice": "사람이 있는 곳은 번잡하군"
         }
     ]
 }

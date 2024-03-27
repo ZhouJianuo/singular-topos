@@ -449,23 +449,23 @@ var _story_ = {
     "1103": [
         {
             "_id": 1,
-            "Story": "The free and rebellious eldest daughter of the Landau family. Once a close friend of Cocolia's, she is now a mechanic purely because she likes this job.<br>In the Everwinter-stricken Belobog, she opened a workshop called \"Neverwinter\" that puts business on hold from time to time for outdoor rock 'n' roll performances.<br>And should anyone ask her about the workshop's profits... \"This is just a hobby, dear. I'm not short on money.\""
+            "Story": "自由で反抗的なランドゥー家の長女。かつてのカカリアの親友で、今は趣味を楽しむ機械工。<br>常冬のベロブルグで「パーペチュアル」というからくり工房を経営しているが、時々休業してはロックミュージックの野外ライブを開催している。<br>からくり工房はどうやって儲けているんだと人に問われると…彼女は「これは趣味だよ。私、お金には困ってないからさ」と答えた。"
         },
         {
             "_id": 2,
-            "Story": "This is the most talented mechanic in all of Belobog and rock star. Did we mention she's also the sister of Captain Gepard Landau of the Silvermane Guards?<br><br><i>\"Stop. Stop that. Keep the first part, and leave out the second part.\"<br>\"I'd like you not to gloss over my identity like that... I, Serval Landau, am no one's accessory.\"<br><br>\"...Oh, there's nothing else afterward? Okay. Let me chip in then: If something's broken, drop into the Neverwinter Workshop in the Administrative District to see me, any time.\"<br>\"What's that, you wanna hear some rock'n'roll? Well, that's even better — drop into our Neverwinter Workshop in the Administrative District to rock this city — with Mechanical Fever!\"</i>"
+            "Story": "彼女こそ、ベロブルグで最も天才的な機械工にしてロックスター、そしてシルバーメイン戍衛官であるジェパード・ランドゥーの姉である……<br><br><i>「ストップ。前半はいいけど、後半のセリフは削除してくれる？」<br>「そんな簡単に私の身分を要約しないでほしいんだ。私、セーバル・ランドゥーは、誰の付属品でもないんだから」<br><br>「…えっ、もう何もないって？わかった、じゃあ私が自分で補足する。何か壊れた時は——行政区のからくり工房『パーペチュアル』に来るといい。いつでも大歓迎だ！」<br>「なに？ロックが聴きたい？はは、それならもっと歓迎する——そういう時も『パーペチュアル』に来て、『機械ブーム』と一緒にこの都市をロックにしよう！」</i>"
         },
         {
             "_id": 3,
-            "Story": "Serval Landau owns a piece of land in the heart of Belobog's Administrative District — the Neverwinter Workshop — where she in theory makes a living from her mechanical repairs.<br><br>But to be more precise, almost all of this genius mechanic's time is spent repairing and making improvements to various musical instruments...<br><br><i>\"Tsk, don't pay any attention to that magazine! I'm a reputable business owner...\"<br>\"From geomarrow radiators to car engines — or even a Silvermane automaton — it's no trouble at all. As well as maintenance and renovations of ordinary appliances, I also provide a modding service.\"<br>\"Like fitting an external drill bit to a snowplow, or a ballistic trajectory calculator to a toaster... That kinda stuff.\"<br><br>\"Ah? You want to know how's business going? Hey, don't ask so many questions — you know I like to fool around with music in my spare time.\"<br>\"Anyway, I never planned on making a fortune... Life's too short. Why not plunge yourself into your hobbies?\"</i>"
+            "Story": "セーバル・ランドゥーはベロブルグ行政区の中心部にある——からくり工房『パーペチュアル』——という建物で、名目上は機械の修理をして生計を立てている。<br><br>しかし正確に言うと、この天才機械工の勤務時間は、ほとんど各種楽器の修理や改造に充てられている……<br><br><i>「ちょっと、雑誌に書いてあることを鵜呑みにするんじゃない！私は真面目に仕事をしてるんだって……」<br>「小さいのは地髄暖房から大きいのは車のエンジン、さらにはシルバーメイン製の自動機兵まで、大抵のものは修理できる。それから、よくある機械の修理や改修だけじゃなくて、それに新機能を追加するサービスも提供してるんだ」<br>「例えば、除雪機に外付けドリルを追加したり、トースターに弾道計算装置を追加したり…とかね」<br><br>「は？商売の調子は？って、どういう意味？あんまり詮索しないでほしいな——私はお腹を満たせて音楽ができればそれでいいんだ」<br>「そもそもお金を稼ぐつもりはないしね…人生は短い、時間があるなら趣味に費やしたほうがいい」</i>"
         },
         {
             "_id": 4,
-            "Story": "Serval was able to rekindle her passion for music after cutting off all connections with her family.<br><br>This led to her prestigious workshop becoming a base for her to rock out — despite suffering constant complaints, this cutting-edge art style from before the Eternal Freeze is still sought out by hordes of hipster kids...<br><br><i>\"Oh, I give up! Can you trashy tabloids and your so-called \"music critics\" focus on what's important, please? 'Suffering constant complaints'... 'hipster kids'... My fans and I would dispute that!\"<br>\"But I suppose it's true that Mechanical Fever is popular with youths — at that age, kids are either full of enthusiasm or are underappreciated...\"<br>\"No matter what your mood is, you always have to vent sometimes. And rocking out with me just so happens to be the best way of doing that!\"<br><br>\"...Just like what I did back in the day.\"<br>\"Ahh, it's fine! Don't worry. I was just suddenly reminiscing about the past...\"</i>"
+            "Story": "セーバルが再び趣味の音楽を取り戻せたのは、彼女がランドゥー家と完全に決別した後だった。<br><br>そして、この有名なからくり工房は彼女が思う存分ロックを楽しむための拠点となった——度々苦情が寄せられているが、寒波前の前衛芸術は、流行を追う多くの若者に支持されているようだ……<br><br><i>「本当に…参ったよ！この手の雑誌が『音楽評論家』って呼ぶ連中は、もっと的を得た意見を言えないもんなの？『度々苦情が』？『流行を追う多くの若者』？こんなの私もファンも納得しないから！」<br>「まあ、『機械ブーム』が若い子たちに人気なのは事実だけど——あの年頃の子たちは情熱に満ち溢れてるか、才能があるのに機会に恵まれてないかのどっちかだからね……」<br>「どういう感情だったとしても、たまには発散する場が必要だ。そこで、私の『ロック』が最適だったってわけ！」<br><br>「…あの頃の私みたいにね」<br>「いや、何でもない！気にしないで、ちょっと昔のことを思い出しただけだから……」</i>"
         },
         {
             "_id": 5,
-            "Story": "In days gone by, everyone knew that Serval Landau was the smartest out of all the Silvermane Guards — 80% of the rumors about the talented elder daughter of the Landaus are based around this fact.<br><br>However those rumors were almost instantly replaced by a new piece of gossip a few years ago. Why was she, who had always been close with the Supreme Guardian, being fired from the armed forces with no prior warning? Does Serval hold a grudge about it? Everyone has their own theory.<br><br><i>\"The answer to the first question is simple: 'No comment.' This is the Silvermane Guards's top secret. I hope you understand.\"<br>\"And as for the second question...\"<br><br>\"I... I don't give two hoots. Think about it. Is there anything better than living out a justifiably leisurely life? I prefer to say that woman helped me out — I really owe her a debt!\"<br>\"In this world, it's better to enjoy the present moment... No, who am I kidding.\"<br><br>\"If our ends are already doomed, there will be no such thing as true joy.\"</i>"
+            "Story": "かつては誰もが知っていた。セーバル・ランドゥーこそ、シルバーメインで最も優秀な頭脳の持ち主であるということを——ランドゥー家の天才令嬢に関する噂の8割は、このことに関連している。<br><br>しかし、数年前のある日、その噂はたちまち新しい噂に取って代わられた。大守護者と親しくしていたはずの彼女が、なぜ何の前触れもなく軍から追い出されたのか？セーバルは大守護者のことを恨んでいるのだろうか？人々は様々な憶測を巡らせた。<br><br><i>「最初の質問に対する答えは簡単だ——ノーコメント。シルバーメインの最高機密に関わることだから、理解して」<br>「2つ目の質問に関しては……」<br><br>「私は…ちっとも気にしてない。考えてもみなよ、今みたいに悠々自適な生活を送れることよりいいことなんてある？むしろ、こうなるように手を貸してくれたあの女に——感謝しないとね！」<br>「こんな世の中なんだから、楽しめるうちに楽しまないと…損でしょ」<br><br>「終末が決まってるのに、本当の楽しみなんてあるのかって思うけどね」</i>"
         }
     ]
 }
@@ -473,196 +473,196 @@ var _story_ = {
 var _voice_ = {
     "1103": [
         {
-            "Title": "First Meeting",
-            "Voice": "Hi Trailblazer, the name's Serval Landau, I'm a Belobog mechanic. Of course, that's really just what I do on the side — rock 'n' roll is my main occupation."
+            "Title": "初対面",
+            "Voice": "やあ、{NICKNAME}、私はセーバル・ランドゥー。ベロブルグの機械工——もちろん、そっちは趣味で、ロックミュージシャンこそが私の本職さ。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Huh? You start work this early?"
+            "Title": "挨拶",
+            "Voice": "あれ、もう仕事を始めるの？"
         },
         {
-            "Title": "Parting",
-            "Voice": "Signing off now! Time to get some songwriting going~"
+            "Title": "お別れ",
+            "Voice": "仕事はもう終わり、これからは作曲の時間だ～"
         },
         {
-            "Title": "About Self: Landau",
-            "Voice": "If we Landaus have one thing in common, it's that we're all stubborn in our own way."
+            "Title": "自分について・ランドゥー",
+            "Voice": "ランドゥー家の人間の共通点は、頑固者なところだよ。"
         },
         {
-            "Title": "Chat: Working as a Mechanic",
-            "Voice": "If you wanna make sure you don't burn yourself out or stifle your creativity, then don't push yourself too hard at work~"
+            "Title": "世間話・メカニックの仕事",
+            "Voice": "リラックスして自由に仕事をしていれば、最高の気分で作品に臨むことができるんだ。"
         },
         {
-            "Title": "Chat: Band",
-            "Voice": "Pela's got a lot on her plate — plus she also does volunteer work on the weekends sometimes. That's why we usually schedule Mechanical Fever's rehearsals at night."
+            "Title": "世間話・バンド",
+            "Voice": "ペラは忙しくて、週末もボランティアをしてる。だから、基本的に「機械ブーム」の練習は夜になるんだ。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Since I do rock 'n' roll full-time, I'd say my hobby is... work? What's wrong with that?"
+            "Title": "趣味",
+            "Voice": "ロックンロールが本業だから、趣味は「仕事」になるはず。今のところ…問題はないよ？"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "I always get people asking me how my workshop makes money when it's not trading. Use your brain! It doesn't!"
+            "Title": "悩み事",
+            "Voice": "からくり工房をよく閉めるから、どうやって稼いでいるのか聞かれるんだ。この問題の答えは明白さ——全く儲かってないよ！"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "Mechanics, research, and music are all things I'm pretty good at, wouldn't you say? But I guess making money's not on the list..."
+            "Title": "シェア",
+            "Voice": "私は、機械、研究、音楽、どれに関することでもうまくやれる。あ、ということは…私の苦手分野は「儲ける」ことかもしれないね？"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "When Bronya becomes the supreme guardian, do you reckon she'll let me perform at Golden Theater? I'll re-arrange that \"Supreme Guardian\" stage show and make it a rock 'n' roll musical!"
+            "Title": "見聞",
+            "Voice": "ブローニャが大守護者になったら、黄金シアターでライブさせてもらえると思う？ロックバージョンの『大守護者』を書いて…ロックンロールミュージカル！"
         },
         {
-            "Title": "About Gepard",
-            "Voice": "If he paid more attention to his affairs, it'd save me a lot of headaches... I guess I do create a few headaches for him too... Maybe we're even."
+            "Title": "ジェパードについて",
+            "Voice": "弟が自分の面倒をちゃんと見ることができれば、姉である私が世話を焼く必要はなくなるんだけど…いや、この話はやめよう。私が弟に心配をかける回数もそこそこあるから、お互い様だね。"
         },
         {
-            "Title": "About Pela",
-            "Voice": "She's a flower-growing drummer and a great report writer. Name a more reliable girl. I'll wait."
+            "Title": "ペラについて",
+            "Voice": "ドラムを叩けるし、花も育てることができて、さらに報告書も完璧。ペラより頼りになる子が他にいると思う？"
         },
         {
-            "Title": "About Bronya",
-            "Voice": "Bronya's a good kid — you can tell she learned a lot from Cocolia. *sigh* It's been a while since we saw each other. I miss her."
+            "Title": "ブローニャについて",
+            "Voice": "ブローニャはいい子だよ。カカリアの教育を受けているだけあるね。最近顔を見てないから、会いたいよ。"
         },
         {
-            "Title": "About Cocolia",
-            "Voice": "The Cocolia I knew would sit on the roof and listen to my songs, but... not the supreme guardian."
+            "Title": "カカリアについて",
+            "Voice": "私が知っているカカリアは屋上で私の歌を聴いてくれるけど…「大守護者」は、そんなことをしない。"
         },
         {
-            "Title": "About Sampo",
-            "Voice": "Hah, that guy. One of these days he's gonna get busted by my brother."
+            "Title": "サンポについて",
+            "Voice": "サンポ？弟が早く彼を捕まえないか、首を長くして待っているよ。"
         },
         {
-            "Title": "About Lynx",
-            "Voice": "Lynxy? ...She's more like me. Ah, don't tell my brother that, he hates hearing it."
+            "Title": "リンクスについて",
+            "Voice": "リンたんね…やっぱり私によく似てるかな。おっと、このことは絶対うちの弟に言わないでくれよ——機嫌悪くなるから！"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Rock 'n' roll might be my only true companion..."
+            "Title": "星魂覚醒",
+            "Voice": "「ロック」以外、本当に私のものなんて……"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Nice! I should write this into my next song..."
+            "Title": "キャラクター昇格",
+            "Voice": "いい感じ、新曲に加えよう！"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "That's it? I've peaked already?"
+            "Title": "レベルMax",
+            "Voice": "まさか、天才の道にも終わりがあるとはね～"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Ta-da! Another one off the to-do list."
+            "Title": "軌跡覚醒",
+            "Voice": "言ったでしょ？私にできないことはないって。"
         },
         {
-            "Title": "Added to Team With Pela",
-            "Voice": "Just like being on stage, right Pela? I'll follow your rhythm."
+            "Title": "パーティ編成・ペラ",
+            "Voice": "ペラ、いつものライブみたいに――あんたのリズムについてくよ！"
         },
         {
-            "Title": "Added to Team With Gepard",
-            "Voice": "*sigh* You again, Geppie? Leave some fun for me this time."
+            "Title": "パーティ編成・ジェパード",
+            "Voice": "ジェーちゃん、お姉さんより目立たないようにね。"
         },
         {
-            "Title": "Added to Team With Lynx",
-            "Voice": "Ready, Lynxy? Let's rock!"
+            "Title": "パーティ編成・リンクス",
+            "Voice": "リンたん！準備はいい？ロックンロールだ！"
         },
         {
-            "Title": "Added to Team With Bronya",
-            "Voice": "*sigh* Your mother would be proud of you, Bronya."
+            "Title": "パーティ編成・ブローニャ",
+            "Voice": "ブローニャ、あんたはきっと母親より遠くに行ける。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Time for the main event."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "フフッ、こっからが本番だよ。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Here to crash the party?"
+            "Title": "戦闘開始・危険予知",
+            "Voice": "ステージを邪魔しに来たの？"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Pretty good crowd today."
+            "Title": "ターン・1",
+            "Voice": "盛り上がってるじゃん。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "This song's just for you~"
+            "Title": "ターン・2",
+            "Voice": "この曲を、あ・な・た・に～"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "The audience is waiting!"
+            "Title": "戦闘中待機",
+            "Voice": "観客が待ってるよ。"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Let's rock!"
+            "Title": "通常攻撃",
+            "Voice": "ハイになれ！"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Keep up with my tempo!"
+            "Title": "戦闘スキル・1",
+            "Voice": "私のリズムに乗れ！"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Turn up the volume!"
+            "Title": "戦闘スキル・2",
+            "Voice": "もっと叫びなさい！"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "That's it?"
+            "Title": "攻撃を受ける",
+            "Voice": "大したことないね。"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Not bad."
+            "Title": "重撃を受ける",
+            "Voice": "やるじゃん。"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Ready to lose yourself?"
+            "Title": "必殺技・アクティブ",
+            "Voice": "己を解き放つ準備はいい？"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Fight it or rock with it... my music conquers all!"
+            "Title": "必殺技・発動",
+            "Voice": "反抗も、揺動も、零落も、全部……"
         },
         {
-            "Title": "Downed",
-            "Voice": "The show... must go on..."
+            "Title": "戦闘不能",
+            "Voice": "ライブは…まだ……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Time for an encore~"
+            "Title": "戦闘に戻る",
+            "Voice": "アンコールが聞こえたよ～"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Ah~ Ready to jam~"
+            "Title": "HP回復",
+            "Voice": "はあ～すっきりした～"
         },
         {
-            "Title": "Technique",
-            "Voice": "Can't stop the rock!"
+            "Title": "秘技",
+            "Voice": "ロックンロール！"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "The best is yet to come!"
+            "Title": "戦闘勝利",
+            "Voice": "ステージを重ねるほど最高になるんだ！"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Wow, good stuff."
+            "Title": "戦利品を開ける・1",
+            "Voice": "おっ、いいじゃん。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Wow!"
+            "Title": "戦利品を開ける・2",
+            "Voice": "ふふ～ん！"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Never expected to find this here!"
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "これが隠されてたのか！"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "I'm getting the hang of this."
+            "Title": "謎解きに成功・1",
+            "Voice": "ピンと来たんだ。"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Wish I had time to examine its inner workings!"
+            "Title": "謎解きに成功・2",
+            "Voice": "開けてじっくり見てみたいな～！"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Huh, these targets will make for good practice~"
+            "Title": "敵ターゲット発見",
+            "Voice": "へえ～腕試しにピッタリじゃん。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "There's inspiration in every glance and every breeze."
+            "Title": "町に戻る",
+            "Voice": "眼差し、風、すべてが閃きになるんだ。"
         }
     ]
 }

@@ -566,23 +566,23 @@ var _story_ = {
     "1006": [
         {
             "_id": 1,
-            "Story": "The universe is just another game to this super hacker.<br>No matter how thorny the defense system, Silver Wolf can crack it with ease. Her hacking battle with Screwllum of the Genius Society has become stuff of legends in the hacking world.<br>How many more levels are there to beat in the universe? Silver Wolf looks forward to finding out."
+            "Story": "宇宙をひとつのゲームと見なしているスーパーハッカー。<br>どんなに厄介な防御システムでも、銀狼はいとも簡単に解除してしまう。彼女と「天才クラブ」のスクリューガムのデータ攻防戦は、今やハッカー界の伝説となっている。<br>宇宙には、あといくつのステージがあるのだろう？銀狼はとても楽しみにしている。"
         },
         {
             "_id": 2,
-            "Story": "She toyed with the joystick, day in, day out.<br>A fast food restaurant with only one employee, a basement turned into an arcade hall, several old arcade machines — this was her childhood.<br><br>She didn't have a legal name or an identity number, only a nickname the proprietress chose for her.<br>She did not have any friends, but she is not lonely.<br>She liked the game of Pong — two lines and a dot of light, the simplest of ball games. She could play it for a whole day.<br>She liked Battle Wheel 32 — eight blocks of different colors on a matrix-drawn sky. There was only one rule: Win, no matter what.<br>She liked Geometric Wars, Odysseus, and Star Cheetah. The score records on these games were filled with astronomical numbers left by other patrons.<br><br>She toyed with the joystick, day in, day out.<br>Until one day, only one name remained on all of the score records.<br><br>She set down the joystick and looked around the empty basement.<br>Many people have sought respite in this place, but few stayed behind.<br>Many have left, but few returned.<br>She blinked and turned off the screen.<br><br>That night, the only employee of the fast food restaurant said goodbye to proprietress, and became the next person to leave.<br>The game called Basement ended that night."
+            "Story": "彼女は、毎日ジョイスティックを動かして遊ぶ。<br>店員が1人しかいないファーストフード店。地下室を改装して造られたゲームセンター、数台の古いゲーム機、これが彼女の幼少期のすべてだった。<br><br>彼女には、合法な名前も身分を示すIDもない、あるのはただ女主人が彼女につけたあだ名だけ。<br>彼女には友人もいなかったが、決して孤独ではなかった。<br>彼女は『ポーン』が好きである。2本の横線、1つの光点、最も簡単な卓球ゲームである。彼女は、これを1日中でも遊べた。<br>彼女は『チャリオット 32 』が好きである。格子で描かれた星空の中、異なる8つのカラーブロック、ルールは1つだけ——どんな方法で1位になってもよい。<br>彼女は『ジオメトリー・ウォーズ』、『オデュッセウス』、『スターチーター』も好きである。これらのゲームのスコア記録には、ユーザーが残した天文学的な数字が多く残っている。<br><br>彼女は、毎日ジョイスティックを動かして遊ぶ。<br>そして、ある日、全ての記録に1人の名前だけが残った。<br><br>だから、彼女はジョイスティックから手を放し、ガランとした地下室を振り返った。<br>ここで休憩する人は多いが、残る人は少ない。<br>ここを離れる人は多く、戻ってくる人は少ない。<br>彼女は瞬きをしてから、画面を消した。<br><br>その夜、ファーストフード店の唯一の店員は女主人に別れを告げ、離れた人の1人になった。<br>「地下室」という名前のゲームは、この日終わった。"
         },
         {
             "_id": 3,
-            "Story": "She traveled west through the barren land, arriving at Mount Scrap.<br>She wants to find a job, but was obstructed by her tendency to be a loner.<br>On Punklorde, almost everyone works in teams. Loners usually don't last long.<br><br>Acquiescing to her situation, she fabricated some virtual partners.<br>Her first one was called Friend. Of course it was.<br>Her second was Demon Lord, inspired by a poster she saw on the streets. In her imagination, it was a veteran who had lost the ability to speak.<br>She suddenly thought this team was too harmonious and lacked realism, so she named the third one Whitecollar and the fourth Servant.<br>Her final one was called Preschool Classmate — there wasn't a special meaning attached to this. She just really ran out of ideas. After much deliberation, she deleted this last person from her list.<br>She stored her \"partners\" in an intelligent weapon, so she could pompously introduce her sizable team to intermediaries.<br><br>She got her first job — its risk was as unimaginable as its reward.<br>Maybe she sold herself too well that people believed her, or they just wanted to see this newbie's performance, dead or alive.<br><br>On Punklorde, almost everyone works in teams. Loners usually don't last long.<br>Those who could last would eventually become legends.<br><br>After 24 system hours, she walked out of the Slag Gang's base — alone and through the front gate.<br>The intermediary was silent. They looked at her, then at the sky, before turning around to toss a chest full of gold ingots on the ground.<br>The game called Mount Scrap ended that day."
+            "Story": "彼女は西に突き進み、大荒原を突き抜け、スクラップ山にたどり着いた。<br>仕事を見つけようとしたが、一匹狼だったため様々な困難に遭遇した。<br>パンクロードでは、人々は仲間を作って仕事をする。1人で何かをする人は、生き残れない。<br><br>仕方なく、彼女はバーチャルの仲間を作った。<br>1人目の名前は、もちろん「トモダチ」だ。<br>2人目は「魔王」である。街角でポスターを見た時に思いついた名前だ。彼女の想像の中で、「魔王」は言葉を失った軍人である。<br>突然、彼女はこのパーティは仲が良く、現実味に欠けると思った。だから、3人目には「低所得者」、4人目には「奴隷」という名前を付けた。<br>最後の1人は「幼稚園児」である——理由はない。創作意欲が尽きたのだ。長い間迷った末に、彼女はリストから最後の1人を消した。<br>彼女は、残った「仲間」をAI武器に保存した。そうすれば、彼女は仲介人の前で、もっともらしく自分の巨大なパーティを紹介することができた。<br><br>彼女は、望み通り最初の仕事を得た——その仕事のリスクは、報酬と同じぐらい想像を超えるものであった。<br><br>パンクロードでは、人々は仲間を作って仕事をする。1人で何かをする人は、生き残れない。<br>だから、1人で生き残った人は、伝説となる。<br><br> 24 システム時間後、彼女はスラグ団の拠点から出てきた——1人で、正面から出てきたのである。<br>仲介人は、黙って彼女を見てから空を見上げ、最後に振り返り、金塊を1箱地面に投げ捨てた。<br>「スクラップ山」という名前のゲームは、この日終わった。"
         },
         {
             "_id": 4,
-            "Story": "She stood at the top of the tallest building in the Rainbow City, from which she could see her birthplace.<br>A fast food restaurant with only one employee, a basement turned into an arcade hall, several old arcade machines — this was her childhood.<br><br>She remembered liking the game of Pong — two lines and a dot of light, the simplest of ball games. She could play it for a whole day.<br>Just like how right now the crimson lights of the hoard of drones filled the night sky in crisscrossed line. Wave by wave they swarmed her, and wave by wave they fell.<br><br>She remembered liking Battle Wheel 32 — eight blocks of different colors on a matrix-drawn sky. There was only one rule: Win, no matter what.<br>Just like how right now distinct colors split the internet into eight regions, and people from all kinds of organizations gather in the square for a singular goal — to capture Silver Wolf, no matter the cost.<br><br>She remembered liking Geometric Wars, liking Odysseus, liking Star Cheetah. The score records on these games were filled with insurmountable, astronomical numbers.<br>Just like how right now— Wait, no, only this is somewhat different...<br>\"Insurmountable.\" Hah, what's that?<br><br>She stood at the top of the tallest building in the Rainbow City, from which she could see her birthplace.<br>She has climbed too high for another person to stand beside her.<br>However, she looked up even higher than before. She can see the starry skies within reach of her hands, but yet so impossibly far.<br><br><i>\"So boring.\"</i><br>The game called Rainbow City ended that day."
+            "Story": "彼女は虹の都市で最も高いビルの頂上に立っている。ここから彼女の生まれた場所が見えるのだ。<br>店員が1人しかいないファーストフード店。地下室を改装して造られたゲームセンター、数台の古いゲーム機。彼女は覚えている、それが彼女の幼少期のすべてだった。<br><br>彼女は自分が『ポーン』を好きだったのを覚えている。2本の横線、1つの光点、最も簡単な卓球ゲームである。彼女は、これを1日中でも遊べた。<br>ちょうどその時、ドローンの群れの赤い光が夜空に一直線に広がった。ドローンの群れは彼女に襲い掛かり、1台また1台と地面に墜落していった。<br><br>彼女は自分が『チャリオット 32 』を好きだったのを覚えている。格子で描かれた星空の中、異なる8つのカラーブロック、ルールは1つだけ——どんな方法で1位になってもよい。<br>ちょうどその時、カラフルな色によってサイバー空間は8個に分かれ、各組織の人々が広場でいいねを押した。それは、どんな対価を支払ってても成し遂げたい、ただ1つの目標——「銀狼」を捕まえるためである。<br><br>彼女は自分が『ジオメトリー・ウォーズ』、『オデュッセウス』、『スターチーター』を好きだったのを覚えている。あれらのゲームのスコア記録には、ユーザーが残した天文学的な数字が多く残っていた。<br>ちょうどその時——いや、今までとは何かが違う……<br>追跡不可能。は？「追跡不可能」って？<br><br>彼女は虹の都市で最も高いビルの頂上に立っている。ここから彼女の生まれた場所が見えるのだ。<br>彼女は、傍にもう1人立つことすらできない、高い場所に立っていた。<br>それでも、彼女は頭を上に向けて、更に高いところを見た。見えた星空は、とても近かったが、触れられないほど遠かった。<br><br><i>「ほんと、つまらない」</i><br>「虹の都市」という名前のゲームは、この日終わった。"
         },
         {
             "_id": 5,
-            "Story": "She stood on a chair and dusted the screen of the arcade machine in circular motions again and again, trying to wipe away each particle of dust on it.<br>She returned to that fast food restaurant, to that basement. She opened the door, and everything was where they used to be. The proprietress kept all the arrangements for her.<br><br>The soft pink light spilled on the screen like the neon lights in the city, reminding her of the starry skies she saw on that day.<br>She was not the first to reach the top of that building, and not the first to have gazed upon those starry expanses.<br>She knew the story of Zero, the greatest hacker and the most terrifying player in the era of Internet Wars. He caused the first global network paralysis just to summon the IPC's escort ship to his doorstep.<br>She thought of Sage, the creator of the aether editing technology, a weirdo who named himself after the dead. To leave the planet, he was willing to discard his physical flesh, raid into the Dark Zone, and become a wraith eternally wandering the Interastral Network.<br>She recalled Stoneblade, the pride of Mount Scrap. His tales of resisting the Oasis Zone were oft-told among families in the barren land. Some said he eventually left with the Galaxy Rangers, continuing his rebellious spark in the cosmos.<br>His lover, Twinsnake, a celebrity in the Oasis Zone. Her whereabouts were widely disputed, and all people knew was that their birth could not stop them from being together, but the cosmos eventually parted them.<br><br>On Punklorde, any hacker who can be called \"legendary\" has ended up with the same fate.<br>As the legend of the current era, she knew that she has already arrived at that threshold.<br><br>Clop, clop... She heard footfalls coming from above her, getting closer, closer...<br>One, two, three, four people.<br>A man, a woman, a metal humanoid, and...<br>She sat down, turned around, and looked around the empty basement one last time, before turning to the person at the door...<br><br><i>\"I'll join.\"</i><br>The game called Punklorde ended that day."
+            "Story": "彼女は椅子の上に立って、アーケードゲーム機の画面を拭いていた。円を描いて、何度も何度も、まるで1回で1粒の埃しか拭けないかのように。<br>彼女はあのファーストフード店、あの地下室に戻っていた。ドアを開けると何も変わってなかった。女主人が彼女のためにすべてをそのままにしていたのだ。<br><br>ピンク色の光が画面の上に広がった。まるで都市の虹のようで、彼女はあの夜にみた星空を思い出した。<br>彼女は初めてあのビルの頂上に登った人でも、あの星空を眺めた人でもない。<br>彼女は「ゼロ」の物語を知っていた。ネット戦争時代で最も偉大なハッカー、最も恐ろしいプレイヤー。スターピースカンパニーの護送船を家の前に呼ぶためだけに、第一次世界ネットワークダウンを引き起こした。<br>彼女は「先哲」のことを考えた。エーテル編集技術の創造者、死者を自分の名にした怪人。星を離れるために彼は喜んで肉体を捨て、黒域に攻め入り、星間ネットワークの中を永遠にさまよう幽霊となった。<br>彼女は「ロックソード」のことを考えた。スクラップの山の誇り。彼はオアシスゾーンに反抗した物語は大荒原でよく知られている。彼は最後に巡海レンジャーの後を追い、銀河で反逆の火花を散らしているという人もいる。<br>そして彼女が好きな「ツインスネークス」、オアシスゾーンのインフルエンサーである。彼女の行方に関しては様々な論がある。人々は、身分が彼女とロックソードを別れさせることはできなかったが、銀河が2人を最終的に別れさせたことしか知らない。<br><br>パンクロードで「伝説」と称されるハッカーは同じ終点にたどり着く。<br>そして今の伝説である彼女は、自身もその終点の前にいることをわかっていた。<br><br>コツコツ…彼女の頭上から足音が聞こえ、それは徐々に近づいてきた……<br>1人、2人、3人、4人。<br>1人は男、1人は女、1人はロボット、最後は……<br>彼女は座ってから振り返り、ガランとした地下室を見て、ドアの傍にいる人を見た——<br><br><i>「加入するよ」</i> <br>「パンクロード」という名前のゲームは、この日終わった。"
         }
     ]
 }
@@ -590,172 +590,172 @@ var _story_ = {
 var _voice_ = {
     "1006": [
         {
-            "Title": "First Meeting",
-            "Voice": "Hey, Trailblazer, you seem pretty cool. That Stellaron hasn't affected you at all?"
+            "Title": "初対面",
+            "Voice": "気分はどう、{NICKNAME}？あの星核から何か影響を受けている感じはしない？"
         },
         {
-            "Title": "Greeting",
-            "Voice": "You're online today too?"
+            "Title": "挨拶",
+            "Voice": "今日もログインしたんだね？"
         },
         {
-            "Title": "Parting",
-            "Voice": "Done everything you needed to? Good, don't want to climb into bed only to realize you forgot to finish your dailies. Bye-bye."
+            "Title": "お別れ",
+            "Voice": "もう用事は終わった？ベッドに入ってからやり忘れたことを思い出さないといいね。バイバイ。"
         },
         {
-            "Title": "About Self: Name",
-            "Voice": "It's the same as my screen name. Isn't yours, Trailblazer?"
+            "Title": "自分について・名前",
+            "Voice": "ゲームのアカウント名。{NICKNAME}、あなたもそうでしょ？"
         },
         {
-            "Title": "Chat: Universe",
-            "Voice": "*sigh* I wish this universe had a few more things to do. Don't you get bored running across the map every day?"
+            "Title": "世間話・宇宙",
+            "Voice": "もっとこの宇宙にゲーム性を増やしたいの。毎日マップを周回するだけなんて、退屈じゃない？"
         },
         {
-            "Title": "Chat: Prometheus",
-            "Voice": "Prometheus is equipped with four modules — \"friend\" is the most talkative... \"Friends are fated — a toast to our friendship!\""
+            "Title": "世間話・プロメテウス",
+            "Voice": "プロメテウスには四つのモジュールが搭載されていて、「友達」が一番会話が上手…「友人は縁であり、永遠に大切にするべき。友情を讃え、乾杯！」"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Burying my head under a pillow for a siesta, and pinching cute things."
+            "Title": "趣味",
+            "Voice": "抱き枕を抱きしめて昼寝することと可愛いものを抱きしめることかな。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "Nobody gets to open an alt account, not even Elio."
+            "Title": "悩み事",
+            "Voice": "アカウントを複数持つのはダメ。エリオでも許されない。"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "When I hacked into the space station, I thought I may as well make some changes to Screwllum's portrait... but I changed it back in the end."
+            "Title": "シェア",
+            "Voice": "宇宙ステーションに行った時、ついでにスクリューガムの画像を弄ったんだけど、結局…最後には元通りに戻した。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "My favorite games always update on the same day. Do you think it's deliberate?"
+            "Title": "見聞",
+            "Voice": "好きなゲームのアップデート日が全部同じなんだ。裏で約束でもしているの？"
         },
         {
-            "Title": "About Kafka",
-            "Voice": "Ignoring the rules is something Kafka and I have in common."
+            "Title": "カフカについて",
+            "Voice": "「ルールを無視」するという点では、彼女とは気が合うと思う。"
         },
         {
-            "Title": "About Blade",
-            "Voice": "He said he'd game with me once his hand healed up, but it seems like it still isn't any better."
+            "Title": "刃について",
+            "Voice": "手の怪我が治ったら一緒にゲームをする約束をしている。だけど、彼の手は今でも治ってない。"
         },
         {
-            "Title": "About Screwllum",
-            "Voice": "It is always me that has to make the first move... That guy never loses his cool, does he?"
+            "Title": "スクリューガムについて",
+            "Voice": "いつも私から仕掛ける感じ。アイツ、本気で怒ることとかないんじゃない？"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Could've done it using console commands."
+            "Title": "星魂覚醒",
+            "Voice": "ふん、コンソールコマンドを使おう。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Gaming is a full-time pursuit."
+            "Title": "キャラクター昇格",
+            "Voice": "この状態を維持して。ずっと押し続けて、止めないで。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Maxed out? Time for the endgame."
+            "Title": "レベルMax",
+            "Voice": "レベルマックス？未来は明るいね。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Stop worrying about the stats — have some fun!"
+            "Title": "軌跡覚醒",
+            "Voice": "大切なのは数値じゃなくて、体験と操作！"
         },
         {
-            "Title": "Added to Team With Kafka",
-            "Voice": "Hey Kafka, can I go off-script this time?"
+            "Title": "パーティ編成・カフカ",
+            "Voice": "カフカ、「脚本」にないところは勝手にしていい？"
         },
         {
-            "Title": "Added to Team With Blade",
-            "Voice": "...You gonna say something? Chat's enabled, y'know."
+            "Title": "パーティ編成・刃",
+            "Voice": "お願いだから何か言って…お喋り禁止なんて「脚本」にないんだから。"
         },
         {
-            "Title": "About Sam",
-            "Voice": "Doing a mission with Sam is basically: Bang, bang...! Bang! And then it's over."
+            "Title": "サムについて",
+            "Voice": "サムの任務は基本、ピューパパン！…で終わる。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "You took the bait just like that?"
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "こんなすぐエサにかかるなんてね。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Might be trickier to crack."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "厄介そう。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "Can you let me have some fun this time?"
+            "Title": "ターン・1",
+            "Voice": "今度は私を楽しませてくれる？"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Huh, more enemies."
+            "Title": "ターン・2",
+            "Voice": "へ――敵がリポップした。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "...I've got a raid to get to — let's finish this."
+            "Title": "戦闘中待機",
+            "Voice": "…レイドあるのを忘れた、さっさと片付けよう。"
         },
         {
-            "Title": "Skill",
-            "Voice": "Time for a buzz."
+            "Title": "戦闘スキル",
+            "Voice": "ガツンとくるヤツで行こう。"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Huh?"
+            "Title": "攻撃を受ける",
+            "Voice": "ん？"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Bad news."
+            "Title": "重撃を受ける",
+            "Voice": "マズい。"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "This combat needs optimizing."
+            "Title": "必殺技・アクティブ",
+            "Voice": "バトル体験を改善しないと。"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Hmph, at this speed? Too slow!"
+            "Title": "必殺技・発動",
+            "Voice": "フン、このスピードで？遅すぎる！"
         },
         {
-            "Title": "Downed",
-            "Voice": "I..."
+            "Title": "戦闘不能",
+            "Voice": "わた…し…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Nice. Rematch."
+            "Title": "戦闘に戻る",
+            "Voice": "よし、ゲーム再開。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Good as new."
+            "Title": "HP回復",
+            "Voice": "ナイスヒーリング。"
         },
         {
-            "Title": "Technique",
-            "Voice": "100% Break."
+            "Title": "秘技",
+            "Voice": "百パー弱点撃破。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Nice, let's do it again when you're leveled up."
+            "Title": "戦闘勝利",
+            "Voice": "よし、強化されたらまたやろう。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Is that it? *sigh* Stingy chest."
+            "Title": "戦利品を開ける・1",
+            "Voice": "ケチ、もう少し多くてもいいのに。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Wow, what an amazingly ordinary find!"
+            "Title": "戦利品を開ける・2",
+            "Voice": "ふうん、サプライズってわけ！"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "That's more like it."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "こうでなくちゃ。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Is it always the same mechanics?"
+            "Title": "謎解きに成功・1",
+            "Voice": "いつになったら新しい遊び方ができるの？"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Hm, not a bad time."
+            "Title": "謎解きに成功・2",
+            "Voice": "うん、なかなかのスピード。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Ready when you are."
+            "Title": "敵ターゲット発見",
+            "Voice": "準備ができたら始めよう。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Time to log off... I mean, ah, head back."
+            "Title": "町に戻る",
+            "Voice": "ログアウト…いや、間違えた。"
         }
     ]
 }

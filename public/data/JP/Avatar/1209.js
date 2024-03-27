@@ -478,23 +478,23 @@ var _story_ = {
     "1209": [
         {
             "_id": 1,
-            "Story": "The spirited lieutenant of the Xianzhou Luofu, and also its most proficient swordsman.<br>He was born for the sword and is obsessed with it. Whenever a sword rests in Yanqing's hand, none would dare underestimate this genius still in the early days of his youth.<br>Perhaps the only thing capable of dulling his treasured blade's sharp edge is time."
+            "Story": "意気揚々とした雲騎驍衛、仙舟「羅浮」最強の剣士。<br>剣に生き、剣に溺れる少年。ひとたび彦卿が剣を握れば、この年若い天才を侮る者もいなくなる。<br>その宝剣の鋒鋩を収められるのは、恐らく時間だけであろう。"
         },
         {
             "_id": 2,
-            "Story": "Youngest lieutenant in the history of the Cloud Knights. Retainer to General Jing Yuan. Collector of antique swords from the Artisanship Commission... With all these auspicious titles and street gossip swirling around this one wunderkind, it's scarcely believable that he is still a child.<br><br>Ever since he could remember, Yanqing would follow Jing Yuan around like a shadow, helping the Seat of Divine Foresight resolve problems. And Jing Yuan in return taught him the art of swordplay — and the art of war. After years of training, Yanqing's mind is as quick and sharp as the spotless sword he keeps.<br><br>Cloud Knight combat drills attest that controlling six simultaneous flying daggers is something even Cloud Knight chief drillmasters can't master in a century. The phrase agreed among the Xianzhou people to describe the combat talents of Yanqing is \"A gifted swordsman born to fight.\""
+            "Story": "雲騎軍史上最年少の驍衛、景元将軍の衛兵、工造司の宝剣の収集家…これほど多くの肩書を持ち、これほど話題になっている天才が、実はまだ子供であるということを人々は想像できない。<br><br>物心がついた時から、彦卿は常に景元の傍にいて、共に憂い、共に困難を乗り越えてきた。そして、景元は彼に剣術と兵法を伝授した。長年の鍛錬を経た彦卿の心智は、その手に握る三尺水のように清く正しい。<br><br>雲騎武経の評価によれば、一呼吸の間に6本の飛剣を自在に操る力量は、雲騎軍の教習首席がさらに 100 年鍛えたとしても辿り着けない境地だという。彦卿の天賦は実に恐るべきもので、仙舟の先人たちに評される「剣胎武骨」の再来とも言えるだろう。"
         },
         {
             "_id": 3,
-            "Story": "It's recorded in the military annals of the Cloud Knights how Jing Yuan came to discover the young boy, stood his ground against public opinion, and incorporated him into the armed forces. However, in the family lineage column, Yanqing's lineage was relegated to the category of unknown.<br><br>Most talented officers display military talent from childhood. For millennia, several talented unicorns have emerged ahead of the pack during the hunt. However, Yanqing earned a military commission before he even reached the age of majority. Some would criticize that \"the general is absurd\" on this matter.<br><br>However, this genius' debut on the battlefield was even more explosive, and any critical voices soon fell silent.<br><br>When hunting near a distant star, the monstrously huge mechabeast Windguard created by the Denizens of Abundance was pulverizing defense forces as though they were ants. But this young boy met against it face-to-face, claiming its head and routing the enemy to the point of collapse.<br><br>As for subsequent victories: He broke the borisin's Devouring Wolf formation with Jing Yuan, beheading three Brood Lords. He also fought viciously against the wingweavers, ultimately sinking their almighty Cloudseizer Fleet... These are just a small footnote in the annals of his courageous swordplay."
+            "Story": "雲騎軍の軍籍文献には、景元がどのようにして少年を見つけ、様々な異論を排除して軍に迎え入れたのかの顛末が記されている。しかし、家系の欄だけは空欄のため、彦卿の血脈に関する情報は不明である。<br><br>天才と呼ばれる者の多くは、幼少期からその素質の一端を見せている。この 1000 年間、巡狩の中で頭角を現した麒麟児は少なくない。未成年が軍職を与えられたと知った人々も、「将軍は荒唐である」と評価しただけだった。<br><br>しかし、この天才少年が初めて戦場に立った時の光景は、すべての反論を黙らせるほどの異彩を放っていた。<br><br>遠くの星を巡狩する際、豊穣の民が造り出した巨大な器獣「防風」は、軍を虫けらのように蹴散らすことから脅威とされている。しかし、少年は相対した瞬間にその頭を切り落とし、敵の勢いを削ぎ、それ以上は戦うことなく勝利を収めたのだ。<br><br>その後の戦績としては、景元と共に歩離人の貪狼鉄陣を破り、3人の巣父を斬り伏せた。また造翼者との激戦では、最終的に空を覆う掌雲艦を墜としてみせた…これらは、彦卿の胆力と剣技を語るうえでの小さな注釈に過ぎない。"
         },
         {
             "_id": 4,
-            "Story": "If you ask Yanqing what other interests he has besides sword fighting, you'll be met with a simple answer —<br><br><i>\"Interests would only affect the speed of my sword!\"</i><br><br>Like a child infatuated with toys, he spares no expense in buying most of the blades manufactured by the Artisanship Commission — flying swords controlled by qi, daggers for close combat, flexible swords that can bend and adjust... He knows different sword's spec and function like the back of his mind. He'll even buy an extra copy — one to use in combat, and one for his collection. This leaves his finances in a sorrowful situation at the end of each month, where he could only beg the general for food and daily necessities.<br><br>It's completely natural for teenage boys to love swords, but a specific dream flickers and dances among the Xianzhou swords in his collection.<br><br>To become the best on the Luofu — no, the best across all the Xianzhou ships. To take the title of Sword Champion on the Luofu, and even take the title of Sword Preeminence across the Alliance.<br><br>Since the Sedition of Imbibitor Lunae, the title of Sword Champion among the Luofu Cloud Knights has remained vacant for centuries. Not that nobody wants to claim it, but for a rather more embarrassing reason:<br><br>The previous Sword Champion, a legendary swordmaster with 13 outstanding accolades, violated the laws of heaven and resulting in her name being wiped from the face of the cosmos. Even the prestigious title that she bore became a sore spot for others.<br><br>But for this vastly impressive teen, it's now time to turn over a new page in the annals of history and write another chapter."
+            "Story": "彦卿に剣術以外に興味があるものは何かと尋ねれば、簡潔な答えが返ってくるだろう——<br><br><i>「興味は僕の抜剣の速度に影響するだけだよ」</i><br><br>ひっきりなしにおもちゃを買いたがる子供のように、彼はお小遣いを使い果たすことも惜しまず、工造司が出したほとんどの宝剣——真気で操る飛剣、接近戦用の短刀、伸縮自在の軟剣などを買っている。それぞれの剣の規格や機能は唯一無二だと考えている彦卿は、常に実戦用と保存用に同じ剣を2本ずつ購入するため、月末には金欠になってしまい、「将軍の脛をかじって憐れみを乞う」ことも少なくない。<br><br>少年が剣を愛するのは至極当然の道理だ。彼が所蔵する仙舟剣器にひとつの夢が映っている――<br><br>羅浮で一番…いや、仙舟で一番になる。羅浮の「剣首」、ひいては同盟の「剣魁」の称号を掴み取る。<br><br>「飲月の乱」の後、羅浮の雲騎軍で最も武芸に優れた者に与えられる称号「剣首」は、数百年もの間空位となっている——この称号を手に入れようとした者がいなかったわけではない。そこには説明が難しい深い理由があるのだ。<br><br>先代の剣首は 13 の奇功を残した伝説の剣士だったが、天律を犯して名前を抹消された。そして彼女が得た名誉も、他の者には触れられないものとなったのである。<br><br>しかし、この意気揚々とした少年にとっては、今こそ歴史のページを捲り、新たな章を書き加える時なのだ。"
         },
         {
             "_id": 5,
-            "Story": "<i>\"Bout #123: Yanqing, Jing Yuan.\"<br>\"General, let's call it a day! I'm exhausted...\"<br>\"Didn't you say you have the confidence to remain undefeated as long as you hold a sword? Why are you acting so weak?\"<br>\"What kind of retainer would take up arms against the person they vowed to protect? What if I accidentally hurt...\"<br>\"If your sword is half as quick as you mouth, I'd already have lost. I'll keep one hand behind my back. Now, be quick!\"<br>\"No no, two hands please! Or maybe you can consider not using the Lightning-Lord, general?\"<br>\"You think is like the Sky-Faring Commission's business, where you can barter your way out? Hmm, let me see...\"<br>\"Aha — a weakness! Watch this!\"<br>\"I knew you'd do that. Counter!\"<br>\"Ow-ow-ow, darn it! I'd been waiting for ages for my shot.\"<br>\"All's equal in war, and sneak attacks are a good idea. It's too bad your sword is so focused on the flourish and can't conceal its form. Is this what they call youthful vigor?\"<br>\"General, let's go again! This time I'll try to be as inconspicuous as possible...\"</i><br><br>Jing Yuan spent much time and energy in raising Yanqing. Some speculated that he was cultivating an heir, others claimed he only kept him around just to use this kid as a secret weapon. Jing Yuan never offered a response.<br><br>Yanqing became an unrivaled fighter aboard the Xianzhou Luofu as his skills grew more and more advanced. Jing Yuan gradually began thinking about ways to restrain Yanqing's edge, to take him down a peg without curbing his confidence.<br><br>Too solid and it can shatter. Too sharp and it can blunt. More than just a sharp edge — a sword also needs a scabbard that can restrain it. In Jing Yuan's view, Yanqing has grown up exceedingly fast — beyond expectations. What Yanqing needs right now is not more strength, but the ability and experience of curbing that strength — something that can only manifest by the passage of time."
+            "Story": "<i>「第 123 回対陣：彦卿、景元」<br>「将軍、もうやめよう！僕疲れた……」<br>「剣を握れば負けない自信はどこにいった？弱気になっているのか？」<br>「…護衛対象に切先を向ける護衛なんていないと思うけど。万が一傷つけたら……」<br>「君の技量が口の半分ほどでも達者だったなら、私は今頃負けていただろう。片手を封じる、早くきなさい」<br>「いや、両手を封じて！それか神君を封じてくれてもいいよ！」<br>「天舶司の取引のように値切りができるとでも？…はあ、少し考えさせてくれ……」<br>「隙あり！くらえ！」<br>「お見通しだ。はっ！」<br>「いたたた！くっ、絶好の機会だと思ったのに……」<br>「戦いで嘘を厭わず奇襲をかけるのはいいことだ。だが惜しいことに、君は剣を振るう時に気を隠せていない。これがいわゆる若者の気概というものかな？」<br>「将軍、もう1回！今度はできるだけ静かにやってみる……」</i><br><br>景元は手間暇をかけて彦卿を育て上げようとしているが、その姿を見て後継者を育成するためだと考える者もいれば、この子供を秘密兵器として使役しているだけだと考える者もいる。しかし、景元が意図を明かしたことない。<br><br>彦卿の剣術が日に日に洗練され、仙舟「羅浮」で肩を並べられる者がいないほどの剣士になるにつれ、景元はいかにして少年に挫折しない程度の失敗を経験させ、その鋭い矛先を落ち着かせることができるかを考えるようになった。<br><br>剛が過ぎると剣身が折れやすく、利が過ぎると剣鋒を損なう。宝剣には切れ味のいい刃だけでなく、それを納める鞘も必要だ。彦卿の成長は、景元が思っていたよりも遥かに速かった。今の彼に必要なのは力ではなく、それを抑える能力と経験である——しかし、これらを身につけさせるには、彼に時間を与えるしかない。"
         }
     ]
 }
@@ -502,216 +502,216 @@ var _story_ = {
 var _voice_ = {
     "1209": [
         {
-            "Title": "First Meeting",
-            "Voice": "Yanqing, lieutenant of the Luofu Cloud Knights, reporting in! If you have some free time, Trailblazer, would you mind sparring with me? Don't worry, I won't go easy on you."
+            "Title": "初対面",
+            "Voice": "「羅浮」雲騎驍衛彦卿、以後お見知り置きを。{NICKNAME}先生、もし時間があるなら僕と手合わせしない？大丈夫、相手が先生だからって手加減はしないから。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "What kind of sword training will you do today? Do you wish for me to accompany you?"
+            "Title": "挨拶",
+            "Voice": "今日はどんな剣術の鍛錬をするの？僕も一緒に行っていいかな？"
         },
         {
-            "Title": "Parting",
-            "Voice": "The sword needs to return to its scabbard... See you tomorrow, Teacher!"
+            "Title": "お別れ",
+            "Voice": "剣を鞘に収めてっと…それじゃ先生、また明日！"
         },
         {
-            "Title": "About Self: Opponents",
-            "Voice": "There are no more fitting opponents for me on the Luofu, but out there among the stars... there may be someone yet."
+            "Title": "自分について・相手",
+            "Voice": "もう「羅浮」に僕の相手が務まる人はいないけど、対象が宇宙となると…話は変わってくるだろうね。"
         },
         {
-            "Title": "Chat: Swords from the Artisanship Commission",
-            "Voice": "I can talk all day about swords made by the Artisanship Commission. I always buy two swords per model: one for the battlefield and one for my collection... Buuut my allowances might run a bit short by the end of the month. I'm sure the general will buy me food and things if I nag him a bit..."
+            "Title": "世間話・工造司の剣",
+            "Voice": "工造司の剣の話なら眠気も覚めるよ。僕は同じ剣を2本ずつ買って、片方は実戦用、もう片方は保存用にしてるんだけど……そのせいで月末は金欠になっちゃって、「将軍の脛をかじって憐れみを乞う」ことになるんだよね。"
         },
         {
-            "Title": "Chat: Sword Champion",
-            "Voice": "Not having the title of Sword Champion just means my skill still needs sharpening, but the general said I don't need more skills, just more time... *sigh* How exactly am I worse than that Sword Champion..."
+            "Title": "世間話・剣首",
+            "Voice": "まだ「剣首」の称号を得られてないのは、僕の剣術が未熟だってこと。だけど将軍は、僕に足りないのは剣術じゃなくて時間だって言ってたんだ…はあ…あの「剣首」と比べて、僕に足りないもの…うーん……"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "After buying a new sword, I would spend even more effort on the scabbard. Should the body be made of black pear wood, or silk? Should the locket and the carrying ring be dragon- or tiger-shaped? And the chape, the decorative plaque... It's great fun deciding on each piece!"
+            "Title": "趣味",
+            "Voice": "新しい剣を買った後は、鞘や剣袋のことも考えないといけない。素材を黒梨材にするか、絹にするか、装飾を龍にするか、虎にするか。それから名札も…ひとつひとつ自分で選ぶのが楽しいんだ！"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "Sometimes I find multiple good sheaths for a new sword, and I end up buying them all. And yet, one sword can only use one sheath..."
+            "Title": "悩み事",
+            "Voice": "新しい剣を買う時は、似合うなあって思った鞘を全部買うことにしてるんだ。でも残念なことに、1本の剣には1本の鞘しかつけられないんだよね……"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "\"What can one do after one has made history?\" I once asked the general this question, but he said he can't answer it because he never wanted to be a general, and that I should try to answer it myself. Um..."
+            "Title": "シェア",
+            "Voice": "将軍に「歴史に名を残した後は、何をすればいい？」って聞いたら、自分は将軍になろうと思ってなったわけじゃないから、その後のことなんて答えられない、自分で考えろって言われたよ。はあ……"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Like the other Xianzhou ships, the Luofu also holds the Stellar Martial Competition to test the strength of the Cloud Knights, and whoever wins the sword competition receives the title of Sword Champion!"
+            "Title": "見聞",
+            "Voice": "他の仙舟もそうだけど、「羅浮」には「星天演武」っていう、雲騎軍の実力を審査するための典礼があるんだ。その典礼の剣術の部門で勝った人に、「剣首」の称号が与えられるんだよ。"
         },
         {
-            "Title": "About Jing Yuan",
-            "Voice": "The general has no need to show his martial prowess with me around. Since he acknowledges my strength, I need to help shoulder his burdens that much more!"
+            "Title": "景元について",
+            "Voice": "僕がいるから、将軍は力をひけらかす必要がない。将軍は僕の実力を認めてくれた。だから僕も、将軍の力になってあげないとね。"
         },
         {
-            "Title": "About Tingyun",
-            "Voice": "Tingyun would ask me to write introductory pieces for blades when her Codex on Goods contains a section on them."
+            "Title": "停雲について",
+            "Voice": "停雲が出してる「得物誌」に、剣に関する記事が載る時は、僕が評論を書かせてもらってるんだ。"
         },
         {
-            "Title": "About Sushang",
-            "Voice": "Sushang has a good sword, but a good sword is not always an easy-to-use sword. One needs to apply ten times more power to make it perform just one-tenth better."
+            "Title": "素裳について",
+            "Voice": "素裳の剣は宝剣だけど、だからといって扱いやすいわけじゃない。あれの力を1割でも発揮しようと思ったら、 10 倍以上の力を出さないといけないからね。"
         },
         {
-            "Title": "About Yukong",
-            "Voice": "I visited the Sky-Faring Commission once and saw Madam Yukong staring alone at the leather target for a long time. She didn't fire a single arrow that day, but perhaps she did shoot thousands in her mind."
+            "Title": "御空について",
+            "Voice": "前に天舶司を訪問した時、御空様が1人で的を見つめていたんだ。結局、矢は1本も放たなかったけど、きっと心の中では 1000 回くらい弓を引いてたんじゃないかな。"
         },
         {
-            "Title": "About Fu Xuan",
-            "Voice": "So, Diviner Fu wants to be the general... Well, firstly, she needs to fix the issue where everyone just wants to nap as soon as she starts to talk."
+            "Title": "符玄について",
+            "Voice": "太卜は将軍になりたがってる…でも――まずは、あの口を開くと人を眠らせる病気を治さないと。"
         },
         {
-            "Title": "About Luocha",
-            "Voice": "At first, I thought he always fights using that sword casket. That thing looks really strange... I need to figure out a way to fight him and get him to use his skills for real..."
+            "Title": "羅刹について",
+            "Voice": "最初は剣箱を武器にしている、変な奴だと思ってた…でも、まずは理由をつけて彼と戦って、本気を出すところを見てみないと……"
         },
         {
-            "Title": "About Jingliu",
-            "Voice": "I used to think there was only one way to become a true swordmaster... but General, Jingliu, and even myself... we all ended up on different paths."
+            "Title": "鏡流について",
+            "Voice": "純粋で至極の剣術を求める道は1つしかないと思っていたけど…彼女、将軍、そして僕も…みんな最後は違う道を歩むことになるんだよね。"
         },
         {
-            "Title": "About Dan Heng",
-            "Voice": "When I fought Dan Heng, his spear mastery was almost perfect... but he was completely detached from it as an art. Maybe for him it's just a means to an end?"
+            "Title": "丹恒について",
+            "Voice": "丹恒先生と手合わせして痛感したんだけど、あの人は優れた槍術の使い手なのに、そのことを気にも留めてないみたいなんだ…彼にとって、槍術はただの手段にすぎないのかな？"
         },
         {
-            "Title": "About Blade",
-            "Voice": "He can detect any swing of the sword before it lands... Would I be able to defeat him with my swordplay alone?"
+            "Title": "刃について",
+            "Voice": "僕の攻撃はことごとく奴に読まれてた…僕は剣術の造詣だけで奴に勝てるのかな？"
         },
         {
-            "Title": "About Guinaifen",
-            "Voice": "I remember her... One time she was carrying a beautiful sword, so I thought I'd strike up a conversation. But then she swallowed the sword down her throat! To this day I still haven't figured out which sword-fighting style that technique is from..."
+            "Title": "桂乃芬について",
+            "Voice": "あの先生のことなら覚えてるよ…前に綺麗な剣を持っているのを見て、少し話をしようと思ったら、いきなり剣を吞み込んだんだ！ずっと考えてたんだけど、あれは一体どこの門派の剣法なんだろう。うーん、わからない……"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "It feels like the stars just got brighter..."
+            "Title": "星魂覚醒",
+            "Voice": "なんだか、前より羅浮の星空が明るく見える。"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "How many battles lie between me and my dreams?"
+            "Title": "キャラクター昇格",
+            "Voice": "夢が叶うまで、あと何回剣を振ればいいんだろう？"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "My swordplay is ready. Time to put it to the test."
+            "Title": "レベルMax",
+            "Voice": "こんなに剣術が上達するなんて…対戦相手を探して証明しないと。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "\"He's got a bright future.\" If I had a strale for every time I heard that one..."
+            "Title": "軌跡覚醒",
+            "Voice": "僕が若いのは確かだけど、いつも「将来有望」って言うのは適当すぎない？"
         },
         {
-            "Title": "Added to Team With Jing Yuan",
-            "Voice": "Orders received, General."
+            "Title": "パーティ編成・景元",
+            "Voice": "将軍様から下された命、必ず果たしてみせる。"
         },
         {
-            "Title": "Added to Team With Fu Xuan",
-            "Voice": "What's your outlook for the coming battle, Master Diviner?"
+            "Title": "パーティ編成・符玄",
+            "Voice": "今回の戦いの吉凶について、太卜様の見解は？"
         },
         {
-            "Title": "Added to Team With Sushang",
-            "Voice": "Cloud Knights assemble!"
+            "Title": "パーティ編成・素裳",
+            "Voice": "雲騎軍同士、協力して敵を倒そう。"
         },
         {
-            "Title": "Added to Team With Dan Heng",
-            "Voice": "Is my swordplay good enough to learn from a master like him?"
+            "Title": "パーティ編成・丹恒",
+            "Voice": "今の僕の剣術なら、指導してもらえるかな？"
         },
         {
-            "Title": "Added to Team With Dan Heng • Imbibitor Lunae",
-            "Voice": "Is my swordplay good enough to learn from a master like him?"
+            "Title": "パーティ編成・丹恒・飲月",
+            "Voice": "今の僕の剣術なら、指導してもらえるかな？"
         },
         {
-            "Title": "Added to Team With Blade",
-            "Voice": "The general let you off the hook. Consider yourself lucky."
+            "Title": "パーティ編成・刃",
+            "Voice": "せっかく将軍様が見逃してやったのに、また邪魔する気か。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Hmph, a one-time enemy."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "ふふっ、弱すぎるよ。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "A strong adversary. Help me improve!"
+            "Title": "戦闘開始・危険予知",
+            "Voice": "強者からは、学ばないとね。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "So, how many of my moves can you block?"
+            "Title": "ターン・1",
+            "Voice": "この技、受け止めきれるかな？"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "Time for some swordplay!"
+            "Title": "ターン・2",
+            "Voice": "宝剣たちよ、いけ！"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "The sword is like water, it cannot remain still."
+            "Title": "戦闘中待機",
+            "Voice": "剣形は水の如し、止められないよ。"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Blade, in flight."
+            "Title": "戦闘スキル・1",
+            "Voice": "剣は、飛燕の如し。"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "Strike... with heart!"
+            "Title": "戦闘スキル・2",
+            "Voice": "剣よ、我が心に従え。"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "How...?"
+            "Title": "攻撃を受ける",
+            "Voice": "なんで……"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Impressive."
+            "Title": "重撃を受ける",
+            "Voice": "いい腕だね！"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Practice is over."
+            "Title": "必殺技・アクティブ",
+            "Voice": "小手調べは終わりだよ。"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Swords, descend!"
+            "Title": "必殺技・発動",
+            "Voice": "万剣、天来！"
         },
         {
-            "Title": "Downed",
-            "Voice": "I've dishonored... the blade..."
+            "Title": "戦闘不能",
+            "Voice": "ごめん…勝てなかった……"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "I won't underestimate the enemy twice."
+            "Title": "戦闘に戻る",
+            "Voice": "今度は手を抜かないよ。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "I can breathe easy again."
+            "Title": "HP回復",
+            "Voice": "的確な治療だね。"
         },
         {
-            "Title": "Technique",
-            "Voice": "Shift the balance."
+            "Title": "秘技",
+            "Voice": "ちょっとした小細工さ。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Victory by the blade~"
+            "Title": "戦闘勝利",
+            "Voice": "さすが、僕の宝剣だね～！"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "This can go towards my allowance."
+            "Title": "戦利品を開ける・1",
+            "Voice": "お小遣い稼ぎだと思えばいい。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "A few more like this and I can buy a new sword!"
+            "Title": "戦利品を開ける・2",
+            "Voice": "もっとたくさんあったら新しい剣が買えるね！"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "No need to pester the general for a while!"
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "これなら将軍の脛をかじる必要もなくなる！"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Cooool."
+            "Title": "謎解きに成功・1",
+            "Voice": "面白いね！"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "It worked! Save the next one for me too!"
+            "Title": "謎解きに成功・2",
+            "Voice": "解けた！次も僕にやらせて！"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Let's go say hi!"
+            "Title": "敵ターゲット発見",
+            "Voice": "あいつと戦おう！"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Wonder if I'll discover any rare swords..."
+            "Title": "町に戻る",
+            "Voice": "もっと珍しい剣は見つかるかな……？"
         }
     ]
 }

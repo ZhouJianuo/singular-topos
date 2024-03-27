@@ -416,23 +416,23 @@ var _story_ = {
     "1009": [
         {
             "_id": 1,
-            "Story": "A fiercely inquisitive and energetic young girl. She is the Lead Researcher of the space station Herta.<br>Whether it is managing opinionated staff, or courteously but firmly responding to the Intelligentsia Guild's devious demands, Asta handles it all effortlessly.<br>After all... commanding a space station is much easier than taking over the family business!"
+            "Story": "好奇心旺盛で元気いっぱいな少女。名義上は宇宙ステーション「ヘルタ」の所長。<br>各々の意見を述べるスタッフたちを管理したり、博識学会の無理難題に失礼のないよう返答したりするのは、彼女にとって造作もないことである。<br>宇宙ステーションの指揮なんて……家業を引き継ぐより簡単よね！"
         },
         {
             "_id": 2,
-            "Story": "Back when she was still a child but was already picking out her own telescopes, Asta would always hear the faint murmurings of elders praising her. She was quite proud of this, because she could discern the quality of a telescope's primary mirror and autoguider with a mere glance.<br><br>It wasn't until she drew within earshot one day that she learned they were actually tutting and tsking at her — how could such a little girl manage to pick out such expensive items?<br><br>Personal hobbies don't exist in the eyes of these people. All they chose to see is a pampered little princess.<br><br><i>\"You like stars? Oh, I get it. You're a little girl. You all like sparkly things.\"<br>\"Yes... I'm researching protostars at the moment. I hope to name the stars I discover after myself... Just like those famous astronomers of old.\"<br>\"Is that all? Shall we name this planet after you for your next birthday? How about two planets? Those are actually quite cheap.\"<br>\"...\"<br>\"Hey, where are you going, Asta? Asta!!!\"</i>"
+            "Story": "まだ幼いアスターが自分で望遠鏡を選び始めた時、大人たちの称賛がそれとなく伝わってきた。そして、彼女はそれを誇りに思っていた。なぜなら彼女は、望遠鏡の主鏡の製造技術や天体自動導入装置のタイプを一目で判別できるからである。<br><br>しかし、ある日盗み聞きをしていた彼女は真相を知った。彼らが称賛していたのは、1人の少女がこんなにも高価なものを選んだということに対してだったのだと。<br><br>観客の目に個人の嗜好は存在しない。彼らは彼女を甘やかされて育った娘だと思っている。<br><br><i>「星が好き？ああ、女の子はキラキラしたものが好きだからな」<br>「えっと…私は恒星胚胎について研究してるの。いつの日か星を発見して、自分の名前を付けたくて…他の素晴らしい天文学者たちのように……」<br>「それだけか？それなら今年の誕生日プレゼントは、アスターの名前を星につけるというのにしようか？星2つでもいい、大して金はかからないからな！」<br>「……」<br>「おい、アスター？どこに行くんだ！アスター！」</i>"
         },
         {
             "_id": 3,
-            "Story": "She knows that it doesn't matter whether she and her mother are reliable volunteers. People just want to see them here. That's all.<br><br>After apportioning the food, the people disperse one by one, leaving behind a little boy. His right hand is wounded, and his eyes are like that of a wolf as he stares at her in a way she doesn't like.<br><br><i>\"Are you going to ask me to borrow money?\"<br>\"I don't want any money. I have to pay back the cost of this meal, but I don't have any money on me.\"</i><br><br>Occasionally, \"friends\" she never recognizes would come and ask if they could borrow money from Asta. However, it's the first time she actually heard someone offer to pay her back. Her eyes widen in surprise. Listening in, her mother can't help but laugh.<br><br><i>\"You're still a kid. What kind of work can you do?\"<br>\"Fight.\"<br>\"That's not a good job. How about this — I'll give you a job.\"</i><br><br>To this day, in Asta's heart, the bill for Arlan's meal was settled the moment he said that he'd pay her back."
+            "Story": "彼女は理解していた。自分と母親がボランティアとして合格かどうかは関係ない。人々は彼女たちがそこにいることだけを望んでいるのだ。<br><br>食糧の分配が終わり、人々がまばらに散っていく中、小さな男の子だけがそこに残った。彼は右手を怪我しており、その目は狼のように鋭く、睨まれると少し不快な気持ちになる。<br><br><i>「貴方も私にお金を借りたいの？」<br>「金はいらない。さっきの食事代を払わないといけないのに、今は金がないんだ」</i><br><br>知らない「友達」がお金を借りにくることはあっても、お金を返そうとする人に出会ったことがなかったアスターは、驚きのあまり目を見開いた。傍にいる母親も笑いを堪えきれない様子だ。<br><br><i>「貴方、まだ子供じゃない。何ができるの？」<br>「ケンカ」<br>「それは褒められたことじゃないわね——こうしましょう、私が貴方に仕事を紹介するわ」</i><br><br>——アスターの心の中では、あの時のアーランの食事代は、彼が返したいと申し出た時点で清算されている。"
         },
         {
             "_id": 4,
-            "Story": "<i>\"The stars follow their own orbits, but what about humans... Can we humans ever hope to control our own destiny?\"</i><br><br>A wealthy family background grants Asta the power to explore the stars, but also become her personal shackles.<br><br>As she grows older, Asta's vow to become an astronomer was viewed as increasingly radical by her family. She begins to lose count of how many times she'd argue during family meetings about this very thing.<br><br>Until one day, after a family meeting, a puppet girl walks in, And one of the family members who were so domineering a moment ago suddenly changes into a yes-man.<br><br><i>\"That's the girl.\"<br>\"But she'd...\"<br>\"No buts. I didn't come all this way to listen to your garbage academic reports. I'd rather listen to this girl debate with you.\"<br>\"...\"<br>\"I want to see her on the space station within three days.\"</i><br><br>And with that, the puppet girl walks straight out without looking back."
+            "Story": "<i>「星は自分の軌道を辿っていけるけど、人間は…人間は本当に自分の運命を掌握できないの？」</i><br><br>恵まれた家庭環境はアスターに星空を探索する力を与えたが、それは同時に彼女を束縛していた。<br><br>アスターが大きくなるにつれて、彼女の天文学者になりたいという夢は親族から異端視されるようになった——彼女は家族会議で親戚と何度この問題について議論したか、もう覚えていない。<br><br>ある日の家族会議が終わった後、部屋に人形の少女が入ってきた。そして、先ほどまで威張り散らしていた親族の1人が、その少女の前では唯々諾々としていた。<br><br><i>「この子だったよね？」<br>「しかし彼女は……」<br>「何がしかし、なの？遠路遥々やってきて、あなたたちのくだらない学術報告を聞くよりは、この子とあなたたちの言い争いを聞いてたほうが面白い」<br>「……」<br>「3日以内に、宇宙ステーションで彼女の姿を見られるようにして。いい？」</i><br><br>それだけ言うと、人形の少女は振り返ることなく去っていった。"
         },
         {
             "_id": 5,
-            "Story": "After becoming the Lead Researcher of the Herta space station, Asta's life is now busier than ever before. She has to manage the researchers and their differing opinions, reply to the numerous correspondence meant for Herta, constantly negotiate with the IPC, and procure equipment from various different sources... But at the same time, she's experiencing the greatest freedom she'd ever known...<br><br><i>\"Deploy the Nyul Iman telescope in the second equipment bay. Set it to 100× astronomical units, and begin observation of the pre-stellar core in front of us.\"<br>\"Pay close attention to particle density. If you discover any super-dense structures, commence recording of the protostar fragmentation process at once.\"</i><br><br>In her spare time, Asta would sometimes consider how Madam Herta never seems to come around anymore after Asta arrived at the space station. She even made inquiries, but was told, \"If there's no interesting new stuff, I won't bother coming in.\"<br><br><i>\"...I'd rather listen to this girl debate with you.\"</i><br><br>She thought back to the words Herta had casually told her family on that day long age.<br><br>The Herta of her memories seems to stand out amongst resplendent starlight, giving her the power to control the starry sky — and her own destiny."
+            "Story": "宇宙ステーション「ヘルタ」の所長になってから、アスターの生活は以前よりも格段に忙しくなった。各々の意見を述べるスタッフたちをまとめ、ヘルタに代わっておびただしい数のメールに返信し、頻繁にカンパニーと交渉を行い、様々なルートから新しい設備を購入する…しかし同時に、彼女はここで今までにない自由を手に入れた——<br><br><i>「2号設備部分のニューウェル・イマン望遠鏡を使用、 100 倍天文単位に設定。前方の『分子雲コア』を観測するわ」<br>「粒子の密度には特に注意するように。超緻密構造を発見したら、すぐに『恒星胚胎』の分裂過程を記録して！」</i><br><br>アスターには暇になると考えることがある。それは自分が宇宙ステーションを引き継いでからというもの、ミス・ヘルタが一度も姿を表していないということだ。以前彼女に尋ねたこともあるのだが、得られたのは「興味深いことや新しいものがなければ行かない」という返答だった。<br><br><i>「……この子とあなたたちの言い争いを聞いてたほうが面白い、かぁ」</i><br><br>彼女は遠い昔のあの日のことを思い出した。ヘルタが何気なく口にした、その言葉を。<br><br>記憶の中のヘルタは輝かしい星の中に立っていて、彼女に星と自分の運命を掌握する力を与えてくれているようだった。"
         }
     ]
 }
@@ -440,196 +440,196 @@ var _story_ = {
 var _voice_ = {
     "1009": [
         {
-            "Title": "First Meeting",
-            "Voice": "Hi, Trailblazer! The name's Asta, I'm the lead researcher on Herta Space Station. I'll be sure to let you know if I need your help... Don't worry, I think you'll be hearing from me."
+            "Title": "初対面",
+            "Voice": "こんにちは、{NICKNAME}。私は宇宙ステーション「ヘルタ」の所長、アスターよ。助けが必要な時は、必ず言うから…大丈夫、貴方に遠慮はしないわ。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "*yawn* You're here! The observation matrix we adjusted should have some results for us now. Free to take a look?"
+            "Title": "挨拶",
+            "Voice": "来たのね。以前、テストを行っていたアレイ型観測器の結果がそろそろ出ているはずよ。一緒に見に行かない？"
         },
         {
-            "Title": "Parting",
-            "Voice": "Is that the time? Time flies when you're working hard."
+            "Title": "お別れ",
+            "Voice": "もうこんな時間？仕事をしていると時間が早く過ぎるわ。"
         },
         {
-            "Title": "About Self: Family",
-            "Voice": "*sigh* Even if I never kept in touch with any of my relatives, they would find their way over here."
+            "Title": "自分について・家族",
+            "Voice": "はあ、私が全く連絡を取らなくても、あの親戚たちは勝手に向こうから探しに来るのよ。"
         },
         {
-            "Title": "About Self: Work",
-            "Voice": "You heard right! If I don't work hard, I'll have to go back and inherit the family fortune... *sigh*"
+            "Title": "自分について・仕事",
+            "Voice": "そうよ。仕事を頑張らなければ、家業を継ぐ羽目になる……"
         },
         {
-            "Title": "Chat: Astronomy Thesis",
-            "Voice": "...I haven't written a single word yet... But it won't take long once I get started!"
+            "Title": "世間話・天文学の論文",
+            "Voice": "…まだ一文字も書いてないけど、書き出せばすぐに終わるわ。"
         },
         {
-            "Title": "Chat: Space Station",
-            "Voice": "\"The space station is merely Herta's toy box.\" That's by no means an inaccurate statement. But this is Herta we're talking about — her toys are pretty dangerous~"
+            "Title": "世間話・宇宙ステーション",
+            "Voice": "「宇宙ステーションはヘルタのおもちゃ箱に過ぎない」、この言葉は真実よ。でも、ミス・ヘルタの所有物だから、おもちゃ箱と言ってもとても危険なの。"
         },
         {
-            "Title": "Hobbies",
-            "Voice": "Continuously channeling funds into constructing the space station, improving employee benefits, creating a positive feedback loop... Ahem, as well as satisfying the lead researcher's — that is to say my — indispensable shopping needs."
+            "Title": "趣味",
+            "Voice": "宇宙ステーション建設に継続的な投資を行い、スタッフの福利厚生を充実させ、好循環を生み出すことよ。そうすることで、所長の需要、つまり、私のショッピング欲を満たすことができるの。"
         },
         {
-            "Title": "Annoyances",
-            "Voice": "If only Madam Herta could pay a visit to the space station more often — the researchers are clearly her followers."
+            "Title": "悩み事",
+            "Voice": "ミス・ヘルタが宇宙ステーションに来る回数が増えるといいんだけどね。スタッフはみんな彼女を追い求めて、宇宙ステーションに来ているのよ。"
         },
         {
-            "Title": "Something to Share",
-            "Voice": "When I first got to the space station, the researchers had prepared a room for me. I—I was really grateful, but it was far away from everyone else. That was a bit disheartening."
+            "Title": "シェア",
+            "Voice": "最初にステーションに着いた時は、スタッフが私専用の部屋を用意してくれてありがたかったわ。けど、みんなから離れすぎていたから、そこで過ごす気にはならなかったの。"
         },
         {
-            "Title": "Knowledge",
-            "Voice": "Even the monitoring room is being monitored."
+            "Title": "見聞",
+            "Voice": "たとえ監視室であろうと、監視されているものよ。"
         },
         {
-            "Title": "About Arlan",
-            "Voice": "Arlan's always saying stuff like, \"all of you must heed Lead Researcher Asta's judgment!\" Then when I remind him that that includes him, he says, \"don't worry, I have my own judgment.\""
+            "Title": "アーランについて",
+            "Voice": "普段のアーランの真似をするわ。「みんな、アスター所長の言うことを聞け」。そして私が「アーランも少しは気を付けてよね」って注意すると、「大事ありません。自分なりの判断基準があるので」って言うのよ。"
         },
         {
-            "Title": "About Herta",
-            "Voice": "If there's anyone who thinks they can be as headstrong as Madam Herta, I'd recommend they consider whether or not they possess her intelligence first."
+            "Title": "ヘルタについて",
+            "Voice": "もし自分もミス・ヘルタのようにわがままでもいいんじゃないかと考える人がいたら、まずは彼女と同等の頭脳を持っているかを考えるべきね。"
         },
         {
-            "Title": "About the Astral Express",
-            "Voice": "I can't solve every problem the Express Crew might have in their voyage across the galaxy, but if money's ever the solution, come find me."
+            "Title": "星穹列車について",
+            "Voice": "列車が銀河を旅する中で、どんなことに遭遇しても力になれるとは言えないけど、もしお金で解決できそうなことがあれば、遠慮なく私に言ってね。"
         },
         {
-            "Title": "About Topaz",
-            "Voice": "The last time I spoke with Topaz, we agreed to take a holiday. We were going to charter a ship, go star-seeing, and catch up on all the IPC gossip... but we still haven't had the chance..."
+            "Title": "トパーズについて",
+            "Voice": "この前トパーズさんと休暇について話してた時、エアクラフトをチャーターして星空を見たり、「カンパニー」の噂話をしたりしようねって約束したんだけど…なかなか2人の時間が合わなくて…はあ……"
         },
         {
-            "Title": "About Ruan Mei",
-            "Voice": "I asked Miss Ruan Mei where I could buy a charm like the one on her sleeve — but I was surprised to learn she'd hand-embroidered it. I was equally surprised when she gave me my own hand-embroidered charm the next time she came to the space station. Her craftsmanship, like her research papers, is superb."
+            "Title": "ルアン・メェイについて",
+            "Voice": "ミス・ルアン・メェイの袖についてるチャームを購入できるリンクを聞いたことがあるんだけど、まさか自分で刺繍したものだったなんて！もっとびっくりなのは、今度宇宙ステーションに来る時に、星型のペンダントをプレゼントするって言ってくれたことね。彼女の手芸はその論文と一緒で、すっごく精巧なの！"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Every star is a miracle!"
+            "Title": "星魂覚醒",
+            "Voice": "1つ1つの星が奇跡なの！"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "The more I learn about it, the more I love the starry sky."
+            "Title": "キャラクター昇格",
+            "Voice": "知れば知るほど、この星空が好きになる。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Goals are like the stars — we'll reach them eventually."
+            "Title": "レベルMax",
+            "Voice": "目標は星のように、手が届かないものばかりじゃないわ。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Another step closer to distant worlds."
+            "Title": "軌跡覚醒",
+            "Voice": "あれれ、これが「星を追う旅」？"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "The Express has been a lifeline — time to return the favor!"
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "列車組にはたくさん助けてもらったから、今度は私が恩返しする番！"
         },
         {
-            "Title": "Added to Team With Arlan",
-            "Voice": "Arlan... don't carry the weight alone."
+            "Title": "パーティ編成・アーラン",
+            "Voice": "アーラン…これ以上1人で戦っちゃダメだからね。"
         },
         {
-            "Title": "Added to Team With Herta",
-            "Voice": "Oh! Madam Herta? We've got nothing to worry about."
+            "Title": "パーティ編成・ヘルタ",
+            "Voice": "えっ、ミス・ヘルタも？それなら心配は要らないね！"
         },
         {
-            "Title": "Added to Team With Topaz",
-            "Voice": "Topaz, what a coincidence! Guess I should see this as a business trip!"
+            "Title": "パーティ編成・トパーズ",
+            "Voice": "トパーズさん！奇遇ね、なんだか一緒に出張に行くみたい。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "Hm. Scared yet?"
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "ん？怖くない怖くない。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "Time to get vigilant."
+            "Title": "戦闘開始・危険予知",
+            "Voice": "私も気をしっかり持たないと。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "A guest with no manners, huh?"
+            "Title": "ターン・1",
+            "Voice": "礼儀のなってないお客さんね。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "I don't remember inviting you."
+            "Title": "ターン・2",
+            "Voice": "誘った覚えはないけど。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Guess what I'm about to do~"
+            "Title": "戦闘中待機",
+            "Voice": "私がこれから何をするのか、当ててみて～"
         },
         {
-            "Title": "Basic ATK",
-            "Voice": "Look out~"
+            "Title": "通常攻撃",
+            "Voice": "避けてね。"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Who's the lucky one today?"
+            "Title": "戦闘スキル・1",
+            "Voice": "ラッキースターは誰かな～"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "A gift from the stars~"
+            "Title": "戦闘スキル・2",
+            "Voice": "星の祝福を貴方に～"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Ow ow ow..."
+            "Title": "攻撃を受ける",
+            "Voice": "いたたた…"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "No, don't..."
+            "Title": "重撃を受ける",
+            "Voice": "こないで…"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Everything is ordained by the stars."
+            "Title": "必殺技・アクティブ",
+            "Voice": "すべては、星々の選択。"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Oh profound secrets of the stars, give these Trailblazers your blessing!"
+            "Title": "必殺技・発動",
+            "Voice": "星の秘密を求めるカギよ、開拓者たちに真なる祝福を！"
         },
         {
-            "Title": "Downed",
-            "Voice": "But I want... to know more..."
+            "Title": "戦闘不能",
+            "Voice": "もっと…知りたかった…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "That didn't count, let's go again!"
+            "Title": "戦闘に戻る",
+            "Voice": "さっきのナシ、もう一度やり直そう。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "Saving me won't earn you any favors."
+            "Title": "HP回復",
+            "Voice": "助けても何も出ないわよ。"
         },
         {
-            "Title": "Technique",
-            "Voice": "Found your weakness~"
+            "Title": "秘技",
+            "Voice": "隙あり～"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "The stars will always remember us."
+            "Title": "戦闘勝利",
+            "Voice": "星々が私たちの名を記憶してくれる。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "Do I have this already?"
+            "Title": "戦利品を開ける・1",
+            "Voice": "持ってるものばっかり。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "Hope you like them!"
+            "Title": "戦利品を開ける・2",
+            "Voice": "ほんの気持ちって感じね～"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Definitely worth our while."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "なかなかの品質ね。"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "Progress~"
+            "Title": "謎解きに成功・1",
+            "Voice": "成長したね～"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "Been a while since I worked on one of these!"
+            "Title": "謎解きに成功・2",
+            "Voice": "謎解きは久しぶり～！"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Might as well beat it up before it attacks me."
+            "Title": "敵ターゲット発見",
+            "Voice": "こっちが行かなかったら、向こうも見過ごしてくれるわけ？"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Can you see the stars from here too?"
+            "Title": "町に戻る",
+            "Voice": "ここでも星が見えるのかな？"
         }
     ]
 }

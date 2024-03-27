@@ -479,23 +479,23 @@ var _story_ = {
     "1303": [
         {
             "_id": 1,
-            "Story": "A scholar of exquisite temperament, member #81 of the illustrious Genius Society, and an expert in the field of life sciences.<br>She earned Nous' attention with her talent and terrifying perseverance, and began her research on the origin of life in a secretive corner of the universe.<br>Subsequently, she was invited by Herta to collaborate with Screwllum and Stephen to develop the Simulated Universe.<br>Privately, she revels in traditional theater and desserts, and she is also very interested in embroidery."
+            "Story": "物腰が柔らかく優雅な学者。「天才クラブ」#81、生命科学の専門家。<br>生まれ持った資質と驚異的な執着によってヌースの一瞥を受け、秘密の場所で生命の根源に関する研究と探求を始めた。<br>その結果ヘルタに声をかけられ、スクリューガム、スティーブンと共に「模擬宇宙」を開発。<br>伝統的な劇とお菓子が大好きで、刺繍にも興味がある。"
         },
         {
             "_id": 2,
-            "Story": "During her childhood, she received early exposure to science from her mother, who was a \"scientist.\"<br><br>Her life in a tiny house with her family of science enthusiasts was filled with love. As such, it wasn't long before she realized there were subtle differences in \"love,\" each kind coming with different scents.<br><br>Her grandmother with silver hair was a fan of traditional theater with its humming and chirping, while her father wore a pair of large, furry boots.<br>Her parents loved each other, but they still argued from time to time.<br>She was an impassive girl who made mistakes all the time, but was also forgiven all the time.<br><br><i>\"I was closer with Aunt Arlice compared to my other relatives, as she would buy me snacks. Her love was the best.\"</i><br><br>Soon, the young girl learned to be stubborn. Her understanding of \"love\" broke away from the formulae taught in textbooks.<br>As she grew older, her mother became strict with her. Together, they walked one step at a time on a vast glacial planet.<br>The girl gasped and stopped on the way, carefully observing the fantastical and enchanting \"lifeforms\" buried beneath the glaciers - What used to be lifeforms, at least.<br><br>Every time she arrived home after going on scientific expeditions, it was time for \"rewards\" —<br>When she took a small bite of the cake, the mouthwatering aroma would immediately cling to the roof of her mouth. Her insignificant anticipation always gave her mother's research an inviting smell.<br><br>Starting from their home, a planet blessed by Abundance, they boarded research aircraft and set off to more worlds.<br>Surrounded by flash bombs, silk headscarves, ribbons, and embroidery, the girl embraced joy amongst \"lifeforms\" created by spiraling and ascending data.<br><br><i>\"A-Ruan, after eating Qingtuan, you must wash your fingers thoroughly before you can touch the lab bench.\"</i>"
+            "Story": "幼少期、彼女は「科学者」である母から初めての啓蒙を得た。<br><br>科学に傾倒していた家族が集まる小屋の中で、彼女の生活と愛は切っても切れない関係にあった——そのため彼女は早い段階で「愛」には差があること、そして異なる香りを持っていることに気づいたのである。<br><br>祖母は白髪で、楽器と歌声を用いた戯曲が好きだった。父の革靴は大きくて毛むくじゃらだった。<br>父と母は互いに愛し合っていたが、よく喧嘩もしていた。<br>彼女は大人しい少女で、よく間違いを犯していたが、よく許されてもいた。<br><br><i>「アーリスおばさんは他の大人たちより私に親切で、お菓子を買ってくれる。だからおばさんからの愛が一番」</i><br><br>そのうち少女は強情を張ることを覚え、彼女の「愛」に対する理解も、書籍に書かれている公式の説明を超えるものとなった。<br>それからまた少し少女が成長した頃、母は彼女に巨大な氷河の惑星を一歩一歩一緒に進むよう厳しく求めた。<br>少女は途中で息が上がるたびに足を止めては、氷河の下にある魅力と不思議に満ちた「生命」——かつては「生命」だったものをじっくりと観察した。<br><br>観測が終わって小屋に戻ると、ようやく「ご褒美」の時間が訪れる——<br>お菓子をかじると、その美味しさが口いっぱいに広がっていく。彼女の小さな期待は、いつも母の研究に魅力的な香りを添えていた。<br><br>故郷、「豊穣」の祝福を受けた世界を起点に、彼らは観測用の宇宙船に乗り、多くの世界に赴いている。<br>家族から贈られた様々な「愛」と、螺旋状に上昇するデータによって作られた「生命」の中で、少女は喜びを抱いた。<br><br><i>「ルアン、青団子を食べた後は、手を洗ってからじゃないと実験台には触っちゃだめよ」</i>"
         },
         {
             "_id": 3,
-            "Story": "She was dressed all in black in a mourning attire at her parents' funeral. As usual, she still tied her hair neatly. Her expression was hidden behind her ink-black strands of hair.<br><br>She did not shed a single tear.<br><br>As the night fell, layers of geometric patterns formed by data spirals appeared on the screen in the lab. They shifted, expanded, and flowed along with the sound of traditional theater songs. After peeling away the layers of the patterns, the secret she meticulously crafted and protected with care was revealed — her parents with their eyes closed. Their faces were as impassive as if they were asleep.<br><br><i>\"This is a let-down. They failed to keep their promise with Grandma.\"</i><br><br><i>\"And I, too, let them down for failing to protect them as promised.\"</i><br><br><i>\"Only science... never lets anyone down,\" she said.</i><br><br>Wanting her parents to be equal, she stopped using her previous nickname and gave herself a new name by combining each of her parents' surnames.<br><br>Since then, whenever someone asked her about her \"home,\" there would be a flash of confusion in her eyes. She seems to have forgotten everything.<br>In such a state, she started working around the clock on her calculations. She was so engrossed in her research that she never ate regularly. When she was on a roll, she could spend entire days and nights working on research without sleeping, and only dozed off when she hit her limit.<br><br>Soon, she was only relying on the faint glow of fireflies to gather her research results every night. The more dismissive she was of the existing laws of life, the quicker she progressed. She totally disregarded formulas, then moved on to ignoring the meaning of life. She simply observed, assessed with her hands, held the data in her palm to feel it, then proceeded to concoct new laws for species.<br><br>As a result, the ferns and flowers in her lab flourished ever more. They grew at a speed visible to the human sight, and ultimately filled every space in the lab. In the space between the flowers and leaves laid the serene and emotionless countenance of her parents, formed by the aggregation of \"data.\"<br><br>The moment her sleeping \"parents\" were about to open their eyes — By then, she had nearly destroyed the existing laws of biological evolution on the entire planet, yet she still marched on toward her goal.<br>It wasn't until she looked up from her research and stared at the sky did she notice the gaze of the Erudition had descended upon her."
+            "Story": "両親の葬式で彼女は真っ黒な喪服を着た。相変わらずしっかりと整えられた黒い髪が、彼女の表情を隠している。<br><br>彼女は涙を流さなかった。<br><br>夜が訪れた。実験室のモニターでは、螺旋状のデータによって作られた何層もの模様が、戯曲の声に変換されては広がり、流れている。そして、その何層もの模様が剥がれた後、彼女が大切に守り、細心の注意を払って作り上げた秘密が現れた——目を閉じている父と母。2人の冷たく、寝ているような顔。<br><br><i>「これは裏切りです。彼らは祖母との約束を守ることができなかった」</i><br><br><i>「私も両親との約束を守ることができなかったせいで、同じように彼らを裏切ってしまった」</i><br><br><i>「科学だけが…裏切らない」彼女は呟いた。</i><br><br>少女は両親が平等であることを望み、自分の名前を抹消した後、2人の名字を貰って自分の名前にした。<br><br>それ以来、「家」のことを聞かれるたびに、彼女の目には迷いが浮かぶ。まるで何もかもを忘れてしまったかのようだった。<br>そんな状態で、彼女は時間の法則を無視して演算を始めた。研究に集中するあまり食事は不規則になり、興が乗ると何日も研究を続けては、限界に達して気を失うように眠りに落ちる。<br><br>やがて彼女は蛍の微かな光を頼りに、毎晩研究を進展させるようになった。既存の生命の法則を無視すればするほど、彼女の進歩は加速していく。彼女は研究の法則、そして生命の意義を無視するようになった。彼女はただ観察、推察、それからデータを手に持って感じることで、新しい種の法則を編み出したのである。<br><br>その結果、彼女の実験室ではシダ植物や花がますます生い茂り、目に見えるスピードで成長を続け、ついには空間全体を埋め尽くすまでになった。花と葉の隙間には——集合した「データ」によって形作られた、両親の冷たい顔が隠れている。<br><br>眠っている「両親」が目を開こうとした時——彼女はもともと星に存在していた種の進化法則をほぼ破壊してしまっていたが、それでも目標に向かって進み続けた。<br>それは研究の最中に彼女が顔を上げ、空を仰ぎ、「ヌース」の一瞥が注がれるまで続いたのである。"
         },
         {
             "_id": 4,
-            "Story": "After receiving the gaze of Nous, she left her home and began a reclusive life.<br><br>No one knew what she asked Nous, but after that incident, she became even more apathetic and impassive, and even more immersed in her research —She would only study the fundamental nature of \"life.\"<br><br>A greater variety of \"lifeforms\" came into existence through her concoction.<br>Some \"burning\" lifeforms became flowing flames that crept and weaved under her feet. Sometimes, she felt like she was fire itself.<br>Some \"fluid\" beings turned into liquid light that slithered around her slender wrists. Sometimes, she felt like she was light itself.<br>Some living things concocted from \"knowledge\" attempted to develop their own thoughts, sentience, and emotions. They sometimes rambunctiously cry, guffaw, or wail — all these have been fused into her body.<br><br>Yet, she could not feel them.<br>Life only exists for such a short time, after all. They fleetingly pass from birth to death, and her research is the only constant.<br><br>Occasionally, her casual \"research\" would shake the schools of biology. Her \"research\" transformed many planets. Flying whales, swimming deer, fearful flowers, and trees with a vast root system... Her creations have already went beyond the scope of experience and imaginations comprehensible to organic life.<br><br>She kept pushing herself for a more in-depth understanding of \"life,\" just to bring herself closer to Nous — and their unforgettable glance.<br><br>Aeons... What kind of beings are they? Are they also a form of life?<br><br>As her \"groundbreaking\" studies rose to fame with in the cosmic academic community, people always tried to disrupt her life as a recluse.<br>She turned to look at the letter from the Genius Society on the desk and, once again, dumped it into the trashcan."
+            "Story": "ヌースの一瞥を受けてから、彼女は故郷を離れ、世間から隠れて生活を送り始めた。<br><br>彼女が其に何を尋ねたのかは誰も知らない。しかしその後、彼女の性格は輪をかけて淡白になり、今まで以上に研究に没頭するようになった——彼女が研究するのは「生命」の本質だけだ。<br><br>多くの「生命」が彼女によって模造された。<br>「燃える」生命は流動する炎となり、彼女の足元を這い、通り抜けていく。時々、彼女は自分が炎そのものになったと感じることがあった。<br>「流動」する生命は液体状の光となり、彼女の細い手首の傍を流れていく。時々、彼女は自分が光そのものになったように感じることがあった。<br>一部の「知識」によって模造された生命は、自らの思考、意識、感情を発展させようとした。そして、それらは時に泣き、笑い、悲しんだが、すべて彼女の体に溶け込んでいった。<br><br>しかし、彼女はそれらの「生命」を感じることができなかった。<br>生命が存在できる時間は短く、それらは朧げで、あっという間に朽ちてしまい、彼女の実験だけが続いていく。<br><br>彼女が片手間にしていた「研究」は、時に生物学の体系を揺るがすこともあった。彼女の「研究」は多くの惑星、空飛ぶクジラ、泳ぐ鹿、怯える花、巨大な植物の根を変え、その創造は有機生命体の経験と想像を凌駕するものだったからだ。<br><br>ただ其に近づくため、彼女は自分の「生命」に対する理解を打ち破り続けてきた——そう、其の一瞥は忘れがたいものだったのである。<br><br>「星神」とは…一体どのような存在なのか？あれも一種の生命なのだろうか？<br><br>その「衝撃」の美名が銀河の学界を駆け巡ると、いつも彼女の隠遁生活を打ち砕こうとする人が現れる。<br>彼女は振り返ると、机に置かれた「天才クラブ」からの手紙に視線を向けた——そして、またそれをゴミ箱に投げ入れたのだった。"
         },
         {
             "_id": 5,
-            "Story": "She is surrounded by an eccentric science fanatic from a small town, an inorganic lifeform, and a puppet girl. They indulge in afternoon tea and collaborate in research. They squabble loudly and giggle from time to time.<br><br>When did she first meet them? She can't remember, only that it was for a project. She was forced to be there — that, she is certain. With leisure, she munches on the cake. She became a part of this solely for the sake of simulated \"Aeons,\" which are worth her time and efforts.<br><br>They are worth her time... but not worth being forced to socialize.<br><br><i>\"Genius Society? I do not care.\"</i><br><br><i>\"This is a strange, instinctive feeling. That one named 'Herta' is rather similar to me. I mean... similar on a deeper level.\"</i><br><br>She is certain that she won't make another mistake. It's because she no longer trusted anyone, so she won't be let down again, and... she won't let anyone else down again.<br>What is the fundamental essence of \"life\"... Where does \"life\" end?<br>Do the answers really exist?<br><br>Not a trace of emotion can be discerned on her emotionless and silent face. Yet, her hair is roiling with the heat of boiling and steaming, and the rims of her eyes are slightly red — she is enjoying this.<br><br>Only the word \"Aeon\" can stir her heart. Everything else in the universe is a mere distraction.<br><br>How interesting.<br>On the \"incubator,\" a \"life\" nurtured by the \"rice cooker\" popped out in perfection. The method with which life is created is miraculous.<br>How romantic.<br>She knows better than anyone the price one has to pay to study Aeons... but she does not care. She knows! She might even — become...!?<br><br>The time is just right — The update for the \"project\" is about to commence.<br><br>She turns around and leaves.<br>Unbeknownst to the girl, her grandmother has always been watching her through the monitor, day after day for countless years.<br><br><i>\"A-Ruan... My A-Ruan. When we finally meet again, would it be...?\"</i>"
+            "Story": "小さな町の奇妙な科学の狂人、無機生命体、そして人形の少女が彼女を取り囲む。彼らとは一緒にアフタヌーンティーを楽しんだことも、共同研究をしたこともある。時には世間話をして騒いだり、笑い合ったりもした。<br><br>彼らに初めて会ったのはいつだっただろうか？もう思い出せないが、何かのプロジェクトのためだったことは覚えている。彼女は強制参加させられたのだ——これは紛れもない事実である。彼女はのんびりとお菓子を頬張った。彼らに加わったのは、時間と労力を費やす価値のある模擬「星神」のために過ぎない。<br><br>そう、時間を費やす価値はあるが…交流を強制される価値はない。<br><br><i>「天才クラブ？興味ありませんね」</i><br><br><i>「これは不思議な直感なのですが、あの『ヘルタ』という人は少し私に似ているようです。もっと深い…深いところにある何かが少し似ているのです」</i><br><br>彼女は自分が二度と過ちを犯さないことを確信している。もう何も信じなければ、裏切られることもないからだ。同じように…誰かを裏切ることもない。<br>「生命」の本質とは何か？「生命」の終点は一体どこなのか？<br>答えは本当に存在するのだろうか？<br><br>彼女の淡々とした表情からは何の感情も読み取れない。しかし、彼女の髪は沸き立つように香り、目元はほんのりと赤くなっている——彼女はすべてを楽しんでいるのだ。<br><br>宇宙の煩雑な物事は邪魔でしかない。「星神」という言葉だけが、彼女の心を動かせるのである。<br><br>なんと興味深いのだろうか。<br>「温床」の上で、「炊飯器」が育んだ「生命」がタイミングよくできあがった。生命の創造はまるで奇跡のようである。<br>なんとロマンチックなのだろうか。<br>彼女は誰よりも、「星神」を研究するためには対価が必要なことを知っている…それでも彼女は気にしない。彼女は知っている！彼女は——になることすら気に留めていないのだから！？<br><br>ちょうどいい時間だ——また「プロジェクト」のアップデートが始まる。<br><br>彼女は背を向けて立ち去った。<br>彼女は知らない。どれだけの時間が経とうと、祖母の視線はモニター越しに彼女に注がれていることを。<br><br><i>「ルアン…私のルアン。再会する時は……」</i>"
         }
     ]
 }
@@ -503,188 +503,188 @@ var _story_ = {
 var _voice_ = {
     "1303": [
         {
-            "Title": "First Meeting",
-            "Voice": "My name is Ruan Mei. When saying my name, please don't run the syllables together."
+            "Title": "初対面",
+            "Voice": "ルアン・メェイです。私の名前を呼ぶ時は、間に一呼吸置くことを忘れないように。"
         },
         {
-            "Title": "Greeting",
-            "Voice": "Want some pastry? The plums used in this recipe are freshly macerated — I waited in line for ages."
+            "Title": "挨拶",
+            "Voice": "あなたも食べますか？この菓子には新しく漬けた梅の花が使われているんです。これのために、かなりの時間列に並びました。"
         },
         {
-            "Title": "Parting",
-            "Voice": "If you come across a good research sample, please let me know. Until then."
+            "Title": "お別れ",
+            "Voice": "いい研究サンプルに出会ったら、私にも共有してください。その時にまた会いましょう。"
         },
         {
-            "Title": "About Self: Origin",
-            "Voice": "After catching the attention of Nous, I left my hometown and began my research on the origin of life in a secret corner of the universe... please don't ask where."
+            "Title": "自分について・身の上",
+            "Voice": "ヌースの目に留まった後、私は故郷を離れ、秘密の場所で生命の根源についての研究を始めました——その場所はどこなのか、という質問はしないでくださいね。"
         },
         {
-            "Title": "About Self: Name",
-            "Voice": "In the grand fabric of life, both parents are equal, and thus my name combines the surnames of each of my parents."
+            "Title": "自分について・名前",
+            "Voice": "生命の枠組の中で、父と母は平等…なので、私は2人の名字を貰って自分の名前にしました。"
         },
         {
-            "Title": "Chat: Genius Society",
-            "Voice": "You don't have to listen hard to hear the gossip coming from the Genius Society — Mad Scientist. I'll take it as a compliment."
+            "Title": "世間話・天才クラブ",
+            "Voice": "クラブ内で流れている噂は、意識せずとも耳に入ってきます——「マッドサイエンティスト」。彼らにそう評価されるのも悪くないですね。"
         },
         {
-            "Title": "Hobbies: Pastry Tasting",
-            "Voice": "As one with a sensitive palate, I only need one small bite to judge the taste of a pastry. I favor seasonal ingredients such as fresh fruits, flowers, and herbs. Pristine slices of life preserved inside a pastry — these provide the best dopamine response food has to offer."
+            "Title": "趣味・お菓子の味",
+            "Voice": "唇や歯は最も敏感な部分なので、菓子が上等かどうかを判断するには、ほんの一口あれば十分。私は新鮮な果物、花や木などの旬の素材を好んでいます。特定の時期の生命形態で切り取られたもののほうが、ドーパミンが放出されやすいので。"
         },
         {
-            "Title": "Hobbies: Opera",
-            "Voice": "I've never been able to really get into modern music, but I find opera enchanting. Time passes like a river whenever I listen to the strings and voices in an opera performance."
+            "Title": "趣味・劇",
+            "Voice": "現代の音楽は聞き慣れませんが、劇はすぐに夢中になってしまいます。弦が弾かれ、時間が流れていくのです。"
         },
         {
-            "Title": "Annoyances: Talking",
-            "Voice": "The redundancy of words and the restrictions of verbal communication make for a lot of empty noise. It makes me sad..."
+            "Title": "悩み・無口",
+            "Voice": "言語の冗長さ、思考の交流の柔軟性のなさ、それが私にとっては煩わしく、悲しい気持ちになってしまうのです……"
         },
         {
-            "Title": "Sharing: Embroidery Techniques",
-            "Voice": "The feel of embroidery is similar to that of growing a culture in the laboratory — fine control of the wrist, just the right angle, and total commitment."
+            "Title": "シェア・刺繍",
+            "Voice": "手首の動かし方、適切な角度、集中している状態…刺繍は切片の育成にとてもよく似ています。"
         },
         {
-            "Title": "Knowledge: The Height of Life",
-            "Voice": "We may accelerate or postpone the arrival of death, but life will always wither. Though we will one day all be reduced to particles, we can still reach new heights."
+            "Title": "見聞・生命の高度",
+            "Voice": "死の到来を早める必要も、遅らせる必要もありません。命はいずれ枯れる定めにあるのですから。私たちは粒子になってしまいますが、新たな高みに触れることができるのです。"
         },
         {
-            "Title": "Knowledge: Rational Research",
-            "Voice": "Humans overestimate the infallibility of logic, and in clinging to reason can become slaves to their emotions. Science is born from fanaticism — it is a gift."
+            "Title": "見聞・理性的な研究",
+            "Voice": "人類は論理を過大評価しすぎています。理性に執着すると、逆にその執着に囚われてしまいます——科学とは熱狂から生まれるもの。感情に溺れることは、一種の才能と言えるでしょう。"
         },
         {
-            "Title": "About Herta",
-            "Voice": "Some may find her personality unbearable — I can understand the sentiment, but I simply don't care. Of course, Herta knows this too, so I accepted her invitation."
+            "Title": "ヘルタについて",
+            "Voice": "ヘルタの性格は耐えがたいと思う人もいるかもしれませんが、私は気になりません——当然、このことはヘルタも知っています。だから私は彼女の招待を受けたのです。"
         },
         {
-            "Title": "About Screwllum",
-            "Voice": "Screwllum and I have very different understandings of life, but I don't think he realizes it. Fortunately, our communication is limited to matters related to the Simulated Universe."
+            "Title": "スクリューガムについて",
+            "Voice": "私とスクリューガムの生命に対する理解はまったく異なっていますが、彼はそれに気づいていないようですね。幸い、私たちの交流は「模擬宇宙」に限られています。"
         },
         {
-            "Title": "About Stephen",
-            "Voice": "Put a watermelon parfait in Herta's office and Stephen is sure to show up. Remember, the pumpkin ones will never attract him — those are for warding him off."
+            "Title": "スティーブンについて",
+            "Voice": "ヘルタのオフィスに{RUBY_B#西瓜}スイカ{RUBY_E#}のゼリーを置いておけば、スティーブンが現れるかもしれません——いいですか、くれぐれも{RUBY_B#南瓜}カボチャ{RUBY_E#}と間違えないようにしてください。南瓜だと、彼がいない時間を長引かせるだけですから。"
         },
         {
-            "Title": "Eidolon Activation",
-            "Voice": "Can life's past moments truly be restored to what they once were?"
+            "Title": "星魂覚醒",
+            "Voice": "過去の命の断片を元に戻せるというのですか？"
         },
         {
-            "Title": "Character Ascension",
-            "Voice": "Research is progressing at astronomical speeds."
+            "Title": "キャラクター昇格",
+            "Voice": "研究は目覚ましい進展を見せています。"
         },
         {
-            "Title": "Max Level Reached",
-            "Voice": "Unfortunately, the mystery of the Aeons remains unsolved."
+            "Title": "レベルMax",
+            "Voice": "残念ながら、星神の謎は未だ解明されていません。"
         },
         {
-            "Title": "Trace Activation",
-            "Voice": "Every breath one takes is a perception of the self."
+            "Title": "軌跡覚醒",
+            "Voice": "呼吸するたび、私は自我を感知する…"
         },
         {
-            "Title": "Added to Team With Trailblazer",
-            "Voice": "It's you again, Trailblazer. As always, there's a reward for good behavior."
+            "Title": "パーティ編成・{NICKNAME}",
+            "Voice": "{NICKNAME}、いつも通り、戦績が良ければご褒美がありますよ。"
         },
         {
-            "Title": "Added to Team With Herta",
-            "Voice": "If this were the Simulated Universe, I'd be at your mercy — but this is real life."
+            "Title": "パーティ編成・ヘルタ",
+            "Voice": "私はあなたじゃない…ここが「模擬宇宙」なら、勝手をしても構いませんが。"
         },
         {
-            "Title": "Battle Begins: Weakness Break",
-            "Voice": "A picture of grace and elegance."
+            "Title": "戦闘開始・弱点撃破",
+            "Voice": "素晴らしい、優美な身構えですね。"
         },
         {
-            "Title": "Battle Begins: Danger Alert",
-            "Voice": "What do we have here?"
+            "Title": "戦闘開始・危険予知",
+            "Voice": "ゆっくりいきましょう。"
         },
         {
-            "Title": "Turn Begins 1",
-            "Voice": "You hold some academic value, I suppose..."
+            "Title": "ターン・1",
+            "Voice": "まだ研究する価値はありますね。"
         },
         {
-            "Title": "Turn Begins 2",
-            "Voice": "There's more to life than drawing breath."
+            "Title": "ターン・2",
+            "Voice": "生命は、ただ呼吸するだけの存在ではありません。"
         },
         {
-            "Title": "Turn Idling",
-            "Voice": "Waiting means change."
+            "Title": "戦闘中待機",
+            "Voice": "待つことも変化です。"
         },
         {
-            "Title": "Skill 1",
-            "Voice": "Eternal melody."
+            "Title": "戦闘スキル・1",
+            "Voice": "琴の音は響き続ける。"
         },
         {
-            "Title": "Skill 2",
-            "Voice": "All things are as one."
+            "Title": "戦闘スキル・2",
+            "Voice": "万象の本質は同じ。"
         },
         {
-            "Title": "Basic Attack 1",
-            "Voice": "You'll do."
+            "Title": "通常攻撃・1",
+            "Voice": "あなたにしましょう。"
         },
         {
-            "Title": "Basic Attack 2",
-            "Voice": "Pay attention."
+            "Title": "通常攻撃・2",
+            "Voice": "耳を澄まして。"
         },
         {
-            "Title": "Hit by Light Attack",
-            "Voice": "Enjoying yourself?"
+            "Title": "攻撃を受ける",
+            "Voice": "楽しいですか？"
         },
         {
-            "Title": "Hit by Heavy Attack",
-            "Voice": "Stay away."
+            "Title": "重撃を受ける",
+            "Voice": "離れなさい。"
         },
         {
-            "Title": "Ultimate: Activate",
-            "Voice": "Every petal in life's garden..."
+            "Title": "必殺技・アクティブ",
+            "Voice": "命の花びらよ…"
         },
         {
-            "Title": "Ultimate: Unleash",
-            "Voice": "Will be swept away... by the wind of time."
+            "Title": "必殺技・発動",
+            "Voice": "いつ咲こうとも、風に吹き落される時は…来る。"
         },
         {
-            "Title": "Downed",
-            "Voice": "Still... unanswered..."
+            "Title": "戦闘不能",
+            "Voice": "まだ…答えが…"
         },
         {
-            "Title": "Return to Battle",
-            "Voice": "Let's continue."
+            "Title": "戦闘に戻る",
+            "Voice": "続けましょう。"
         },
         {
-            "Title": "Health Recovery",
-            "Voice": "So, this is the warmth of life..."
+            "Title": "HP回復",
+            "Voice": "これが命の温度…"
         },
         {
-            "Title": "Technique",
-            "Voice": "Sound lingers."
+            "Title": "秘技",
+            "Voice": "鳴り響け。"
         },
         {
-            "Title": "Battle Won",
-            "Voice": "Life... a true marvel."
+            "Title": "戦闘勝利",
+            "Voice": "命は…不思議ですね。"
         },
         {
-            "Title": "Treasure Opening 1",
-            "Voice": "A few decorative designs wouldn't go amiss."
+            "Title": "戦利品を開ける・1",
+            "Voice": "箱にも綺麗な模様を付けたらいいかもしれませんね。"
         },
         {
-            "Title": "Treasure Opening 2",
-            "Voice": "This might be of some use."
+            "Title": "戦利品を開ける・2",
+            "Voice": "これは役に立ちそうです。"
         },
         {
-            "Title": "Precious Treasure Opening",
-            "Voice": "Oh? Better than expected..."
+            "Title": "貴重な戦利品を開ける",
+            "Voice": "おや？予想以上の成果ですね…"
         },
         {
-            "Title": "Successful Puzzle-Solving 1",
-            "Voice": "They call this a puzzle?"
+            "Title": "謎解きに成功・1",
+            "Voice": "この程度の謎ですか…"
         },
         {
-            "Title": "Successful Puzzle-Solving 2",
-            "Voice": "A simple solution — that's all it takes."
+            "Title": "謎解きに成功・2",
+            "Voice": "ごく普通の解き方に過ぎません。"
         },
         {
-            "Title": "Enemy Target Found",
-            "Voice": "Hmm? I wonder what that is?"
+            "Title": "敵ターゲット発見",
+            "Voice": "あれは？少し…興味が湧きました。"
         },
         {
-            "Title": "Returning to Town",
-            "Voice": "Take a rest, it's time for tea and cakes."
+            "Title": "町に戻る",
+            "Voice": "休憩にしましょう、お茶の時間です。"
         }
     ]
 }

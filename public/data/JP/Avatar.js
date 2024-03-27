@@ -143,12 +143,12 @@ var _avatar = [
             "Aggro": 100.0
         },
         "CV": [
-            "",
-            "",
-            "",
-            ""
+            "秦且歌",
+            "Caleb Yen",
+            "榎木淳弥",
+            "김명준"
         ],
-        "Camp": 0,
+        "Camp": 100,
         "ISN": "",
         "ISD": ""
     },
@@ -193,12 +193,12 @@ var _avatar = [
             "Aggro": 100.0
         },
         "CV": [
-            "",
-            "",
-            "",
-            ""
+            "陈婷婷",
+            "Rachael Chau",
+            "石川由依",
+            "김하루"
         ],
-        "Camp": 0,
+        "Camp": 100,
         "ISN": "",
         "ISD": ""
     },
@@ -244,12 +244,12 @@ var _avatar = [
             "Aggro": 100.0
         },
         "CV": [
-            "",
-            "",
-            "",
-            ""
+            "马语非",
+            "Erik Braa",
+            "三上哲",
+            "박상훈"
         ],
-        "Camp": 0,
+        "Camp": 108,
         "ISN": "",
         "ISD": ""
     },
@@ -294,12 +294,12 @@ var _avatar = [
             "Aggro": 150.0
         },
         "CV": [
-            "",
-            "",
-            "",
-            ""
+            "杨超然",
+            "Camden Sutkowski",
+            "河西健吾",
+            "박준원"
         ],
-        "Camp": 0,
+        "Camp": 105,
         "ISN": "",
         "ISD": ""
     },
@@ -348,12 +348,12 @@ var _avatar = [
             "Aggro": 100.0
         },
         "CV": [
-            "",
-            "",
-            "",
-            ""
+            "菊花花",
+            "Allegra Clark",
+            "沢城みゆき",
+            "박지윤"
         ],
-        "Camp": 0,
+        "Camp": 111,
         "ISN": "",
         "ISD": "",
         "Data": [
@@ -402,7 +402,7 @@ var _avatar = [
         },
         "CV": [
             "赵爽",
-            "Lizzie Freeman",
+            "Lizzie Freeman",
             "上田麗奈",
             "성예원"
         ],
@@ -452,7 +452,7 @@ var _avatar = [
         },
         "CV": [
             "杨梦露",
-            "Arryn Zech",
+            "Arryn Zech",
             "生天目仁美",
             "김하영"
         ],
@@ -502,7 +502,7 @@ var _avatar = [
         },
         "CV": [
             "柳知萧",
-            "Cat Protano",
+            "Cat Protano",
             "松井恵理子",
             "박신희"
         ],
@@ -552,7 +552,7 @@ var _avatar = [
         },
         "CV": [
             "溯浔",
-            "Jenny Yokobori",
+            "Jenny Yokobori",
             "河瀬茉希",
             "박리나"
         ],
@@ -602,7 +602,7 @@ var _avatar = [
         },
         "CV": [
             "张文钰",
-            "Emi Lo",
+            "Emi Lo",
             "大西沙織",
             "윤여진"
         ],
@@ -652,7 +652,7 @@ var _avatar = [
         },
         "CV": [
             "桑毓泽",
-            "Jordan Paul Haro",
+            "Jordan Paul Haro",
             "武内駿輔",
             "이동훈"
         ],
@@ -702,7 +702,7 @@ var _avatar = [
         },
         "CV": [
             "张雨曦",
-            "Suzie Yeung",
+            "Suzie Yeung",
             "鈴代紗弓",
             "윤은서"
         ],
@@ -752,7 +752,7 @@ var _avatar = [
         },
         "CV": [
             "葛子瑞&刘北辰",
-            "Courtney Lin & Adam Michael Gold",
+            "Courtney Lin & Adam Michael Gold",
             "長縄まりあ&平林剛",
             "김채린&한복현"
         ],
@@ -803,7 +803,7 @@ var _avatar = [
         },
         "CV": [
             "梁达伟",
-            "Adam Michael Gold",
+            "Adam Michael Gold",
             "立花慎之介",
             "최승훈"
         ],
@@ -853,7 +853,7 @@ var _avatar = [
         },
         "CV": [
             "陆敏悦",
-            "Sam Slade",
+            "Sam Slade",
             "南條愛乃",
             "방시우"
         ],
@@ -903,7 +903,7 @@ var _avatar = [
         },
         "CV": [
             "小敢",
-            "Morgan Lauré",
+            "Morgan Lauré",
             "直田姫奈",
             "김수영"
         ],
@@ -1004,7 +1004,7 @@ var _avatar = [
         },
         "CV": [
             "米糊",
-            "Risa Mei",
+            "Risa Mei",
             "照井春佳",
             "이은조"
         ],
@@ -1054,7 +1054,7 @@ var _avatar = [
         },
         "CV": [
             "花玲",
-            "Sarah Wiedenheft",
+            "Sarah Wiedenheft",
             "伊藤美来",
             "이지현"
         ],
@@ -1108,7 +1108,7 @@ var _avatar = [
         },
         "CV": [
             "李春胤",
-            "Nicholas Leung",
+            "Nicholas Leung",
             "伊東健人",
             "김혜성"
         ],
@@ -1158,7 +1158,7 @@ var _avatar = [
         },
         "CV": [
             "徐慧",
-            "Cheryl Texiera",
+            "Cheryl Texiera",
             "伊藤静",
             "사문영"
         ],
@@ -1209,7 +1209,7 @@ var _avatar = [
         },
         "CV": [
             "萧翟",
-            "Howard Wang",
+            "Howard Wang",
             "梶原岳人",
             "이주승"
         ],
@@ -1260,7 +1260,7 @@ var _avatar = [
         },
         "CV": [
             "刘以嘉",
-            "Daman Mills",
+            "Daman Mills",
             "三木眞一郎",
             "곽윤상"
         ],
@@ -1310,7 +1310,7 @@ var _avatar = [
         },
         "CV": [
             "Hanser",
-            "Melissa Fahn",
+            "Melissa Fahn",
             "阿澄佳奈",
             "장미"
         ],
@@ -1360,7 +1360,7 @@ var _avatar = [
         },
         "CV": [
             "赵路",
-            "Craig Lee Thomas",
+            "Craig Lee Thomas",
             "石田彰",
             "신용우"
         ],
@@ -1410,7 +1410,7 @@ var _avatar = [
         },
         "CV": [
             "钟可",
-            "Dawn M. Bennett",
+            "Dawn M. Bennett",
             "冬馬由美",
             "전숙경"
         ],
@@ -1460,7 +1460,7 @@ var _avatar = [
         },
         "CV": [
             "诺亚",
-            "Skyler Davenport",
+            "Skyler Davenport",
             "小倉唯",
             "정혜원"
         ],
@@ -1510,7 +1510,7 @@ var _avatar = [
         },
         "CV": [
             "李春胤",
-            "Nicholas Leung",
+            "Nicholas Leung",
             "伊東健人",
             "김혜성"
         ],
@@ -1560,7 +1560,7 @@ var _avatar = [
         },
         "CV": [
             "林簌",
-            "Cia Court",
+            "Cia Court",
             "田中理恵",
             "김보나"
         ],
@@ -1610,7 +1610,7 @@ var _avatar = [
         },
         "CV": [
             "彭博",
-            "Corey Landis",
+            "Corey Landis",
             "細谷佳正",
             "한신"
         ],
@@ -1660,7 +1660,7 @@ var _avatar = [
         },
         "CV": [
             "陶典",
-            "Dani Chambers",
+            "Dani Chambers",
             "白石涼子",
             "김율"
         ],
@@ -1710,7 +1710,7 @@ var _avatar = [
         },
         "CV": [
             "龟娘",
-            "Felecia Angelle",
+            "Felecia Angelle",
             "赤﨑千夏",
             "김현지"
         ],
@@ -1760,7 +1760,7 @@ var _avatar = [
         },
         "CV": [
             "侯小菲",
-            "PJ Mattson",
+            "PJ Mattson",
             "山崎はるか",
             "김서영"
         ],
@@ -1810,7 +1810,7 @@ var _avatar = [
         },
         "CV": [
             "谢莹",
-            "Madeline Reiter",
+            "Madeline Reiter",
             "阿澄佳奈",
             "이보희"
         ],
@@ -1860,7 +1860,7 @@ var _avatar = [
         },
         "CV": [
             "唐雅菁",
-            "Molly Zhang",
+            "Molly Zhang",
             "中原麻衣",
             "송하림"
         ],
@@ -1910,7 +1910,7 @@ var _avatar = [
         },
         "CV": [
             "穆雪婷",
-            "Natalie Van Sistine",
+            "Natalie Van Sistine",
             "愛美",
             "민아"
         ],
@@ -1960,7 +1960,7 @@ var _avatar = [
         },
         "CV": [
             "马洋",
-            "Bryson Baugus",
+            "Bryson Baugus",
             "古川慎",
             "민승우"
         ],
@@ -2010,7 +2010,7 @@ var _avatar = [
         },
         "CV": [
             "秦紫翼",
-            "Elizabeth Maxwell",
+            "Elizabeth Maxwell",
             "内山夕実",
             "강은애"
         ],
@@ -2060,7 +2060,7 @@ var _avatar = [
         },
         "CV": [
             "宴宁",
-            "Xanthe Huynh",
+            "Xanthe Huynh",
             "諸星すみれ",
             "이다은"
         ],
@@ -2110,7 +2110,7 @@ var _avatar = [
         },
         "CV": [
             "紫苏九月&王宇航",
-            "Emily Sun & D.C. Douglas",
+            "Emily Sun & D.C. Douglas",
             "日高里菜&安元洋貴",
             "김예림&최낙윤"
         ],
@@ -2160,7 +2160,7 @@ var _avatar = [
         },
         "CV": [
             "刘圣博",
-            "Roger Rose",
+            "Roger Rose",
             "平川大輔",
             "정재헌"
         ],
@@ -2211,7 +2211,7 @@ var _avatar = [
         },
         "CV": [
             "王晓彤",
-            "Felecia Angelle",
+            "Felecia Angelle",
             "徳井青空",
             "이재현"
         ],
@@ -2262,7 +2262,7 @@ var _avatar = [
         },
         "CV": [
             "刘十四",
-            "Bryn Apprill",
+            "Bryn Apprill",
             "伊達朱里紗",
             "서다혜"
         ],
@@ -2312,7 +2312,7 @@ var _avatar = [
         },
         "CV": [
             "蒋丽",
-            "Laci Morgan",
+            "Laci Morgan",
             "高田憂希",
             "이명호"
         ],
@@ -2362,7 +2362,7 @@ var _avatar = [
         },
         "CV": [
             "孙晔",
-            "Alejandro Saab",
+            "Alejandro Saab",
             "小野大輔",
             "류승곤"
         ],
@@ -2412,7 +2412,7 @@ var _avatar = [
         },
         "CV": [
             "陈婷婷",
-            "Anjali Kunapaneni",
+            "Anjali Kunapaneni",
             "福圓美里",
             "박시윤"
         ],
@@ -2462,7 +2462,7 @@ var _avatar = [
         },
         "CV": [
             "喵酱",
-            "Amber May",
+            "Amber May",
             "井上麻里奈",
             "이새아"
         ],
@@ -2512,7 +2512,7 @@ var _avatar = [
         },
         "CV": [
             "多多",
-            "Su Ling Chan",
+            "Su Ling Chan",
             "加藤英美里",
             "조현정"
         ],
@@ -2564,7 +2564,7 @@ var _avatar = [
         },
         "CV": [
             "秦且歌",
-            "Caleb Yen",
+            "Caleb Yen",
             "榎木淳弥",
             "김명준"
         ],
@@ -2616,7 +2616,7 @@ var _avatar = [
         },
         "CV": [
             "陈婷婷",
-            "Rachael Chau",
+            "Rachael Chau",
             "石川由依",
             "김하루"
         ],
@@ -2666,12 +2666,12 @@ var _avatar = [
             "Aggro": 150.0
         },
         "CV": [
-            "",
-            "",
-            "",
-            ""
+            "秦且歌",
+            "Caleb Yen",
+            "榎木淳弥",
+            "김명준"
         ],
-        "Camp": 0,
+        "Camp": 100,
         "ISN": "",
         "ISD": ""
     },
@@ -2717,12 +2717,12 @@ var _avatar = [
             "Aggro": 150.0
         },
         "CV": [
-            "",
-            "",
-            "",
-            ""
+            "陈婷婷",
+            "Rachael Chau",
+            "石川由依",
+            "김하루"
         ],
-        "Camp": 0,
+        "Camp": 100,
         "ISN": "",
         "ISD": ""
     }

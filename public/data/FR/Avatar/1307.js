@@ -1281,6 +1281,14 @@ var _voice_ = {
             "Voice": "What meaning does this journey hold for you?"
         },
         {
+            "Title": "Added to Team With Acheron",
+            "Voice": "It's your call... What kind of dance do \"you\" want this time?"
+        },
+        {
+            "Title": "Added to Team With Aventurine",
+            "Voice": "As we reunite in this venture, let's hope the fates grant us both what we seek."
+        },
+        {
             "Title": "Battle Begins: Weakness Break",
             "Voice": "Destiny's course is becoming apparent."
         },
