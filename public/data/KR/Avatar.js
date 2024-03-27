@@ -3836,8 +3836,12 @@ var _hidden = [
         "Name": "2.3 Memory of Chaos",
         "Date": "2024/03/26",
         "Ver": "2.2v1",
-        "Hidden": true,
-        "Notes": []
+        "Notes": [
+            {
+                "Title": "Phase 1",
+                "Desc": "All allies' Ultimate DMG is increased.<br>At the start of every cycle, all enemies' SPD is increased, DMG dealt is decreased, stackable."
+            }
+        ]
     },
     {
         "Name": "2.3+ Relics",
