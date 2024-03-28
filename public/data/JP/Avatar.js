@@ -3862,6 +3862,18 @@ var _changelog2 = [
 
 var _hidden = [
     {
+        "Name": "Firefly / Sam",
+        "Date": "2024/03/28",
+        "Ver": "2.2v1",
+        "Color": "Fire",
+        "Notes": [
+            {
+                "Title": "Pictures",
+                "Desc": "Will be able to switch between 2 pictures in battle. Is the only character that can switch pictures."
+            }
+        ]
+    },
+    {
         "Name": "2.3 Memory of Chaos",
         "Date": "2024/03/26",
         "Ver": "2.2v1",
