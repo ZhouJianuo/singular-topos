@@ -596,10 +596,10 @@ var links = [
     },
     {
         "Name": {
-            "CH": "短信",
-            "EN": "Messages"
+            "CH": "台词数统计",
+            "EN": "Line Count"
         },
-        "Link" : "/sr/message"
+        "Link" : "/sr/linecount"
     },
     {
         "Name": {

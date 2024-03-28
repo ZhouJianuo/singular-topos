@@ -40,24 +40,167 @@ $(function () {
         }
     })
 
-    begin()
+    let script_computer = document.createElement('script')
+    script_computer.src = '/data/' + lang3 + '/LineCount.js'
+    document.head.append(script_computer)
+    script_computer.onload = begin
 
     function begin() {
         
         $('container').render({
-            div: [
-                {
-                    h4: {'CH': '敬请期待', 'EN': 'Coming Soon'}[lang],
-                    style: {
-                        'font-weight': 'bold',
-                        'text-align': 'center',
-                        'font-size': '23px'
-                    }
-                }
-            ],
+            div: '',
             class: 'content'
         })
 
+        _data.forEach(function (t, i) {
+            $('.content').render({
+                div: [
+                    {
+                        p: t.Ver,
+                        class: 'event-name'
+                    },
+                    {
+                        div: {
+                            span: '≥ 51',
+                            class: 'plus'
+                        },
+                        class: 'event-sel ww',
+                        a: {
+                            'data-id': i + 1,
+                            'data-hd': "no"
+                        }
+                    },
+                    {
+                        div: '',
+                        class: 'w w-' + (i + 1)
+                    },
+                    {
+                        div: {
+                            span: '21 ~ 50',
+                            class: 'plus'
+                        },
+                        class: 'event-sel xx',
+                        a: {
+                            'data-id': i + 1,
+                            'data-hd': "no"
+                        }
+                    },
+                    {
+                        div: '',
+                        class: 'x x-' + (i + 1)
+                    },
+                    {
+                        div: {
+                            span: '11 ~ 20',
+                            class: 'plus'
+                        },
+                        class: 'event-sel yy',
+                        a: {
+                            'data-id': i + 1,
+                            'data-hd': "no"
+                        }
+                    },
+                    {
+                        div: '',
+                        class: 'y y-' + (i + 1)
+                    },
+                    {
+                        div: {
+                            span: '1 ~ 10',
+                            class: 'plus'
+                        },
+                        class: 'event-sel zz',
+                        a: {
+                            'data-id': i + 1,
+                            'data-hd': "no"
+                        }
+                    },
+                    {
+                        div: '',
+                        class: 'z z-' + (i + 1)
+                    }
+                ],
+                class: 'a_section'
+                
+            })
+            for (const [d, n] of Object.entries(t.Talk)) {
+                var ts = {
+                    span: d + ' <b><color style="color:#f29e38">' + n + '</color></b>',
+                    class: 'f'
+                }
+                if (n > 50) {
+                    $('.w-' + (i + 1)).render(ts)
+                } else if (n <= 50 && n > 20) {
+                    $('.x-' + (i + 1)).render(ts)
+                } else if (n <= 20 && n > 10) {
+                    $('.y-' + (i + 1)).render(ts)
+                } else {
+                    $('.z-' + (i + 1)).render(ts)
+                }
+            }
+        })
+
+        $('.w').hide()
+        $('.x').hide()
+        $('.y').hide()
+        $('.z').hide()
+
     }
+
+    $('body').on('click', '.ww', function (d) {
+        var g = $(this).attr('data-hd')
+        var id = $(this).attr('data-id')
+        if (g == 'yes') {
+            $(this).attr('data-hd', 'no')
+            $('.w-' + id).hide()
+            $(this).find('span').css('border-color', '#dddddd')
+        } else {
+            $(this).attr('data-hd', 'yes')
+            $('.w-' + id).show()
+            $(this).find('span').css('border-color', '#f29e38')
+        }
+    })
+
+    $('body').on('click', '.yy', function (d) {
+        var g = $(this).attr('data-hd')
+        var id = $(this).attr('data-id')
+        if (g == 'yes') {
+            $(this).attr('data-hd', 'no')
+            $('.y-' + id).hide()
+            $(this).find('span').css('border-color', '#dddddd')
+        } else {
+            $(this).attr('data-hd', 'yes')
+            $('.y-' + id).show()
+            $(this).find('span').css('border-color', '#f29e38')
+        }
+    })
+
+    $('body').on('click', '.xx', function (d) {
+        var g = $(this).attr('data-hd')
+        var id = $(this).attr('data-id')
+        if (g == 'yes') {
+            $(this).attr('data-hd', 'no')
+            $('.x-' + id).hide()
+            $(this).find('span').css('border-color', '#dddddd')
+        } else {
+            $(this).attr('data-hd', 'yes')
+            $('.x-' + id).show()
+            $(this).find('span').css('border-color', '#f29e38')
+        }
+    })
+
+    $('body').on('click', '.zz', function (d) {
+        var g = $(this).attr('data-hd')
+        var id = $(this).attr('data-id')
+        if (g == 'yes') {
+            $(this).attr('data-hd', 'no')
+            $('.z-' + id).hide()
+            $(this).find('span').css('border-color', '#dddddd')
+        } else {
+            $(this).attr('data-hd', 'yes')
+            $('.z-' + id).show()
+            $(this).find('span').css('border-color', '#f29e38')
+        }
+    })
 
 })

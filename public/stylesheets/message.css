@@ -7,10 +7,42 @@ container {
 }
 
 .content {
-    padding: 20px 0px;
+    padding: 5px 0px;
     width: 100%;
     background-color: rgba(255, 255, 255, 1);
     min-height: 600px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+popbody {
+    overflow-y: scroll;
+    padding: 10px 12px 15px;
+    max-height: calc(90vh - 90px) !important
+}
+
+popdialog {
+    max-height: 90%;
+}
+
+popbody::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
+.scroller {
+    overflow-x: hidden !important;
 }
 
 ::-webkit-scrollbar-thumb:vertical {
@@ -18,19 +50,53 @@ container {
     border-radius: 4px;
 }
 
-.choose {
-    margin: 0
+schedule {
+    display: block;
+    width: calc((100% - 50px) / 5);
+    text-align: center;
+    padding: 10px 0px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
 }
 
-.curio {
-    border-radius: 5px;
-    padding: 18px;
-    margin-top: 21px;
-    width: calc(100% - 80px);
-    line-height: 2;
-    background-color: #27363E;
-    color: #dddddd;
-    position: relative;
+.a_w_r {
+    margin-top: 0;
+}
+
+.a_w_r schedule {
+    background-color: #27363e;
+    width: 60px;
+    border-radius: 9px;
+    border-width: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.a_w_r schedule.active {
+    background-color: #2545ba;
+}
+
+.a_w_r img {
+    width: 40px;
+}
+
+.area {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.rar {
+    margin-top: 0;
+}
+
+.rar schedule {
+    min-width: 60px;
+    font-size: 14px;
+    width: calc((100% - 60px) / 6)
 }
 
 .name {
@@ -40,49 +106,80 @@ container {
     font-size: 16px;
 }
 
-.icon {
-    height: 120px;
-    margin: auto;
-    display: block;
+.a_section {
+    width: 94.7%;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: #27363E;
+    color: #DDDDDD;
+    position: relative;
+    line-height: 2;
+    padding: 15px;
+    margin: 15px;
 }
 
-.desc {
+.event-name {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.event-sel {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.plus, .info {
+    margin: 10px;
+    padding: 0px 10px;
+    cursor: pointer;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    border: 2px solid #DDDDDD;
+    border-radius: 4px;
+}
+
+.e {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.f {
+    margin: 4px 11px 4px 0px;
+    display: inline-block;
     font-size: 14px;
 }
 
-.miracle_card_area {
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-    width: 100%;
+.w, .x, .y, .z {
+    margin-top: 6px;
+    margin-bottom: 6px;
 }
 
 @media screen and (min-width: 500px) and (max-width: 800px) {
-    .curio {
-        width: calc((100% - 140px) / 2);
+    .event-name {
+        font-size: 23px;
     }
-    .icon {
-        height: 140px;
-    }
-    .desc {
-        font-size: 15px;
-    }
-    .name {
+    .plus, .info {
         font-size: 17px;
+    }
+    .f {
+        font-size: 15px;
     }
 }
 
 @media screen and (min-width: 800px) {
-    .icon {
-        height: 160px;
+    .event-name {
+        font-size: 26px;
     }
-    .curio {
-        width: calc((100% - 200px) / 3);
-    }
-    .desc {
-        font-size: 16px;
-    }
-    .name {
+    .plus, .info {
         font-size: 18px;
+    }
+    .f {
+        font-size: 16px;
     }
 }

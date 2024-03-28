@@ -481,7 +481,7 @@ app.get('/sr/mission', async (req, res) => {
     res.render('mission', result);
 });
 
-app.get('/sr/message/', async (req, res) => {
+app.get('/sr/linecount/', async (req, res) => {
     let result = {};
     let { lang = '', id = '' } = req.query;
     result.lang = lang;
@@ -492,7 +492,7 @@ app.get('/sr/message/', async (req, res) => {
 });
 
 
-app.get('/sr/message', async (req, res) => {
+app.get('/sr/linecount', async (req, res) => {
     let result = {};
     let { lang = '', id = '' } = req.query;
     result.lang = lang;

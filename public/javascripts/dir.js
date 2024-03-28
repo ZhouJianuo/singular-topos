@@ -375,13 +375,13 @@ var SR = [
     },
     {
         "Title": {
-            "CH": "短信",
-            "EN": "Messages"
+            "CH": "台词数统计",
+            "EN": "Line Count"
         },
         "Features": [],
         "Href": {
-            "CH": "/sr/message",
-            "EN": "/sr/message"
+            "CH": "/sr/linecount",
+            "EN": "/sr/linecount"
         }
     },
     {
