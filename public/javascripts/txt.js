@@ -299,6 +299,11 @@ var txt = {
         "EN": "Upcoming Stuff",
         "RU": "Предстоящие"
     },
+    "HNotes": {
+        "CH": "妮可少女的研究",
+        "EN": "HomDGCat's Notes",
+        "RU": "HomDGCat"
+    },
     "Avatar_Head": [
         {
             "CH": "基本信息",

@@ -70,9 +70,14 @@ $(function () {
     function begin() {
         
         cl_show = 0 
-        if ($("#UPDATE").val() && $("#UPDATE").val() == 1) cl_show = 1
+        if ($("#UPDATE").val() && $("#UPDATE").val() == 1) {
+            cl_show = 1
+        }
         up_show = 0 
-        if ($("#UPDATE").val() && $("#UPDATE").val() == 2) up_show = 1
+        if ($("#UPDATE").val() && $("#UPDATE").val() == 2) {
+            up_show = 1
+        }
+        hn_show = 0
 
         $('container').render({
             template: {
@@ -84,38 +89,72 @@ $(function () {
                                 click: function (p) {
                                     cl_show = 1 - cl_show
                                     up_show = 0
+                                    hn_show = 0
                                     $('.up_all').hide()
+                                    $('.hn_all').hide()
                                     if (cl_show) {
-                                        $('.cl_all').show()
+                                        show_cl()
                                     } else {
-                                        $('.cl_all').hide()
+                                        hide_cl()
                                     }
                                 },
                                 style: {
                                     width: 'max-content',
                                     padding: '10px 20px',
                                     'font-weight': 'bold',
-                                    border: '2px solid #df903b'
-                                }
+                                    border: '2px solid #df903b',
+                                    'background-color': cl_show ? '#27363E' : '#fff',
+                                    'color': cl_show ? '#ddd' : '#000',
+                                },
+                                class: '__cl'
                             },
                             {
                                 schedule: txt.Upcoming[lang],
                                 click: function (p) {
                                     up_show = 1 - up_show
                                     cl_show = 0
+                                    hn_show = 0
                                     $('.cl_all').hide()
+                                    $('.hn_all').hide()
                                     if (up_show) {
-                                        $('.up_all').show()
+                                        show_up()
                                     } else {
-                                        $('.up_all').hide()
+                                        hide_up()
                                     }
                                 },
                                 style: {
                                     width: 'max-content',
                                     padding: '10px 20px',
                                     'font-weight': 'bold',
-                                    border: '2px solid #df903b'
-                                }
+                                    border: '2px solid #df903b',
+                                    'background-color': up_show ? '#27363E' : '#fff',
+                                    'color': up_show ? '#ddd' : '#000',
+                                },
+                                class: '__up'
+                            },
+                            {
+                                schedule: txt.HNotes[lang],
+                                click: function (p) {
+                                    hn_show = 1 - hn_show
+                                    cl_show = 0
+                                    up_show = 0
+                                    $('.up_all').hide()
+                                    $('.cl_all').hide()
+                                    if (hn_show) {
+                                        show_hn()
+                                    } else {
+                                        hide_hn()
+                                    }
+                                },
+                                style: {
+                                    width: 'max-content',
+                                    padding: '10px 20px',
+                                    'font-weight': 'bold',
+                                    border: '2px solid #df903b',
+                                    'background-color': hn_show ? '#27363E' : '#fff',
+                                    'color': hn_show ? '#ddd' : '#000',
+                                },
+                                class: '__hn'
                             },
                         ],
                         class: 'cl'
@@ -140,7 +179,7 @@ $(function () {
                         ],
                         class: 'cl_all',
                         style: {
-                            display: cl_show ? '' : 'none'
+                            display: cl_show ? '' : 'none',
                         }
                     },
                     {
@@ -156,6 +195,21 @@ $(function () {
                         class: 'up_all',
                         style: {
                             display: up_show ? '' : 'none'
+                        }
+                    },
+                    {
+                        div: [
+                            {
+                                div: [],
+                                class: 'hn_data',
+                                style: {
+                                    'margin-top': '-10px'
+                                }
+                            }
+                        ],
+                        class: 'hn_all',
+                        style: {
+                            display: hn_show ? '' : 'none'
                         }
                     },
                     {
@@ -232,11 +286,11 @@ $(function () {
             avid = avid.replaceAll("_", "").replaceAll("-", "").replaceAll(" ", "").replaceAll("'", "").replaceAll("·", "").toUpperCase()
             if (avid == "CHANGE" || avid == "UPDATE") {
                 cl_show = 1
-                $('.cl_all').show()
+                show_cl()
             }
             if (avid == "HIDDEN" || avid == "UPCOMING" || avid == "TEST") {
                 up_show = 1
-                $('.up_all').show()
+                show_up()
             }
             if (_search_avatar[avid] != undefined) {
                 popAvatar(_search_avatar[avid])
@@ -251,6 +305,7 @@ $(function () {
 
         renderCL($('.changelog select').val() || 0)
         renderUp()
+        renderHN()
     }
 
     function renderCL(v) {
@@ -392,6 +447,47 @@ $(function () {
                         style: {
                             'display': 'none'
                         }
+                    },
+                ],
+                class: 'a_section'
+            })
+        })
+    }
+
+    function renderHN() {
+        _changelog2.forEach(function (t) {
+            $('.hn_data').render({
+                div: [
+                    {
+                        div: [
+                            {
+                                img: imgpre + 'images/GCG_UI/Monster.png',
+                                class: 'head_left',
+                                when: t.Mon
+                            },
+                            {
+                                p: t.Name,
+                                style: {
+                                    color: t.Color ? ('#' + elemcolor[t.Color]) : ''
+                                },
+                                class: t.Mon ? 'head_right hr_1' : ''
+                            }
+                        ],
+                        class: 'a_section_head head_withimg'
+                    },
+                    {
+                        div: {
+                            ul: {
+                                li: function (k) {
+                                    return k.data.replaceAll("``", "<color style='color:#f29d38'>").replaceAll("`", "</color> ")
+                                },
+                                data: t.Notes,
+                                style: {
+                                    'margin-top': '10px'
+                                }
+                            },
+                        },
+                        class: 'a_section_content'
                     },
                 ],
                 class: 'a_section'
@@ -908,13 +1004,8 @@ $(function () {
                                     when: this_avatar.Rarity == 4
                                 },
                                 {
-                                    img: no_skillicon.includes(this_avatar._id) ? (imgpre + 'images/avatardrawcard/999.png') : (imgpre + 'images/' + this_avatar.Pic),
+                                    div: [],
                                     class: 'gacha',
-                                    event: {
-                                        error: function (d) {
-                                            $(d.sender).remove()
-                                        }
-                                    }
                                 },
                                 {
                                     div: [
@@ -1315,6 +1406,22 @@ $(function () {
                     class: 'a_section'
                 },
             ])
+            var fu = setInterval(function () {
+                if (loaded.includes(this_avatar._id)) {
+                    $('.gacha').render({
+                        img: no_skillicon.includes(this_avatar._id) ? (imgpre + 'images/avatardrawcard/999.png') : (imgpre + 'images/' + this_avatar.Pic),
+                        event: {
+                            error: function (d) {
+                                $(d.sender).remove()
+                            }
+                        },
+                        style: {
+                            width: '100%'
+                        }
+                    })
+                    clearInterval(fu)
+                }
+            }, 200)
         }
         if (i == 2) {
             $('.mon_body').render([
@@ -2409,5 +2516,53 @@ $(function () {
     $('body').on('click', '.title', function () {
         $('.area').show()
     })
+
+    function show_cl() {
+        $('.cl_all').show()
+        $('.__cl').css('background-color', '#27363E')
+        $('.__cl').css('color', '#ddd')
+        $('.__up').css('background-color', '#fff')
+        $('.__up').css('color', '#000')
+        $('.__hn').css('background-color', '#fff')
+        $('.__hn').css('color', '#000')
+    }
+
+    function hide_cl() {
+        $('.cl_all').hide()
+        $('.__cl').css('background-color', '#fff')
+        $('.__cl').css('color', '#000')
+    }
+
+    function show_up() {
+        $('.up_all').show()
+        $('.__up').css('background-color', '#27363E')
+        $('.__up').css('color', '#ddd')
+        $('.__cl').css('background-color', '#fff')
+        $('.__cl').css('color', '#000')
+        $('.__hn').css('background-color', '#fff')
+        $('.__hn').css('color', '#000')
+    }
+
+    function hide_up() {
+        $('.up_all').hide()
+        $('.__up').css('background-color', '#fff')
+        $('.__up').css('color', '#000')
+    }
+
+    function show_hn() {
+        $('.hn_all').show()
+        $('.__hn').css('background-color', '#27363E')
+        $('.__hn').css('color', '#ddd')
+        $('.__up').css('background-color', '#fff')
+        $('.__up').css('color', '#000')
+        $('.__cl').css('background-color', '#fff')
+        $('.__cl').css('color', '#000')
+    }
+
+    function hide_hn() {
+        $('.hn_all').hide()
+        $('.__hn').css('background-color', '#fff')
+        $('.__hn').css('color', '#000')
+    }
 
 })

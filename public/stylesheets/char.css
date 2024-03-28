@@ -482,6 +482,9 @@ schedule {
 .up_data div {
     margin: 15px 0;
 }
+.hn_data div {
+    margin: 15px 0;
+}
 
 .cl_all .a_section div {
     margin: 15px;
@@ -489,8 +492,11 @@ schedule {
 .up_all .a_section div {
     margin: 15px;
 }
+.hn_all .a_section div {
+    margin: 15px;
+}
 
-.cl_data, .up_data {
+.cl_data, .up_data, .hn_data {
     justify-content: space-evenly;
     display: flex;
     flex-wrap: wrap;
@@ -516,6 +522,10 @@ schedule {
     padding-inline-start: 0px;
 }
 .up_data ul, .up_data ol, .up_data li {
+    list-style-type: none;
+    padding-inline-start: 0px;
+}
+.hn_data ul, .hn_data ol, .hn_data li {
     list-style-type: none;
     padding-inline-start: 0px;
 }

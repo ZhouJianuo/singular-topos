@@ -3831,6 +3831,24 @@ var _changelog = [
     }
 ]
 
+var _changelog2 = [
+    {
+        "Name": "Trailblazer",
+        "Color": "Imaginary",
+        "Notes": [
+            "Trace #1 Dance With the One's DMG increase is an <b>independent multiplier</b>.",
+            "How is Ultimate's Break DMG calculated?<br>This DMG is <b>very different</b> from the ordinary Break DMG triggered when breaking an enemy's Weakness. This DMG is:<br><b>``(Break Base DMG) * (Attack's Toughness DMG) * (1 + Break Effect) * (Trace #1 Boost)`</b><br>Ordinary Break DMG does not concern the attack's Toughness DMG, but concerns the enemy's Max Toughness. This DMG does not concern the enemy's Max Toughness, but is in proportion with the attack's Toughness DMG.<br>In the formula, Toughness DMG's unit is 1, not 30. Break Base DMG is only related to character level."
+        ]
+    },
+    {
+        "Name": "Boothill",
+        "Color": "Phys",
+        "Notes": [
+            "How is Talent's extra Break DMG calculated?<br>Physical Break DMG is:<br><b>``(Break Base DMG) * (1 + Enemy Toughness / 2) * (1 + Break Effect)`</b><br>Boothill's Physical Break DMG is based on this value. The Talent's extra Break DMG is usually (at Lv10) 56% of this Break DMG, except that the Enemy Toughness in the above formula cannot exceed 16 times the Toughness DMG of Basic ATK. So for enemies with very high Toughness, Talent's Break DMG can be lower than 56% of Boothill's Physical Break DMG."
+        ]
+    }
+]
+
 var _hidden = [
     {
         "Name": "2.3 Memory of Chaos",
@@ -4034,189 +4052,6 @@ var _hidden = [
             {
                 "Title": "Technique",
                 "Desc": "When Jade enters the overworld, will summon an following entity. This entity will inflict Blind to nearby enemies. Blinded enemies cannot detect your team.<br>Upon using this technique, Jade will shoot a bullet at an enemy. If the bullet hit an enemy with Blind, will apply an effect to Jade and another effect to all enemies after entering battle."
-            }
-        ]
-    },
-    {
-        "Name": "Boothill",
-        "Date": "2024/03/24",
-        "Ver": "2.0v5",
-        "Color": "Phys",
-        "Notes": [
-            {
-                "Title": "Basic ATK",
-                "Desc": "Deals Physical DMG to a single target."
-            },
-            {
-                "Title": "Ehhanced Basic ATK",
-                "Desc": "Performs a Six-Shot, dealing Physical DMG to a single target. Every stack of Reforged will increase Toughness DMG by 100%.<br>If Boothill has [???] , for every stack of [???] , Boothill will deal 1 instance of Break DMG to the target, equal to a percentage of Boothill's Physical Break DMG. Every instance has the same Toughness DMG as the Six-Shot, max 3 instances."
-            },
-            {
-                "Title": "Skill",
-                "Desc": "Selects a single target and applies a Duel Mark. Boothill enters the duel state, converting Basic ATK is to Enhanced Basic ATK, lasting for some turns. Then, Boothill takes a special action.<br>During the duel, Boothill can only select the Duel Mark target, and recieves increased DMG from the Duel Mark target. The Duel Mark target can only select Boothill while attacking, and receives increased DMG from Boothill.<br>The duel state's remaining duration decreases by 1 at the start of Boothill's turn. When Boothill exits the duel state, Duel Mark also disappears.<br>At the start of Boothill's turn, if there are no targets with Duel Mark, Boothill will exit the duel state."
-            },
-            {
-                "Title": "Ultimate",
-                "Desc": "Inserts a Physical Weakness to a single target, lasting for some turns. Then, deals Physical DMG to this target and delays this target's action by a percentage of Boothill's Break Effect plus a fixed amount."
-            },
-            {
-                "Title": "Talent",
-                "Desc": "When the Duel Mark target is defeated by any entity, Boothill will exit the duel state and gain 1 stack of Reforged.<br>Reforged: Increases Break effect, stackable, has upper limit, lasts permanently."
-            },
-            {
-                "Title": "Technique",
-                "Desc": "Upon entering battle, deals Physical DMG to the target with lowest HP. This DMG is considered Basic ATK DMG.<br>If this defeated the target, Boothill will gain 1 stack of Reforged.<br>After finishing the battle, gains an unknown effect."
-            },
-            {
-                "Title": "Trace #1",
-                "Desc": "Increases Crit DMG based on a percentage of Break Effect."
-            },
-            {
-                "Title": "Trace #2",
-                "Desc": "Boothill takes reduced DMG from targets without Duel Mark."
-            },
-            {
-                "Title": "Trace #3",
-                "Desc": "When the Duel Mark target is Weakness Broken, if it is Elite or higher, it will lose its Duel Mark. Boothill will exit Duel state and gain a certain number of Reforged stacks."
-            },
-            {
-                "Title": "Eidolon #1",
-                "Desc": "Upon entering combat, gains 1 stack of Reforged.<br>Every stack of Reforged will also increase ATK."
-            },
-            {
-                "Title": "Eidolon #2",
-                "Desc": "When an enemy is defeated or Weakness Broken by any entity, Boothill's action is advanced.<br>This effect can be triggered at most a certain number of times every turn. The count resets at the end of every Boothill's turn."
-            },
-            {
-                "Title": "Eidolon #4",
-                "Desc": "After casting Skill, gains Protection. When the Duel Mark target attacks Boothill, Boothill will consume Protection to reduce the DMG of this attack and regenerate some Energy.<br>If Protection is still not used when Boothill exits duel state, will consume Protection and regenerate the same amount of Energy."
-            },
-            {
-                "Title": "Eidolon #6",
-                "Desc": "Before performing an attack, if the target has Physical Weakness, will increase this attack's DMG and Weakness Break Efficiency."
-            }
-        ]
-    },
-    {
-        "Name": "Robin",
-        "Date": "2024/03/20",
-        "Ver": "2.0 Live",
-        "Color": "Phys",
-        "Notes": [
-            {
-                "Title": "Basic ATK",
-                "Desc": "Deals Physical DMG to a single target. This is considered as Skill DMG and not Basic ATK DMG."
-            },
-            {
-                "Title": "Skill",
-                "Desc": "Robin enters the Performance state. At the start of Robin's turn, the Performance state's remaining duration decreases by 1.<br>During Performance, all allies' ATK is increased by a percentage."
-            },
-            {
-                "Title": "Ultimate",
-                "Desc": "Robin's exclusive music starts playing, replacing the battle BGM for a short while. Robin leaves the stage, creates a Singer Aura that increases all other allies' DMG dealt, adds a Singer to the action bar, and causes all allies to take action immediately.<br>While Singer Aura is active, Robin cannot take action and is immune to Crowd Control debuffs.<br>The Singer will take action only once, removing Singer Aura and causing Robin to take action immediately."
-            },
-            {
-                "Title": "Talent",
-                "Desc": "All allies' Crit DMG is increased by a percentage of Robin's Crit DMG plus a fixed amount. This buff cannot undergo secondary conversion.<br>Every time an ally uses any ability, Robin gains a Note. Once Robin has a certain amount of Notes, she consumes all Notes and regenerates an amount of energy."
-            },
-            {
-                "Title": "Technique",
-                "Desc": "Summon a bird which disappears after a short period of time. All enemies nearby will receive a \"Charmed\" effect."
-            },
-            {
-                "Title": "Trace #1",
-                "Desc": "Upon entering battle, all allies' SPD is increased by a percentage for some turns."
-            },
-            {
-                "Title": "Trace #2",
-                "Desc": "While Singer Aura is active, Robin's chance of being attacked is reduced."
-            },
-            {
-                "Title": "Trace #3",
-                "Desc": "When Robin's current HP falls below a certain percentage, Robin regenerates a percentage of her Max HP."
-            },
-            {
-                "Title": "Eidolon #1",
-                "Desc": "While Singer Aura is active, allies gain 1 stack of Boost for themselves before using any ability, increasing ATK and SPD. At the beginning of an ally's turn, they lose 1 stack of Boost."
-            },
-            {
-                "Title": "Eidolon #2",
-                "Desc": "The ATK increase of Skill's Performance effect is boosted. Performance's duration is increased."
-            },
-            {
-                "Title": "Eidolon #4",
-                "Desc": "The amount of energy regenerated by Robin's Talent is increased."
-            },
-            {
-                "Title": "Eidolon #6",
-                "Desc": "Singer Aura's DMG increase effect is boosted.<br>When casting Ultimate, removes all allies' all debuffs.<br>While Singer Aura is active, all allies are immune to debuffs, Crowd Control debuffs and DoTs."
-            }
-        ]
-    },
-    {
-        "Name": "2.2 Memory of Chaos",
-        "Date": "2024/03/22",
-        "Ver": "2.1v4",
-        "Notes": [
-            {
-                "Title": "Phase 1",
-                "Desc": "At the start of every wave or cycle, all allies reset to ``6` stacks of Memory Imprint.<br>When an ally unleashes an attack, all allies consume 1 stack of Memory Imprint to increase the DMG dealt by this attack by ``50%`.<br>When all stacks of Memory Imprint are consumed, regenerate ``50%` energy for all allies. The regeneration of this effect can exceed the energy cap."
-            },
-            {
-                "Title": "Phase 2",
-                "Desc": "At the start of every wave of cycle, summon a Trotter onto the field.<br>When an ally triggers Weakness Broken on the Trotter, the Trotter will die immediately and advance this character's action by ``100%`. Also, all allies will gain 1 stack of Memory Imprint, increasing ATK and Break Effect by ``30%`, lasting forever, max 4 stacks."
-            }
-        ]
-    },
-    {
-        "Name": "Sunday",
-        "Date": "2024/03/22",
-        "Ver": "2.0v5",
-        "Color": "Ice",
-        "Notes": [
-            {
-                "Title": "Skill #1",
-                "Desc": "Deals Ice DMG to a single target."
-            },
-            {
-                "Title": "Skill #2",
-                "Desc": "Deals Ice DMG to all targets."
-            },
-            {
-                "Title": "Skill #3",
-                "Desc": "Has a chance to inflict ``Sleep` on a random target, lasting for some turns.<br>During Sleep, the target is unable to take action, and DMG taken is increased by ``100%`. After being attacked, dispels Sleep."
-            },
-            {
-                "Title": "Skill #4",
-                "Desc": "Dispels all debuffs on all summons, and enters the ``Chanting` state."
-            },
-            {
-                "Title": "Skill #5",
-                "Desc": "Commands all summons to deal Ice DMG to a single target, and dispels all debuffs on all summons."
-            },
-            {
-                "Title": "Skill #6",
-                "Desc": "Exits the ``Chanting` state, deals great Ice DMG to all targets, and commands all summons to deal Ice DMG to all targets."
-            },
-            {
-                "Title": "Skill #7",
-                "Desc": "Applies a Shield on himself based on a percentage of his Max HP. The Shield blocks all DMG, disables all Weaknesses and increases Imaginary RES."
-            },
-            {
-                "Title": "Skill #8",
-                "Desc": "Enters the ``Everlasting Harmony` state, which increases SPD and grants ``7` Countdown of the Finale.<br>When casting any other skill, Countdown decreases by 1.<br>When Countdown reaches ``6`, enters Phase 3 Second Form, increasing DMG dealt.<br>When Countdown reaches ``4`, enters Phase 3 Final Form, further increasing DMG dealt."
-            },
-            {
-                "Title": "The Finale",
-                "Desc": "Exits the ``Everlasting Harmony` state, deals massive Ice DMG to all targets, and resets to Phase 3 Primary Form."
-            },
-            {
-                "Title": "Passive #1",
-                "Desc": "After every ``11` instances of Toughness DMG recieved, applies some stacks of Barrier to all of our characters, which nullifies all DMG received except DoTs."
-            },
-            {
-                "Title": "Passive #2",
-                "Desc": "Sunday has 4 summons. The summons do not take any DMG. When they are attacked, all DMG they receive will be taken by Sunday."
             }
         ]
     }
