@@ -100,7 +100,10 @@ var _avatar = [
         ],
         "Camp": 0,
         "ISN": "",
-        "ISD": ""
+        "ISD": "",
+        "Data": [
+            "How is Talent's extra Break DMG calculated?<br>Physical Break DMG is:<br><b>``(Break Base DMG) * (1 + Enemy Toughness / 2) * (1 + Break Effect)`</b><br>Boothill's Physical Break DMG is based on this value. The Talent's extra Break DMG is usually (at Lv10) 56% of this Break DMG, except that the Enemy Toughness in the above formula cannot exceed 16 times the Toughness DMG of Basic ATK. So for enemies with very high Toughness, Talent's Break DMG can be lower than 56% of Boothill's Physical Break DMG."
+        ]
     },
     {
         "_id": 8005,
@@ -150,7 +153,11 @@ var _avatar = [
         ],
         "Camp": 100,
         "ISN": "",
-        "ISD": ""
+        "ISD": "",
+        "Data": [
+            "Trace #1 Dance With the One's DMG increase is an <b>independent multiplier</b>.",
+            "How is Ultimate's Break DMG calculated?<br>This DMG is <b>very different</b> from the ordinary Break DMG triggered when breaking an enemy's Weakness. This DMG is:<br><b>``(Break Base DMG) * (Attack's Toughness DMG) * (1 + Break Effect) * (Trace #1 Boost)`</b><br>Ordinary Break DMG does not concern the attack's Toughness DMG, but concerns the enemy's Max Toughness. This DMG does not concern the enemy's Max Toughness, but is in proportion with the attack's Toughness DMG.<br>In the formula, Toughness DMG's unit is 1, not 30. Break Base DMG is only related to character level."
+        ]
     },
     {
         "_id": 8006,
@@ -200,7 +207,11 @@ var _avatar = [
         ],
         "Camp": 100,
         "ISN": "",
-        "ISD": ""
+        "ISD": "",
+        "Data": [
+            "Trace #1 Dance With the One's DMG increase is an <b>independent multiplier</b>.",
+            "How is Ultimate's Break DMG calculated?<br>This DMG is <b>very different</b> from the ordinary Break DMG triggered when breaking an enemy's Weakness. This DMG is:<br><b>``(Break Base DMG) * (Attack's Toughness DMG) * (1 + Break Effect) * (Trace #1 Boost)`</b><br>Ordinary Break DMG does not concern the attack's Toughness DMG, but concerns the enemy's Max Toughness. This DMG does not concern the enemy's Max Toughness, but is in proportion with the attack's Toughness DMG.<br>In the formula, Toughness DMG's unit is 1, not 30. Break Base DMG is only related to character level."
+        ]
     },
     {
         "_id": 1301,
