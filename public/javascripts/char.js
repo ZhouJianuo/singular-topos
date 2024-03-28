@@ -2089,7 +2089,7 @@ $(function () {
                     },
                     {
                         div: {
-                            p: `[[.]]`,
+                            p: `[[.]]`.replaceAll("``", "<color style='color:#f29d38'>").replaceAll("`", "</color> "),
                             data: this_avatar.Data
                         },
                         class: 'a_section_content'
